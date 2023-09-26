@@ -1,0 +1,27 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<div class="hero"></div>
+			<h1>Start coding today.</h1>
+			<p>
+				We need your code to help solving today's problems with
+				tomorrow's technology, sustainable business models and providing
+				essential community services and foundations to the future
+				generations.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
