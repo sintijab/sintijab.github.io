@@ -11,7 +11,7 @@
 </script>
 
   {#if media_type === 'image' && !rounded}
-    <img class={`media ${fullWidth ? 'img-fullWidth' : ''}`} src={url} alt={alt} width={width} height={height}/>
+    <img class={`media ${fullWidth ? 'img-fullWidth' : ''}`} src={url} alt={alt} width={width} height={height} />
   {:else if rounded}
     <img class="clip-rounded" width={width} height={height} src={url} alt={alt} />
   {:else}
