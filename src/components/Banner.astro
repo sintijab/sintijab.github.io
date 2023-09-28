@@ -1,0 +1,112 @@
+---
+import Grid from './Grid.astro';
+import GridItem from './GridItem.astro';
+import Image from './Image.svelte';
+
+interface Props {
+	title: string;
+	alt: string;
+	url?: string;
+}
+
+const { title = 'title', alt='alt', url = '/blog-placeholder-6.jpg' } = Astro.props;
+---
+<div>
+  <div class="wave entry-content">
+    <span class="overlay" />
+    <div class="overlay-text">
+      <div class="overlay-text overlay-text-0"></div>
+      <Grid>
+        <GridItem>
+          <h1 class="title">Start coding today</h1>,
+        </GridItem>
+        <GridItem>
+          <p class="description">
+            We need your code to help solving today's problems with
+            tomorrow's technology, sustainable business models and providing
+            essential community services and foundations to the future
+            generations.
+          </p>
+        </GridItem>
+      </Grid>
+      <div class="overlay-text overlay-text-1"></div>
+    </div>
+  <Image
+    title={title}
+    url={url}
+    alt={alt}
+    media_type="image"
+    fullWidth=true
+    width=3400
+    height=1455
+  />
+</div>
+</div>
+<style>
+	.wave {
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg width="250" height="248" xmlns="http://www.w3.org/2000/svg"><path d="M250 220.092145s-12.873712-8.581631-26.547345-11.208661c-13.673633-2.62703-19.948005-2.014057-25.847415-1.094596-14.723528 2.276759-29.197081 7.662171-48.145186 21.760565-7.399261 5.341628-19.223078 13.485421-25.122488 15.630829-5.999399 2.145408-13.223677 3.415139-18.873112 2.320543-2.574743-.437838-5.6494355-.612974-12.4487556-3.371355-6.8743126-2.62703-14.6235377-7.049197-19.9230076-10.595688-10.2989701-6.874062-23.6976303-9.501092-33.4966504-9.807579C17.9982002 222.806743 0 237.080273 0 237.080273V0h250z"/></svg>');
+    mask-image: url('data:image/svg+xml;utf8,<svg width="250" height="248" xmlns="http://www.w3.org/2000/svg"><path d="M250 220.092145s-12.873712-8.581631-26.547345-11.208661c-13.673633-2.62703-19.948005-2.014057-25.847415-1.094596-14.723528 2.276759-29.197081 7.662171-48.145186 21.760565-7.399261 5.341628-19.223078 13.485421-25.122488 15.630829-5.999399 2.145408-13.223677 3.415139-18.873112 2.320543-2.574743-.437838-5.6494355-.612974-12.4487556-3.371355-6.8743126-2.62703-14.6235377-7.049197-19.9230076-10.595688-10.2989701-6.874062-23.6976303-9.501092-33.4966504-9.807579C17.9982002 222.806743 0 237.080273 0 237.080273V0h250z"/></svg>');
+    -webkit-mask-position: bottom;
+    mask-position: bottom;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
+    mask-size: cover;
+  }
+
+  .entry-content {
+    margin: 0;
+    max-width: none;
+    min-height: 430px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    display: flex;
+    overflow-x: clip;
+    overflow-y: clip;
+    position: relative;
+    display: flex;
+    line-height: 32px;
+  }
+  .overlay {
+    bottom: 0;
+    left: 0;
+    opacity: .5;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    background: #000;
+  }
+  .overlay-text {
+    width: calc(100% - 64px);
+    margin: 32px auto;
+    z-index: 1;
+  }
+  .overlay-text-0 {
+    height: 60px;
+  }
+  .overlay-text-1 {
+    height: 120px;
+  }
+	h2 {
+		margin: 0;
+		font-size: 1em;
+	}
+  .title {
+    color:#fff;
+    font-size: 53px;
+  }
+  .description {
+    font-family: 'Raleway', 'Poppins', sans-serif;
+    font-size: 24px;
+    color:#fff;
+  }
+
+	@media (max-width: 720px) {
+		.social-links {
+			display: none;
+		}
+	}
+</style>

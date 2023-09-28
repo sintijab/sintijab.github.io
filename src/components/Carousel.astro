@@ -1,0 +1,53 @@
+---
+// Import the global.css file here so that it is included on
+// all pages through the use of the <BaseHead /> component.
+import '../styles/carousel.css';
+
+// interface Props {
+// 	title: string;
+// 	description: string;
+// 	image?: string;
+// }
+
+// const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+// const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
+---
+
+
+<div id="homepage-slider" class="st-slider">
+
+  <input type="radio" class="cs_anchor radio" name="slider" id="slide1"/>
+  <input type="radio" class="cs_anchor radio" name="slider" id="slide2"/>
+  <input type="radio" class="cs_anchor radio" name="slider" id="slide3"/>
+  <input type="radio" class="cs_anchor radio" name="slider" id="play1" checked=""/>
+
+  <div class="images">
+     <div class="images-inner">
+      <div class="image-slide">
+        <div class="image bg-yellow">
+          image slide 1
+          <img src="https://images.prismic.io/syntia/ccd87d0c-8792-40b9-926b-0432bb92cae3_cover.webp?auto=compress,format" alt="img" />
+        </div>
+      </div>
+      <div class="image-slide">
+        <div class="image bg-blue" style="background-color:pink;">imager slide 2</div>
+      </div>
+      <div class="image-slide">
+        <div class="image bg-red" style="background-color:orange;">image slide 3</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="labels">
+      <label for="slide1" class="label">text slide 1</label>
+      <label for="slide2" class="label">text slide 2</label>
+      <label for="slide3" class="label">text slide 3</label>
+    
+      <div class="fake-radio">
+        <label for="slide1" class="radio-btn"></label>
+        <label for="slide2" class="radio-btn"></label>
+        <label for="slide3" class="radio-btn"></label>
+      </div>
+  </div>
+</div>

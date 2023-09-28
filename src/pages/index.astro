@@ -1,0 +1,83 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import Banner from "../components/Banner.astro";
+import Grid from "../components/Grid.astro";
+import GridItem from "../components/GridItem.astro";
+import Image from '../components/Image.svelte';
+import FooterBanner from "../components/FooterBanner.astro";
+import Carousel from "../components/Carousel.astro";
+
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.description {
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-size: 20px;
+			}
+			.intro-text,
+			.intro-img {
+				grid-column-start: 1;
+				grid-column-end: span 4;
+			}
+			@media (min-width: 600px) {
+				.about {
+					align-items: center;
+					margin: 0;
+					margin-top: -1rem;
+				}
+				.intro-text {
+					grid-column-start: 1;
+					grid-column-end: span 5;
+				}
+				.intro-img {
+					grid-column-start: 6;
+					grid-column-end: span 3;
+				}
+			}
+			@media (min-width: 1080px) {
+				.intro-text {
+					grid-column-start: 2;
+					grid-column-end: span 6;
+				}
+				.intro-img {
+					grid-column-start: 9;
+					grid-column-end: span 3;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<Banner url="https://images.prismic.io/syntia/ccd87d0c-8792-40b9-926b-0432bb92cae3_cover.webp?auto=compress,format" title="intro" alt="intro"/>
+		<Carousel />
+		<main>
+			<Grid class="about">
+				<GridItem class="intro-text">
+					<p class="description">
+						“I am software engineer interested in web technologies, result-oriented solutions, preserving knowledge and expertise within the tech community to the fellow developers.”
+					</p>
+				</GridItem>
+				<GridItem class="intro-img">
+				<Image
+					title={'profile'}
+					url={'https://images.prismic.io/syntia/ab96243b-b5e7-418c-baaa-bcd8065cb0ce_profile.jpg?auto=compress,format'}
+					alt={'profile'}
+					media_type="image"
+					width=300
+					height=auto
+					rounded="true"
+				/>
+			</GridItem>
+		</Grid>
+		</main>
+		<FooterBanner url="https://images.prismic.io/syntia/33f0f828-ca31-41c8-a572-7da3291b674e_profile-code.webp?auto=compress,format" title="intro" alt="intro"/>
+		<Footer />
+	</body>
+</html>

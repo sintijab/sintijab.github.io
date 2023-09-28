@@ -1,0 +1,28 @@
+---
+import type { HTMLAttributes } from "astro/types";
+
+type Props = HTMLAttributes<"div" | "p" | "span">;
+
+const { class: className, ...props } = Astro.props;
+---
+<div class:list={[className, "grid-items"]} {...props}>
+  <slot />
+</div>
+<style>
+  .grid-items {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  @media (min-width: 600px) {
+    .grid-items {
+      grid-column-start: 1;
+      grid-column-end: 8;
+    }
+  }
+  @media (min-width: 1080px) {
+    .grid-items {
+      grid-column-start: 2;
+      grid-column-end: 8;
+    }
+  }
+</style>
