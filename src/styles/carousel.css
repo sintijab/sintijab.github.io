@@ -28,7 +28,10 @@
   transition: all 0.5s ease-out;
 }
 .fake-radio {
-  float: right;
+  line-height: 1;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
 }
 
 /* Move slides overflowed container */
@@ -46,15 +49,15 @@
 #slide1:checked ~ div .fake-radio .radio-btn:nth-child(1),
 #slide2:checked ~ div .fake-radio .radio-btn:nth-child(2),
 #slide3:checked ~ div .fake-radio .radio-btn:nth-child(3) {
-  background: red;
+  background: rgba(2,126,251,1);
 }
 .radio-btn {
-  width: 9px;
-  height: 9px;
-  border-radius: 5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 25px;
   background: gray;
   display: inline-block !important;
-  margin: 0 1px;
+  margin: 0 2px;
   cursor: pointer;
 }
 
@@ -73,7 +76,7 @@
 /* Calculate autoplay for bullets */
 @keyframes bullet {
   0%, 33.32333333333334%	{
-    background: red;
+    background: rgba(2,126,251,1)
   }
   33.333333333333336%, 100% {
     background: gray;
@@ -125,4 +128,162 @@
   animation: caption 12300ms infinite 7200ms;	
 }
 
+.carousel-wrapper {
+  display: block;
+  max-width: auto;
+}
 
+.carousel-overlay {
+  margin: 0;
+  width: 100%;
+}
+
+.images-layout {
+  display: flex;
+}
+
+.grid-item-right,
+.grid-item-left {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  z-index: 1;
+}
+@media (min-width: 600px) {
+  .grid-item-right,
+  .grid-item-left {
+    grid-column-start: 1;
+    grid-column-end: 8;
+  }
+}
+@media (min-width: 1080px) {
+  .grid-item-right {
+    grid-column-start: 8;
+    grid-column-end: 12;
+  }
+  .grid-item-left {
+    grid-column-start: 2;
+    grid-column-end: 6;
+  }
+}
+
+button {
+  margin: 20px 0 0;
+  display: flex;
+}
+.btn-right {
+  justify-content: right;
+}
+.custom-btn {
+  display: flex;
+  width: 130px;
+  height: 68px;
+  color: #fff;
+  border-radius: 100px;
+  padding: 8px 30px;
+  font-family: 'Raleway', 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+   box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  outline: none;
+}
+
+.btn-3 {
+  width: 160px;
+  height: 60px;
+  line-height: 42px;
+  padding: 0;
+  border: none;
+  z-index: 1;
+}
+.btn-3 span {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.btn-3:before,
+.btn-3:after {
+  position: absolute;
+  content: "";
+  right: 0;
+  top: 0;
+  transition: all 0.3s ease;
+}
+.btn-3:before {
+  height: 0%;
+  width: 2px;
+}
+.btn-3:after {
+  width: 0%;
+  height: 2px;
+}
+.btn-3:hover{
+  background: transparent;
+  box-shadow: none;
+}
+.btn-3:hover:before {
+  height: 100%;
+}
+.btn-3:hover:after {
+  width: 100%;
+}
+.btn-3 span:before,
+.btn-3 span:after {
+  position: absolute;
+  content: "";
+  left: 0;
+  bottom: 0;
+  transition: all 0.3s ease;
+  border-radius: 25px;
+}
+.btn-3 span:before {
+  width: 2px;
+  height: 0%;
+}
+.btn-3 span:after {
+  width: 0%;
+  height: 2px;
+}
+.btn-3 span:hover:before {
+  height: 100%;
+}
+.btn-3 span:hover:after {
+  width: 100%;
+}
+
+.btn-blue {
+  background: rgba(2,126,251,1);
+}
+
+.btn-blue-gradient {
+  background: linear-gradient(0deg, rgba(14, 171, 244, 0.982) 0%, rgb(46 118 191) 100%);
+}
+
+.btn-purple {
+  /* background: linear-gradient(0deg, rgb(245 131 22 / 98%) 0%, rgb(199 73 2) 100%); */
+  background: linear-gradient(0deg, rgb(234 16 240 / 97%) 0%, rgb(138 3 157) 100%);
+}
+
+.btn-purple span:hover{
+  color: rgb(234 16 240);
+  border-color: rgb(234 16 240);
+}
+
+.btn-purple:before,
+.btn-purple:after {
+  color: rgb(234 16 240);
+  background: rgb(234 16 240);
+}
+
+.btn-purple span:before,
+.btn-purple span:after {
+  background: rgb(234 16 240);
+}

@@ -1,6 +1,10 @@
 ---
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
+import Grid from './Grid.astro';
+import GridItem from './GridItem.astro';
+import Image from './Image.svelte';
+import '../styles/banner.css';
 import '../styles/carousel.css';
 
 // interface Props {
@@ -21,29 +25,91 @@ import '../styles/carousel.css';
   <input type="radio" class="cs_anchor radio" name="slider" id="slide2"/>
   <input type="radio" class="cs_anchor radio" name="slider" id="slide3"/>
   <input type="radio" class="cs_anchor radio" name="slider" id="play1" checked=""/>
-
   <div class="images">
+    <div class="wave entry-content carousel-wrapper">
      <div class="images-inner">
-      <div class="image-slide">
-        <div class="image bg-yellow">
-          image slide 1
-          <img src="https://images.prismic.io/syntia/ccd87d0c-8792-40b9-926b-0432bb92cae3_cover.webp?auto=compress,format" alt="img" />
-        </div>
+      <div class="images-layout">
+        <span class="overlay" />
+        <div class="carousel-overlay">
+        <div class="image-slide">
+          <Image
+            title={'profile'}
+            url={'https://images.prismic.io/syntia/ccd87d0c-8792-40b9-926b-0432bb92cae3_cover.webp?auto=compress,format'}
+            alt={'profile'}
+            media_type="image"
+          />
+          <div class="overlay-text overlay-text-0"></div>
+          <Grid>
+            <GridItem class="grid-items">
+              <h1 class="title-h1">Start coding today</h1>,
+            </GridItem>
+            <GridItem class="grid-items">
+              <p class="description">
+                We need your code to help solving today's problems with
+                tomorrow's technology, sustainable business models and providing
+                essential community services and foundations to the future
+                generations.
+              </p>
+            </GridItem>
+            <GridItem class="grid-items">
+              <button class="custom-btn btn-3 btn-purple"><span>Start now</span></button>
+            </GridItem>
+          </Grid>
+          <div class="overlay-text overlay-text-1"></div>
       </div>
       <div class="image-slide">
-        <div class="image bg-blue" style="background-color:pink;">imager slide 2</div>
+        <Image
+          title={'profile'}
+          url={'https://images.prismic.io/syntia/9a12209c-00f1-4765-aeb8-d8db8b685472_img_20230727_155058.webp?auto=compress,format'}
+          alt={'profile'}
+          media_type="image"
+        />
+        <div class="overlay-text overlay-text-0"></div>
+        <Grid class="card-overlay">
+          <GridItem class="grid-item-right">
+            <h2 class="title-h2">Work Agile at We Are Devs World Congress</h2>
+          </GridItem>
+          <GridItem class="grid-item-right">
+            <p class="description">
+              Principle from beginner to advanced levels No. 1- problems with practical examples in code must be solved in 1h...
+            </p>
+          </GridItem>
+          <GridItem class="grid-item-right">
+            <button class="custom-btn btn-3 btn-purple"><span>Read more</span></button>
+          </GridItem>
+        </Grid>
+        <div class="overlay-text overlay-text-1"></div>
       </div>
       <div class="image-slide">
-        <div class="image bg-red" style="background-color:orange;">image slide 3</div>
+        <Image
+          title={'profile'}
+          url={'https://images.prismic.io/syntia/82136aae-f38c-4761-b72c-f00bd6e05c11_IMG_20230726_145108.jpg?auto=compress,format'}
+          alt={'profile'}
+          media_type="image"
+        />
+        <div class="overlay-text overlay-text-0"></div>
+        <Grid class="card-overlay">
+          <GridItem class="grid-item-left">
+            <h2 class="title-h2">Open perspective at flagship of events</h2>
+          </GridItem>
+          <GridItem class="grid-item-left">
+            <p class="description">
+              From the latest advancements in Web I have discovered tools that helps increasing customer experiences around the globe.
+            </p>
+          </GridItem>
+          <GridItem class="grid-items">
+            <button class="custom-btn btn-3 btn-purple"><span>Read more</span></button>
+          </GridItem>
+        </Grid>
+        <div class="overlay-text overlay-text-1"></div>      </div>
+      <div class="overlay-text overlay-text-1"></div>
+      </div>
+      </div>
       </div>
     </div>
   </div>
 
   <div class="labels">
-      <label for="slide1" class="label">text slide 1</label>
-      <label for="slide2" class="label">text slide 2</label>
-      <label for="slide3" class="label">text slide 3</label>
-    
       <div class="fake-radio">
         <label for="slide1" class="radio-btn"></label>
         <label for="slide2" class="radio-btn"></label>

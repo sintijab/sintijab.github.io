@@ -5,7 +5,7 @@ type Props = HTMLAttributes<"div" | "p" | "span">;
 
 const { class: className, ...props } = Astro.props;
 ---
-<div class:list={[className, "grid"]} {...props}>
+<div class:list={["grid", className]} {...props}>
   <slot />
 </div>
 <style>
@@ -13,8 +13,7 @@ const { class: className, ...props } = Astro.props;
     display: grid;
     grid-gap: 24px;
     row-gap: 0;
-    margin-top: 32px;
-    margin-bottom: 32px;
+    margin: 32px 64px;
   }
   @media (min-width: 600px) {
     .grid {
