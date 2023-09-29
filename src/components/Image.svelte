@@ -22,12 +22,23 @@
   .media {
     max-width: 100%;
     height: auto;
-    aspect-ratio: 11 / 5;
+    aspect-ratio: 2 / 5;
     object-fit: cover;
     border-radius: inherit;
     border: none;
     position: absolute;
   }
+  @media (min-width: 600px) {
+    .media {
+      aspect-ratio: 5 / 5;
+    }
+  }
+  @media (min-width: 1080px) {
+    .media {
+      aspect-ratio: 9 / 5;
+    }
+  }
+
   .img-fullWidth {
     vertical-align: middle;
     border: none;
@@ -51,6 +62,5 @@
   .clip-rounded {
     object-fit: cover;
     border-radius: 50%;
-    max-width: none;
   }
 </style>
