@@ -22,10 +22,11 @@
   .media {
     max-width: 100%;
     height: auto;
-    aspect-ratio: 16 / 10;
+    aspect-ratio: 11 / 5;
     object-fit: cover;
     border-radius: inherit;
     border: none;
+    position: absolute;
   }
   .img-fullWidth {
     vertical-align: middle;
