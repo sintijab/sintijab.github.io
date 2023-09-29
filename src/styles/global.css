@@ -174,7 +174,13 @@ nav {
 	padding: .5rem;
 	letter-spacing: normal;
 	line-height: 1;
-	position: absolute;
+	position: relative;
+}
+
+@media (min-width: 1080px) {
+	.site-title {
+		position: absolute;
+	}
 }
 
 input[type=text] {
