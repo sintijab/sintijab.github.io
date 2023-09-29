@@ -16,22 +16,6 @@
 		0 16px 32px rgba(var(--gray), 33%);
 }
 
-@font-face {
-	font-family: 'Atkinson';
-	src: url('/fonts/atkinson-regular.woff') format('woff');
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
-}
-
-@font-face {
-	font-family: 'Atkinson';
-	src: url('/fonts/atkinson-bold.woff') format('woff');
-	font-weight: 700;
-	font-style: normal;
-	font-display: swap;
-}
-
 * {
 	line-height: 1.6;
 }
@@ -171,7 +155,7 @@ nav {
 .site-title {
 	font-family: 'Cabin', 'Poppins', sans-serif;
 	font-size: 28.8px;
-	padding: .5rem;
+	padding: .5rem 0;
 	letter-spacing: normal;
 	line-height: 1;
 	position: relative;
@@ -180,6 +164,8 @@ nav {
 @media (min-width: 1080px) {
 	.site-title {
 		position: absolute;
+		z-index: 10;
+		padding: .5rem;
 	}
 }
 

@@ -1,12 +1,12 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
 import { SITE_TITLE } from "../consts";
+
 ---
 
 <header>
 	<nav>
-		<h1 class="site-title"><a href="/">{SITE_TITLE}</a></h1>
-		<div class="internal-links nav-desktop">
+		<div class="internal-links" id="nav-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 			<HeaderLink href="/projects">Projects</HeaderLink>
@@ -14,26 +14,51 @@ import { SITE_TITLE } from "../consts";
 			<HeaderLink href="/research">Research</HeaderLink>
 			<HeaderLink href="/contact">Contact</HeaderLink>
 		</div>
-		<div class="nav-mobile">
-			<svg width="30px" height="30px" viewBox="0 0 24 24" fill="none">
-				<g clip-path="url(#clip0_105_1724)">
-					<path d="M3 6.00098H21M3 12.001H21M3 18.001H21" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-				</g>
+		<h1 class="site-title"><a href="/">{SITE_TITLE}</a></h1>
+		<div class="nav-mobile" id="nav-btn">
+		<svg width="35px" height="35px" viewBox="0 0 24 24" fill="none" style="padding: 0 .9rem" id="hamburger-btn">
+			<g clip-path="url(#clip0_105_1724)">
+				<path d="M3 6.00098H21M3 12.001H21M3 18.001H21" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+			</g>
 			<defs>
 				<clipPath id="clip0_105_1724">
 					<rect fill="white" height="24" transform="translate(0 0.000976562)" width="24"/>
 				</clipPath>
 			</defs>
 		</svg>
+		<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35px" height="35px" viewBox="0 0 50 50" style="padding: 0 .9rem; stroke-width: 1px; stroke: black;" id="close-btn">
+			<path d="M 7.71875 6.28125 L 6.28125 7.71875 L 23.5625 25 L 6.28125 42.28125 L 7.71875 43.71875 L 25 26.4375 L 42.28125 43.71875 L 43.71875 42.28125 L 26.4375 25 L 43.71875 7.71875 L 42.28125 6.28125 L 25 23.5625 Z"></path>
+		</svg>
 	</div>
 </nav>
 </header>
+
+<script>
+	const mobile_menu = document.getElementById('hamburger-btn');
+	const mobile_close = document.getElementById('close-btn');
+	const mobile_nav = document.getElementById('nav-btn');
+	const mobile_nav_items = document.getElementById('nav-links');
+	mobile_close?.classList.toggle("hidden");
+	mobile_nav_items?.classList.toggle("hidden");
+
+	mobile_nav?.addEventListener("click", () => {
+		mobile_menu?.classList.toggle("hidden");
+		mobile_close?.classList.toggle("visible");
+		mobile_nav_items?.classList.toggle("visible");
+  });
+	
+</script>
+
 <style>
 	header {
 		margin: 0;
-		padding: 0 1em;
+		padding: 0;
 		background: white;
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		right: 0;
+    left: 0;
+		position: fixed;
+		z-index: 1;
 	}
 	h2 {
 		margin: 0;
@@ -64,24 +89,45 @@ import { SITE_TITLE } from "../consts";
 		right: 0;
 		left: 0;
 		margin: auto;
+		display: flex;
+    flex-direction: column;
+    justify-content: left;
+    position: fixed;
+    z-index: 1;
+    background: white;
+    top: 60px;
+		border-top: 1px solid #e1e1e1;
 	}
 	.social-links,
 	.social-links a {
 		display: flex;
 	}
-	.nav-desktop {
-			display: none;
-	}
 	.nav-mobile {
 		display: block;
 		cursor: pointer;
+		display: flex;
+    align-items: center;
+	}
+	.hidden {
+		display: none;
+	}
+	.visible {
+		display: flex;
 	}
 	@media (min-width: 782px) {
-		.nav-desktop {
-			display: block;
-		}
 		.nav-mobile {
 			display: none;
+		}
+		.internal-links {
+			position: relative;
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			top: 0;
+			border-top: 1px solid #e1e1e1;
+		}
+		.header {
+			padding: 0 1em;
 		}
 	}
 </style>

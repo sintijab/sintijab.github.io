@@ -62,6 +62,5 @@
   .clip-rounded {
     object-fit: cover;
     border-radius: 50%;
-    max-width: none;
   }
 </style>
