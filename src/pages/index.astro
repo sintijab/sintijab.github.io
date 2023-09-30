@@ -26,8 +26,14 @@ import Carousel from "../components/Carousel.astro";
 				grid-column-start: 1;
 				grid-column-end: span 4;
 			}
+			.about {
+				display: flex;
+				flex-direction: column-reverse;
+				align-items: center;
+			}
 			@media (min-width: 600px) {
 				.about {
+					display: grid;
 					align-items: center;
 					margin: 0;
 					margin-top: -1rem;
