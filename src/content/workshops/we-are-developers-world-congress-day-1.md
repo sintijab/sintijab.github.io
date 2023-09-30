@@ -1,6 +1,6 @@
 ---
-title: 'We Are Developers World Congress Day 1'
-description: 'Lorem ipsum dolor sit amet'
+title: 'We Are Devs World Congress Day 1'
+description: 'Principle from beginner to advanced levels No. 1- problems with practical examples in code must be solved in 1h...'
 pubDate: '28 July 2023'
 heroImage: 'https://images.prismic.io/syntia/9a12209c-00f1-4765-aeb8-d8db8b685472_img_20230727_155058.webp?auto=compress,format'
 author: 'Syntia'
