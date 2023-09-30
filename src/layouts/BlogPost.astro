@@ -5,9 +5,10 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'workshops'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const date = new Date(pubDate);
 ---
 
 <html lang="en">
@@ -27,6 +28,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				margin: 0 auto;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
+				max-width: 700px;
 			}
 			.prose {
 				width: 720px;
@@ -40,6 +42,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				padding: 1em 0;
 				text-align: center;
 				line-height: 1;
+				font-family: 'Cabin', 'Poppins', sans-serif;
 			}
 			.title h1 {
 				margin: 0 0 0.5em 0;
@@ -64,7 +67,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				<div class="prose">
 					<div class="title">
 						<div class="date">
-							<FormattedDate date={pubDate} />
+							<FormattedDate date={date} />
 							{
 								updatedDate && (
 									<div class="last-updated-on">
@@ -73,7 +76,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 								)
 							}
 						</div>
-						<h1>{title}</h1>
+						<h1 class="title">{title}</h1>
 						<hr />
 					</div>
 					<slot />
