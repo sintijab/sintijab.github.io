@@ -45,7 +45,7 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0;
+	margin: 1em 0 .5em;
 	color: rgb(var(--black));
 	line-height: 1.2;
 	font-family: 'Inter', sans-serif;
@@ -72,6 +72,7 @@ p {
 	margin-bottom: 1em;
 	line-height: 2;
 	text-align: justify;
+	word-spacing: -1px;
 }
 
 textarea {
@@ -156,11 +157,11 @@ nav {
 	letter-spacing: normal;
 	line-height: 1;
 	position: relative;
+	margin: 0;
 }
 
 @media (min-width: 1080px) {
 	.site-title {
-		position: absolute;
 		z-index: 10;
 		padding: .5rem;
 	}
