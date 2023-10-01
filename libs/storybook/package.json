@@ -1,0 +1,48 @@
+{
+  "name": "syntia-storybook",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "storybook:dev": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-react": "^7.22.15",
+    "@babel/preset-typescript": "^7.23.0",
+    "@remirror/pm": "^2.0.8",
+    "@remirror/react": "^2.0.35",
+    "@remirror/react-editors": "^1.0.35",
+    "@remirror/styles": "^2.0.7",
+    "@storybook/addon-essentials": "^7.4.5",
+    "@storybook/addon-interactions": "^7.4.5",
+    "@storybook/addon-links": "^7.4.5",
+    "@storybook/blocks": "^7.4.5",
+    "@storybook/builder-webpack5": "^7.4.5",
+    "@storybook/react": "^7.4.2",
+    "@storybook/react-vite": "^7.4.5",
+    "@storybook/svelte": "^7.4.5",
+    "@storybook/svelte-vite": "^7.4.5",
+    "@storybook/testing-library": "^0.2.1",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
+    "eslint": "^8.50.0",
+    "eslint-plugin-astro": "^0.29.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-storybook": "^0.6.14",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remirror": "^2.0.36",
+    "storybook": "^7.4.5",
+    "typescript": "^5.2.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:storybook/recommended"
+    ]
+  }
+}
