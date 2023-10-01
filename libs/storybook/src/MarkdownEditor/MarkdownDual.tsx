@@ -40,6 +40,7 @@ import {
   HeadingExtension,
   ItalicExtension,
   ImageExtension,
+  IframeExtension,
   LinkExtension,
   ListItemExtension,
   MarkdownExtension,
@@ -53,6 +54,7 @@ import {
 import { IMarkdownBasic, IMarkdownEditor } from './types';
 import { MarkDownButtonGroup } from './utils/MarkdownButtonGroup';
 import { HIDE_EDITOR, SHOW_EDITOR, TableMenu } from './utils/TableMenu';
+import { AddIframeButton } from './utils/AddIframeButton';
 
 interface Context extends Props {
   setMarkdown: (markdown: string) => void;
@@ -92,8 +94,9 @@ const [DualEditorProvider, useDualEditor] = createContextState<Context, Props>(
   }
 );
 
-const MarkdownTextEditor = ({ toggleEdit, editButtonText }: IMarkdownBasic) => {
+const MarkdownTextEditor = ({ toggleEdit, editButtonText, filePath }: IMarkdownBasic) => {
   const { markdown, setVisual } = useDualEditor();
+  const [visualText, setVisualText] = useState('');
 
   return (
     <Remirror
@@ -101,6 +104,7 @@ const MarkdownTextEditor = ({ toggleEdit, editButtonText }: IMarkdownBasic) => {
       autoRender="end"
       onChange={({ helpers, state }) => {
         const text = helpers.getText({ state });
+        setVisualText(text);
         return setVisual(text);
       }}
       initialContent={markdown.state}
@@ -119,6 +123,8 @@ const MarkdownTextEditor = ({ toggleEdit, editButtonText }: IMarkdownBasic) => {
       <MarkDownButtonGroup
         onEdit={toggleEdit}
         editButtonText={editButtonText}
+        markdown={visualText}
+        filePath={filePath}
       />
     </Remirror>
   );
@@ -132,6 +138,7 @@ const VisualEditor = ({
   const { visual, setMarkdown } = useDualEditor();
   const [markdown, saveMarkdown] = useState('');
   const [tableVisible, toggleTableCommands] = useState(false);
+  const [iframeVisible, toggleIframeCommands] = useState(false);
 
   return (
     <Remirror
@@ -207,8 +214,15 @@ const VisualEditor = ({
           enabled
           commandName={''}
         />
+        <CommandButton
+          onSelect={() => toggleIframeCommands(!iframeVisible)}
+          icon="videoLine"
+          enabled
+          commandName={''}
+        />
       </Toolbar>
       {tableVisible && <TableMenu />}
+      {iframeVisible && <AddIframeButton />}
     </Remirror>
   );
 };
@@ -262,6 +276,7 @@ export const DualEditor: React.FC<IMarkdownEditor> = ({ filePath = '' }) => {
           </div>
           <div style={{ display:isEditorVisible ? 'block' : 'none'}}>
             <MarkdownTextEditor
+              filePath={filePath}
               toggleEdit={() => toggleEdit(!isEditorVisible)}
               editButtonText={editButtonText}
             />
@@ -306,4 +321,5 @@ const extensions = () => [
    */
   new HardBreakExtension(),
   new ImageExtension({ enableResizing: true }),
+  new IframeExtension({ enableResizing: true }),
 ];

@@ -28,6 +28,7 @@
     "@storybook/svelte": "^7.4.5",
     "@storybook/svelte-vite": "^7.4.5",
     "@storybook/testing-library": "^0.2.1",
+    "@types/react": "^18.2.0",
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "@typescript-eslint/parser": "^6.7.3",
     "eslint": "^8.50.0",
