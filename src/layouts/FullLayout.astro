@@ -1,0 +1,73 @@
+---
+const {frontmatter} = Astro.props;
+const { title, heroImage } = frontmatter;
+---
+<html>
+  <head>
+		<style>
+			.main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+			}
+			.prose {
+				margin: auto;
+				padding: 2em 1em 0;
+				color: rgb(var(--gray-dark));
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+        font-family: 'Raleway', 'Poppins', sans-serif;
+			}
+			.hero-image img {
+        height: 250px;
+        width: 100%;
+        object-fit: cover;
+			}
+			.title {
+				text-align: center;
+				line-height: 1;
+			}
+      .content-wrapper {
+        display: flex;
+        flex-direction: column;
+      }
+      @media (min-width: 1080px) {
+        .title {
+          margin-bottom: 1em;
+          padding: 1em 0;
+        }
+        .title h1 {
+          margin: 0 0 0.5em 0;
+        }
+        .prose {
+          flex-direction: row;
+          padding: 1em;
+        }
+        .hero-image img {
+          height: 400px;
+          width: 857px;
+        }
+        .content-wrapper {
+          padding: 1.5rem;
+          font-size: 18px;
+        }
+      }
+		</style>
+	</head>
+  <body>
+    <div>
+			<article>
+				<div class="prose">
+					<div class="hero-image">
+						{heroImage && <img src={heroImage} alt="" />}
+					</div>
+					<div class="content-wrapper">
+						<h1 class="title">{title}</h1>
+					  <slot />
+          </div>
+				</div>
+			</article>
+    </div>
+  </body>
+</html>
