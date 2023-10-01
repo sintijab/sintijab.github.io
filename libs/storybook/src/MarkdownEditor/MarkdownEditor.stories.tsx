@@ -1,15 +1,16 @@
-import type { Meta, StoryFn } from '@storybook/react';
+import type { StoryObj, Meta } from '@storybook/react';
 
 import type { IMarkdownEditor } from './types';
 import React from 'react';
 
-export const Dual: StoryFn<IMarkdownEditor> = () => {
-  return <></>;
-};
+export const Dual: StoryObj<IMarkdownEditor> = {
+  render: () => {
+    return <></>;
+  },
 
-// eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
-Dual.parameters = {
-  storyshots: { disable: true },
+  parameters: {
+    storyshots: { disable: true },
+  },
 };
 
 export default {

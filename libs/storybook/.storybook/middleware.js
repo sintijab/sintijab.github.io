@@ -13,8 +13,6 @@ const expressMiddleWare = router => {
     const parentDir = filepath.match(/[.]{2}/g);
     // nodejs: ensure that user input does not reach `join()` or `resolve() that can result in path traversal
     const isAbsolutePath = path.isAbsolute(filepath);
-    console.log('TEST');
-    console.log(req);
     if (!parentDir && !isAbsolutePath) {
     // nosemgrep: eslint.detect-non-literal-fs-filename
     const absolutePath = path.join(__dirname, '../src/' + filepath);

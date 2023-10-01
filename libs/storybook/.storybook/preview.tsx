@@ -21,10 +21,9 @@ const isDocsAvailable = ({ path }) => {
 
 const withEditor = (storyFn: Function, context: StoryContext) => {
   // Verify if the markdown files exist
-  console.log(context);
   const storyPath = context.parameters.fileName.replace(/.*?src\/(.*?)/, '');
   const markdownDir = storyPath.substr(0, storyPath.lastIndexOf("\/"));
-  const markdownFilePath = `${markdownDir}/markdown/${context.id}.md`;
+  const markdownFilePath = `${markdownDir}/markdown/${context.name}.md`;
   const markdownAvailable = isDocsAvailable({ path: markdownFilePath });
   return (
       <>

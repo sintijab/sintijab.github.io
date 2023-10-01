@@ -12,7 +12,7 @@ export const MarkDownButtonGroup: React.FC<IEditorButton> = ({
   editButtonText,
 }) => {
   const isEditable = filePath && markdown;
-  console.log(isEditable);
+
   return (
     <div style={{ display:"flex", justifyContent:"flex-end", zIndex:"1" }}>
       <button onClick={onEdit} style={{marginRight:"8px"}}>

@@ -22,6 +22,9 @@ const config = {
   docs: {
     autodocs: 'tag',
   },
+  features: {
+    previewCsfV3: true,
+  }
   // staticDirs: ['../public']
 };
 

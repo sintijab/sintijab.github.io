@@ -5,6 +5,7 @@ export interface IMarkdownBasic extends IMarkdownEditor {
   toggleEdit: () => void;
   isEditorVisible?: boolean;
   editButtonText: string;
+  filePath?: string;
 }
 
 export interface ISaveButtonGroup {
