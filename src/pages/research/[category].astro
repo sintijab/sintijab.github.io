@@ -6,12 +6,13 @@ import { RESEARCH_COLLECTION } from '../../consts';
 export async function getStaticPaths() {
   const posts = await getCollection(RESEARCH_COLLECTION);
   const categories = posts.map((post) => {
-    const arr = post.data.categories.split(',');
-    return arr.filter(item => item !== post.collection);
+    const cat = post.data.categories.split(',');
+    const subcat = post.data.subcategories.split(',');
+    return [
+      ...cat.filter(item => item !== post.collection),
+      ...subcat.filter(item => item !== post.collection),
+    ]
   }).flat();
-  if (posts.collection) {
-    posts.filter(post => post.data.categories.includes(post.collection))
-  }
   const uniqueParams = [...new Set(categories)].map(item => {let formatted = item.toLowerCase(); formatted = formatted.trim(); return formatted.replace(/\s+/g, '-')} );
 
 	return uniqueParams.map((category) => {

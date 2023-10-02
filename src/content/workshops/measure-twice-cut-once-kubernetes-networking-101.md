@@ -4,6 +4,7 @@ pubDate: '28 July 2023'
 heroImage: 'https://images.prismic.io/syntia/beb170e5-c363-43b6-bab1-8fd52a6f1fa8_dns.webp?auto=compress,format'
 author: 'Syntia'
 categories: 'workshops, cloud infrastructure, networking, kubernetes'
+subcategories: 'communication protocols, transmission control protocol, internet protocol, network layer, network interface, virtual network'
 ---
 
 # **Measure Twice, Cut Once-Kubernetes Networking 101**  

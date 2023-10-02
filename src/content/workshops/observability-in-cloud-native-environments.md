@@ -4,6 +4,7 @@ pubDate: 'Apr 18, 2023'
 heroImage: 'https://images.prismic.io/syntia/cdafc9ba-d983-4d3f-8515-541c229c5d98_aws-terraform-snyk-arch.png?auto=compress,format'
 author: 'Syntia'
 categories: 'workshops, cloud infrastructure, security, HTTP network monitoring'
+subcategories: 'software development lifecycle, terraform, infrastructure as code observability, observability umbrella'
 ---
 
 # **Observability in cloud-native environments**

@@ -4,6 +4,7 @@ pubDate: 'Jun 15, 2023'
 heroImage: 'https://images.prismic.io/syntia/bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format'
 author: 'Syntia'
 categories: 'research, environmental studies, scientific diving'
+subcategories: 'ssi training, ssi certification, freediving, marine biology, classification models, reef restoration, climate change'
 ---
 
 # **Breathe In / Breathe Out**

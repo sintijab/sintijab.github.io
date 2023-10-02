@@ -4,6 +4,7 @@ pubDate: 'Sep 15, 2023'
 heroImage: 'https://images.prismic.io/syntia/3df430cd-5932-4dca-9421-dff593c695e5_692944.jpg?auto=compress,format'
 author: 'Syntia'
 categories: 'workshops, cloud infrastructure, networking, data access'
+subcategories: 'augmented web, augmented reality, user experience, user-centered design, user driven development, test driven development, data governance, data economy, sustainable DevOps'
 ---
 
 # **We Are Developers World Congress Day 2**

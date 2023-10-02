@@ -4,6 +4,7 @@ pubDate: 'Apr 21, 2023'
 heroImage: 'https://images.prismic.io/syntia/3a7f4e2f-fff0-44ef-8eef-f71422107799_screenshot-2023-04-20-at-12.52.54.png?auto=compress,format'
 author: 'Syntia'
 categories: 'projects, cloud infrastructure, monitoring tools'
+subcategories: 'Cloud Native Computing Foundation, prometheus, hackathon lab, hackerspace, audio tools, sound engineering'
 ---
 
 # **Prometheus Lab, CNCF Project for Adding Music and Announcements to Home**
