@@ -1,34 +1,44 @@
 ---
 import { getCollection } from 'astro:content';
 import FormattedDate from './FormattedDate.astro';
+import Categories from './Categories.astro';
 
-const { mainCategory } = Astro.props;
+const { collection, category } = Astro.props;
 
-const posts = (await getCollection(mainCategory)).sort(
+let posts = (await getCollection(collection)).sort(
 	(a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 );
-
+const categories = posts.map((post) => {
+    let cat = post.data.categories.split(',');
+    return cat.filter(item => item !== post.collection);
+  }).flat();
+const uniqueCategories = [...new Set(categories)].map((item) => {const formatted = item.toLowerCase(); return formatted.trim()});
+const formatted = category && category?.replace(/-/g, ' ');
 ---
-
-<ul>
-  {
-    posts.map((post) => (
-      <li>
-        <a href={`/${mainCategory}/${post.slug}/`}>
-          <label class="label">{mainCategory}</label>
-          <div class="story-wrapper">
-            <h4 class="title">{post.data.description}</h4>
-            <p class="date">
-              <FormattedDate date={new Date(post.data.pubDate)} />
-            </p>
-          </div>
-          <img class="article-preview" width={720} height={360} src={post.data.heroImage} alt="" />
-        </a>
-      </li>
-    ))
-  }
-</ul>
-
+<div>
+  {categories && <Categories categories={uniqueCategories} collection={collection} category={formatted} />}
+  <ul>
+    {
+      posts.map((post) => {
+        if (post.data.categories.toLowerCase().includes(formatted) || !category) {
+          return (
+            <li>
+              <a href={`/${collection}/${post.slug}/`}>
+                <label class="label">{collection}</label>
+                <div class="story-wrapper">
+                  <h4 class="title">{post.data.description}</h4>
+                  <p class="date">
+                    <FormattedDate date={new Date(post.data.pubDate)} />
+                  </p>
+                </div>
+                <img class="article-preview" width={720} height={360} src={post.data.heroImage} alt="" />
+              </a>
+            </li>
+          )
+        }})
+    }
+  </ul>
+</div>
 <style>
   ul {
     display: flex;
