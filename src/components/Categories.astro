@@ -1,0 +1,50 @@
+---
+const { categories, collection, category } = Astro.props;
+---
+<div class="categories">
+  {
+    categories.map((cat) => {
+      let formatted = cat.toLowerCase();
+      return (
+        <div class="category-wrapper">
+          <a class={`category ${cat === category ? "active" : ""}`} href={`/${collection}/${formatted.replace(/ +/g, '-')}`}>
+            {cat}
+          </a>
+        </div>
+      )})
+  }
+</div>
+<style>
+  .category-wrapper {
+    border: 3px solid #fff;
+    display: flex;
+    align-items: center;
+    height: 60px;
+  }
+  .categories {
+    padding: 2em 0 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .category {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(var(--black));
+    line-height: 2;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: 'Raleway', 'Poppins', sans-serif;
+    padding: 0.6rem 0.8rem;
+    margin: 3px;
+    border: 1px solid rgb(229, 56, 242);
+    border-radius: 25px;
+    height: 30px;
+  }
+  .category:hover {
+    border: 2px solid rgb(229, 56, 242);
+  }
+  .active {
+    border: 3px solid rgb(229, 56, 242);
+  }
+</style>

@@ -3,3 +3,7 @@
 
 export const SITE_TITLE = 'Syntia';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const PROJECT_COLLECTION = "projects";
+export const WORKSHOP_COLLECTION = "workshops";
+export const RESEARCH_COLLECTION = "research";
+
