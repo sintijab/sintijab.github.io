@@ -3,12 +3,8 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
-import { getCollection } from 'astro:content';
-import FormattedDate from '../../components/FormattedDate.astro';
+import Posts from '../../components/Posts.astro';
 
-const posts = (await getCollection('workshops')).sort(
-	(a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
-);
 ---
 
 <!doctype html>
@@ -20,87 +16,9 @@ const posts = (await getCollection('workshops')).sort(
 				padding: 2em 0;
 				margin: auto;
 			}
-			ul {
-				display: flex;
-				flex-direction: column;
-				flex-wrap: wrap;
-				align-items: flex-start;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 2em 0 0;
-				padding: 0;
-			}
-			ul li {
-				padding: .5em;
-				border-top: 1px solid rgba(99, 99, 99, 0.2);
-				box-sizing: fit-content;
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			/* ul li:first-child .title {
-				font-size: 1.869rem;
-				font-family: 'Cabin', 'Poppins', sans-serif;
-			} */
-			ul li img {
-				border-radius: 5px;
-				max-height: 200px;
-				height: 200px;
-				object-fit: cover;
-			}
-			ul li a {
-				display: flex;
-				flex-wrap: wrap;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1.2;
-				font-size: 18px;
-				font-family: 'Cabin', 'Poppins', sans-serif;
-			}
-			.label, .date {
-				color: rgb(var(--black));
-				line-height: 2;
-				font-size: 14px;
-				font-weight: 800;
-				font-family: 'Raleway', 'Poppins', sans-serif;
-				width: 100%;
-			}
-			.date {
-				margin: 0;
-				color: rgb(var(--gray));
-			}
-			ul li:hover {
-				box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
-				border-radius: 15px;
-			}
-			.article-preview {
-				max-width: 250px;
-				width: 100%;
-				height: 100%;
-			}
-			.story-wrapper {
-				display: flex;
-				flex-direction: column;
-				padding: 0 .8rem 0 0;
-			}
 			@media (min-width: 1080px) {
 				main {
 					width: 960px;
-				}
-				ul {
-					flex-direction: row;
-				}
-				ul li {
-					width: calc(47% - 1rem);
-					flex: 1 1 calc(47% - 1rem);
-					height: 230px;
-				}
-				.story-wrapper {
-					flex-wrap: wrap;
-					flex: 1;
 				}
 			}
 		</style>
@@ -109,24 +27,7 @@ const posts = (await getCollection('workshops')).sort(
 		<Header />
 		<main>
 			<section>
-				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/workshops/${post.slug}/`}>
-									<label class="label">workshops</label>
-									<div class="story-wrapper">
-										<h4 class="title">{post.data.description}</h4>
-										<p class="date">
-											<FormattedDate date={new Date(post.data.pubDate)} />
-										</p>
-									</div>
-									<img class="article-preview" width={720} height={360} src={post.data.heroImage} alt="" />
-								</a>
-							</li>
-						))
-					}
-				</ul>
+				<Posts mainCategory="workshops" />
 			</section>
 		</main>
 		<Footer />
