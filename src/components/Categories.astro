@@ -1,13 +1,43 @@
 ---
-const { categories, collection, category } = Astro.props;
+const { categories, subcategories, collection, category } = Astro.props;
+const { pathname } = Astro.url;
+const formattedPathname = pathname.replace(/-/g, ' ');
+
+
 ---
 <div class="categories">
   {
     categories.map((cat) => {
       let formatted = cat.toLowerCase();
+      const url = formattedPathname.includes(cat) ? `/${collection}` : `/${collection}/${formatted.replace(/ +/g, '-')}`;
       return (
-        <div class="category-wrapper">
-          <a class={`category ${cat === category ? "active" : ""}`} href={`/${collection}/${formatted.replace(/ +/g, '-')}`}>
+        <div id="category-item-wrapper" class="category-wrapper">
+          <a id="category-item" class={`category ${cat === category ? "active" : ""}`} href={url}>
+            {cat}
+          </a>
+        </div>
+      )})
+  }
+  <button id="toggle-subcategories" class="btn">
+    <svg class="svg"style="font-size:14px; width: 2em; height: 2em; padding-right: .5rem;" viewBox="0 0 1020 1020"><path d="M602.763636 512L442.181818 351.418182c-13.963636-13.963636-13.963636-34.909091 0-48.872727 13.963636-13.963636 34.909091-13.963636 48.872727 0l186.181819 186.181818c13.963636 13.963636 13.963636 34.909091 0 48.872727l-186.181819 186.181818c-13.963636 13.963636-34.909091 13.963636-48.872727 0-13.963636-13.963636-13.963636-34.909091 0-48.872727l160.581818-162.909091zM512 1024C228.072727 1024 0 795.927273 0 512S228.072727 0 512 0s512 228.072727 512 512-228.072727 512-512 512z m0-46.545455c256 0 465.454545-209.454545 465.454545-465.454545S768 46.545455 512 46.545455 46.545455 256 46.545455 512s209.454545 465.454545 465.454545 465.454545z" fill="rgb(229, 56, 242)" /></svg>
+    <span>More categories</span>
+  </button>
+</div>
+{category && subcategories.includes(category) && (
+  <div id="subcategory-item-wrapper" class="category-wrapper">
+    <a id="subcategory-item" class={`category subcategory active active-subitem`} href={`/${collection}`}>
+      {category}
+    </a>
+  </div>
+)}
+<div id="subcategories" class="categories subcategories">
+  {
+    [...new Set(subcategories)].map((cat) => {
+      let formatted = (cat as string).toLowerCase();
+      const url = formattedPathname.includes(cat as string) ? `/${collection}` : `/${collection}/${formatted.replace(/ +/g, '-')}`;
+      return (
+        <div id="subcategory-item-wrapper" class="category-wrapper">
+          <a id="subcategory-item" class={`category subcategory ${cat === category ? "active" : ""}`} href={url}>
             {cat}
           </a>
         </div>
@@ -26,6 +56,13 @@ const { categories, collection, category } = Astro.props;
     display: flex;
     flex-wrap: wrap;
   }
+  .subcategories {
+    display: none;
+    padding: 0.5rem 0 0;
+  }
+  .subcategories > .category-wrapper {
+    height: 50px;
+  }
   .category {
     display: flex;
     align-items: center;
@@ -37,7 +74,7 @@ const { categories, collection, category } = Astro.props;
     font-family: 'Raleway', 'Poppins', sans-serif;
     padding: 0.6rem 0.8rem;
     margin: 3px;
-    border: 1px solid rgb(229, 56, 242);
+    border: 1px solid rgba(99,99,99,0.2);
     border-radius: 25px;
     height: 30px;
   }
@@ -46,5 +83,48 @@ const { categories, collection, category } = Astro.props;
   }
   .active {
     border: 3px solid rgb(229, 56, 242);
+    color: rgb(229, 56, 242);
+  }
+  .active-subitem {
+    border-width: 2px;
+  }
+  .active-subitem:hover {
+    border-width: 3px;
+  }
+  .active:after {
+    content: '\2715';
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    margin-left:5px;
+    color:rgb(229, 56, 242);
+    font-size: 21px;
+    padding-left: 0.3rem;
+}
+  .btn {
+    display: flex;
+    align-items: center;
+    border: none;
+    padding: 8px 20px;
+    font-family: 'Raleway', 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    color: rgb(229, 56, 242);
+  }
+  .btn:hover {
+    text-decoration: underline;
+  }
+  .display {
+    display: flex;
+  }
+  .subcategory {
+    padding: .4rem .7rem;
   }
 </style>
+<script>
+  const subcategoriesBtn = document.getElementById('toggle-subcategories');
+  const subcategories = document.getElementById('subcategories');
+  subcategoriesBtn?.addEventListener('click', () => subcategories?.classList.toggle("display"));
+</script>

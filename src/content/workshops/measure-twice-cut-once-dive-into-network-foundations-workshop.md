@@ -4,6 +4,7 @@ pubDate: 'Apr 21, 2023'
 heroImage: 'https://images.prismic.io/syntia/501f905a-89dd-4824-b5e4-c6a1a012f49e_nf-hooks.png?auto=compress,format'
 author: 'Syntia'
 categories: 'workshops, cloud infrastructure, networking, barebone'
+subcategories: 'communication protocols, tranmission control protocol, open system interconnection model, internet protocol, network layer, network interface, virtual network'
 ---
 
 # **Measure Twice, Cut Once- Dive into Network Foundations Workshop**
