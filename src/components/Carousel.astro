@@ -52,7 +52,7 @@ import '../styles/carousel.css';
               </p>
             </GridItem>
             <GridItem class="grid-items">
-              <button class="custom-btn btn-3 btn-purple"><span>Start now</span></button>
+              <button id="workshops" class="custom-btn btn-3 btn-purple"><span>Start now</span></button>
             </GridItem>
           </Grid>
           <div class="overlay-text overlay-text-1"></div>
@@ -75,7 +75,7 @@ import '../styles/carousel.css';
             </p>
           </GridItem>
           <GridItem class="grid-item-right">
-            <button class="custom-btn btn-3 btn-purple"><span>Read more</span></button>
+            <button id="we-are-devs-day-1" class="custom-btn btn-3 btn-purple"><span>Read more</span></button>
           </GridItem>
         </Grid>
         <div class="overlay-text overlay-text-1"></div>
@@ -98,7 +98,7 @@ import '../styles/carousel.css';
             </p>
           </GridItem>
           <GridItem class="grid-items">
-            <button class="custom-btn btn-3 btn-purple"><span>Read more</span></button>
+            <button id="we-are-devs-day-2" class="custom-btn btn-3 btn-purple"><span>Read more</span></button>
           </GridItem>
         </Grid>
         <div class="overlay-text overlay-text-1"></div>      </div>
@@ -117,3 +117,15 @@ import '../styles/carousel.css';
       </div>
   </div>
 </div>
+
+<script>
+  const slide = document.getElementById('workshops');
+
+  const slide01 = document.getElementById('we-are-devs-day-1');
+
+  const slide02 = document.getElementById('we-are-devs-day-2');
+
+  slide?.addEventListener('click', () => window.open('/workshops', '_blank', 'noopener'));
+  slide01?.addEventListener('click', () => window.open('/workshops/we-are-developers-world-congress-day-1', '_blank', 'noopener'));
+  slide02?.addEventListener('click', () => window.open('/workshops/we-are-developers-world-congress-day-2', '_blank', 'noopener'));
+</script>
