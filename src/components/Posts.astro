@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 import FormattedDate from './FormattedDate.astro';
 import Categories from './Categories.astro';
 interface Props {
@@ -47,7 +48,7 @@ const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const for
                       <FormattedDate date={new Date(post.data.pubDate)} />
                     </p>
                   </div>
-                  <img class="article-preview" width={720} height={360} src={post.data.heroImage} alt="" />
+                  <Image loading="lazy" alt='article preview' class="article-preview" width={720} height={360} src={post.data.heroImage} alt="" />
                 </a>
               </li>
             )

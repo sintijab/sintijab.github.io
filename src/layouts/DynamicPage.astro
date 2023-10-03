@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import FormattedDate from '../components/FormattedDate.astro';
 
 const {frontmatter} = Astro.props;
@@ -57,7 +58,7 @@ const date =  new Date(frontmatter.pubDate);
 			<article>
 				<div class="prose">
 					<div class="hero-image">
-						{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
+						{heroImage && <Image width={1020} height={510} src={heroImage} alt="hero image" />}
 					</div>
 					<div class="title">
 						<div class="date">

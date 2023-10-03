@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 const {frontmatter} = Astro.props;
 const { title, heroImage } = frontmatter;
 ---
@@ -59,7 +60,7 @@ const { title, heroImage } = frontmatter;
 			<article>
 				<div class="prose">
 					<div class="hero-image">
-						{heroImage && <img src={heroImage} alt="" />}
+						{heroImage && <Image src={heroImage} alt="hero image" />}
 					</div>
 					<div class="content-wrapper">
 						<h1 class="title">{title}</h1>
