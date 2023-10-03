@@ -7,8 +7,4 @@ import svelte from "@astrojs/svelte";
 // https://astro.build/config
 export default defineConfig({
   integrations: [mdx(), sitemap(), svelte()],
-  image: {
-    domains: ["astro.build"],
-    remotePatterns: [{ protocol: "https" }],
-  }
 });
