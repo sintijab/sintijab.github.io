@@ -6,6 +6,6 @@ import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://sintijab.github.io',
+  site: 'https://syntia.org',
   integrations: [mdx(), sitemap(), svelte()],
 });
