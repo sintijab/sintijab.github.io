@@ -94,16 +94,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/rss@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "@astrojs/rss@npm:3.0.0"
-  dependencies:
-    fast-xml-parser: ^4.2.7
-    kleur: ^4.1.5
-  checksum: b930bd63e87ae708f661d3eee9c800ee4d88f29a129e3fe674a6e09a0f47cb5c5d56b67d6084de6dce21971b31171f3fa2b0f80bae602c6ef7423535fe3cbbd6
-  languageName: node
-  linkType: hard
-
 "@astrojs/sitemap@npm:^3.0.0":
   version: 3.0.0
   resolution: "@astrojs/sitemap@npm:3.0.0"
@@ -10428,17 +10418,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-xml-parser@npm:^4.2.7":
-  version: 4.3.1
-  resolution: "fast-xml-parser@npm:4.3.1"
-  dependencies:
-    strnum: ^1.0.5
-  bin:
-    fxparser: src/cli/cli.js
-  checksum: eddd19dc95f907d9a932012e9ee6240d5d58f9f4a7179996cc0c5ef377bba15638cb025cf4e820f0895f3d4e6edd03d5e7efa675dcfbf895bb8e0f3355b98126
-  languageName: node
-  linkType: hard
-
 "fastq@npm:^1.6.0":
   version: 1.15.0
   resolution: "fastq@npm:1.15.0"
@@ -17120,13 +17099,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"strnum@npm:^1.0.5":
-  version: 1.0.5
-  resolution: "strnum@npm:1.0.5"
-  checksum: 651b2031db5da1bf4a77fdd2f116a8ac8055157c5420f5569f64879133825915ad461513e7202a16d7fec63c54fd822410d0962f8ca12385c4334891b9ae6dd2
-  languageName: node
-  linkType: hard
-
 "style-loader@npm:^3.3.1":
   version: 3.3.3
   resolution: "style-loader@npm:3.3.3"
@@ -17322,7 +17294,6 @@ __metadata:
   resolution: "syntia@workspace:."
   dependencies:
     "@astrojs/mdx": ^1.1.0
-    "@astrojs/rss": ^3.0.0
     "@astrojs/sitemap": ^3.0.0
     "@astrojs/svelte": ^4.0.2
     "@typescript-eslint/eslint-plugin": ^6.7.3
