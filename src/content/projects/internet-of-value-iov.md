@@ -1,6 +1,6 @@
 ---
 description: 'Internet of Value (IoV) with decentralized technologies'
-pubDate: 'Apr 21, 2023'
+pubDate: 'Nov 25, 2022'
 heroImage: 'https://images.prismic.io/syntia/f73be84f-1ec3-4737-b741-3eb1670ad198_1451813.fig_.002.png?auto=compress,format'
 author: 'Syntia'
 categories: 'projects, web3, blockchain technology'

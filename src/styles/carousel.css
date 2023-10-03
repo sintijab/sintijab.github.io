@@ -68,11 +68,6 @@
   opacity: 1;
 }
 
-.label {
-  opacity: 0;
-  position: absolute;
-}
-
 /* Calculate autoplay for bullets */
 @keyframes bullet {
   0%, 33.32333333333334%	{

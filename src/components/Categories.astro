@@ -5,7 +5,11 @@ const formattedPathname = pathname.replace(/-/g, ' ');
 
 
 ---
-<div class="categories">
+<button id="toggle-categories" class="btn categories-btn">
+  <svg class="svg"style="font-size:14px; width: 2em; height: 2em; padding-right: .5rem;" viewBox="0 0 1020 1020"><path d="M602.763636 512L442.181818 351.418182c-13.963636-13.963636-13.963636-34.909091 0-48.872727 13.963636-13.963636 34.909091-13.963636 48.872727 0l186.181819 186.181818c13.963636 13.963636 13.963636 34.909091 0 48.872727l-186.181819 186.181818c-13.963636 13.963636-34.909091 13.963636-48.872727 0-13.963636-13.963636-13.963636-34.909091 0-48.872727l160.581818-162.909091zM512 1024C228.072727 1024 0 795.927273 0 512S228.072727 0 512 0s512 228.072727 512 512-228.072727 512-512 512z m0-46.545455c256 0 465.454545-209.454545 465.454545-465.454545S768 46.545455 512 46.545455 46.545455 256 46.545455 512s209.454545 465.454545 465.454545 465.454545z" fill="rgb(229, 56, 242)" /></svg>
+  <span>Categories</span>
+</button>
+<div class="categories" id="categories">
   {
     categories.map((cat) => {
       let formatted = cat.toLowerCase();
@@ -23,7 +27,7 @@ const formattedPathname = pathname.replace(/-/g, ' ');
     <span>More categories</span>
   </button>
 </div>
-{category && subcategories.includes(category) && (
+{category && (subcategories.includes(category) || categories.includes(category)) && (
   <div id="subcategory-item-wrapper" class="category-wrapper">
     <a id="subcategory-item" class={`category subcategory active active-subitem`} href={`/${collection}`}>
       {category}
@@ -49,11 +53,11 @@ const formattedPathname = pathname.replace(/-/g, ' ');
     border: 3px solid #fff;
     display: flex;
     align-items: center;
-    height: 60px;
+    height: 45px;
   }
   .categories {
-    padding: 2em 0 0;
-    display: flex;
+    padding: .5em 0 0;
+    display: none;
     flex-wrap: wrap;
   }
   .subcategories {
@@ -72,8 +76,8 @@ const formattedPathname = pathname.replace(/-/g, ' ');
     font-size: 14px;
     font-weight: 800;
     font-family: 'Raleway', 'Poppins', sans-serif;
-    padding: 0.6rem 0.8rem;
-    margin: 3px;
+    padding: .4rem;
+    margin: 0;
     border: 1px solid rgba(99,99,99,0.2);
     border-radius: 25px;
     height: 30px;
@@ -105,7 +109,7 @@ const formattedPathname = pathname.replace(/-/g, ' ');
     display: flex;
     align-items: center;
     border: none;
-    padding: 8px 20px;
+    padding: .5em;
     font-family: 'Raleway', 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -113,18 +117,46 @@ const formattedPathname = pathname.replace(/-/g, ' ');
     cursor: pointer;
     color: rgb(229, 56, 242);
   }
+  .categories-btn {
+    padding: 2.5em 0 .5rem .5rem;
+    display: flex;
+  }
   .btn:hover {
     text-decoration: underline;
   }
   .display {
-    display: flex;
+    display: flex!important;
   }
   .subcategory {
     padding: .4rem .7rem;
   }
+  @media (min-width: 783px) {
+    .categories {
+      padding: 2em 0 0;
+    }
+    .subcategories {
+      display: none;
+      padding: .5em 0 0;
+    }
+  }
+  @media (min-width: 1080px) {
+    .category {
+      padding: 0.6rem 0.8rem;
+      margin: 3px;
+    }
+    .category-wrapper {
+      height: 60px;
+    }
+  }
 </style>
 <script>
+
   const subcategoriesBtn = document.getElementById('toggle-subcategories');
   const subcategories = document.getElementById('subcategories');
+
+  const categoriesBtn = document.getElementById('toggle-categories');
+  const categoriesWrapper = document.getElementById('categories');
+  categoriesBtn?.addEventListener('click', () => categoriesWrapper?.classList.toggle("display"));
   subcategoriesBtn?.addEventListener('click', () => subcategories?.classList.toggle("display"));
+
 </script>

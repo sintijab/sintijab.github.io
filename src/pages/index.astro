@@ -8,6 +8,7 @@ import GridItem from "../components/GridItem.astro";
 import Image from '../components/Image.svelte';
 import FooterBanner from "../components/FooterBanner.astro";
 import Carousel from "../components/Carousel.astro";
+import Posts from "../components/Posts.astro";
 
 ---
 
@@ -31,6 +32,21 @@ import Carousel from "../components/Carousel.astro";
 				flex-direction: column-reverse;
 				align-items: center;
 			}
+			.main-section-items {
+				grid-column-start: 1;
+				grid-column-end: span 4;
+			}
+			.main-section-items > h3 {
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				padding-left: .5rem;
+				margin-bottom: 0;
+			}
+			.main-section-items div ul li {
+				grid-basis: 50%;
+			}
+			.main-section-item {
+				flex-basis: inherit;
+			}
 			@media (min-width: 600px) {
 				.about {
 					display: grid;
@@ -46,7 +62,7 @@ import Carousel from "../components/Carousel.astro";
 					grid-column-start: 6;
 					grid-column-end: span 3;
 				}
-			}
+			}		
 			@media (min-width: 1080px) {
 				.intro-text {
 					grid-column-start: 2;
@@ -56,8 +72,12 @@ import Carousel from "../components/Carousel.astro";
 					grid-column-start: 9;
 					grid-column-end: span 3;
 				}
+				.main-section-items {
+					grid-column-start: 3;
+					grid-column-end: span 8;
+				}
 			}
-		</style>
+			</style>
 	</head>
 	<body>
 		<Header title={SITE_TITLE} />
@@ -81,6 +101,21 @@ import Carousel from "../components/Carousel.astro";
 				/>
 			</GridItem>
 		</Grid>
+	<Grid class="main-section">
+		<GridItem class="main-section-items">
+			<h3>Latest News</h3>
+			<Posts postsClass="main-section-item" collection="workshops", hideCategories={true}, nrOfPosts={2} fullPreview={false}/>
+		</GridItem>
+		<GridItem class="main-section-items">
+			<Posts collection="projects", hideCategories={true}, nrOfPosts={2} fullPreview={false} />
+		</GridItem>
+		<GridItem class="main-section-items">
+			<Posts collection="weekender", hideCategories={true}, nrOfPosts={2} fullPreview={false} />
+		</GridItem>
+		<GridItem class="main-section-items">
+			<Posts collection="research", hideCategories={true}, nrOfPosts={1} fullPreview={false}/>
+		</GridItem>
+	</Grid>
 		</main>
 		<FooterBanner url="https://images.prismic.io/syntia/33f0f828-ca31-41c8-a572-7da3291b674e_profile-code.webp?auto=compress,format" title="intro" alt="intro"/>
 		<Footer />

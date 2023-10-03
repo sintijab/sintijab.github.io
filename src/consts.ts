@@ -6,4 +6,5 @@ export const SITE_DESCRIPTION = 'Welcome to my website!';
 export const PROJECT_COLLECTION = "projects";
 export const WORKSHOP_COLLECTION = "workshops";
 export const RESEARCH_COLLECTION = "research";
+export const WEEKENDER_COLLECTION = "weekender";
 

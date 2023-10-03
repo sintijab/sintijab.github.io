@@ -3,8 +3,8 @@ description: 'A Double Eclipse'
 pubDate: 'Jul 4, 2021'
 heroImage: 'https://images.prismic.io/syntia/aac73bb0-0e77-4769-8ae8-00da5c08c1ff_csm_corona_2_2ff67dd1bc.jpg?auto=compress,format'
 author: 'Syntia'
-categories: 'research, crisis managament, community of practice'
-subcategories: 'democracy, censorship, digital literacy skills'
+categories: 'research, information access, community of practice'
+subcategories: 'digital literacy skills'
 ---
 
 # **A Double Eclipse**  

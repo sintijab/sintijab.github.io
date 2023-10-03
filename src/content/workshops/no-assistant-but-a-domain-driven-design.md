@@ -3,7 +3,7 @@ description: 'Software engineers with no assistant but a domain driven design'
 pubDate: 'Jun 23, 2022'
 heroImage: 'https://images.prismic.io/syntia/8cea8294-1143-42c6-856a-338dd0a286d5_img_20220827_105638_666.jpg?auto=compress,format'
 author: 'Syntia'
-categories: 'workshops, cloud applications, software architecture design'
+categories: 'workshops, cloud infrastructure, software architecture design'
 subcategories: 'software scalability, domain driven design, devops, service distribution'
 ---
 

@@ -3,7 +3,7 @@ description: 'Probability Distribution in Sonic Arts'
 pubDate: 'Mar 4, 2022'
 heroImage: 'https://images.prismic.io/syntia/c08197f4-b69a-4ea5-85f0-76dbf2b59d6d_la-musique-1939.jpg?auto=compress,format'
 author: 'Syntia'
-categories: 'projects, sound studies, sonic arts, sonic fiction'
+categories: 'projects, sound studies'
 subcategories: 'sound interdisciplinary, sonic agency, sound politics, discrete data, probability distribution'
 ---
 

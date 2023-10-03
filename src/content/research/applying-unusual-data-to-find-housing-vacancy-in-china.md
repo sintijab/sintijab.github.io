@@ -3,8 +3,8 @@ description: 'Applying Unusual Data to Find Housing Vacancy in China'
 pubDate: 'Jul 31, 2021'
 heroImage: 'https://images.prismic.io/syntia/2a397abe-b3ba-4aa9-9408-00553c0240cd_img_20210731_214243.jpg?auto=compress,format'
 author: 'Syntia'
-categories: 'research, environmental studies, urban design'
-subcategories: 'real estate, housing crisis, housing market, landscape design, urban planning'
+categories: 'research, environmental studies, urban design, network'
+subcategories: 'housing market, landscape design, urban planning'
 ---
 
 # **Applying Unusual Data to Find Housing Vacancy in China**

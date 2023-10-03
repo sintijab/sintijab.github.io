@@ -2,8 +2,15 @@
 import { getCollection } from 'astro:content';
 import FormattedDate from './FormattedDate.astro';
 import Categories from './Categories.astro';
-
-const { collection, category } = Astro.props;
+interface Props {
+  hideCategories?: boolean;
+  collection: string;
+  category?: string;
+  nrOfPosts?: number;
+  postsClass?: string;
+  fullPreview?: boolean;
+}
+const { collection, category, hideCategories = false, nrOfPosts, fullPreview = true } = Astro.props;
 
 let posts = (await getCollection(collection)).sort(
 	(a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
@@ -22,27 +29,29 @@ const subcategories = posts.map((post) => {
 const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const formatted = (item as string).toLowerCase(); return formatted.trim()});
 ---
 <div>
-  {categories && <Categories categories={uniqueCategories} subcategories={uniqueSubCategories} collection={collection} category={formatted} />}
+  {categories && !hideCategories && <Categories categories={uniqueCategories} subcategories={uniqueSubCategories} collection={collection} category={formatted} />}
   <ul>
     {
-      posts.map((post) => {
+      posts.map((post, i) => {
         const categories = post.data.categories.toLowerCase();
         const subCategories = post.data.subcategories.toLowerCase();
         if (categories.includes(formatted) || subCategories.includes(formatted) || !category) {
-          return (
-            <li>
-              <a href={`/${collection}/${post.slug}/`}>
-                <label class="label">{collection}</label>
-                <div class="story-wrapper">
-                  <h4 class="title">{post.data.description}</h4>
-                  <p class="date">
-                    <FormattedDate date={new Date(post.data.pubDate)} />
-                  </p>
-                </div>
-                <img class="article-preview" width={720} height={360} src={post.data.heroImage} alt="" />
-              </a>
-            </li>
-          )
+          if (!nrOfPosts || nrOfPosts && i < nrOfPosts) {
+            return (
+              <li class={`${fullPreview ? "preview" : ''}`}>
+                <a href={`/${collection}/${post.slug}/`}>
+                  <label class="label">{collection}</label>
+                  <div class="story-wrapper">
+                    <h4 class="title">{post.data.description}</h4>
+                    <p class="date">
+                      <FormattedDate date={new Date(post.data.pubDate)} />
+                    </p>
+                  </div>
+                  <img class="article-preview" width={720} height={360} src={post.data.heroImage} alt="" />
+                </a>
+              </li>
+            )
+          }
         }})
     }
   </ul>
@@ -52,16 +61,19 @@ const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const for
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    align-items: flex-start;
+    align-items: stretch;
     gap: 2rem;
     list-style-type: none;
-    margin: 2em 0 0;
     padding: 0;
+    margin-top: .5rem;
   }
   ul li {
     padding: .5em;
     border-top: 1px solid rgba(99, 99, 99, 0.2);
     box-sizing: fit-content;
+  }
+  ul li.preview:first-child {
+    flex-basis: 100%;
   }
   ul li * {
     text-decoration: none;
@@ -81,12 +93,24 @@ const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const for
     display: flex;
     flex-wrap: wrap;
   }
+  ul li a img {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    max-width: 100%;
+  }
   .title {
     margin: 0;
     color: rgb(var(--black));
     line-height: 1.2;
     font-size: 18px;
     font-family: 'Cabin', 'Poppins', sans-serif;
+  }
+  ul li:first-child .label {
+    display: none;
+  }
+  .label {
+    padding: 0 0 .3rem;
   }
   .label, .date {
     color: rgb(var(--black));
@@ -117,11 +141,22 @@ const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const for
   @media (min-width: 1080px) {
     ul {
       flex-direction: row;
+      margin: .3em 0 0;
     }
     ul li {
       width: calc(47% - 1rem);
       flex: 1 1 calc(47% - 1rem);
-      height: 230px;
+    }
+    ul li:first-child a img {
+      max-width: 650px;
+      max-height: 250px;
+      height: 100%;
+    }
+    ul li:first-child a .story-wrapper {
+      justify-content: flex-end;
+    }
+    ul li a img {
+      max-width: 250px;
     }
     .story-wrapper {
       flex-wrap: wrap;
