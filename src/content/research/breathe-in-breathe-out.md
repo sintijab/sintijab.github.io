@@ -11,8 +11,6 @@ subcategories: 'ssi training, ssi certification, freediving, marine biology, cla
 
 Diving is one of the most fascinating and beautiful sports. Every open water site discovery as a freediver or scuba diver starts with a momentum of how the environment has developed for the time being.
 
-![](https://images.prismic.io/syntia/bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format)
-
 Playa Caló de ses Lleonardes – Mallorca – Playas de Baleares
 
 > “La confiance en ses propres capacités se construit dans le temps long. Elle est un rempart à l’hostilité des grands fonds. Elle est la plus robuste des armes pour affronter l’inconnu. Mais c’est aussi un édifice friable et perméable au doute qui ruisselle et s’incruste dans nos failles intimes. La confiance se gagne, se perd, vacille, s’effondre puis se recons- truit plus forte, plus solide encore. Cette confiance en soi est le premier laissez-passer pour gagner des mètres supplémentaires.”

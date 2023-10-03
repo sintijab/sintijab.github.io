@@ -9,8 +9,6 @@ subcategories: 'data structures, application state, computational complexity, me
 
 # **Data flow analysis in Web applications**
 
-![](https://images.prismic.io/syntia/f3906029-cc44-46a2-b42c-7d95f6475bda_12976875.jpg?auto=compress,format)
-
 Fibonacci “Golden Ratio in art, design and photography”, painting “Girl with a Pearl Earring” by Johannes Vermeer
 
 Data state management is the process of controlling application’s input across multiple data entries throughout a session. 

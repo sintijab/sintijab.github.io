@@ -19,8 +19,6 @@ To build a kick-ass frontend, we rely on each other: Designers on developers, an
 
 One of the most influential tools in 2022 has became _Conventional_ comments that encourage devs to read and write feedback in a better way and having a better quality of reviews, link to the website: [https://conventionalcomments.org/](https://conventionalcomments.org/) created by Paul Slaughter.
 
-![](https://images.prismic.io/syntia/4fc5860f-6a48-4ccf-8548-3d300b80a89e_img_20220826_103321.jpg?auto=compress,format)
-
 ![](https://images.prismic.io/syntia/7811d84b-520c-4a64-bcce-ab42ca81fd47_img_20220826_144732.jpg?auto=compress,format)
 
 ### **Static builds**

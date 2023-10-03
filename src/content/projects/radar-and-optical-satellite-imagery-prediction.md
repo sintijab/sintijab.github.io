@@ -9,8 +9,6 @@ subcategories: 'convolutional neural network, artificial neural networks, satell
 
 # **Radar and optical satellite imagery prediction**
 
-![](https://images.prismic.io/syntia/2f347b0b-5e4c-4167-a106-e625524b3ca4_figure-2022-03-27-153109.png?auto=compress,format)
-
 Test image and feature maps from convolutional layer
 
 Progress made in technology and digital signal processing since the early 50s lead to developing systems useful for military and civilian actions.

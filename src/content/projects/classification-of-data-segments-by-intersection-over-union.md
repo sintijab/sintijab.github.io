@@ -8,9 +8,6 @@ subcategories: 'convolutional neural network, artificial  neural network'
 ---
 # **Classification of data segments by intersection over union**
 
-  
-![](https://images.prismic.io/syntia/6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format)
-
 The most fundamental classification problem in computer vision is the image classification itself, where the label and the main object is a given output of an image as it fails to recognize type of the objects out of its bounding box localization.
 
 Accurate segmentation of instances remains difficult, especially at object edges. This problem is more prominent for instance segmentation in remote sensing imagery due to the diverse scales, variable illumination, smaller objects, and complex backgrounds. We find that most current instance segmentation networks do not consider the segmentation difficulty of different instances and different regions within the instance.

@@ -8,7 +8,6 @@ subcategories: 'web3, decentralization, web3 protocols, layer1, tezos, solana, a
 ---
 
 # **Internet of Value (IoV)**
-
   
 How companies are using blockchain as a technology? These three finalists from NBX Next Block expo 2022 are projects highly valued for bringing new developers into Web3 and creating a new jobs.
 

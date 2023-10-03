@@ -8,7 +8,6 @@ subcategories: 'communication protocols, transmission control protocol, internet
 ---
 
 # **Measure Twice, Cut Once-Kubernetes Networking 101**  
-![](https://images.prismic.io/syntia/beb170e5-c363-43b6-bab1-8fd52a6f1fa8_dns.webp?auto=compress,format)
 
 In our previous Networking Workshop [Measure Twice, Cut Once- Dive into Network Foundations Workshop](https://syntia.org/2023/04/21/measure-twice-cut-once-dive-into-network-foundations-workshop/) we learned about how Kubernetes maps to the Networking layers in the infrastructure that provides the compute infrastructure and basis of the Networking interface.
 

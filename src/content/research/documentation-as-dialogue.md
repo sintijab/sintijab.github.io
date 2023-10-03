@@ -9,8 +9,6 @@ subcategories: 'artifact archive, archival research, content curation, algorithm
 
 # **Documentation as Dialogue**
 
-![](https://images.prismic.io/syntia/02b207f7-deaa-40d9-9326-90f7382a1e21_image-asset.jpeg?auto=compress,format)
-
 Ad Reinhardt, detail from “How to look at cubist painting”
 
 Agility is our ability to respond to a change while continuing to provide value. It is an attitude, not a technique with boundaries. Agile mindset is the answer- acting in an agile way when the market, technologies, our expertise and value has ever changed.

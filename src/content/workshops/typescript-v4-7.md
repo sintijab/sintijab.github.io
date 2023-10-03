@@ -8,8 +8,6 @@ subcategories: 'typescript compiler, variance annotations, type annotations, typ
 ---
 # **TypeScript v4.7**
 
-![](https://images.prismic.io/syntia/ef08c2fb-19b1-4219-a4aa-cf1f6c011aa5_49257.png?auto=compress,format)
-
 ## **Features from TypeScript v4.7 upgrade**
 
 ##### **Variance annotations**

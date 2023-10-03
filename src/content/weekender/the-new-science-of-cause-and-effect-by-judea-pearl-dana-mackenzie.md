@@ -9,8 +9,6 @@ subcategories: 'book reviews, information access, user research, causation'
 
 # **“The New Science Of Cause and Effect” by Judea Pearl & Dana Mackenzie**
 
-![](https://images.prismic.io/syntia/fc21d70d-40d9-40fc-9523-10c583cba547_361_855b_f1.jpeg?auto=compress,format)
-
 Does the rising sun cause the rooster to crow? Questions of causality can finally be answered, write Pearl and Mackenzie.Photo: [istock.com/middelveld](//istock.com/middelveld)
 
 [https://soundcloud.com/synthactic/the-new-science?utm\_source=clipboard&utm\_campaign=wtshare&utm\_medium=widget&utm\_content=https%253A%252F%252Fsoundcloud.com%252Fsynthactic%252Fthe-new-science](https://soundcloud.com/synthactic/the-new-science?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fsynthactic%252Fthe-new-science)

@@ -9,9 +9,6 @@ subcategories: 'risk evaluation, leadership, noise audit, noise reduction, cost 
 
 # **A System That Creates Noise**
 
-  
-![](https://images.prismic.io/syntia/41ccf87c-e57c-42db-80b9-923667404ed6_00sci-maunaloa-1-d2c9-superjumbo.webp?auto=compress,format)
-
 Mauna Loa, the world’s largest active volcano, began erupting this week for the first time since 1984.Credit…Bruce Omori/EPA, via Shutterstock
 
 Wherever you see human judgements, you are likely to find a noise. To improve the quality of our judgements, we need to overcome noise and bias in our decisions.

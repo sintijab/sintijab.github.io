@@ -34,8 +34,6 @@ Laurent Ballesta’s Gombessa project has been devoted to the study of some of t
 
 ![](https://images.prismic.io/syntia/30f27772-ad4c-4315-bbbb-981e15442055_cnxdu4qob07.jpg?auto=compress,format)
 
-![](https://images.prismic.io/syntia/81ea6688-c3a8-48e8-9af7-3a0fd0d3ebe1_cnxdu2eux0f.jpg?auto=compress,format)
-
 Credit: Laurent Ballesta, Eloise Brown for the Oceanographic Magazine, Issue Eleven
 
 The latest additions to the Fifty Fathoms collection are extraordinary technical achievements as well as a tribute to the pioneers who made scuba diving possible. It is their passion and dedication which opened up whole new era for underwater exploration. It continues to inspire Blancpain in using innovative materials and new technical solutions to fulfil the most sophisticated demands for diving.

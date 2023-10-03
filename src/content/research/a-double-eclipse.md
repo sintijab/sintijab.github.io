@@ -8,7 +8,6 @@ subcategories: 'digital literacy skills'
 ---
 
 # **A Double Eclipse**  
-![](https://images.prismic.io/syntia/aac73bb0-0e77-4769-8ae8-00da5c08c1ff_csm_corona_2_2ff67dd1bc.jpg?auto=compress,format)
 
 For the minorities coming to their country seeking asylum who then find themselves having to contend with the prejudices and half-formed opinions of people who seem to believe in the idea of a place as an informal caste system rather than a full-fledged democracy.  
 Such an example of hate speech I will highlight from Jason Montojo’s article for Dr. Dobb’s Journal, monthly magazine published in the United States by UBM Technology Group, covered topics aimed at computer programmers launched at 1976 and becoming the first regular periodical focused on microcomputer software, rather than hardware.  

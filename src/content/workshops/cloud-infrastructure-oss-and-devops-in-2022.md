@@ -9,8 +9,6 @@ subcategories: 'cloud native, kubernetes, alert managament, observability, load 
 
 # **Cloud infrastructure OSS and DevOps in 2022**
 
-![](https://images.prismic.io/syntia/dec82228-0a77-4a76-b6b0-a10522d4bf84_mode-2.jpg?auto=compress,format)
-
 [GSoC: Force Directed Edge Bundling](https://gephi.wordpress.com/2012/09/21/gsoc-force-directed-edge-bundling/)
 
 KubeCon and CloudNativeCon conference gathers leading open source and cloud native communities. It provides an important forum for exchanging relevant information and insights on Kubernetes and broader DevOps trends. Organizations focused on open source software (OSS) technologies and solutions are well positioned to learn and adapt to the rapidly changing dynamics of application’s architectural decisions and standards of web development and delivery in the steam of pandemic crisis, increasing social inequality and economical challenges.

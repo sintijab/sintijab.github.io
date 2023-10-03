@@ -9,8 +9,6 @@ subcategories: 'typescript compiler, variance annotations, type annotations, typ
 
 # **Writing better JavaScript with TypeScript in 10 steps**
 
-![](https://images.prismic.io/syntia/6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format)
-
 Effective TypeScript, 62 Specific Ways to Improve Your TypeScript by Dan Vanderkam
 
 TypeScript is a powerful tool for JavaScript. It requires adding a types to detect and parse code that would throw an exception at runtime without running the code base, as simple as prevention of errors in development-time.

@@ -19,8 +19,6 @@ From the tooling and building Software and Infrastructure Bill of Materials we w
 
 _Proposal for a Regulation of the European Parliament and of the council on horizontal cybersecurity requirements for products with digital elements and amending Regulation (EU) 2019/1020_
 
-![](https://images.prismic.io/syntia/3999c33e-70ea-4679-a7f9-4a4e126b6fa4_196476203-3e288fa7-241e-4520-aacb-8ebb9a8e442e.webp?auto=compress,format)
-
 ![](https://images.prismic.io/syntia/a0ebf46d-ffff-486e-b1b9-52be68b24306_196477253-7ede9ec5-a995-4e59-aab7-8acb35dc56cf.webp?auto=compress,format)
 
 ![](https://images.prismic.io/syntia/b0ee3537-2638-47d7-bcb2-429ad3af0092_196480219-ff3ed225-65f6-401e-a58a-f8b823e69475.webp?auto=compress,format)
