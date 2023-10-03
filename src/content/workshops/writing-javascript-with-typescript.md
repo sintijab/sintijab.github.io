@@ -1,7 +1,7 @@
 ---
 description: 'Writing better JavaScript with TypeScript in 10 steps'
 pubDate: 'Jun 28, 2021'
-heroImage: 'https://images.prismic.io/syntia/1d989402-fb0e-4ae2-8d36-923f659b6d95_41jnu0vcbl._sx379_bo1204203200_.jpg?auto=compress,format'
+heroImage: 'https://images.prismic.io/syntia/6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format'
 author: 'Syntia'
 categories: 'workshops, interfaces, typescript, control flow analysis'
 subcategories: 'typescript compiler, variance annotations, type annotations, typescript rules'
@@ -9,7 +9,7 @@ subcategories: 'typescript compiler, variance annotations, type annotations, typ
 
 # **Writing better JavaScript with TypeScript in 10 steps**
 
-![](https://images.prismic.io/syntia/1d989402-fb0e-4ae2-8d36-923f659b6d95_41jnu0vcbl._sx379_bo1204203200_.jpg?auto=compress,format)
+![](https://images.prismic.io/syntia/6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format)
 
 Effective TypeScript, 62 Specific Ways to Improve Your TypeScript by Dan Vanderkam
 

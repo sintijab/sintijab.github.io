@@ -3,8 +3,8 @@ description: 'Baltic Vikings are not Baltic- connection between the Baltic Sea a
 pubDate: 'Feb 13, 2023'
 heroImage: 'https://images.prismic.io/syntia/899a05af-2e8d-457b-b1d1-35f5cea915a1_euroopa-kaart-9.-saj-alguses-1024x798-1.jpg?auto=compress,format'
 author: 'Syntia'
-categories: 'research, environmental studies, baltic sea nature and heritage protection'
-subcategories: 'baltic sea heritage, clean up dives, marine pollution, ghost net removal, dive against debris, flying dutchman, baltic sea heritage rescue project'
+categories: 'research, environmental studies'
+subcategories: 'baltic sea heritage, clean up dives, marine pollution, ghost net removal, dive against debris, flying dutchman, balic sea heritage'
 ---
 
 

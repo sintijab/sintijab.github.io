@@ -1,6 +1,6 @@
 ---
 description: 'Principle from beginner to advanced levels No. 1- problems with practical examples in code must be solved in 1h...'
-pubDate: '28 July 2023'
+pubDate: 'Jul 28, 2023'
 heroImage: 'https://images.prismic.io/syntia/f527fcc8-4b8c-4a67-a8db-059bbde53dac_img_20230726_150309-1.webp?auto=compress,format'
 author: 'Syntia'
 categories: 'workshops, cloud infrastructure, networking, kubernetes'

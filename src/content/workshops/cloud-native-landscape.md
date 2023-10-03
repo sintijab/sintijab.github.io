@@ -3,8 +3,8 @@ description: 'Provisioning Cloud Native Landscape'
 pubDate: 'May 16, 2022'
 heroImage: 'https://images.prismic.io/syntia/ad567817-7719-48c2-bf83-545944c8b2bd_bliss.jpg?auto=compress,format'
 author: 'Syntia'
-categories: 'workshops, cloud infrastructure, devops, cloud native computing foundations'
-subcategories: 'cloud native trail map, provisioning platform, infrastructure as code, virtualization, infrastructure security, containerization, key encryption, cloud native storage, cloud runtime environment, infrastructure orchestration'
+categories: 'workshops, cloud infrastructure, devops'
+subcategories: 'cloud infrastructure, provisioning platform, infrastructure as code, virtualization, infrastructure security, containerization, key encryption, cloud native storage, cloud runtime environment, infrastructure orchestration'
 ---
 
 # **Cloud native Landscape**
