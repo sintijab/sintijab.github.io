@@ -6,5 +6,8 @@ const meta: Meta = {
   args: {},
 };
 export const S1 = { name: 'sielunmaisema' };
+export const S2 = { name: 'is-the-glass-half-empty-or-half-full' };
+export const S3 = { name: 'the-new-science-of-cause-and-effect-by-judea-pearl-dana-mackenzie'};
+export const S4 = { name: 'business-of-thinking'};
 
 export default meta;
