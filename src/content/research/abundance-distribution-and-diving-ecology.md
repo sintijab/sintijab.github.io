@@ -9,8 +9,6 @@ subcategories: 'industrial manufacturing, compressor systems, industrial air sys
 
 # **Abundance, distribution, and diving ecology**
 
-![](https://images.prismic.io/syntia/0a1dfa4c-f78b-4ca2-90a2-5a488aebd75a_img-20230127-wa0001.jpg?auto=compress,format)
-
 Freediving with Nik Linder, world record holder in freediving under ice and dynamic apnea
 
 Today I was honoured to step into a discussion with Bauer crew experts about the risks of ice diving and polar scientific research from their past expeditions.

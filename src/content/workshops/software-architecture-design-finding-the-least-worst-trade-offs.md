@@ -9,8 +9,6 @@ subcategories: 'software scalability, domain driven design, devops, service dist
 
 # **Software architecture design- finding the least worst trade-offs**
 
-![](https://images.prismic.io/syntia/0956969c-64e0-47bf-9c70-7900606555fe_sustain-ops.png?auto=compress,format)
-
 Software Architecture: The Hard Parts, Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani
 
 Businesses must be agile to survive in today’s fast paced and ever changing market, meaning their underlying architectures must be agile as well. The goal is to investigate how to do trade-off analysis in distributed architectures.

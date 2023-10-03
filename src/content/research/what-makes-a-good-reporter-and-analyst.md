@@ -10,8 +10,6 @@ subcategories: 'qualitative analysis, computer literacy, relational model, level
 
 # **What makes a good reporter and analyst?**
 
-![](https://images.prismic.io/syntia/53451459-7b9a-450d-a10b-4ad15139cc7a_128331849.jpg.jpg?auto=compress,format)
-
 Maria Ressa won a Nobel Peace Prize in 2021
 
 “This is a day that we had hoped would happen sooner. And you know, it went down to these three things, facts, truth and justice. That is who won today.”

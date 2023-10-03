@@ -9,7 +9,6 @@ subcategories: 'upcycled fashion, circular economy, urban design, augmented real
 
 
 # **Excess is no longer in fashion**  
-![](https://images.prismic.io/syntia/a528ba18-15af-41a2-a913-7f166bd85850_san_kim_layout_04-jp-1v3-2048x1289-1.jpg?auto=compress,format)
 
 Photography by Kerry J Dean
 

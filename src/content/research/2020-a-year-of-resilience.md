@@ -10,8 +10,6 @@ subcategories: 'scholars program, community of practice, digital literacy skills
 
 # **2020: a year of resilience**
 
-![](https://images.prismic.io/syntia/2cd0b4bf-183e-400c-a0d5-ed470887bef2_screenshot-2021-07-21-at-15.32.20.png?auto=compress,format)
-
 CLCC publications, 2020 Yearbook, [https://connectedlearning4refugees.org/publications/](https://connectedlearning4refugees.org/publications/)
 
 During the last year The Connected Learning in Crisis Consortium (CLCC) members and organisations set education pathways in fragile environments and strengthen the foundation to provide further capacity built for universities worldwide to increase online learning opportunities.

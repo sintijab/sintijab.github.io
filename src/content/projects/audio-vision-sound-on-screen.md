@@ -8,7 +8,6 @@ subcategories: 'audio visual media, sound classification, interdisciplinary medi
 ---
 
 # **Audio-Vision: Sound on screen**  
-![](https://images.prismic.io/syntia/e9708192-8123-461e-9214-4d4e9864aee5_1691773573.webp?auto=compress,format)
 
 [https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app\_id=122963](https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app_id=122963)
 

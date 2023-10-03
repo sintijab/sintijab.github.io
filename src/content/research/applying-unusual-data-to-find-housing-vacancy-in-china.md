@@ -9,8 +9,6 @@ subcategories: 'housing market, landscape design, urban planning'
 
 # **Applying Unusual Data to Find Housing Vacancy in China**
 
-![](https://images.prismic.io/syntia/2a397abe-b3ba-4aa9-9408-00553c0240cd_img_20210731_214243.jpg?auto=compress,format)
-
 Data analysts should have the ability to use the data collected by private companies for a public good. High vacancy rates have become a serious concern in many Chinese cities, especially in those experiencing an economic slowdown, which some say started as early as 2008 during the global economic crisis. The phenomenon, often called “ghost cities” usually describes whole cities of vacant properties; but it can also mean pockets of existing second and third-tier cities with high vacancies as a result of poor planning that results in lack of access to jobs or amenities.
 
 The Civic Data Design Lab (CDDL) set out to test whether it was possible to measure vacancy by using data downloaded from Chinese APIs. Over the course of three months in the fall of 2016 the team developed code to download data from several of China’s top social media sites: Dianping, Amap, Fang, and Baidu.

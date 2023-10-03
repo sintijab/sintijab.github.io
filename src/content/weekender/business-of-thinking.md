@@ -8,8 +8,6 @@ subcategories: 'book reviews, information access, well being, sequential thinkin
 ---
 # **Business of thinking: Move!**
 
-![](https://images.prismic.io/syntia/1f4eebf7-de7a-441d-ae0d-b11749c0003c_cover-new.jpg?auto=compress,format)
-
 Highlights from the book- Move! The New Science of Body Over Mind by Caroline Williams. 
 
 Brachiation is a complicated way of moving. According to the evolutionary anthropologist Robert Barton, of Durham University, it requires more than just a vague plan of action to stand any chance of getting from A to B safely. Staying safe while swinging through the trees requires an ability to link movement to an understanding of the consequences of your actions at speed, which means being able to formulate and adapt a plan on the fly.

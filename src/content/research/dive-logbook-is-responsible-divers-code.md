@@ -18,8 +18,6 @@ Diving an research institutions such as Ocean Explorer collaborates with the con
 
 ![](https://images.prismic.io/syntia/f6daf9f9-3bdf-4ed7-9865-c4d85878ff55_20230102-15h-false-orca-oceanexplorer-23.jpg?auto=compress,format)
 
-![](https://images.prismic.io/syntia/4477dd7b-e1bb-424b-9039-dc6478a89094_IMG_20230102_142855.jpg?auto=compress,format)
-
 Marine acoustic technologies are increasingly being used to remotely monitor changing aquatic ecosystems. Passive acoustic monitoring (PAM) uses hydrophones to monitor underwater environments with non-invasive methods.  
 There is spatial variation in reef sounds, suggesting that they carry unique information about habitat quality from their origins. Coral reefs are hot spots of biodiversity and are an acoustically rich sonar environments full of fishes and benthics.  
 Marine turtles, for instance, have long been considered to be silent, however, recent studies on hearing of marine turtles have shown they have an ability to perceive sounds.  

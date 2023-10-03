@@ -15,8 +15,6 @@ Part of the conference were advertising AI solutions such GitHub Copilot. Showca
 
 [https://www.youtube.com/embed/wDMWEAjncjU?start=5528&feature=oembed](https://www.youtube.com/embed/wDMWEAjncjU?start=5528&feature=oembed)
 
-![](https://images.prismic.io/syntia/3df430cd-5932-4dca-9421-dff593c695e5_692944.jpg?auto=compress,format)
-
 ![](https://images.prismic.io/syntia/a85291ab-4794-4eca-9a98-109cbf9beb0e_img_20230727_094654-1.webp?auto=compress,format)
 
 ![](https://images.prismic.io/syntia/75c55c55-a006-4043-84a3-f16553d10248_img_20230728_120739-2.webp?auto=compress,format)

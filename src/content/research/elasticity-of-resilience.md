@@ -9,8 +9,6 @@ subcategories: 'installation, augmented reality, digital skills'
 
 # **ELASTICITY OF RESILIENCE**
 
-![](https://images.prismic.io/syntia/8c5c573f-bdc3-4360-86e4-05bb65db0c8b_img_20220918_165943.jpg?auto=compress,format)
-
 Spanning installation, sculpture, augmented reality, virtual reality, and net art, THE MAW OF features a site-specific installation at Tieranatomisches Theater (TA T), Berlin
 
 Ongoing exhibitions at Veterinary Anatomy Theater (Tieranatomisches Theater) and SAVVY Contemporary, panke.gallery, and SAVVY Contemporary  Reinickendorfer Straße 17, 13347 Berlin

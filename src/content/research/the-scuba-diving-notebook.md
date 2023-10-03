@@ -9,8 +9,6 @@ subcategories: 'ssi training, ssi certification, scuba, responsible diver code, 
 
 # **The Scuba Diving Notebook**
 
-![](https://images.prismic.io/syntia/a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format)
-
 Octopus in its house in Playa Chica y Barranco del Quíquere (Puerto del Carmen)
 
 ![](https://images.prismic.io/syntia/3840e499-9deb-49db-bbd3-11cc91eaa97d_screenshot-771.png?auto=compress,format)

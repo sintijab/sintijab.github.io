@@ -9,8 +9,6 @@ subcategories: 'sound interdisciplinary, sonic agency, sound politics, discrete 
 
 # **Probability Distribution in Sonic Arts**
 
-![](https://images.prismic.io/syntia/c08197f4-b69a-4ea5-85f0-76dbf2b59d6d_la-musique-1939.jpg?auto=compress,format)
-
 Sonic arts as a force of liberation, cultural artifacts, and contextualized events connect the semantic, imaginary, sonar systems with the speed of thought and subjectivity.
 
 Sonic fiction language relies on matters of production where repetition of sound and voice has several underlying instances different from the implications of a read story. 

@@ -9,8 +9,6 @@ subcategories: 'cloud infrastructure, provisioning platform, infrastructure as c
 
 # **Cloud native Landscape**
 
-![](https://images.prismic.io/syntia/ad567817-7719-48c2-bf83-545944c8b2bd_bliss.jpg?auto=compress,format)
-
 **_Bliss_** is a virtually unedited photo of a green hill and blue sky with clouds in the Carneros AVA, California. Charles O’Rear took the photo in January 1996 and Microsoft bought the rights in 2000. It is estimated that billions of people have seen the picture, possibly making it the most viewed photograph in history.
 
 The cloud native space evolves rapidly. End-users now are expecting to build complete solutions within Kubernetes in order to build applications accessible from any device and deploy them in scalable, secure and isolated environments. It increases complexity when operating across clouds, ecosystems and infrastructure. Access to industry requires specific capabilities specific to domain such as Gaming, Entertainment, Medical, Energy, Manufacturing or Fintech. Operators that synthesise human operators are paramount this scaling effort.
