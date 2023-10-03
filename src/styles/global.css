@@ -35,7 +35,7 @@ body {
 
 main {
 	margin: 0;
-	padding: 1em 0;
+	padding: 2.2em 0;
 }
 
 h1,
@@ -155,7 +155,7 @@ nav {
 	padding: .5rem 0;
 	letter-spacing: normal;
 	line-height: 1;
-	position: relative;
+	position: absolute;
 	margin: 0;
 }
 
