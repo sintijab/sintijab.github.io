@@ -1,0 +1,104 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import FooterBanner from "../components/FooterBanner.astro";
+import Carousel from "../components/Carousel.astro";
+
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+      .content {
+        text-align: center;
+        font-family: 'Raleway', 'Poppins', sans-serif;
+      }
+      .content p a {
+        color: rgb(234 16 240);
+      }
+			.description {
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-size: 20px;
+				color: #393939;
+			}
+			.intro-text,
+			.intro-img {
+				grid-column-start: 1;
+				grid-column-end: span 4;
+			}
+			.about {
+				display: flex;
+				flex-direction: column-reverse;
+				align-items: center;
+			}
+			.main-section-items {
+				grid-column-start: 1;
+				grid-column-end: span 4;
+			}
+			.main-section-items > h3 {
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				padding-left: .5rem;
+				margin-bottom: 0;
+			}
+			.main-section-items div ul li {
+				grid-basis: 50%;
+			}
+			.main-section-item {
+				flex-basis: inherit;
+			}
+			@media (min-width: 600px) {
+				.about {
+					display: grid;
+					align-items: center;
+					margin: 0;
+					margin-top: -1rem;
+				}
+				.intro-text {
+					grid-column-start: 1;
+					grid-column-end: span 5;
+				}
+				.intro-img {
+					grid-column-start: 6;
+					grid-column-end: span 3;
+				}
+			}		
+			@media (min-width: 1080px) {
+				.intro-text {
+					grid-column-start: 2;
+					grid-column-end: span 6;
+				}
+				.intro-img {
+					grid-column-start: 9;
+					grid-column-end: span 3;
+				}
+				.main-section-items {
+					grid-column-start: 3;
+					grid-column-end: span 8;
+				}
+			}
+			</style>
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<Carousel />
+		<main>
+			<section class="content">
+        <h1>Uups, page not found!</h1>
+        <p>
+          url path not recognised&hellip;
+          <a
+            aria-label="Return to home page"
+            href="/"
+            >Return to home page
+          </a>
+        </p>
+      </section>
+		</main>
+		<FooterBanner url="https://images.prismic.io/syntia/33f0f828-ca31-41c8-a572-7da3291b674e_profile-code.webp?auto=compress,format" title="intro" alt="intro"/>
+		<Footer />
+	</body>
+</html>
