@@ -22,7 +22,7 @@
   .media {
     max-width: 100%;
     height: auto;
-    aspect-ratio: 2 / 5;
+    aspect-ratio: 2 / 6;
     object-fit: cover;
     border-radius: inherit;
     border: none;
