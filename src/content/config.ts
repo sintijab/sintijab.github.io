@@ -13,4 +13,22 @@ const blog = defineCollection({
 	}),
 });
 
-export const collections = { 'weekender': blog, 'projects': blog, 'research': blog, 'workshops': blog };
+const about = defineCollection({
+	schema: z.object({
+		layout: z.string(),
+		title: z.string(),
+		pubDate: z.coerce.date(),
+		heroImage: z.string().optional(),
+	}),
+});
+
+const contact = defineCollection({
+	schema: z.object({
+		layout: z.string(),
+		title: z.string(),
+		heroImage: z.string().optional(),
+	}),
+});
+
+
+export const collections = { 'weekender': blog, 'projects': blog, 'research': blog, 'workshops': blog, 'about': about, 'contact': contact };

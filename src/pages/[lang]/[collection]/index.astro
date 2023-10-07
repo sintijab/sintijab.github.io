@@ -48,7 +48,7 @@ const lang = pathname.split('/').filter(e => e)[0] || 'en';
 		<Header />
 		<main>
 			<section>
-				{(collection === 'about' || collection === 'contact') ? <Content /> : <Posts collection={collection as string} />}
+				{(collection === 'about' || collection === 'contact') ? <Content /> : collection !== 'index' ? <Posts collection={collection as string} /> : <div></div}
 			</section>
 		</main>
 		<Footer />
