@@ -24,7 +24,7 @@ const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&family=Crimson+Text&family=Inter:wght@500;700&family=Poppins&family=Raleway&display=swap" rel="stylesheet">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
 
@@ -48,27 +48,30 @@ const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
 <script define:vars={{ pathname, canonicalURL }}>
-	window.dataLayer = window.dataLayer || [];
-	
-	dataLayer.push({
-	 'event': 'Page View',
-	 'pageLocation': `https://syntia.org${pathname}`,
-	 'pagePath': `${pathname}`,
-	});
-	</script>
+window.dataLayer = window.dataLayer || [];
+
+dataLayer.push({
+	'event': 'Page View',
+	'pageLocation': `https://syntia.org${pathname}`,
+	'pagePath': `${pathname}`,
+});
+</script>
 <!-- Google Tag Manager -->
-<script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-N2BLDD4T');</script>
+<script is:inline>(function (w, d, s, l, i) {
+	w[l] = w[l] || []; w[l].push({
+		'gtm.start':
+			new Date().getTime(), event: 'gtm.js'
+	}); var f = d.getElementsByTagName(s)[0],
+		j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+			'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-N2BLDD4T');</script>
 <!-- End Google Tag Manager -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0E9X7PNNYS"></script>
 <script is:inline>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+window.dataLayer = window.dataLayer || [];
+function gtag() { dataLayer.push(arguments); }
+gtag('js', new Date());
 
-  gtag('config', 'G-0E9X7PNNYS');
+gtag('config', 'G-0E9X7PNNYS');
 </script>

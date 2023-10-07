@@ -4,6 +4,7 @@
       "module": "commonjs"
     }
   },
+  "extends": "astro/tsconfigs/base",
   "compilerOptions": {
     "target": "es5",
     "lib": [

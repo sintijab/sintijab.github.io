@@ -3,22 +3,23 @@ import type { HTMLAttributes } from "astro/types";
 
 type Props = HTMLAttributes<"a">;
 
-const { href, class: className, ...props } = Astro.props;
+const { class: className, href, ...props } = Astro.props;
 
 const { pathname } = Astro.url;
 
-const isActive = (href as string).length > 1 && pathname.includes((href as URL).toString()) || pathname === href || href === pathname.replace(/\/$/, "");
+const isActive = pathname.length > 3 && (href as URL).toString().includes(pathname);
 ---
 
-<a href={href} class:list={[className, { active: isActive }]} {...props}>
+<a href={href} class:list={[className, { active: isActive }, 'nav-item']} {...props}>
 	<slot />
 </a>
+
 <style>
-	a {
+	.nav-item {
 		display: inline-block;
 		text-decoration: none;
 	}
-	a.active {
+	.nav-item.active {
 		font-weight: bolder;
 		text-decoration: underline;
 	}

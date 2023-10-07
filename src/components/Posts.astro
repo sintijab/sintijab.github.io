@@ -11,25 +11,33 @@ interface Props {
   postsClass?: string;
   fullPreview?: boolean;
 }
+const { pathname } = Astro.url;
 const { collection, category, hideCategories = false, nrOfPosts, fullPreview = true } = Astro.props;
-
-let posts = (await getCollection(collection)).sort(
+const lang = pathname.split('/').filter(e => e)[0] || 'en';
+let posts = (await getCollection(lang, ({ id }) => {
+  return id.startsWith(collection);
+}));
+if (!posts) return;
+posts = posts.sort(
 	(a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 );
-const categories = posts.map((post) => {
+const categories = posts?.map((post) => {
     let cat = post.data.categories.split(',');
     return cat.filter(item => item !== post.collection);
   }).flat();
-const uniqueCategories = [...new Set(categories)].map((item) => {const formatted = (item as string).toLowerCase(); return formatted.trim()});
+const uniqueCategories = [...new Set(categories)].map((item) => {
+  const formatted = (item as string).toLowerCase();
+  return formatted.trim()
+});
 const formatted = category && category?.replace(/-/g, ' ');
 
-const subcategories = posts.map((post) => {
+const subcategories = posts?.map((post) => {
     let cat = post.data.subcategories.split(',');
     return cat.filter(item => item !== post.collection);
   }).flat();
 const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const formatted = (item as string).toLowerCase(); return formatted.trim()});
 ---
-<div>
+{posts && (<div>
   {categories && !hideCategories && <Categories categories={uniqueCategories} subcategories={uniqueSubCategories} collection={collection} category={formatted} />}
   <ul>
     {
@@ -40,7 +48,7 @@ const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const for
           if (!nrOfPosts || nrOfPosts && i < nrOfPosts) {
             return (
               <li class={`${fullPreview ? "preview" : ''}`}>
-                <a href={`/${collection}/${post.slug}/`}>
+                <a href={`/${lang}/${post.slug}/`}>
                   <label class="label">{collection}</label>
                   <div class="story-wrapper">
                     <h4 class="title">{post.data.description}</h4>
@@ -56,7 +64,7 @@ const uniqueSubCategories = [...new Set(subcategories)].map((item) => {const for
         }})
     }
   </ul>
-</div>
+</div>)}
 <style>
   ul {
     display: flex;

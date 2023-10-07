@@ -1,0 +1,227 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
+import Grid from "../../components/Grid.astro";
+import GridItem from "../../components/GridItem.astro";
+import Image from '../../components/Image.svelte';
+import FooterBanner from "../../components/FooterBanner.astro";
+import Carousel from "../../components/Carousel.astro";
+import Posts from "../../components/Posts.astro";
+import { DE_COLLECTION, EN_COLLECTION } from '../../consts';
+
+
+export async function getStaticPaths() {
+	const en = await getCollection(EN_COLLECTION, ({ id }) => {
+ 		return id.startsWith('index');
+	});
+	const de = await getCollection(DE_COLLECTION, ({ id }) => {
+		return id.startsWith('index');
+	});
+	const posts = [
+		...en,
+		...de,
+	];
+	return posts.map(page => {
+	const [collection, ...slug] = page.slug.split('/');
+    return { params: { lang: page.collection }, props: { ...page } }
+  })
+}
+const { pathname, origin } = Astro.url;
+const { data } = Astro.props;
+const lang = pathname.split('/').filter(e => e)[0] || 'en';
+---
+
+<!doctype html>
+<html lang={lang}>
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.description {
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-size: 20px;
+				color: #393939;
+			}
+			.intro-text,
+			.intro-img {
+				grid-column-start: 1;
+				grid-column-end: span 4;
+			}
+			.about {
+				display: flex;
+				flex-direction: column-reverse;
+				align-items: center;
+			}
+			.main-section-items {
+				grid-column-start: 1;
+				grid-column-end: span 8;
+			}
+			.signup-items {
+					grid-column-start: 2;
+					grid-column-end: span 6;
+				}
+			.main-section-items > h3 {
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				padding-left: .5rem;
+				margin-bottom: .5rem;
+			}
+			.main-section-items div ul li {
+				grid-basis: 50%;
+			}
+			.main-section-item {
+				flex-basis: inherit;
+			}
+			@media (min-width: 600px) {
+				.about {
+					display: grid;
+					align-items: center;
+					margin: 0;
+					margin-top: -1rem;
+				}
+				.intro-text {
+					grid-column-start: 1;
+					grid-column-end: span 5;
+				}
+				.intro-img {
+					grid-column-start: 6;
+					grid-column-end: span 3;
+				}
+			}		
+			@media (min-width: 1080px) {
+				.intro-text {
+					grid-column-start: 3;
+					grid-column-end: span 5;
+				}
+				.intro-img {
+					grid-column-start: 9;
+					grid-column-end: span 3;
+				}
+				.main-section-items {
+					grid-column-start: 3;
+					grid-column-end: span 8;
+				}
+				.signup-items {
+					grid-column-start: 5;
+					grid-column-end: span 4;
+				}
+			}
+			.hidden {
+				display: none!important;
+			}
+			.signup > h2,
+			.signup > * {
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-size: 16px!important;
+			}
+			.signup > h2 {
+				font-size: 21px!important;
+			}
+			.mc-field-group > input {
+    		border-radius: 25px!important;
+			}
+			.optionalParent > div > input {
+				border-radius: 25px!important;
+				height: 45px!important;
+				width: 120px!important;
+				font-family: 'Raleway', 'Poppins', sans-serif;
+				background: linear-gradient(0deg, rgb(234 16 240 / 97%) 0%, rgb(138 3 157) 100%);
+				font-size: 21px;
+			}
+			.newsletter {
+				margin-bottom: 0;
+			}
+			</style>
+	</head>
+	<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2BLDD4T"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<Header title={SITE_TITLE} />
+		<Carousel />
+		<main>
+			<Grid class="about">
+				<GridItem class="intro-text">
+					<p class="description">
+						{`“${data.intro}”`}
+					</p>
+				</GridItem>
+				<GridItem class="intro-img">
+				<Image
+					title={'profile'}
+					url={'https://images.prismic.io/syntia/ab96243b-b5e7-418c-baaa-bcd8065cb0ce_profile.jpg?auto=compress,format'}
+					alt={'profile'}
+					media_type="image"
+					width="300"
+					height="auto"
+					rounded={true}
+				/>
+			</GridItem>
+		</Grid>
+		<Grid class="main-section newsletter">
+			<GridItem class="main-section-items">
+		<hr>
+		</GridItem>
+		</Grid>
+		<div id="mc_embed_shell" class="signup-wrapper">
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<Grid class="main-section newsletter">
+	<GridItem class="main-section-items signup-items">
+<div id="mc_embed_signup">
+    <form action="https://syntia.us10.list-manage.com/subscribe/post?u=253aa3089a5ce8169d6948f55&amp;id=b7c8975453&amp;f_id=00d6a2e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div id="mc_embed_signup_scroll"><h2>{data.newsletter.title}</h2>
+            <div class="indicates-required"><span class="asterisk">{`*`}</span>{` ${data.newsletter.required}`}</div>
+            <div class="mc-field-group"><label for="mce-EMAIL">{data.newsletter.label}<span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div>
+        <div id="mce-responses" class="clear foot">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div>
+    <div aria-hidden="true" style="position: absolute; left: -5000px;">
+        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+        <input type="text" name="b_253aa3089a5ce8169d6948f55_b7c8975453" tabindex="-1" value="">
+    </div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value={data.newsletter.caption}>
+                <p style="margin: 0px auto;"><a href="http://eepurl.com/iA3uYU" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+</GridItem>
+</Grid>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+	<Grid class="main-section">
+		<GridItem class="main-section-items">
+			<h3>{data.newsLabel}</h3>
+			<Posts postsClass="main-section-item" collection="workshops", hideCategories={true}, nrOfPosts={2} fullPreview={false}/>
+		</GridItem>
+		<GridItem class="main-section-items">
+			<Posts collection="projects", hideCategories={true}, nrOfPosts={2} fullPreview={false} />
+		</GridItem>
+		<GridItem class="main-section-items">
+			<Posts collection="weekender", hideCategories={true}, nrOfPosts={2} fullPreview={false} />
+		</GridItem>
+		<GridItem class="main-section-items">
+			<Posts collection="research", hideCategories={true}, nrOfPosts={1} fullPreview={false}/>
+		</GridItem>
+	</Grid>
+		</main>
+		<FooterBanner url="https://images.prismic.io/syntia/33f0f828-ca31-41c8-a572-7da3291b674e_profile-code.webp?auto=compress,format" title="intro" alt="intro"/>
+		<Footer />
+	</body>
+</html>
+<script>
+	const subscribe_logo = document.getElementsByClassName('refferal_badge')[0];
+	subscribe_logo?.classList.add('hidden');
+	const signup = document.getElementById('mc_embed_signup_scroll');
+	signup?.classList.add('signup');
+</script>

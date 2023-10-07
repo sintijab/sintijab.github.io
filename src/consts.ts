@@ -8,3 +8,5 @@ export const WORKSHOP_COLLECTION = "workshops";
 export const RESEARCH_COLLECTION = "research";
 export const WEEKENDER_COLLECTION = "weekender";
 
+export const EN_COLLECTION = 'en';
+export const DE_COLLECTION = 'de';

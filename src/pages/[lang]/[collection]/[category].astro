@@ -1,0 +1,71 @@
+---
+import { getCollection } from 'astro:content';
+import StoryWrapper from '../../../layouts/StoryWrapper.astro';
+import { DE_COLLECTION, EN_COLLECTION } from '../../../consts';
+
+type IResult = { lang: string; value: string[], collection: string};
+
+export async function getStaticPaths() {
+  const en = await getCollection(EN_COLLECTION, ({ data }) => {
+  return !!data.categories;
+});
+	const de = await getCollection(DE_COLLECTION, ({ data }) => {
+  return !!data.categories;
+});
+	const posts = [
+		...en,
+		...de,
+	];
+  // Map category, lang and collection for paths
+  const categories = posts.map((post) => {
+    if (!post.data.subcategories || !post.data.categories ) return;
+    const cat = post.data.categories.split(',');
+    const subcat = post.data.subcategories.split(',');
+    const [collection, ...slug] = post.slug.split('/');
+    return {
+      lang: post.collection,
+      collection,
+      value: [
+        ...cat.filter(item => item !== collection),
+        ...subcat.filter(item => item !== collection),
+    ]
+    };
+  }).filter(e => e);
+  // Merge common categories
+  let output = [];
+
+  categories.forEach((cat) => {
+    let existing = output.filter((v, i) => v.lang == cat.lang && v.collection == cat.collection);
+    if (existing.length) {
+      let existingIndex = output.indexOf(existing[0]);
+      output[existingIndex].value = output[existingIndex].value.concat(cat.value);
+    } else {
+      if (typeof cat.value == 'string')
+        cat.value = [cat.value];
+      output.push(cat);
+    }
+  });
+  // Format category params
+  const pages = (output as IResult[]).map(
+    (page) => {
+      const categories = [...new Set(page.value)].map((item) => {
+        let formatted = item.toLowerCase();
+        formatted = formatted.trim();
+        return formatted.replace(/\s+/g, '-')
+      });
+      return categories.map((category) => ({
+        params: { lang: page.lang, collection: page.collection, category },
+        props: { collection: page.collection },
+      }))
+    });
+    return pages.flat();
+}
+
+export interface Props {
+  category: string;
+  collection: string;
+}
+const { collection } = Astro.props;
+const { category, lang } = Astro.params;
+---
+<StoryWrapper category={category} collection={collection} lang={lang} />
