@@ -9,11 +9,13 @@ import FormattedDate from '../components/FormattedDate.astro';
 type Props = CollectionEntry<'workshops'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, collection, author } = Astro.props;
+const { pathname, origin } = Astro.url;
+const lang = pathname.split('/').filter(e => e)[0] || 'en';
 const date = new Date(pubDate);
 
 ---
 
-<html lang="en">
+<html lang={lang}>
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
@@ -89,7 +91,7 @@ const date = new Date(pubDate);
 								)
 							}
 						</div>
-						<p class="category"><a href="../">{collection}</a> by {author}</p>
+						<p class="category"><a href={`${origin}/${lang}/${collection}`}>{collection}</a> by {author}</p>
 						<hr />
 					</div>
 					<slot />

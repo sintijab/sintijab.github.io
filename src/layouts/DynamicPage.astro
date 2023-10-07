@@ -3,8 +3,8 @@ import { Image } from 'astro:assets';
 import FormattedDate from '../components/FormattedDate.astro';
 
 const {frontmatter} = Astro.props;
-const { title, updatedDate, heroImage } = frontmatter;
-const date =  new Date(frontmatter.pubDate);
+const { title, updatedDate, heroImage, pubDate} = frontmatter;
+const date =  new Date(pubDate);
 ---
 <html>
   <head>

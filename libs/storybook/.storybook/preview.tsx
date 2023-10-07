@@ -14,7 +14,7 @@ const isDocsAvailable = ({ path }) => {
     }
   } catch (e) {
     console.log(e);
-    initMarkdown({ filePath: path});
+    initMarkdown({ filePath: path });
     return true;
   }
 }
@@ -23,13 +23,13 @@ const withEditor = (storyFn: Function, context: StoryContext) => {
   // Verify if the markdown files exist
   const storyPath = context.parameters.fileName.replace(/.*?src\/(.*?)/, '');
   const markdownDir = storyPath.substr(0, storyPath.lastIndexOf("\/"));
-  const markdownFilePath = `${markdownDir}/markdown/${context.name}.md`;
+  const markdownFilePath = `${markdownDir}/markdown/${context.globals.locale}/${context.name}.md`;
   const markdownAvailable = isDocsAvailable({ path: markdownFilePath });
   return (
-      <>
-       {!!markdownAvailable && <DualEditor filePath={markdownFilePath} />}
-       {storyFn()}
-      </>
+    <>
+      {!!markdownAvailable && <DualEditor filePath={markdownFilePath} />}
+      {storyFn()}
+    </>
   );
 };
 
@@ -43,7 +43,21 @@ const preview: Preview = {
     readme: {
       codeTheme: 'atom-dark',
     },
-  }
+  },
+  globalTypes: {
+    locale: {
+      name: 'Locale',
+      description: 'Internationalization locale',
+      toolbar: {
+        icon: 'globe',
+        items: [
+          { value: 'en', title: 'EN' },
+          { value: 'de', title: 'DE' },
+        ],
+        showName: true,
+      },
+    },
+  },
 };
 
 export default preview;

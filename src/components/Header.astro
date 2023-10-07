@@ -1,20 +1,33 @@
 ---
+import { getCollection } from 'astro:content';
 import HeaderLink from "./HeaderLink.astro";
 import { SITE_TITLE } from "../consts";
+import Language from "./Language.astro";
 
+const { origin, pathname } = Astro.url;
+const lang = pathname.split('/').filter(e => e)[0] || 'en';
+
+let index = (await getCollection(lang, ({ id }) => {
+  return id.startsWith('index');
+}));
+if (!index) {
+	index = (await getCollection('en', ({ id }) => id.startsWith('index')));
+}
+const { home, about, projects, workshops, research, contact} = index?.[0].data.navigation;
 ---
 
 <header>
 	<nav>
-		<h1 class="site-title"><a href="/">{SITE_TITLE}</a></h1>
+		<h1 class="site-title"><a href={`${origin}/${lang}`}>{SITE_TITLE}</a></h1>
 		<div class="internal-links" id="nav-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
-			<HeaderLink href="/projects">Projects</HeaderLink>
-			<HeaderLink href="/workshops">Workshops</HeaderLink>
-			<HeaderLink href="/research">Research</HeaderLink>
-			<HeaderLink href="/contact">Contact</HeaderLink>
+			<HeaderLink href={`${origin}/${lang}`}>{home}</HeaderLink>
+			<HeaderLink href={`${origin}/${lang}/about`}>{about}</HeaderLink>
+			<HeaderLink href={`${origin}/${lang}/projects`}>{projects}</HeaderLink>
+			<HeaderLink href={`${origin}/${lang}/workshops`}>{workshops}</HeaderLink>
+			<HeaderLink href={`${origin}/${lang}/research`}>{research}</HeaderLink>
+			<HeaderLink href={`${origin}/${lang}/contact`}>{contact}</HeaderLink>
 		</div>
+		<Language />
 		<div class="nav-mobile" id="nav-btn">
 		<svg width="35px" height="35px" viewBox="0 0 24 24" fill="none" style="padding: 0 .9rem" id="hamburger-btn">
 			<g clip-path="url(#clip0_105_1724)">
@@ -74,13 +87,22 @@ import { SITE_TITLE } from "../consts";
 		align-items: center;
 		justify-content: flex-end;
 	}
-	nav a {
+	nav .nav-item {
+		cursor: pointer;
+	}
+	nav .nav-item,
+	.site-title {
 		padding: 1em 0.9em;
 		color: var(--black);
 		border-bottom: 4px solid transparent;
 		text-decoration: none;
+		cursor: pointer;
 	}
-	nav a.active {
+	.site-title a {
+		color: var(--black);
+		text-decoration: none;
+	}
+	nav .nav-item.active {
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 	}

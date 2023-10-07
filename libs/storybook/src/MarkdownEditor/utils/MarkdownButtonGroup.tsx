@@ -14,8 +14,8 @@ export const MarkDownButtonGroup: React.FC<IEditorButton> = ({
   const isEditable = filePath && markdown;
 
   return (
-    <div style={{ display:"flex", justifyContent:"flex-end", zIndex:"1" }}>
-      <button onClick={onEdit} style={{marginRight:"8px"}}>
+    <div style={{ display: "flex", justifyContent: "flex-end", zIndex: "1" }}>
+      <button onClick={onEdit} style={{ marginRight: "8px" }}>
         {editButtonText}
       </button>
       {isEditable && (

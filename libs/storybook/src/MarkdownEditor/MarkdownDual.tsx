@@ -1,5 +1,5 @@
 import '@remirror/styles/all.css';
-
+import { useEffect } from 'react';
 import { css as styled } from '@emotion/css';
 import {
   CommandButton,
@@ -191,7 +191,7 @@ const VisualEditor = ({
         `,
       ]}
     >
-      <div style={{position:"absolute", top:"0",right:"0",width:"100%", margin:"1rem"}}>
+      <div style={{ position: "absolute", top: "0", right: "0", width: "100%", margin: "1rem" }}>
         <MarkDownButtonGroup
           filePath={filePath}
           markdown={markdown}
@@ -246,6 +246,7 @@ export const DualEditor: React.FC<IMarkdownEditor> = ({ filePath = '' }) => {
     stringHandler: 'markdown',
     content: initialContent,
   });
+  const { manager } = visual;
   const markdown = useRemirror({
     extensions: () => [
       new DocExtension({ content: 'codeBlock' }),
@@ -263,18 +264,21 @@ export const DualEditor: React.FC<IMarkdownEditor> = ({ filePath = '' }) => {
 
     stringHandler: 'html',
   });
+  useEffect(() => {
+    manager.view.updateState(manager.createState({ content: initialContent }));
+  }, [filePath])
   return (
     <DualEditorProvider visual={visual} markdown={markdown}>
       <AllStyledComponent>
         <ThemeProvider>
-          <div style={{ display: !isEditorVisible ? 'block' : 'none'}}>
+          <div style={{ display: !isEditorVisible ? 'block' : 'none' }}>
             <VisualEditor
               filePath={filePath}
               toggleEdit={() => toggleEdit(!isEditorVisible)}
               editButtonText={editButtonText}
             />
           </div>
-          <div style={{ display:isEditorVisible ? 'block' : 'none'}}>
+          <div style={{ display: isEditorVisible ? 'block' : 'none' }}>
             <MarkdownTextEditor
               filePath={filePath}
               toggleEdit={() => toggleEdit(!isEditorVisible)}

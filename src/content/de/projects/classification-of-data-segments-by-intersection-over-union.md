@@ -1,0 +1,25 @@
+---
+description: 'Klassifikation von Datensegmenten durch künstliche Netzwerke und Deep Learning'
+pubDate: 'Feb 22, 2022'
+heroImage: 'https://images.prismic.io/syntia/6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format'
+author: 'Syntia'
+categories: 'Künstliche Intelligenz, Neuronale Netzwerke, Bildklassifikation'
+subcategories: 'Faltungsneuronales Netzwerk, Künstliches neuronales Netzwerk'
+---
+
+Das grundlegendste Klassifizierungsproblem in der Computer Vision ist die Bildklassifizierung selbst, bei der das Label und das Hauptobjekt eine gegebene Ausgabe eines Bildes ist, da es versagt, den Typ der Objekte außerhalb seiner Begrenzungsbox zu erkennen.
+
+Eine genaue Segmentierung von Instanzen bleibt insbesondere an den Rändern von Objekten schwierig. Dieses Problem ist bei der Instanzsegmentierung in der Fernerkundungsbildgebung aufgrund der vielfältigen Skalen, variablen Beleuchtung, kleinerer Objekte und komplexer Hintergründe noch ausgeprägter. Wir stellen fest, dass die meisten aktuellen Netzwerke zur Instanzsegmentierung die Schwierigkeit der Segmentierung unterschiedlicher Instanzen und verschiedener Regionen innerhalb der Instanz nicht berücksichtigen.
+
+Die klassische Architektur eines Convolutional Neural Networks ist typisch für eine bestimmte Größe der Eingangsschicht und Kontraktions- und Expansionspfade für die Ausgabe. Die Convolutional-Antwort eines Eingangs ist nichts weiter als eine Multiplikation, bei der sich die Dimensionen der Ausgabe ändern können, und wird von jedem Schritt der Convolutional-Schicht und dem Maximum Pooling strukturiert, das durch eine bestimmte Anzahl von Verschiebungen über die Eingabematrix definiert ist.  
+Die U-Net-Architektur ist für die semantische Segmentierung konzipiert und besteht aus zwei Pfaden: Kodierung und Dekodierung, Kontraktion und Expansionspfad. Die Verknüpfung der Merkmalskarten stellt Lokalisierungsdetails zur Verfügung, da das Netzwerk Kontextinformationen zur reagierenden Schicht überträgt. Daher ist der expansive Pfad symmetrisch zum kontrahierenden Teil.  
+Die Standard-U-Net-Architektur kann in die mehrklassige semantische Segmentierung mit einem gesteuerten Gewicht für die bereitgestellten Eingaben erweitert werden. Die Konfiguration des Segmentierungsmodells und seines Backbones (als Klassifikationsmodell ohne die letzten dichten Schichten der Segmentierung) wird durch die Merkmalsextraktionstechnik festgelegt, z.B. ResNet, Inception, MobileNet, EfficientNet, die für die Magnetresonanztomographie, die Lichtmikroskopie und die Segmentierung von biomedizinischen Bildern verwendet wird.  
+Die Mehrklassen-Semantiksegmentierung kann durch Strukturieren der Daten für die Eingabe in eine bestimmte Anzahl von Klassen erfolgen, Aufteilen des Bildes in Patches, Konvertieren von Bildern und Masken in verschlagwortete Bilddateien und Zusammenstellen in eine Liste von NumPy, nicht List, Arrays. Es funktioniert auch im Bereich der linearen Algebra, der Fourier-Transformation und der Matrizen. Nach dem Konvertieren müssen die Labels durch ein vektorisierendes Array codiert werden, in einen einzelnen Vektor umgeformt und normalisiert werden.  
+Die Bilder müssen verschlagwortete Labels haben, um Masken zu generieren und Klassen für jeden Segment festzulegen und sie mit binärer Segmentierung zu kompilieren, da die letzte Schicht eine Ausgabe mit einer Wahrscheinlichkeit von null oder eins hat.  
+Die Mehrklassenklassifikation ist gekennzeichnet durch Kategorien wie Bildgröße und Anzahl der Klassen, das Ausbalancieren des Klassenweights für den Datensatz, das Definieren eines Multi-Unit-Modells, diesmal unter Verwendung der Klassifikation mit kategorischer Kreuzentropie anstelle von binärer Kreuzentropie. Der Schnitt über die Vereinigung wird das Argument liefern, das die höchste Wahrscheinlichkeit aus den definierten Klassen ergibt, und die Klasse mit der höchsten Wahrscheinlichkeit ermitteln. Der Prozentsatz kann je nach erhöhter Wahrscheinlichkeit variieren, das Gewicht für die Klasse muss erhöht werden. Es können mehrere Encoder festgelegt werden, um Merkmale für das Eingabebild zu generieren. Dadurch ergibt sich die höchste Genauigkeit und der größte Vorteil im Vergleich zu anderen Convolutional-Network-Modellen.
+
+Werkzeuge:  
+Beschriftungstool für Bildmasken [www.apeer.com/annotate](//www.apeer.com/annotate)  
+ImageNet-Datensatz mit trainierten Modellen [https://www.image-net.org](https://www.image-net.org)  
+Spyder, eine Open-Source-Leichtgewichts-IDE für Python [https://www.spyder-ide.org](https://www.spyder-ide.org)  
+Keras oder PyTorch, Python-Frameworks für künstliche neuronale Netze und Deep Learning, z.B. für Computer Vision oder Natural Language Processing [https://keras.io](https://keras.io) [https://pytorch.org](https://pytorch.org) Ein Beispiel für hartes Instanzlernen und Analyse der Randform [https://www.mdpi.com/2072-4292/14/1/23](https://www.mdpi.com/2072-4292/14/1/23)

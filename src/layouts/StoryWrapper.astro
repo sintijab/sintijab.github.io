@@ -5,10 +5,10 @@ import Footer from '../components/Footer.astro';
 import Posts from '../components/Posts.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
-const { category, collection } = Astro.props;
+const { category, collection, lang = "en" } = Astro.props;
 ---
 
-<html lang="en">
+<html lang={lang}>
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
@@ -28,7 +28,7 @@ const { category, collection } = Astro.props;
 		<Header />
 		<main>
 			<section>
-				<Posts collection={collection} category={category} />
+				<Posts collection={collection} category={category} lang={lang} />
 			</section>
 		</main>
 		<Footer />

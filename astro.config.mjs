@@ -8,4 +8,5 @@ import svelte from "@astrojs/svelte";
 export default defineConfig({
   site: 'https://syntia.org',
   integrations: [mdx(), sitemap(), svelte()],
+  trailingSlash: 'never'
 });

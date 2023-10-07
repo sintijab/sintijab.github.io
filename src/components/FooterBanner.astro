@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import Image from './Image.svelte';
 
 interface Props {
@@ -6,6 +7,14 @@ interface Props {
 	alt: string;
 	url?: string;
 }
+const { origin, pathname } = Astro.url;
+const lang = pathname.split('/').filter(e => e)[0] || 'en';
+
+let index = (await getCollection(lang, ({ id }) => id.startsWith('index')));
+if (!index) {
+	index = (await getCollection('en', ({ id }) => id.startsWith('index')));
+}
+const quote = index?.[0].data.footer;
 
 const { title = 'title', alt='alt', url = '/blog-placeholder-6.jpg' } = Astro.props;
 ---
@@ -15,7 +24,7 @@ const { title = 'title', alt='alt', url = '/blog-placeholder-6.jpg' } = Astro.pr
     <div class="overlay-text">
       <div class="overlay-text overlay-text-0"></div>
       <p class="description quote">
-        “So many things are possible just as long as you don’t know they’re impossible.”
+       {`“${quote}”`}
       </p>
       <p class="description">Norton Juster</p>
       <div class="overlay-text overlay-text-1"></div>
