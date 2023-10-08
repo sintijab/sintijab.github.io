@@ -1,6 +1,11 @@
-# **2020: ein Jahr der Resilienz**
-
-![](https://images.prismic.io/syntia/2cd0b4bf-183e-400c-a0d5-ed470887bef2_screenshot-2021-07-21-at-15.32.20.png?auto=compress,format)
+\---  
+description: '2020: ein Jahr der Resilienz'  
+pubDate: 'Jul 21, 2021'  
+heroImage: '2cd0b4bf-183e-400c-a0d5-ed470887bef2_screenshot-2021-07-21-at-15.32.20.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Forschung, Krisenmanagement, kontinuierliches Lernen, Online Bildung'  
+subcategories: 'Förderprogramm für Wissenschaftler, Gemeinschaft der Praxis, digitale Lesefähigkeiten, Führungskräfteentwicklung'  
+\---  
 
 CLCC publications, 2020 Yearbook, [https://connectedlearning4refugees.org/publications/](https://connectedlearning4refugees.org/publications/)
 

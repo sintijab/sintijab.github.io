@@ -1,6 +1,13 @@
-# **"Die neue Wissenschaft von Ursache und Wirkung" von Judea Pearl & Dana Mackenzie**
+\---  
+description: 'Die Neue Wissenschaft von Ursache und Wirkung'  
+pubDate: 'Aug 14, 2021'  
+heroImage: 'fc21d70d-40d9-40fc-9523-10c583cba547_361_855b_f1.jpeg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Wochenende, Kritisches Denken, Datenanalyse'  
+subcategories: 'Buchrezensionen, Informationszugang, Nutzerforschung, Kausalität'  
+\---  
 
-![](https://images.prismic.io/syntia/fc21d70d-40d9-40fc-9523-10c583cba547_361_855b_f1.jpeg?auto=compress,format)
+# **“The New Science Of Cause and Effect” by Judea Pearl & Dana Mackenzie**
 
 Verursacht die aufgehende Sonne, dass der Hahn kräht? Fragen zur Kausalität können endlich beantwortet werden, schreiben Pearl und Mackenzie. Foto: [istock.com/middelveld](//istock.com/middelveld)
 

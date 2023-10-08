@@ -1,4 +1,12 @@
-# **Besseres JavaScript-Schreiben mit TypeScript in 10 Schritten**
+\---  
+description: 'Besseres Schreiben von JavaScript mit TypeScript in 10 Schritten'  
+pubDate: 'Jun 28, 2021'  
+heroImage: '6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Workshops, Schnittstellen, TypeScript, Kontrollflussanalyse'  
+subcategories: 'TypeScript Compiler, Varianznotationen, Typnotationen, TypeScript Regeln'  
+\---  
+
 
 ![Image](https://images.prismic.io/syntia/1d989402-fb0e-4ae2-8d36-923f659b6d95_41jnu0vcbl._sx379_bo1204203200_.jpg?auto=compress,format)
 

@@ -1,12 +1,19 @@
+\---  
+description: 'The future is still so much bigger than the past- Tim Berners-Lee'  
+pubDate: 'Sep 15, 2023'  
+heroImage: '3df430cd-5932-4dca-9421-dff593c695e5_692944.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'workshops, cloud infrastructure, networking, data access'  
+subcategories: 'augmented web, augmented reality, user experience, user-centered design, user driven development, test driven development, data governance, data economy, sustainable DevOps'  
+\---  
+
 # **We Are Developers World Congress Day 2**
 
 WeAreDevelopers World Congress is considered by many as the world’s flagship event for developers. Over three days highlighting latest advancements in Web I discovered tools that helps increasing customer experiences around the globe.
 
-Part of the conference were shocking AI solutions such GitHub Copilot. Showcasing informative tutorials brings excitement for many developers, but the gray areas and lack of the quality and sources of information brings more questions about legislation and the trusted authorship, which gives credit and implies accountability for published work.
+Part of the conference were advertising AI solutions such GitHub Copilot. Showcasing informative tutorials brings excitement for many developers, but the gray areas and lack of the quality and sources of information brings more questions about legislation and the trusted authorship, which gives credit and implies accountability for published work.
 
 [https://www.youtube.com/embed/wDMWEAjncjU?start=5528&feature=oembed](https://www.youtube.com/embed/wDMWEAjncjU?start=5528&feature=oembed)
-
-![](https://images.prismic.io/syntia/3df430cd-5932-4dca-9421-dff593c695e5_692944.jpg?auto=compress,format)
 
 ![](https://images.prismic.io/syntia/a85291ab-4794-4eca-9a98-109cbf9beb0e_img_20230727_094654-1.webp?auto=compress,format)
 

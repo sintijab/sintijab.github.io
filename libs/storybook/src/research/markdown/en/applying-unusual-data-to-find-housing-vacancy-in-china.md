@@ -1,6 +1,11 @@
-# **Applying Unusual Data to Find Housing Vacancy in China**
-
-![](https://images.prismic.io/syntia/2a397abe-b3ba-4aa9-9408-00553c0240cd_img_20210731_214243.jpg?auto=compress,format)
+\---  
+description: 'Applying Unusual Data to Find Housing Vacancy in China'  
+pubDate: 'Jul 31, 2021'  
+heroImage: '2a397abe-b3ba-4aa9-9408-00553c0240cd_img_20210731_214243.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'research, environmental studies, urban design, network'  
+subcategories: 'housing market, landscape design, urban planning'  
+\---  
 
 Data analysts should have the ability to use the data collected by private companies for a public good. High vacancy rates have become a serious concern in many Chinese cities, especially in those experiencing an economic slowdown, which some say started as early as 2008 during the global economic crisis. The phenomenon, often called “ghost cities” usually describes whole cities of vacant properties; but it can also mean pockets of existing second and third-tier cities with high vacancies as a result of poor planning that results in lack of access to jobs or amenities.
 

@@ -1,4 +1,11 @@
-# **Improving Policy Life Cycle Management with AI and Data Science**
+\---  
+description: 'Improving Policy Life Cycle Management with AI and Data Science'  
+pubDate: 'Dec 12, 2021'  
+heroImage: 'c4a6a3cc-1088-4b4d-b30a-ff3558ec5a36_Typical-AI-model-life-cycle-which-consists-of-data-preparation-model-building.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'projects, artifical intelligence, data science'  
+subcategories: 'sustainable planning qualitative analysis computer literacy, policy lifecycle, contextual accuracy'  
+\---
 
 ![](https://images.prismic.io/syntia/25cb98ba-6166-47e8-8450-2cdc19e38a6a_img_20211212_1949031-4.jpg?auto=compress,format)
 

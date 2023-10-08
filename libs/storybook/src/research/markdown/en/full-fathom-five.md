@@ -1,3 +1,12 @@
+\---  
+description: 'Passion makes us lose track of time- Jean-Jacques Fiechter'  
+pubDate: 'Jan 26, 2023'  
+heroImage: '81ea6688-c3a8-48e8-9af7-3a0fd0d3ebe1_cnxdu2eux0f.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'research, environmental studies, scientific diving'  
+subcategories: 'dive watch manufacturing, dive expeditions'  
+\---  
+
 # **Full Fathom Five**
 
 “Passion makes us lose track of time”, concedes Jean-Jacques Fiechter, CEO of Blancpain from 1950 to 1980.
@@ -24,8 +33,6 @@ Blancpain also played a role of binding ties with ocean lovers and communities c
 Laurent Ballesta’s Gombessa project has been devoted to the study of some of the rarest and most difficult to observe marine creatures and phenomena. During his Gombessa II expedition Laurent encountered the grey reef sharks of Fakarava Atoll in 2014. Intrigued by their behaviour he has returned every year since, including for Gombessa IV in 2017. The interview about it has been featured on “The Hunt” by Laurent Ballesta and Eloise Brown, published on Issue 11 by Oceanographic Magazine.
 
 ![](https://images.prismic.io/syntia/30f27772-ad4c-4315-bbbb-981e15442055_cnxdu4qob07.jpg?auto=compress,format)
-
-![](https://images.prismic.io/syntia/81ea6688-c3a8-48e8-9af7-3a0fd0d3ebe1_cnxdu2eux0f.jpg?auto=compress,format)
 
 Credit: Laurent Ballesta, Eloise Brown for the Oceanographic Magazine, Issue Eleven
 

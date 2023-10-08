@@ -1,6 +1,11 @@
-# **Abundance, distribution, and diving ecology**
-
-![](https://images.prismic.io/syntia/0a1dfa4c-f78b-4ca2-90a2-5a488aebd75a_img-20230127-wa0001.jpg?auto=compress,format)
+\---  
+description: 'Abundance, distribution, and diving ecology'  
+pubDate: 'Jan 26, 2023'  
+heroImage: '0a1dfa4c-f78b-4ca2-90a2-5a488aebd75a_img-20230127-wa0001.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'research, environmental studies, scientific diving'  
+subcategories: 'industrial manufacturing, compressor systems, industrial air systems, polar research, sypnoptic observations, meteorological satellites, sonett expedition'  
+\---  
 
 Freediving with Nik Linder, world record holder in freediving under ice and dynamic apnea
 

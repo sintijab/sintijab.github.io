@@ -1,6 +1,11 @@
-# **Entwicklung von Bibliotheks-APIs mit TypeScript**
-
-![](https://images.prismic.io/syntia/cce75ff1-51be-44db-ab22-63811da9106d_e0928a1a-483d-491d-869f-1ba5b06ad345.png?auto=compress,format)
+\---  
+description: 'Gestaltung von Bibliotheks-APIs mit TypeScript'  
+pubDate: 'May 1, 2022'  
+heroImage: 'cce75ff1-51be-44db-ab22-63811da9106d_e0928a1a-483d-491d-869f-1ba5b06ad345.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Workshops, Schnittstellen, TypeScript, Architektonisches Design'  
+subcategories: 'TypeScript, Typschnittstelle, TypeScript-Migration, Testen von Typen, Entwicklertools, Architektonisches Design'  
+\---  
 
 JavaScript ist eine stark dynamische Sprache, und es kann schwierig sein, sie mit statischen TypeScript-Typen zu erfassen. Die Typenunterstützung kann anzeigen, ob die Bibliothek für Entwickler einfach zu verwenden ist und ordnungsgemäß entwickelt wurde.
 
@@ -9,8 +14,8 @@ Die Verwendung von TypeScript zwingt Entwickler dazu, einfachere APIs zu entwerf
 Ab React-Redux v8 exportieren beispielsweise die React-Redux-Typen einige Hilfsprogramme, um das Schreiben von typensicheren Schnittstellen zu erleichtern:
 
 ```typescript
-import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux'
-import type { RootState, AppDispatch } from './store'
+import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux'  
+import type { RootState, AppDispatch } from './store'  
 
 // Verwenden Sie diese im gesamten Projekt anstelle von einfachem `useDispatch` und `useSelector`
 export const useAppDispatch = () => useDispatch<AppDispatch>()

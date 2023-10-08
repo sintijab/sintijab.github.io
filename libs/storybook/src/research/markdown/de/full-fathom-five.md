@@ -1,3 +1,12 @@
+\---  
+description: 'Leidenschaft lässt uns die Zeit vergessen - Jean-Jacques Fiechter'  
+pubDate: 'Jan 26, 2023'  
+heroImage: '81ea6688-c3a8-48e8-9af7-3a0fd0d3ebe1_cnxdu2eux0f.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Forschung, Umweltstudien, Wissenschaftliches Tauchen'  
+subcategories: 'Herstellung von Taucheruhren, Tauchexpeditionen'  
+\---  
+
 # **Full Fathom Five**
 
 "Leidenschaft lässt uns die Zeit aus den Augen verlieren", gibt Jean-Jacques Fiechter zu, CEO von Blancpain von 1950 bis 1980.

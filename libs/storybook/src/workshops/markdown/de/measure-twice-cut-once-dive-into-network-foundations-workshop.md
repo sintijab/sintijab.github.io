@@ -1,4 +1,11 @@
-# **Messen Sie zweimal, schneiden Sie einmal - Tauchen Sie in das Netzwerk-Grundlagen-Workshop ein**
+\---  
+description: 'Zweimal messen, einmal schneiden - Tauchen Sie in das Netzwerk-Grundlagen-Workshop ein'  
+pubDate: 'Apr 21, 2023'  
+heroImage: '501f905a-89dd-4824-b5e4-c6a1a012f49e_nf-hooks.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Workshops, Cloud Infrastruktur, Netzwerke, Barebone'  
+subcategories: 'Kommunikationsprotokolle, Transmission Control Protocol, Open System Interconnection-Modell, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk'  
+\---  
 
 In diesem Jahr hatte die KubeCon + CloudNativeCon Europe 2023 mehr als 10.000 Teilnehmer, von denen 58 % zum ersten Mal an dieser globalen Cloud-Native-Konferenz teilnahmen.
 
@@ -303,7 +310,7 @@ $ ip addr show eth0
     inet 192.168.122.236/24 brd 192.168.122.255 scope global eth0
     inet6 fe80::5054:ff:fe43:846c/64 scope link
        valid_lft forever preferred_lft forever
-$ ip addr show eth0 | grep 'inet ' | awk '{print $2}' | cut -f1 -d'/'
+$ ip addr show eth0 | grep 'inet ' | awk '{print $2}' | cut -f1 -d'/'  
 192.168.122.236
 
 ```
@@ -487,7 +494,7 @@ ping -c 1 httpbin.org
 
 ```markup
 PING httpbin.org (34.235.32.249): 56 data bytes
---- httpbin.org ping statistics ---
+\---   httpbin.org ping statistics \---  
 1 packets transmitted, 0 packets received, 100.0% packet loss
 
 ```
@@ -506,7 +513,7 @@ PING solo.io (23.185.0.4): 56 data bytes
 64 bytes from 23.185.0.4: icmp_seq=2 ttl=53 time=49.566 ms
 64 bytes from 23.185.0.4: icmp_seq=3 ttl=53 time=33.963 ms
 64 bytes from 23.185.0.4: icmp_seq=4 ttl=53 time=34.818 ms
---- solo.io ping statistics ---
+\---   solo.io ping statistics \---  
 5 packets transmitted, 5 packets received, 0.0% packet loss
 
 ```

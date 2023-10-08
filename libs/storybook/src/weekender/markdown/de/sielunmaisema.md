@@ -1,6 +1,15 @@
-# **Seelenlandschaft**
+\---  
+description: 'Sielunmaisema saunasta - Finnische Kultur, Traditionen und Wohlbefinden'  
+pubDate: 'Jul 14, 2023'  
+heroImage: '2152dc71-f79e-41f4-8a96-632d979fa033_20230705_211309-1-1.webp?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Wochenende, Reisen, Traditionen'  
+subcategories: 'Saunen, Wassersport, Wohlbefinden'  
+\---  
 
-##### **Von der finnischen Sauna**
+# **Sielunmaisema**
+
+##### **Suomalaisesta saunasta**
 
 Finnland. Finnische Saunen, Seen und die Natur erinnern mich an einzigartige Erlebnisse, die ich schätze. Es erinnert mich an das Rennen durch frostgehärteten Schnee und zurück in einen aufgeheizten Ofen, während man auf das nächste Eintauchen in einen Teich wartet.
 

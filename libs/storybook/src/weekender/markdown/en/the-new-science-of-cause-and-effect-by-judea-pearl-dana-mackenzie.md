@@ -1,6 +1,13 @@
-# **“The New Science Of Cause and Effect” by Judea Pearl & Dana Mackenzie**
+\---  
+description: 'The New Science Of Cause and Effect'  
+pubDate: 'Aug 14, 2021'  
+heroImage: 'fc21d70d-40d9-40fc-9523-10c583cba547_361_855b_f1.jpeg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'weekender, critical thinking, data analysis'  
+subcategories: 'book reviews, information access, user research, causation'  
+\---  
 
-![](https://images.prismic.io/syntia/fc21d70d-40d9-40fc-9523-10c583cba547_361_855b_f1.jpeg?auto=compress,format)
+# **“The New Science Of Cause and Effect” by Judea Pearl & Dana Mackenzie**
 
 Does the rising sun cause the rooster to crow? Questions of causality can finally be answered, write Pearl and Mackenzie.Photo: [istock.com/middelveld](//istock.com/middelveld)
 

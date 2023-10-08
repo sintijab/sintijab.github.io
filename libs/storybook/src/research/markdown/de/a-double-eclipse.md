@@ -1,6 +1,11 @@
-# **Eine Doppelte Finsternis**
-
-![](https://images.prismic.io/syntia/aac73bb0-0e77-4769-8ae8-00da5c08c1ff_csm_corona_2_2ff67dd1bc.jpg?auto=compress,format)
+\---  
+description: 'Eine Doppelte Finsternis'  
+pubDate: 'Jul 4, 2021'  
+heroImage: 'aac73bb0-0e77-4769-8ae8-00da5c08c1ff_csm_corona_2_2ff67dd1bc.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Forschung, Informationszugang, Gemeinschaft der Praxis'  
+subcategories: 'Digitale Lesefähigkeiten'  
+\---  
 
 Für Minderheiten, die in ihr Land kommen und Asyl suchen, nur um sich dann mit den Vorurteilen und halbgebildeten Meinungen von Menschen auseinandersetzen zu müssen, die anscheinend an die Idee eines Ortes als informelles Kastensystem glauben, anstatt an eine vollwertige Demokratie.
 

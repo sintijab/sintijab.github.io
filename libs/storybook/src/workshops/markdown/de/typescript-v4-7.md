@@ -1,3 +1,12 @@
+\---  
+description: 'Neuerungen aus TypeScript v4.7-Upgrade'  
+pubDate: 'Apr 30, 2022'  
+heroImage: 'ef08c2fb-19b1-4219-a4aa-cf1f6c011aa5_49257.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Workshops, Schnittstellen, TypeScript, Kontrollflussanalyse'  
+subcategories: 'TypeScript Compiler, Varianznotationen, Typnotationen, Typinstantiierung'  
+\---  
+
 # **TypeScript v4.7**
 
 ![TypeScript v4.7](https://images.prismic.io/syntia/ef08c2fb-19b1-4219-a4aa-cf1f6c011aa5_49257.png?auto=compress,format)

@@ -1,3 +1,12 @@
+\---  
+description: 'Observability Day and Cilium Con 2023'  
+pubDate: 'Apr 18, 2023'  
+heroImage: 'cdafc9ba-d983-4d3f-8515-541c229c5d98_aws-terraform-snyk-arch.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'workshops, cloud infrastructure, security, HTTP network monitoring'  
+subcategories: 'software development lifecycle, terraform, infrastructure as code observability, observability umbrella'  
+\---  
+
 # **Observability in cloud-native environments**
 
 Today at Observability Day and Cilium Con 2023, engineers that rely on healthy OSS ecosystem were sharing their insights about orchestration on cloud native environments with Cilium- cluster management with multi tenancy architecture and Elastic Network interface (Designing and Securing a Multi-Tenant Runtime Environment by Ahmed Bebars, New York Times), determining a threat model and risks- systematic (vs. ad hoc), large/small distribution, raw data (vs. derived data) risks,- network flow with automated egress and customer resource access and protection (Bloomberg), Network design that is vendor neutral, easy to scale-out, integrate with legacy systems and handles IPv4 exhaustion (Karsten Nielsen, IKEA Private Cloud and Networking).

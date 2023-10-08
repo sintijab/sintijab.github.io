@@ -1,6 +1,11 @@
-# Überschuss ist nicht mehr in Mode
-
-![Bild](https://images.prismic.io/syntia/a528ba18-15af-41a2-a913-7f166bd85850_san_kim_layout_04-jp-1v3-2048x1289-1.jpg?auto=compress,format)
+\---  
+description: 'Überfluss ist nicht mehr in Mode'  
+pubDate: 'Sep 19, 2021'  
+heroImage: 'a528ba18-15af-41a2-a913-7f166bd85850_san_kim_layout_04-jp-1v3-2048x1289-1.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Projekte, Umweltstudien, Nachhaltiges Design'  
+subcategories: 'Upcycling Mode, Kreislaufwirtschaft, Städtebau, Augmented Reality'  
+\---  
 
 Fotografie von Kerry J Dean
 

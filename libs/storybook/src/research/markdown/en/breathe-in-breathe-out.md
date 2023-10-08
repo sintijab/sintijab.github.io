@@ -1,8 +1,15 @@
+\---  
+description: 'Resurrecting the reef- digital advancements for the divers community'  
+pubDate: 'Jun 15, 2023'  
+heroImage: 'bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format'  
+author: 'Syntia'  
+categories: 'research, environmental studies, scientific diving'  
+subcategories: 'ssi training, ssi certification, freediving, marine biology, classification models, reef restoration, climate change'  
+\---  
+
 # **Breathe In / Breathe Out**
 
 Diving is one of the most fascinating and beautiful sports. Every open water site discovery as a freediver or scuba diver starts with a momentum of how the environment has developed for the time being.
-
-![](https://images.prismic.io/syntia/bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format)
 
 Playa Caló de ses Lleonardes – Mallorca – Playas de Baleares
 
@@ -34,7 +41,7 @@ Mou, Serena & Tsai, Dorian & Dunbabin, Matthew. (2022). Reconfigurable Robots fo
 
 Biopixel | Resurrecting the reef – Blancpain
 
-Following latest digital advancements for the divers community in Berlin is claiming formular of Tauchtauglichkeit registration online. My last move was been breaking into the physicist offices for appointment while most of the medical crew is gathering for nationwide protests at Federal Ministry of Health.
+By latest digital advancements for the divers community in Berlin claiming formular of Tauchtauglichkeit registration online is a simple process. My last move was been breaking into the physicist offices for appointment while most of the medical crew is gathering for nationwide protests at Federal Ministry of Health.
 
 For anyone in last minute calls for professional training- medical check ups has reservations in queue of 7 months. Looking through anesthesiologist, cardiologist and osteopath profiles- yet diving has special category concerning more than a first aid and injury protocol. I imagine how many technical divers overcome these internal contradictions with their own questionnaire, but at the end of the day it is matter of diver’s own safety.
 

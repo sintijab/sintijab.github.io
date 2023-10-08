@@ -1,6 +1,11 @@
-# **Data flow analysis in Web applications**
-
-![](https://images.prismic.io/syntia/f3906029-cc44-46a2-b42c-7d95f6475bda_12976875.jpg?auto=compress,format)
+\---  
+description: 'Data flow analysis in Web applications'  
+pubDate: 'May 6, 2022'  
+heroImage: 'f3906029-cc44-46a2-b42c-7d95f6475bda_12976875.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'workshops, cloud infrastructure, data analysis'  
+subcategories: 'data structures, application state, computational complexity, memoization, caching, performance optimization'  
+\---  
 
 Fibonacci “Golden Ratio in art, design and photography”, painting “Girl with a Pearl Earring” by Johannes Vermeer
 
@@ -27,7 +32,7 @@ To understand what Big O notation is, let’s have a look at a typical example, 
 
 A typical algorithm that has the complexity of O(n²) would be the selection sort algorithm. Selection sort is a sorting algorithm that iterates through the list to ensure every element at index i is the smallest/largest element of the list. In following example
 
-```py
+```markup
 SelectionSort(List) {
   for(i from 0 to List.Length) {
     SmallestElement = List[i]
@@ -75,7 +80,7 @@ To **solve the problem** the first three steps is to:
 
 With given 1, 1, 2, 3, 5, 8 …
 
-```py
+```markup
 def fib(n):
   if n == 1 or n == 2
     result = 1
@@ -93,7 +98,7 @@ The time T(n) which takes to find the n’th fibonacci number grows exponentiall
 
 With given array to find the n’th fibonacci number fib(5) the values will be temporary stored to identify the repetition based on returned values in algorithm:
 
-```py
+```markup
 def fib(n, memo):
   if memo[n] != null:
     return memo[n]
@@ -112,7 +117,7 @@ Time complexity T(n) it takes to fibonacci number is calculated by multiplying t
 
 Bottom up approach with the same time O(n) but reduced space complexity would be building up the array instead of replacing the values recursively. The advantage is that it doesn’t make recursive calls in the call stack therefore is more scalable approach:
 
-```py
+```markup
 def fib(n):
   if n == 1 or n == 2:
     return 1
@@ -129,7 +134,7 @@ def fib(n):
 
 Although the golden ratio has been a subject of study for centuries and was known to the ancient Greeks, the mathematician Fibonacci determined this sequence. It is the also key of understanding the golden ratio represented with the Greek letter Phi. Golden ratio is found in various arts, architecture, designs, retracement tools, software design and agile development.
 
-```py
+```markup
 A/B = (A+B)/A = 1.618033987 = Φ
 ```
 
@@ -138,3 +143,8 @@ Significance of the Fibonacci numbers in Agile are exponential. The estimation o
 Writing an implementation of the Fibonacci sequence is a step in the journey of becoming a better programmer.
 
 There are different ways to generate and determine the sequences, but all different approaches is based on the data flow characteristics, strictly defined on each step, using a generator or recursive solutions. With many different styles and paradigms of programming, such as procedural, functional, object-oriented, and so forth brings a different approaches of writing the code. The best solution could be considered a **dynamic programming** approach to manage the large problems by solving the smaller problems first.
+
+### **Share this:**
+
+*   [  
+    ](https://syntia.org/2022/05/06/data-flow-analysis-in-web-applications/?share=twitter&nb=1)
