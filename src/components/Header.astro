@@ -20,7 +20,7 @@ const { home, about, projects, workshops, research, contact} = index?.[0].data.n
 	<nav>
 		<h1 class="site-title"><a href={`${origin}/${lang}`}>{SITE_TITLE}</a></h1>
 		<div class="internal-links" id="nav-links">
-			<HeaderLink href={`${origin}/${lang}`}>{home}</HeaderLink>
+			<HeaderLink lang={lang} href={`${origin}/${lang}`}>{home}</HeaderLink>
 			<HeaderLink href={`${origin}/${lang}/about`}>{about}</HeaderLink>
 			<HeaderLink href={`${origin}/${lang}/projects`}>{projects}</HeaderLink>
 			<HeaderLink href={`${origin}/${lang}/workshops`}>{workshops}</HeaderLink>
