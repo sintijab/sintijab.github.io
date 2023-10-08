@@ -1,4 +1,11 @@
-# **Prometheus Lab, CNCF-Projekt zur Hinzufügung von Musik und Ansagen zu Hause**
+\---  
+description: 'Prometheus Lab, CNCF-Projekt zur Hinzufügung von Musik und Ansagen zu Hause'  
+pubDate: 'Apr 21, 2023'  
+heroImage: '3a7f4e2f-fff0-44ef-8eef-f71422107799_screenshot-2023-04-20-at-12.52.54.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Projekte, Cloud Infrastruktur, Überwachungstools'  
+subcategories: 'Cloud Infrastruktur, Prometheus, Hackathon-Labor, Hackerspace, Audiowerkzeuge, Tontechnik'  
+\---  
 
 Projekt Coldplay von Erwin de Keijzer, DevOps-Ingenieur, hat den Projektphasenprozess bei der Entwicklung einer Softwarelösung für die Hinzufügung von Musik und Ansagen zu seinem Zuhause geleitet.
 

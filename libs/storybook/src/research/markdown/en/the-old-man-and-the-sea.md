@@ -1,3 +1,12 @@
+\---  
+description: 'Baltic Vikings are not Baltic- connection between the Baltic Sea and the Atlantic ocean'  
+pubDate: 'Feb 13, 2023'  
+heroImage: '899a05af-2e8d-457b-b1d1-35f5cea915a1_euroopa-kaart-9.-saj-alguses-1024x798-1.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'research, environmental studies'  
+subcategories: 'baltic sea heritage, clean up dives, marine pollution, ghost net removal, dive against debris, flying dutchman, balic sea heritage'  
+\---  
+
 # **The Old Man and the Sea**
 
 Today I’m a registered member of the Baltic Sea Nature & Heritage Protection Association! I discovered them during the boot Düsseldor fair where they took part in initiative “\_love your ocean\_“. I believe that being a member with responsible actions will bring me good expertise in illegal lay net removal and cold water diving. I’ve been living on the Baltic Coast for nearly 20 years but never been as close.

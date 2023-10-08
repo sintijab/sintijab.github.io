@@ -1,6 +1,11 @@
-# **Software architecture design- finding the least worst trade-offs**
-
-![](https://images.prismic.io/syntia/0956969c-64e0-47bf-9c70-7900606555fe_sustain-ops.png?auto=compress,format)
+\---  
+description: 'Software architecture design- finding the least worst trade-offs'  
+pubDate: 'May 13, 2022'  
+heroImage: '0956969c-64e0-47bf-9c70-7900606555fe_sustain-ops.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'workshops, cloud infrastructure, software architecture design'  
+subcategories: 'software scalability, domain driven design, devops, service distribution'  
+\---  
 
 Software Architecture: The Hard Parts, Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani
 

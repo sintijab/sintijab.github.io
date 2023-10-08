@@ -1,3 +1,13 @@
+\---  
+description: 'Prinzipien von Anfänger- bis Fortgeschrittenenstufen Nr. 1 - Probleme mit praktischen Beispielen im Code müssen in 1 Stunde gelöst werden...'  
+pubDate: 'Jul 28, 2023'  
+heroImage: 'f527fcc8-4b8c-4a67-a8db-059bbde53dac_img_20230726_150309-1.webp?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes'  
+subcategories: 'Pod Fehlerbehebung, Dezentrale Anwendung, Hexagonale Architektur, Polymorphismus'  
+\---  
+
+
 # **We Are Developers World Congress Tag 1**
 
 Der WeAreDevelopers World Congress wird von vielen als das Flaggschiff-Event der Welt für Entwickler angesehen. Was mir am meisten gefallen hat, war die Gelegenheit, gleichgesinnte Menschen zu treffen, die keine Rückschläge bei ihren Ambitionen und ihrem Streben nach einer besseren Zukunft erleiden.

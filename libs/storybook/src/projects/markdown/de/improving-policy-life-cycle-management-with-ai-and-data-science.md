@@ -1,6 +1,11 @@
-# Verbesserung des Lebenszyklusmanagements von Richtlinien mit KI und Data Science
-
-![Bild](https://images.prismic.io/syntia/25cb98ba-6166-47e8-8450-2cdc19e38a6a_img_20211212_1949031-4.jpg?auto=compress,format)
+\---  
+description: 'Verbesserung des Lebenszyklusmanagements von Politiken mit KI und Datenwissenschaft'  
+pubDate: 'Dec 12, 2021'  
+heroImage: 'c4a6a3cc-1088-4b4d-b30a-ff3558ec5a36_Typical-AI-model-life-cycle-which-consists-of-data-preparation-model-building.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Projekte, Künstliche Intelligenz, Datenwissenschaft'  
+subcategories: 'Nachhaltige Planung, qualitative Analyse, Computerkompetenz, Politiklebenszyklus, Kontextgenauigkeit'  
+\---  
 
 Ein Beispiel für KI in Aktion im gesamten Versicherungswertschöpfungsprozess. \[3\]
 

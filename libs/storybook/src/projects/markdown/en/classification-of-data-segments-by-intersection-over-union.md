@@ -1,6 +1,12 @@
+\---  
+description: 'Classification of data segments by artificial networks and deep learning'  
+pubDate: 'Feb 22, 2022'  
+heroImage: '6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'projects, artifical intelligence, neural networks, image classification'  
+subcategories: 'convolutional neural network, artificial  neural network'  
+\---  
 # **Classification of data segments by intersection over union**
-
-![](https://images.prismic.io/syntia/6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format)
 
 The most fundamental classification problem in computer vision is the image classification itself, where the label and the main object is a given output of an image as it fails to recognize type of the objects out of its bounding box localization.
 
@@ -13,6 +19,7 @@ Multiclass semantic segmentation can be done by structuring the data for the inp
 The images must have tagged labels to generate masks in order to set classes for each segment and compile it with binary segmentation as the last layer has one output with probability reaching from zero or one.  
 Multiclass classification is characterized by categories as image size and number of classes, balancing the class weight for the dataset as defining a multi-unit model, this time using classification with categorical cross-entropy rather than binary. Intersection over a unit will get the argument that gives the highest probability from defined classes and find the class with maximum probability. The percentage can variate for the increased probability the weight must be increased for the class. Multiple encoders can be set to generate features for the input image, therefore it gives the highest accuracy and most advantage compared with other convolutional network models.
 
+  
 Tools:  
 Labeling tool for image masks [www.apeer.com/annotate](//www.apeer.com/annotate)  
 ImageNet dataset with trained models [https://www.image-net.org](https://www.image-net.org)  

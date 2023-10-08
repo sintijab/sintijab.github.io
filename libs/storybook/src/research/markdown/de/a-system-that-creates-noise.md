@@ -1,6 +1,13 @@
-# **Ein System, das Lärm erzeugt**
+\---  
+description: 'Ein System, das Lärm erzeugt - Was kann bei menschlichem Urteilsvermögen schiefgehen?'  
+pubDate: 'Dec 4, 2022'  
+heroImage: '41ccf87c-e57c-42db-80b9-923667404ed6_00sci-maunaloa-1-d2c9-superjumbo.webp?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Forschung, Agile Denkweise'  
+subcategories: 'Risikobewertung, Führung, Lärmprüfung, Lärmreduktion, Kosteneffizienz'  
+\---  
 
-![](https://images.prismic.io/syntia/41ccf87c-e57c-42db-80b9-923667404ed6_00sci-maunaloa-1-d2c9-superjumbo.webp?auto=compress,format)
+# **Ein System, das Lärm erzeugt**
 
 Überall dort, wo menschliche Urteile im Spiel sind, trifft man oft auf Lärm. Um die Qualität unserer Urteile zu verbessern, müssen wir Lärm und Vorurteile in unseren Entscheidungen überwinden.
 

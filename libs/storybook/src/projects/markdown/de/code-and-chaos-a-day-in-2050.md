@@ -1,4 +1,13 @@
-# Code und Chaos - Ein Tag im Jahr 2050
+\---  
+description: 'Code Und Chaos - Ein Tag im Jahr 2050'  
+pubDate: 'Oct 6, 2023'  
+heroImage: 'a8eaf8c1-939e-4dd2-915e-0336eb4ca348_71vXaMtiNIL._SL1500_1.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Bücher'  
+subcategories: 'Literarische Belletristik, Wissenschaft, Natur, Kinder EBooks'  
+\---  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7M2ku1aAzHY?si=NYv50Ew-rJLZn2eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Die Buchreihe "Code und Chaos" von Sintija Birgele behandelt Maschinencode, der aus Befehlen und Anweisungen besteht und von einem Computer lesbar ist. Dieser Code wird verwendet, um die zentrale Verarbeitungseinheit eines Computers auf vorhersehbare Weise zu steuern. Obwohl Software nicht immer perfekt gestaltet oder vorherbestimmt ist, führt sie immer zu einer Ausgabe, die unter den richtigen Umständen zum Lösungsschlüssel für Probleme wird.
 

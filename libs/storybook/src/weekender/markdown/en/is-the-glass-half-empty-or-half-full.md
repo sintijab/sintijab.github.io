@@ -1,8 +1,15 @@
+\---  
+description: 'Is the glass half empty or half full?'  
+pubDate: 'Aug 29, 2022'  
+heroImage: '71619abf-b206-47b0-baed-41580e36f2dc_img_20220828_131405.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'weekender, traveling, science'  
+subcategories: 'science center, science and technology, physics'  
+\---  
+
 # **Is the glass half empty or half full?**
 
 The Swiss Science Center Technorama is one of the largest science centers in Europe. With over 500 experiment stations it offers practical examples in science and technology that is fascinating to learn and interact with at any age.
-
-![](https://images.prismic.io/syntia/71619abf-b206-47b0-baed-41580e36f2dc_img_20220828_131405.jpg?auto=compress,format)
 
 As in the other examples of Wayne Strattman’s work in this exhibition, his recipe is: take a carefully selected mixture of noble gases, enclose these at low pressure in an airtight glass container, and use specifically designed high-frequency electronics to produce a plasma. The combination of these factors produces an ionized gas, which conducts electricity.
 

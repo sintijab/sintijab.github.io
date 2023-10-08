@@ -1,6 +1,12 @@
+\---  
+description: 'Business of thinking: Move!'  
+pubDate: 'Jul 18, 2021'  
+heroImage: '1f4eebf7-de7a-441d-ae0d-b11749c0003c_cover-new.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'weekender, health, time managament'  
+subcategories: 'book reviews, information access, well being, sequential thinking, performance'  
+\---  
 # **Business of thinking: Move!**
-
-![](https://images.prismic.io/syntia/1f4eebf7-de7a-441d-ae0d-b11749c0003c_cover-new.jpg?auto=compress,format)
 
 Highlights from the book- Move! The New Science of Body Over Mind by Caroline Williams. 
 

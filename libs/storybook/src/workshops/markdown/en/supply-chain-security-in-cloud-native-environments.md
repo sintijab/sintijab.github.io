@@ -1,4 +1,11 @@
-# **Supply Chain Security in Cloud-Native Environments**
+\---  
+description: 'KubeCon 2023- Supply Chain Security in Cloud-Native Environments'  
+pubDate: 'Apr 29, 2023'  
+heroImage: '3999c33e-70ea-4679-a7f9-4a4e126b6fa4_196476203-3e288fa7-241e-4520-aacb-8ebb9a8e442e.webp?auto=compress,format'  
+author: 'Syntia'  
+categories: 'workshops, cloud infrastructure, security, supply chain'  
+subcategories: 'software attestation, provenance attestation, infrastructure bill of materials, bill of materials, supply chain levels for software artifacts, software supply chain, transport layer security, secure sockets layer, encryption'  
+\---  
 
 In Supply Chain Security Chapter during KubeCon 2023 Jeremy Rickard, Ido Neeman and Grace Nguyen explained why SBOM and IBOM are equally important with cloud native infrastructure ultimately being software defined and driven, and how SBOM can be complete with a full inventory of infrastructure stack.
 
@@ -9,8 +16,6 @@ From the tooling and building Software and Infrastructure Bill of Materials we w
 “In order to facilitate vulnerability analysis, manufacturers should identify and document components contained in the products with digital elements, including by drawing up a security bill of materials.”
 
 _Proposal for a Regulation of the European Parliament and of the council on horizontal cybersecurity requirements for products with digital elements and amending Regulation (EU) 2019/1020_
-
-![](https://images.prismic.io/syntia/3999c33e-70ea-4679-a7f9-4a4e126b6fa4_196476203-3e288fa7-241e-4520-aacb-8ebb9a8e442e.webp?auto=compress,format)
 
 ![](https://images.prismic.io/syntia/a0ebf46d-ffff-486e-b1b9-52be68b24306_196477253-7ede9ec5-a995-4e59-aab7-8acb35dc56cf.webp?auto=compress,format)
 

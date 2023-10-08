@@ -1,6 +1,11 @@
-# **Vorhersage von Radar- und optischer Satellitenbildern**
-
-![Bild](https://images.prismic.io/syntia/2f347b0b-5e4c-4167-a106-e625524b3ca4_figure-2022-03-27-153109.png?auto=compress,format)
+\---  
+description: 'Vorhersage von Radar- und optischer Satellitenbildern'  
+pubDate: 'Mar 29, 2022'  
+heroImage: '2f347b0b-5e4c-4167-a106-e625524b3ca4_figure-2022-03-27-153109.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Projekte, Künstliche Intelligenz, Neuronale Netzwerke, Bildklassifikation'  
+subcategories: 'Faltungsneuronales Netzwerk, Künstliche neuronale Netzwerke, Satellitenbilder, Erkennung militärischer Objekte, Erkennung von Anomalien'  
+\---  
 
 Testbild und Merkmalskarten aus der Faltungsschicht
 

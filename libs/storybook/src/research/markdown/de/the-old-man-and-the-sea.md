@@ -1,3 +1,12 @@
+\---  
+description: 'Die baltischen Wikinger sind nicht baltisch - Die Verbindung zwischen der Ostsee und dem Atlantischen Ozean'  
+pubDate: 'Feb 13, 2023'  
+heroImage: '899a05af-2e8d-457b-b1d1-35f5cea915a1_euroopa-kaart-9.-saj-alguses-1024x798-1.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Forschung, Umweltstudien'  
+subcategories: 'Erbe der Ostsee, Aufräuchertauchgänge, Meeresverschmutzung, Geisternetz Entfernung, Tauchen gegen Müll, Fliegender Holländer, Erbe der Ostsee'  
+\---  
+
 # **Der alte Mann und das Meer**
 
 Heute bin ich ein registriertes Mitglied des Vereins für den Schutz der Natur und des Erbes der Ostsee! Ich habe sie während der Bootsmesse in Düsseldorf entdeckt, wo sie an der Initiative "_Liebe deine Ostsee_" teilgenommen haben. Ich glaube, dass die Mitgliedschaft und verantwortungsvolles Handeln mir eine gute Expertise im illegalen Entfernen von Stellnetzen und im Tauchen in kaltem Wasser bringen wird. Ich lebe seit fast 20 Jahren an der Ostseeküste, war aber noch nie so nah dran.

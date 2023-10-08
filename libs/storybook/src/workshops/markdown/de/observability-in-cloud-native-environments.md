@@ -1,3 +1,12 @@
+\---  
+description: 'Tag der Beobachtbarkeit und Cilium Con 2023'  
+pubDate: 'Apr 18, 2023'  
+heroImage: 'cdafc9ba-d983-4d3f-8515-541c229c5d98_aws-terraform-snyk-arch.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Workshops, Cloud Infrastruktur, Sicherheit, Überwachung des HTTP Netzwerks'  
+subcategories: 'Softwareentwicklungslebenszyklus, Terraform, Infrastruktur als Code Überwachung, Überwachungsschirm'  
+\---  
+
 # **Beobachtbarkeit in cloud-nativen Umgebungen**
 
 Heute, am Observability Day und Cilium Con 2023, teilten Ingenieure, die auf ein gesundes OSS-Ökosystem angewiesen sind, ihre Erkenntnisse zur Orchestrierung in Cloud-nativen Umgebungen mit Cilium. Dies umfasste Cluster-Management mit einer Multi-Tenancy-Architektur und Elastic Network Interface (Entwurf und Absicherung einer Multi-Tenant-Laufzeitumgebung von Ahmed Bebars, New York Times), die Bestimmung eines Bedrohungsmodells und von Risiken - systematisch (gegenüber ad hoc), große/kleine Verteilung, Rohdaten (gegenüber abgeleiteten Daten) - Netzwerkfluss mit automatisiertem Egress und Kundenressourcenzugriff und -schutz (Bloomberg), Netzwerkdesign, das herstellerneutral ist, leicht skalierbar ist, sich in Legacy-Systeme integrieren lässt und die Erschöpfung von IPv4 behandelt (Karsten Nielsen, IKEA Private Cloud and Networking).

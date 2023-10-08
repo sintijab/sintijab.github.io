@@ -1,5 +1,11 @@
-# **Internet of Value (IoV)**
-
+\---  
+description: 'Internet of Value (IoV) with decentralized technologies'  
+pubDate: 'Nov 25, 2022'  
+heroImage: 'f73be84f-1ec3-4737-b741-3eb1670ad198_1451813.fig_.002.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'projects, web3, blockchain technology'  
+subcategories: 'web3, decentralization, web3 protocols, layer1, tezos, solana, avalanche, ethereum, threshold signature, layer2 scaling, blockchain scaling, startups'  
+\---
   
 How companies are using blockchain as a technology? These three finalists from NBX Next Block expo 2022 are projects highly valued for bringing new developers into Web3 and creating a new jobs.
 

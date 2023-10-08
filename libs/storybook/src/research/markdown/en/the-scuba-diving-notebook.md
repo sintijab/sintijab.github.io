@@ -1,6 +1,13 @@
-# **The Scuba Diving Notebook**
+\---  
+description: 'Stop – Breathe – Think – Act'  
+pubDate: 'Mar 11, 2023'  
+heroImage: 'a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format'  
+author: 'Syntia'  
+categories: 'research, environmental studies, scientific diving'  
+subcategories: 'ssi training, ssi certification, scuba, responsible diver code, technical diver'  
+\---  
 
-![](https://images.prismic.io/syntia/a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format)
+# **The Scuba Diving Notebook**
 
 Octopus in its house in Playa Chica y Barranco del Quíquere (Puerto del Carmen)
 
@@ -8,11 +15,11 @@ Octopus in its house in Playa Chica y Barranco del Quíquere (Puerto del Carmen)
 
 ![](https://images.prismic.io/syntia/c2de1c77-6339-4445-98ff-f5f1c4604eb2_screenshot-777.png?auto=compress,format)
 
-Diving is all I think about sometimes. Weightless, levitating in the middle of the ocean, scaffolded in buoyancy compensator, left with no other option but to enjoy vibrancy and the rhythm of underwater life between volcanic ashes, shipwrecks and reefs.
+"Weightless, levitating in the middle of the ocean, scaffolded in buoyancy compensator, left with no other option but to enjoy vibrancy and the rhythm of underwater life between volcanic ashes, shipwrecks and reefs.
 
 It started on 16th of December in 2022, and wouldn’t be as much perfect without my dive instructor team and Calero Dive Center! The dive equipment is high quality, facilities are modern and the team is welcoming and professional! I decided to continue dive training and getting certified in three diving specialties. Thank you Ariel, Amie, Remi, Sergio, Cris and the entire team! 
 
-After returning from my first diving trip I documented general diving guidelines that I was introduced with before starting the training, and it made me realize how good and safe dive equipment has developed to have this freedom of taking full control in dives.
+After returning from my first diving trip I documented general diving guidelines that I was introduced with before starting the training, and it made me realize how good and safe dive equipment has developed to have this freedom of taking full control in dives."
 
 ### **Accepting responsibility**
 

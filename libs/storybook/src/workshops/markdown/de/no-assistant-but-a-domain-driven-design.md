@@ -1,5 +1,11 @@
-# **Softwareingenieure benötigen keinen Assistenten, sondern ein domänengesteuertes Design**  
-![](https://images.prismic.io/syntia/8cea8294-1143-42c6-856a-338dd0a286d5_img_20220827_105638_666.jpg?auto=compress,format)
+\---  
+description: 'Softwareingenieure ohne Assistenten, sondern mit domänengesteuertem Design'  
+pubDate: 'Jun 23, 2022'  
+heroImage: '8cea8294-1143-42c6-856a-338dd0a286d5_img_20220827_105638_666.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'Workshops, Cloud Infrastruktur, Softwarearchitekturdesign'  
+subcategories: 'Software Skalierbarkeit, Domänengesteuertes Design, DevOps, Serviceverteilung'  
+\---  
 
 Wenn ich mir den Code anschaue, frage ich mich, wie oft ich zwischen Arbeitsbereichen gewechselt habe, um unbemerkt Probleme zu lösen. Egal, wie oft sich das Problem wiederholt, es gehört wahrscheinlich zur Gruppe der Anti-Muster im veralteten Zustand. Entwicklungstools wie Linter und der TypeScript-Compiler können Automatisierung und Rückverfolgbarkeit der Mängel im Code und Design sicherstellen, die die Qualität widerspiegeln können. Das Softwaresystem ist mehr als eine Einheit, sondern der Umfang der Arbeit hängt von seinem Design und seiner Architektur ab.
 "Ich arbeite nicht mehr an Produktmerkmalen, sondern an der Verbesserung von Designmustern und Gerüsten, die die Produkte auf die eine oder andere Weise von Entwicklern bis zum Endbenutzererlebnis verbessern. Dies ist nur mit einem guten Team möglich, das keine Angst hat, von vorne zu beginnen".

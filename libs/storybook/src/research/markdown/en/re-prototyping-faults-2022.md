@@ -1,6 +1,13 @@
-# **Re-prototyping / Faults 2022**
+\---  
+description: 'Re-prototyping / Faults 2022, The relation between material system and design model'  
+pubDate: 'Oct 17, 2022'  
+heroImage: 'debd4ffe-54c1-4435-9edf-b05258588a9a_img_20221001_190122-1.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'research, environmental studies, seismic networks'  
+subcategories: 'seismic event monitoring, seismic data analysis, seismic event warnings, earthquake early warnings, data processing, public alert managament'  
+\---  
 
-![](https://images.prismic.io/syntia/debd4ffe-54c1-4435-9edf-b05258588a9a_img_20221001_190122-1.jpg?auto=compress,format)
+# **Re-prototyping / Faults 2022**
 
 Earth’s lithosphere comprises a number of large tectonic plates which has been slowly moving since about 3.4 billion years ago. Earthquakes, volcanic activity, mountain-building, and oceanic trench formation occur along these plate boundaries where the plates meet, their relative motion determines the type of plate boundary: convergent, divergent, or transform. The relative movement of the plates ranges from zero to 10 cm annually. For much of the last quarter century, the leading theory of the driving force behind tectonic plate motions envisaged large scale convection currents in the upper mantle, which can be transmitted through the asthenosphere. Seismic tomography, two- and three-dimensional imaging of Earth’s interior, shows a varying lateral density distribution throughout the mantle. Monitoring the conditions of seismic events concludes analysis of processes in the deep subsurface that lead to seismicity, subsidence and earthquakes. In high seismic risk areas where the main goal of networks is future seismic risk mitigation, strong-motion recordings play an important role.
 

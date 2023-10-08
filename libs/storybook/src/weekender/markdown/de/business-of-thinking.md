@@ -1,6 +1,11 @@
-# **Denken im Geschäft: Bewegung!**
-
-![Bild](https://images.prismic.io/syntia/1f4eebf7-de7a-441d-ae0d-b11749c0003c_cover-new.jpg?auto=compress,format)
+\---  
+description: 'Business des Denkens: Move!'  
+pubDate: 'Jul 18, 2021'  
+heroImage: '1f4eebf7-de7a-441d-ae0d-b11749c0003c_cover-new.jpg?auto=compress,format'  
+author: 'Syntia'  
+categories: 'weekender, Gesundheit, Zeiteinteilung'  
+subcategories: 'Buchrezensionen, Informationszugang, Wohlbefinden, sequentielles Denken, Leistung'  
+\---  
 
 Höhepunkte aus dem Buch "Bewegung! Die neue Wissenschaft von Körper über Geist" von Caroline Williams.
 
