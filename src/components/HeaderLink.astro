@@ -3,11 +3,11 @@ import type { HTMLAttributes } from "astro/types";
 
 type Props = HTMLAttributes<"a">;
 
-const { class: className, href, ...props } = Astro.props;
+const { class: className, href, lang, ...props } = Astro.props;
 
 const { pathname } = Astro.url;
-
-const isActive = pathname.length > 3 && (href as URL).toString().includes(pathname);
+const formatted = pathname.replace(/\/$/, "");
+const isActive = pathname.length > 4 && (href as URL).toString().includes(formatted) || formatted === `/${lang}`;
 ---
 
 <a href={href} class:list={[className, { active: isActive }, 'nav-item']} {...props}>
