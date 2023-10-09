@@ -43,10 +43,10 @@ const data = index?.[0].data.carousel;
             <GridItem class="grid-items">
               <p class="description">
                 {slide.description}
+                <a href={`${origin}/${slide.url}`} class="custom-btn btn-3 btn-purple"><span>{slide.caption}</span></button>
               </p>
             </GridItem>
             <GridItem class="grid-items">
-              <a href={`${origin}/${slide.url}`} class="custom-btn btn-3 btn-purple"><span>{slide.caption}</span></button>
             </GridItem>
           </Grid>
           <div class="overlay-text overlay-text-1"></div>
