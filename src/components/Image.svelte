@@ -27,6 +27,7 @@
     border-radius: inherit;
     border: none;
     position: absolute;
+    width: 100%;
   }
   @media (min-width: 600px) {
     .media {
