@@ -18,7 +18,7 @@
 
 .images-inner {
   width: 500%;
-  transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
+  transition: all 900ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
   transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000);
 }
 
@@ -123,7 +123,7 @@
 }
 
 .st-slider>#play1:checked~.images .images-inner {
-  animation: slide 12300ms infinite;
+  animation: slide 16s infinite;
 }
 
 /* Calculate autoplay for caption */
