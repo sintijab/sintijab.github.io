@@ -23,14 +23,12 @@ const mainLang = document.getElementById('main-lang');
 let newUrl = '';
 const { location: { protocol, host, pathname } } = window;
 const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
-console.log(lang);
 let path = pathname;
 mainLang?.classList.add(`text-${lang}`);
 
 document.querySelectorAll('.sl-flag-list li').forEach(element => {
   element.addEventListener('click', () => {
     const id = element.getAttribute('id');
-    console.log(id)
     mainLang?.classList.remove(`text-${lang}`);
     mainLang?.classList.add(`text-${id}`);
     if (lang !== id && pathname.length > 1) {
