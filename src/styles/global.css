@@ -145,12 +145,12 @@ hr {
 }
 
 nav {
-	font-family: 'Raleway Variable', 'Poppins Variable', sans-serif;
+	font-family: 'Raleway Variable', 'Poppins', sans-serif;
 	font-size: 18px;
 }
 
 .site-title {
-	font-family: 'Cabin', 'Poppins Variable', sans-serif;
+	font-family: 'Cabin Variable', 'Poppins', sans-serif;
 	font-size: 28.8px;
 	padding: .5rem 0;
 	letter-spacing: normal;

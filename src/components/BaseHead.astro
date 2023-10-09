@@ -1,10 +1,12 @@
 ---
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
-import '../styles/global.css';
 import '@fontsource-variable/raleway';
 import '@fontsource/poppins';
 import '@fontsource-variable/inter';
+import '@fontsource/crimson-text';
+import '@fontsource-variable/cabin';
+import '../styles/global.css';
 
 interface Props {
 	title: string;
@@ -19,9 +21,13 @@ const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' http://cdn-images.mailchimp.com; script-src 'self' 'unsafe-inline' *.googletagmanager.com *.prismic.io *.amazonaws.com *.google-analytics.com *.youtube.com; connect-src 'self' 'unsafe-inline' *.googletagmanager.com *.prismic.io *.amazonaws.com *.google-analytics.com *.youtube.com *.mailchimp.com; img-src 'self' data: *.prismic.io;"/>
+
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <meta name="generator" content={Astro.generator} />
+
+<!-- Font preloads -->
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
