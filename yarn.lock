@@ -2287,6 +2287,27 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@fontsource-variable/inter@npm:^5.0.13":
+  version: 5.0.13
+  resolution: "@fontsource-variable/inter@npm:5.0.13"
+  checksum: 06b3bb19b2ccc83f68e66ce6a839c9e8d325ebb9a2f4bf65350e74b10f9defdcce8523c3512876d0e4d669f8f66a64178e9e5ec18361eb4ca248b62d5538007d
+  languageName: node
+  linkType: hard
+
+"@fontsource-variable/raleway@npm:^5.0.14":
+  version: 5.0.14
+  resolution: "@fontsource-variable/raleway@npm:5.0.14"
+  checksum: c0beca64cfc1738127d63ac2386e84d15e804a4165288e51e8247e585672e2a5dbab071227f40e5cf8a26060f3e74d6db1a2cf04faf9f6be6fca3046a01273e4
+  languageName: node
+  linkType: hard
+
+"@fontsource/poppins@npm:^5.0.8":
+  version: 5.0.8
+  resolution: "@fontsource/poppins@npm:5.0.8"
+  checksum: 9ac971aa4bad82e5cf4fe32340cdf832f806231ed3f89a23a569f73b9f879c312f63230a0f3ba0c82ff750931c806102d0b925ff87f3379f52045d3ffaeb8806
+  languageName: node
+  linkType: hard
+
 "@humanwhocodes/config-array@npm:^0.11.11":
   version: 0.11.11
   resolution: "@humanwhocodes/config-array@npm:0.11.11"
@@ -17296,6 +17317,9 @@ __metadata:
     "@astrojs/mdx": ^1.1.0
     "@astrojs/sitemap": ^3.0.0
     "@astrojs/svelte": ^4.0.2
+    "@fontsource-variable/inter": ^5.0.13
+    "@fontsource-variable/raleway": ^5.0.14
+    "@fontsource/poppins": ^5.0.8
     "@typescript-eslint/eslint-plugin": ^6.7.3
     "@typescript-eslint/parser": ^6.7.3
     astro: ^3.1.3
