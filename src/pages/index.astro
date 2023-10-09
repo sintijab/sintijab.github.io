@@ -9,7 +9,7 @@ import Image from '../components/Image.svelte';
 import FooterBanner from "../components/FooterBanner.astro";
 import Carousel from "../components/Carousel.astro";
 import Posts from "../components/Posts.astro";
-import newsletterStyles from "../styles/newsletter.css";
+import "../styles/newsletter.css";
 
 const { pathname, origin } = Astro.url;
 const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
@@ -150,7 +150,6 @@ const data = index[0].data;
 		</GridItem>
 		</Grid>
 		<div id="mc_embed_shell" class="signup-wrapper">
-	  <link href={newsletterStyles} rel="stylesheet" type="text/css">
 <Grid class="main-section newsletter">
 	<GridItem class="main-section-items signup-items">
 <div id="mc_embed_signup">
