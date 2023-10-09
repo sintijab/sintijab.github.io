@@ -1,10 +1,10 @@
 ---
-description: 'Radar and optical satellite imagery prediction'
-pubDate: 'Mar 29, 2022'
-heroImage: 'https://images.prismic.io/syntia/2f347b0b-5e4c-4167-a106-e625524b3ca4_figure-2022-03-27-153109.png?auto=compress,format'
-author: 'Syntia'
-categories: 'projects, artifical intelligence, neural networks, image classification'
-subcategories: 'convolutional neural network, artificial neural networks, satellite imagery, detection of military objects, detection of anomalies'
+description: "Radar and optical satellite imagery prediction"
+pubDate: "Mar 29, 2022"
+heroImage: "https://images.prismic.io/syntia/2f347b0b-5e4c-4167-a106-e625524b3ca4_figure-2022-03-27-153109.png?auto=compress,format"
+author: "Syntia"
+categories: "projects, artifical intelligence, neural networks, image classification"
+subcategories: "convolutional neural network, artificial neural networks, satellite imagery, detection of military objects, detection of anomalies"
 ---
 
 Test image and feature maps from convolutional layer

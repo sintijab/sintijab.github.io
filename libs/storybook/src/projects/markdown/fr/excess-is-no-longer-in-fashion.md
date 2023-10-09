@@ -1,11 +1,11 @@
-\---
-description: 'L'excès n'est plus à la mode'
-pubDate: '19 septembre 2021'
-heroImage: 'a528ba18-15af-41a2-a913-7f166bd85850_san_kim_layout_04-jp-1v3-2048x1289-1.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'projets, études environnementales, design durable'
-subcategories: 'mode recyclée, économie circulaire, design urbain, réalité augmentée'
-\---
+\---  
+description: "L'excès n'est plus à la mode"  
+pubDate"Sep 19, 2021"   
+heroImage"a528ba18-15af-41a2-a913-7f166bd85850_san_kim_layout_04-jp-1v3-2048x1289-1.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projets, études environnementales, design durable"   
+subcategories"mode recyclée, économie circulaire, design urbain, réalité augmentée"   
+\---  
 
 Photographie de Kerry J Dean
 

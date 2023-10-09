@@ -1,10 +1,10 @@
 ---
-description: 'Internet of Value (IoV) mit dezentralen Technologien'
-pubDate: 'Nov 25, 2022'
-heroImage: 'https://images.prismic.io/syntia/f73be84f-1ec3-4737-b741-3eb1670ad198_1451813.fig_.002.png?auto=compress,format'
-author: 'Syntia'
-categories: 'Projekte, Web3, Blockchain-Technologie'
-subcategories: 'Web3, Dezentralisierung, Web3 Protokolle, Layer1, Tezos, Solana, Avalanche, Ethereum, Schwellenwertsignatur, Layer2 Skalierung, Blockchain Skalierung, Startups'
+description: "Internet of Value (IoV) mit dezentralen Technologien"
+pubDate: "Nov 25, 2022"
+heroImage: "https://images.prismic.io/syntia/f73be84f-1ec3-4737-b741-3eb1670ad198_1451813.fig_.002.png?auto=compress,format"
+author: "Syntia"
+categories: "Projekte, Web3, Blockchain-Technologie"
+subcategories: "Web3, Dezentralisierung, Web3 Protokolle, Layer1, Tezos, Solana, Avalanche, Ethereum, Schwellenwertsignatur, Layer2 Skalierung, Blockchain Skalierung, Startups"
 ---
 Wie nutzen Unternehmen die Blockchain-Technologie? Diese drei Finalisten der NBX Next Block Expo 2022 werden hoch geschätzt, weil sie neue Entwickler in das Web3 bringen und neue Arbeitsplätze schaffen.
 

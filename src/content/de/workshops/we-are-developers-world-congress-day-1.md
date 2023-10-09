@@ -1,10 +1,10 @@
 ---
-description: 'Prinzipien von Anfänger- bis Fortgeschrittenenstufen Nr. 1 - Probleme mit praktischen Beispielen im Code müssen in 1 Stunde gelöst werden...'
-pubDate: 'Jul 28, 2023'
-heroImage: 'https://images.prismic.io/syntia/f527fcc8-4b8c-4a67-a8db-059bbde53dac_img_20230726_150309-1.webp?auto=compress,format'
-author: 'Syntia'
-categories: 'Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes'
-subcategories: 'Pod Fehlerbehebung, Dezentrale Anwendung, Hexagonale Architektur, Polymorphismus'
+description: "Prinzipien von Anfänger- bis Fortgeschrittenenstufen Nr. 1 - Probleme mit praktischen Beispielen im Code müssen in 1 Stunde gelöst werden..."
+pubDate: "Jul 28, 2023"
+heroImage: "https://images.prismic.io/syntia/f527fcc8-4b8c-4a67-a8db-059bbde53dac_img_20230726_150309-1.webp?auto=compress,format"
+author: "Syntia"
+categories: "Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes"
+subcategories: "Pod Fehlerbehebung, Dezentrale Anwendung, Hexagonale Architektur, Polymorphismus"
 ---
 
 

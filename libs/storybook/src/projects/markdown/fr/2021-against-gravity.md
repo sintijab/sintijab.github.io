@@ -1,11 +1,11 @@
-\---
-description: '2021 - Contre la Gravité'
-pubDate: '31 décembre 2021'
-heroImage: '9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'projets, intelligence artificielle, science des données'
-subcategories: 'architecture moderne, patrimoine typologique, patrimoine figuratif, homogénéisation culturelle'
-\---
+\---  
+description"2021 - Contre la Gravité"   
+pubDate"Dec 31, 2021"   
+heroImage"9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projets, intelligence artificielle, science des données"   
+subcategories"architecture moderne, patrimoine typologique, patrimoine figuratif, homogénéisation culturelle"   
+\---  
 
 Dans son exposition à Munich, Ai Weiwei transforme de manière spectaculaire le Haus der Kunst - une brillante tapisserie lumineuse composée de 9 000 sacs à dos colorés pour enfants recouvre toute la façade colonnée du musée. Des caractères chinois géants transmettent une citation d'une mère ayant perdu un enfant, rappelant ainsi le destin tragique de toutes les personnes décédées l'année dernière lors du tremblement de terre massif du Sichuan : le gouvernement communiste tente toujours par tous les moyens de dissimuler la corruption et le travail bâclé qui ont directement conduit à l'effondrement des écoles.
 

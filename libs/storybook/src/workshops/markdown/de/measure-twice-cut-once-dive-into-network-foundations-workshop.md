@@ -1,10 +1,10 @@
 \---  
-description: 'Zweimal messen, einmal schneiden - Tauchen Sie in das Netzwerk-Grundlagen-Workshop ein'  
-pubDate: 'Apr 21, 2023'  
-heroImage: '501f905a-89dd-4824-b5e4-c6a1a012f49e_nf-hooks.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Cloud Infrastruktur, Netzwerke, Barebone'  
-subcategories: 'Kommunikationsprotokolle, Transmission Control Protocol, Open System Interconnection-Modell, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk'  
+description: "Zweimal messen, einmal schneiden - Tauchen Sie in das Netzwerk-Grundlagen-Workshop ein"   
+pubDate: "Apr 21, 2023"   
+heroImage: "501f905a-89dd-4824-b5e4-c6a1a012f49e_nf-hooks.png?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Cloud Infrastruktur, Netzwerke, Barebone"   
+subcategories: "Kommunikationsprotokolle, Transmission Control Protocol, Open System Interconnection-Modell, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk"   
 \---  
 
 In diesem Jahr hatte die KubeCon + CloudNativeCon Europe 2023 mehr als 10.000 Teilnehmer, von denen 58 % zum ersten Mal an dieser globalen Cloud-Native-Konferenz teilnahmen.
@@ -310,7 +310,7 @@ $ ip addr show eth0
     inet 192.168.122.236/24 brd 192.168.122.255 scope global eth0
     inet6 fe80::5054:ff:fe43:846c/64 scope link
        valid_lft forever preferred_lft forever
-$ ip addr show eth0 | grep 'inet ' | awk '{print $2}' | cut -f1 -d'/'  
+$ ip addr show eth0 | grep 'inet ' | awk '{print $2}' | cut -f1 -d'/"   
 192.168.122.236
 
 ```

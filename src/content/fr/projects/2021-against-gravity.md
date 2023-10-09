@@ -1,0 +1,59 @@
+---
+description: "2021 - Contre la Gravité"
+pubDate: "Apr 5, 2022"
+heroImage: "https://images.prismic.io/syntia/9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format"
+author: "Syntia"
+categories: "projets, intelligence artificielle, science des données"
+subcategories: "architecture moderne, patrimoine typologique, patrimoine figuratif, homogénéisation culturelle"
+---
+
+Dans son exposition à Munich, Ai Weiwei transforme de manière spectaculaire le Haus der Kunst - une brillante tapisserie lumineuse composée de 9 000 sacs à dos colorés pour enfants recouvre toute la façade colonnée du musée. Des caractères chinois géants transmettent une citation d'une mère ayant perdu un enfant, rappelant ainsi le destin tragique de toutes les personnes décédées l'année dernière lors du tremblement de terre massif du Sichuan : le gouvernement communiste tente toujours par tous les moyens de dissimuler la corruption et le travail bâclé qui ont directement conduit à l'effondrement des écoles.
+
+L'architecture moderne transmettait l'image de l'architecte en tant que concepteur solitaire ayant un contrôle total sur le processus de planification, une image incompatible avec le fait de travailler sur un bâtiment conçu par quelqu'un d'autre, tout comme il y aurait peu de sympathie pour un artiste qui altère la musique, l'art, la littérature ou le film de quelqu'un d'autre. Peut-être est-ce aussi la raison pour laquelle le modernisme, avec sa mentalité de tabula rasa, considérait les monuments historiques comme des œuvres isolées, tandis que les autres bâtiments anciens étaient simplement remplacés. En conséquence, au cours de la première moitié du XXe siècle, les idées contemporaines étaient rarement incorporées dans des structures existantes. Ce n'est qu'à partir des années 1980 que la prise de conscience de l'importance de la rénovation en tant qu'outil de planification urbaine durable s'est développée. Que le projet soit axé sur la préservation pure ou qu'il adopte une approche expérimentale : certains des projets les plus importants achevés ces dernières années sont des ajouts qui entrent en dialogue avec le passé, quelque chose que l'architecture moderne a négligé de faire.
+
+Un architecte qui intervient dans un bâtiment existant doit faire face aux changements survenus au fil du temps. Lors du développement de projets pour ces bâtiments, qu'ils soient récents ou anciens, nous avons du mal à dissiper une étrange illusion : les bâtiments semblent posséder la genèse de leur propre altération, comme si leur existence était enracinée dans quelque chose d'autre que le temps et l'espace, de sorte que notre travail consiste finalement à révéler les codes intrinsèques.
+
+Examiner attentivement le bâtiment existant est une condition préalable au début de chaque projet de restauration et de rénovation. Il faut saisir la synergie des structures et de leurs connexions, des matériaux, des surfaces, des caractéristiques de contrôle climatique, de l'équilibre énergétique et de la technologie du bâtiment. Lorsqu'il s'agit de bâtiments classés, la provenance des composants individuels du bâtiment et l'histoire de leur utilisation revêtent une importance accrue. L'enquête sur la détérioration et les réparations antérieures, ainsi que leurs causes, peut fournir des informations essentielles pour la restauration et implique de faire la distinction entre l'état actuel, l'usure, la qualité et la maintenance, l'état de la technologie au moment de la construction, et si une planification défectueuse a joué un rôle.
+
+En septembre 2019, à la suite du projet La Sénior, promu par le Théâtre espagnol pour changer le regard sur la génération de nos aînés, est née une exposition de photographie intitulée "Contre la Gravité". Elle a été initialement conçue comme un appel ouvert aux jeunes adolescents pour prendre des photos de personnes de plus de 65 ans n'importe où à Madrid et dans le but de les représenter dans des attitudes amusantes, vitales et inattendues. Le projet a dû être interrompu, et une fois qu'il a été relancé pour surmonter tous les problèmes causés pendant cette période par le Covid-19, il a collaboré avec trois lycées et a ensuite été exposé à Matadero.
+
+En plusieurs phases, le Matadero, un ancien abattoir construit au début du XXe siècle à Madrid, devrait être transformé d'ici 2011 en un centre culturel multidisciplinaire. La salle 17c abrite désormais Intermediæ, un institut d'art contemporain qui vise avant tout à mettre en lumière les processus créatifs et à encourager l'expérimentation et l'interaction. Il s'agit d'un espace ouvert accueillant des expositions, des projections de films, un studio de jeux vidéo, un café de réparation, des ateliers, des événements pour les enfants et les familles, ainsi qu'un centre d'art pour les études interdisciplinaires.
+
+Les architectes ont limité leurs interventions au strict minimum, probablement en partie en raison d'un budget de seulement 700 000 euros. Toutes les traces du passé restent visibles, y compris les résidus d'isolation en liège rappelant l'ancien usage en tant que chambre froide, ainsi que des preuves de travaux de réparation, par exemple, des colonnes. Les parties manquantes des murs sont restées intactes, comme si elles venaient d'être démolies à la masse ; Un comptoir de 15 mètres de long en acier soudé de 15 mm domine le hall d'entrée ; les conduits et les câblages sont en surface et restent visibles. À cette fin, ils ont utilisé des matériaux couramment utilisés dans les environnements industriels, disponibles en rayon, sans autre traitement.
+
+"La réutilisation est un terme facile à expliquer, mais ce n'est pas une fin en soi. Il est plus coûteux de réutiliser l'ancien que d'acheter de nouveaux matériaux. Alors que beaucoup d'entre nous pensent qu'il est plus logique de réutiliser que de jeter, notre société, le marché et les cadres légaux nous disent le contraire."
+
+Rotor active des processus visant à influencer les politiques nationales et européennes et à promouvoir les principes d'une économie circulaire. Un exemple en est Opalis, un projet lancé il y a dix ans par des revendeurs de matériaux de récupération. "Nous avons commencé à documenter les revendeurs autour de Bruxelles, puis cela s'est étendu à toute la Belgique, et maintenant c'est le Benelux et la France réunis. Opalis répertorie plus de 300 entreprises proposant des matériaux de récupération. Cela a été un travail gigantesque pour identifier, contacter, visiter et comprendre ce qu'ils faisaient. Nous documentons cela dans une grande archive en ligne.
+
+Notre objectif avec l'annuaire est de donner de la visibilité à la réutilisation des composants du bâtiment et de transmettre son impact réel sur l'économie et les personnes."
+
+Le fait de se déplacer implique l'utilisation d'énergie et la production d'émissions. La haute technologie nous permet de trouver des solutions à faible technologie. Par exemple, l'utilisation de capteurs peut signaler quand un bâtiment est vide. Pour le rendre efficace, il pourrait être utilisé plus d'heures par jour et devenir multifonctionnel.
+
+Les limites et les restrictions impliquent souvent une planification meilleure et plus durable. Cependant, l'architecte Hagen insiste : "l'une des plus grandes menaces de l'avenir est la pauvreté. La durabilité écologique ne suffit pas. Nous avons besoin de durabilité sociale, car le besoin nous force à nous concentrer sur ce qui coûte moins cher en ce moment au lieu de chercher la bonne solution à long terme."
+
+Imaginez que vous ayez perdu une jambe. La Suisse dispose d'un des meilleurs systèmes de soins médicaux, tandis que dans les pays moins développés, les gens ne peuvent pas se permettre des prothèses de jambe. L'Organisation mondiale de la santé estime à 35 millions le nombre de personnes ayant besoin de prothèses ou d'orthèses chaque année. Des ingénieurs industriels suisses ont trouvé une solution abordable : les déchets d'emballage en plastique dans ces pays sont une ressource précieuse pour la demande élevée de prothèses de jambe à faible coût. Ils ont développé des prothèses modulaires à haute fonctionnalité. L'objectif n'est pas le produit, mais l'économie circulaire : mettre en place un cycle de matériaux local afin de créer de nouveaux emplois et de maintenir la valeur dans le pays.
+
+En cultivant une éthique du bas coût, la conception architecturale peut améliorer la qualité des lieux, renforcer les communautés et apporter des réponses à la question de la vie dans l'effet du changement climatique.
+
+"Entrer dans l'Anthropocène pose des défis en ce qui concerne le rôle des humains dans la gestion de la planète. Notre expérience de plusieurs décennies en tant qu'architectes dans des endroits où de longues guerres viennent de se terminer ou où la pauvreté est extrême a signifié explorer les conditions de niveau zéro dans lesquelles la simplicité, l'économie, la sobriété et l'attention aux problèmes environnementaux sont la seule manière d'aborder l'avenir. Cela a nécessité un effort constant vers une sorte de simplification qui synthétise la modernité et la tradition. Il s'agit d'une étape en avant pour réduire les coûts et ajouter du contenu social. L'éthique du bas coût implique de concevoir de manière plus efficace, de réduire le superflu (y compris sur le plan esthétique), et d'optimiser les services et les coûts au bénéfice de la communauté", déclarent les membres de TAMassociati.
+
+La tendance à penser localement en ce qui concerne les ressources telles que la communauté, l'histoire, les matériaux et les processus s'étend à l'identité donnée par les traditions de construction. Pour TAM, concevoir pour préserver les éléments locaux de la diversité et de la particularité est une lutte contre l'homogénéisation culturelle.
+
+L'échange avec le patrimoine typologique et figuratif du contexte signifie concevoir en continuité avec le site en absorbant les connaissances et les pratiques locales. Cela signifie également les réinventer dans une clé contemporaine. TAM le fait tout en visant à avoir un impact positif sur l'environnement et à contribuer à l'autosuffisance des habitants.
+
+"L'éco-maison (2017), partie du projet H2OS construit dans la région agricole de Keur Bakar, au Sénégal, à 200 km au sud de Dakar, est un système résidentiel co-développé qui est autonome en matière d'approvisionnement en eau et en énergie". Le projet est une contribution à l'arrêt du dépeuplement et de l'appauvrissement des zones rurales. Il aborde la gestion des déchets domestiques et la culture de légumes grâce à des techniques respectueuses de l'environnement sahélien.
+
+Une bonne architecture met en valeur les lieux significatifs qui aident les gens à bien vivre. C'est ce que l'architecte norvégien Christian Norberg-Schulz appelle un paysage artificiel "cosmique" dans son livre de 1980, "Genius Loci: Towards a Phenomenology of Architecture". Schulz veut que nous voyions un site comme ayant une identité précise toujours reconnaissable, dont les caractères peuvent être continus ou variables dans le temps.
+
+Lecture complémentaire :
+
+- Détail, Revue d'architecture 2009, Domus, Matériaux et processus, 2021 ; Christian Schittich ;
+- Lire le tissu existant, Enrique Sobejano, Fuensanta Nieto ;
+- Conservation du bâtiment et préservation du patrimoine historique, Berthold Burkhardt ;
+- Centre de culture contemporaine dans un ancien abattoir à Madrid. Architectes : Arturo Franco et Fabrice van Teslaar ;
+- Repenser notre patrimoine matériel, Salvatore Peluso ;
+- Le défi est d'améliorer la vie des gens, Cecilia Fablani ;
+- Simon Oschwald - Briser le mur des prothèses de jambe abordables, 2018 ;
+- [https://projectcircleg.com](https://projectcircleg.com) ;
+- Bâtiments discrets, conviviaux et généreux, Valentina Croci ;
+- TAMassociati [https://goodland.network](https://goodland.network/).

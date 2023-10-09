@@ -1,10 +1,10 @@
 ---
-description: 'Sielunmaisema saunasta- Finnish culture, traditions and wellbeing'
-pubDate: 'Jul 14, 2023'
-heroImage: 'https://images.prismic.io/syntia/2152dc71-f79e-41f4-8a96-632d979fa033_20230705_211309-1-1.webp?auto=compress,format'
-author: 'Syntia'
-categories: 'weekender, traveling, traditions'
-subcategories: 'saunas, watersports, wellbeing'
+description: "Sielunmaisema saunasta- Finnish culture, traditions and wellbeing"
+pubDate: "Jul 14, 2023"
+heroImage: "https://images.prismic.io/syntia/2152dc71-f79e-41f4-8a96-632d979fa033_20230705_211309-1-1.webp?auto=compress,format"
+author: "Syntia"
+categories: "weekender, traveling, traditions"
+subcategories: "saunas, watersports, wellbeing"
 ---
 
 # **Sielunmaisema**

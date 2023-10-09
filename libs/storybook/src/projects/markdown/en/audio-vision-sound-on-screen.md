@@ -1,10 +1,10 @@
 \---  
-description: 'Audio-Vision: Sound on screen methodology'  
-pubDate: 'Apr 5, 2022'  
-heroImage: 'e9708192-8123-461e-9214-4d4e9864aee5_1691773573.webp?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projects, sound studies, audio vision'  
-subcategories: 'audio visual media, sound classification, interdisciplinary media, sound governance, active listening'  
+description"Audio-Vision: Sound on screen methodology"   
+pubDate"Apr 5, 2022"   
+heroImage"e9708192-8123-461e-9214-4d4e9864aee5_1691773573.webp?auto=compress,format"   
+author"Syntia"   
+categories"projects, sound studies, audio vision"   
+subcategories"audio visual media, sound classification, interdisciplinary media, sound governance, active listening"   
 \---  
 
 [https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app\_id=122963](https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app_id=122963)

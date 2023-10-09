@@ -1,10 +1,10 @@
 \---  
-description: 'The New Science Of Cause and Effect'  
-pubDate: 'Aug 14, 2021'  
-heroImage: 'fc21d70d-40d9-40fc-9523-10c583cba547_361_855b_f1.jpeg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'weekender, critical thinking, data analysis'  
-subcategories: 'book reviews, information access, user research, causation'  
+description: "The New Science Of Cause and Effect"   
+pubDate: "Aug 14, 2021"   
+heroImage: "fc21d70d-40d9-40fc-9523-10c583cba547_361_855b_f1.jpeg?auto=compress,format"   
+author: "Syntia"   
+categories: "weekender, critical thinking, data analysis"   
+subcategories: "book reviews, information access, user research, causation"   
 \---  
 
 # **“The New Science Of Cause and Effect” by Judea Pearl & Dana Mackenzie**

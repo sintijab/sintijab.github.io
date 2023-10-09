@@ -1,10 +1,10 @@
 ---
-description: 'Passion makes us lose track of time- Jean-Jacques Fiechter'
-pubDate: 'Jan 26, 2023'
-heroImage: 'https://images.prismic.io/syntia/81ea6688-c3a8-48e8-9af7-3a0fd0d3ebe1_cnxdu2eux0f.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'research, environmental studies, scientific diving'
-subcategories: 'dive watch manufacturing, dive expeditions'
+description: "Passion makes us lose track of time- Jean-Jacques Fiechter"
+pubDate: "Jan 26, 2023"
+heroImage: "https://images.prismic.io/syntia/81ea6688-c3a8-48e8-9af7-3a0fd0d3ebe1_cnxdu2eux0f.jpg?auto=compress,format"
+author: "Syntia"
+categories: "research, environmental studies, scientific diving"
+subcategories: "dive watch manufacturing, dive expeditions"
 ---
 
 # **Full Fathom Five**

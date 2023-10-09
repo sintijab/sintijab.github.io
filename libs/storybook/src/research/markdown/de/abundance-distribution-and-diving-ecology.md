@@ -1,10 +1,10 @@
 \---  
-description: 'Überfluss, Verteilung und Tauchökologie'  
-pubDate: 'Jan 26, 2023'  
-heroImage: '0a1dfa4c-f78b-4ca2-90a2-5a488aebd75a_img-20230127-wa0001.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Umweltstudien, Wissenschaftliches Tauchen'  
-subcategories: 'Industrielle Fertigung, Kompressorsysteme, Industrielle Luftsysteme, Polarforschung, Synoptische Beobachtungen, Meteorologische Satelliten, Sonett-Expedition'  
+description: "Überfluss, Verteilung und Tauchökologie"   
+pubDate: "Jan 26, 2023"   
+heroImage: "0a1dfa4c-f78b-4ca2-90a2-5a488aebd75a_img-20230127-wa0001.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Umweltstudien, Wissenschaftliches Tauchen"   
+subcategories: "Industrielle Fertigung, Kompressorsysteme, Industrielle Luftsysteme, Polarforschung, Synoptische Beobachtungen, Meteorologische Satelliten, Sonett-Expedition"   
 \---  
 
 Freitauchen mit Nik Linder, Weltrekordhalter im Eistauchen und dynamischen Apnoetauchen

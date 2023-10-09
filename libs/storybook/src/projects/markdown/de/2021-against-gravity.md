@@ -1,10 +1,10 @@
 \---  
-description: '2021 - Gegen die Schwerkraft'  
-pubDate: '31 Dec, 2021'  
-heroImage: '9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Künstliche Intelligenz, Datenwissenschaft'  
-subcategories: 'Moderne Architektur, Typologisches Erbe, Figürliches Erbe, Kulturelle Homogenisierung'  
+description"2021 - Gegen die Schwerkraft"   
+pubDate"31 Dec, 2021"   
+heroImage"9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format"   
+author"Syntia"   
+categories"Künstliche Intelligenz, Datenwissenschaft"   
+subcategories"Moderne Architektur, Typologisches Erbe, Figürliches Erbe, Kulturelle Homogenisierung"   
 \---  
 
 ![](https://images.prismic.io/syntia/9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format)

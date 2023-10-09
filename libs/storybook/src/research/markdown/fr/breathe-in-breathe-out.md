@@ -1,11 +1,11 @@
-\---
-description: 'Ressusciter le récif - avancées numériques pour la communauté des plongeurs'
-pubDate: '15 juin 2023'
-heroImage: 'bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format'
-author: 'Syntia'
-categories: 'recherche, études environnementales, plongée scientifique'
-subcategories: 'formation SSI, certification SSI, apnée, biologie marine, modèles de classification, restauration de récifs, changement climatique'
-\---
+\---  
+description: "Ressusciter le récif - avancées numériques pour la communauté des plongeurs"   
+pubDate: "Jun 15, 2023"   
+heroImage: "bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format"   
+author: "Syntia"   
+categories: "recherche, études environnementales, plongée scientifique"   
+subcategories: "formation SSI, certification SSI, apnée, biologie marine, modèles de classification, restauration de récifs, changement climatique"   
+\---  
 
 # **Inspiration / Expiration**
 

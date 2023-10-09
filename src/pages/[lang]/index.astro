@@ -1,29 +1,17 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
+import { SITE_TITLE, SITE_DESCRIPTION, getAllCollections, EN_COLLECTION } from "../../consts";
 import Grid from "../../components/Grid.astro";
 import GridItem from "../../components/GridItem.astro";
 import Image from '../../components/Image.svelte';
 import FooterBanner from "../../components/FooterBanner.astro";
 import Carousel from "../../components/Carousel.astro";
 import Posts from "../../components/Posts.astro";
-import { DE_COLLECTION, EN_COLLECTION } from '../../consts';
-
 
 export async function getStaticPaths() {
-	const en = await getCollection(EN_COLLECTION, ({ id }) => {
- 		return id.startsWith('index');
-	});
-	const de = await getCollection(DE_COLLECTION, ({ id }) => {
-		return id.startsWith('index');
-	});
-	const posts = [
-		...en,
-		...de,
-	];
+	const posts = await getAllCollections(({ id }) => id.startsWith('index'));
 	return posts.map(page => {
 	const [collection, ...slug] = page.slug.split('/');
     return { params: { lang: page.collection }, props: { ...page } }
@@ -31,7 +19,7 @@ export async function getStaticPaths() {
 }
 const { pathname, origin } = Astro.url;
 const { data } = Astro.props;
-const lang = pathname.split('/').filter(e => e)[0] || 'en';
+const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
 ---
 
 <!doctype html>

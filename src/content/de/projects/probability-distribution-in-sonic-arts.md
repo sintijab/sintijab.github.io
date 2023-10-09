@@ -1,10 +1,10 @@
 ---
-description: 'Wahrscheinlichkeitsverteilung in der Klangkunst'
-pubDate: 'Mar 4, 2022'
-heroImage: 'https://images.prismic.io/syntia/c08197f4-b69a-4ea5-85f0-76dbf2b59d6d_la-musique-1939.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'Projekte, Klangstudien'
-subcategories: 'Interdisziplinäre Klänge, Klangagentur, Klangpolitik, Diskrete Daten, Wahrscheinlichkeitsverteilung'
+description: "Wahrscheinlichkeitsverteilung in der Klangkunst"
+pubDate: "Mar 4, 2022"
+heroImage: "https://images.prismic.io/syntia/c08197f4-b69a-4ea5-85f0-76dbf2b59d6d_la-musique-1939.jpg?auto=compress,format"
+author: "Syntia"
+categories: "Projekte, Klangstudien"
+subcategories: "Interdisziplinäre Klänge, Klangagentur, Klangpolitik, Diskrete Daten, Wahrscheinlichkeitsverteilung"
 ---
 
 Die Klangkunst als Kraft der Befreiung, als kulturelle Artefakte und kontextualisierte Ereignisse verbindet semantische, imaginierte und Sonarsysteme mit der Geschwindigkeit des Denkens und der Subjektivität.

@@ -1,10 +1,10 @@
 ---
-description: 'Re-creation proximity- multidisciplinary research of material science'
-pubDate: 'Nov 27, 2022'
-heroImage: 'https://images.prismic.io/syntia/b2bf4820-ca7b-4163-a72c-cc7f4d331b6e_75d89d3b4394ab6be51c86cf49fe5cb3fba7f650-1000x1500-1.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'research, agile mindset, multidisciplinary'
-subcategories: 'chain of production, circular economy, sustainable design, waste managament, reappropriation'
+description: "Re-creation proximity- multidisciplinary research of material science"
+pubDate: "Nov 27, 2022"
+heroImage: "https://images.prismic.io/syntia/b2bf4820-ca7b-4163-a72c-cc7f4d331b6e_75d89d3b4394ab6be51c86cf49fe5cb3fba7f650-1000x1500-1.jpg?auto=compress,format"
+author: "Syntia"
+categories: "research, agile mindset, multidisciplinary"
+subcategories: "chain of production, circular economy, sustainable design, waste managament, reappropriation"
 ---
   
 Multidisciplinary research into materiality is a way to get to the root of our way of doing things. Recreation open engineers and designers to confront each other and exchange knowledge in a continuous, lively and regenerating process.

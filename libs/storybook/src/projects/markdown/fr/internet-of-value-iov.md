@@ -1,11 +1,11 @@
 \---  
-description: 'Internet de la valeur (IoV) avec des technologies décentralisées'  
-pubDate: '25 nov. 2022'  
-heroImage: 'f73be84f-1ec3-4737-b741-3eb1670ad198_1451813.fig_.002.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projets, web3, technologie blockchain'  
-subcategories: 'web3, décentralisation, protocoles web3, couche 1, tezos, solana, avalanche, ethereum, signature de seuil, mise à l'échelle de la couche 2, mise à l'échelle de la blockchain, startups'  
-\---
+description"Internet de la valeur (IoV) avec des technologies décentralisées"   
+pubDate"Nov 25, 2022"   
+heroImage"f73be84f-1ec3-4737-b741-3eb1670ad198_1451813.fig_.002.png?auto=compress,format"   
+author"Syntia"   
+categories"projets, web3, technologie blockchain"   
+subcategories"web3, décentralisation, protocoles web3, couche 1, tezos, solana, avalanche, ethereum, signature de seuil, mise à l'échelle de la couche 2, mise à l'échelle de la blockchain, startups"   
+\---  
 
 Comment les entreprises utilisent-elles la blockchain en tant que technologie ? Ces trois finalistes de l'expo NBX Next Block 2022 sont des projets hautement appréciés pour avoir attiré de nouveaux développeurs vers Web3 et créé de nouveaux emplois.
 

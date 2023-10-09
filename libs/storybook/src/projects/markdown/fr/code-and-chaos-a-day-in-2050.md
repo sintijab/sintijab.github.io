@@ -1,11 +1,11 @@
-\---
-description: 'Code Et Chaos - Une Journée En 2050'
-pubDate: '6 octobre 2023'
-heroImage: 'a8eaf8c1-939e-4dd2-915e-0336eb4ca348_71vXaMtiNIL._SL1500_1.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'projets, livres'
-subcategories: 'fiction littéraire, science, nature, livres pour enfants'
-\---
+\---  
+description"Code Et Chaos - Une Journée En 2050"   
+pubDate"Oct 6, 2023"   
+heroImage"a8eaf8c1-939e-4dd2-915e-0336eb4ca348_71vXaMtiNIL._SL1500_1.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projets, livres"   
+subcategories"fiction littéraire, science, nature, livres pour enfants"   
+\---  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7M2ku1aAzHY?si=NYv50Ew-rJLZn2eY" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

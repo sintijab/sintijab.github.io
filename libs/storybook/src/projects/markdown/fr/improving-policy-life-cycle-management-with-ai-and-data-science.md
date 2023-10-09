@@ -1,11 +1,11 @@
-\---
-description: 'Améliorer la gestion du cycle de vie des politiques avec l'IA et la science des données'
-pubDate: '12 décembre 2021'
-heroImage: 'c4a6a3cc-1088-4b4d-b30a-ff3558ec5a36_Typical-AI-model-life-cycle-which-consists-of-data-preparation-model-building.png?auto=compress,format'
-author: 'Syntia'
-categories: 'projets, intelligence artificielle, science des données'
-subcategories: 'planification durable, analyse qualitative, littératie informatique, cycle de vie des politiques, précision contextuelle'
-\---
+\---  
+description: "Améliorer la gestion du cycle de vie des politiques avec l'IA et la science des données"  
+pubDate"Dec 12, 2021"   
+heroImage"c4a6a3cc-1088-4b4d-b30a-ff3558ec5a36_Typical-AI-model-life-cycle-which-consists-of-data-preparation-model-building.png?auto=compress,format"   
+author"Syntia"   
+categories"projets, intelligence artificielle, science des données"   
+subcategories"planification durable, analyse qualitative, littératie informatique, cycle de vie des politiques, précision contextuelle"   
+\---  
 
 ![](https://images.prismic.io/syntia/25cb98ba-6166-47e8-8450-2cdc19e38a6a_img_20211212_1949031-4.jpg?auto=compress,format)
 

@@ -1,10 +1,10 @@
 \---  
-description: 'Code And Chaos- A Day In 2050'  
-pubDate: 'Oct 6, 2023'  
-heroImage: 'a8eaf8c1-939e-4dd2-915e-0336eb4ca348_71vXaMtiNIL._SL1500_1.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projects, books'  
-subcategories: 'literary fiction, science, nature, childrens ebooks'  
+description"Code And Chaos- A Day In 2050"   
+pubDate"Oct 6, 2023"   
+heroImage"a8eaf8c1-939e-4dd2-915e-0336eb4ca348_71vXaMtiNIL._SL1500_1.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projects, books"   
+subcategories"literary fiction, science, nature, childrens ebooks"   
 \---  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7M2ku1aAzHY?si=NYv50Ew-rJLZn2eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

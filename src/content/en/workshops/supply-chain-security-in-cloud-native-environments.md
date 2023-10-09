@@ -1,10 +1,10 @@
 ---
-description: 'KubeCon 2023- Supply Chain Security in Cloud-Native Environments'
-pubDate: 'Apr 29, 2023'
-heroImage: 'https://images.prismic.io/syntia/3999c33e-70ea-4679-a7f9-4a4e126b6fa4_196476203-3e288fa7-241e-4520-aacb-8ebb9a8e442e.webp?auto=compress,format'
-author: 'Syntia'
-categories: 'workshops, cloud infrastructure, security, supply chain'
-subcategories: 'software attestation, provenance attestation, infrastructure bill of materials, bill of materials, supply chain levels for software artifacts, software supply chain, transport layer security, secure sockets layer, encryption'
+description: "KubeCon 2023- Supply Chain Security in Cloud-Native Environments"
+pubDate: "Apr 29, 2023"
+heroImage: "https://images.prismic.io/syntia/3999c33e-70ea-4679-a7f9-4a4e126b6fa4_196476203-3e288fa7-241e-4520-aacb-8ebb9a8e442e.webp?auto=compress,format"
+author: "Syntia"
+categories: "workshops, cloud infrastructure, security, supply chain"
+subcategories: "software attestation, provenance attestation, infrastructure bill of materials, bill of materials, supply chain levels for software artifacts, software supply chain, transport layer security, secure sockets layer, encryption"
 ---
 
 In Supply Chain Security Chapter during KubeCon 2023 Jeremy Rickard, Ido Neeman and Grace Nguyen explained why SBOM and IBOM are equally important with cloud native infrastructure ultimately being software defined and driven, and how SBOM can be complete with a full inventory of infrastructure stack.

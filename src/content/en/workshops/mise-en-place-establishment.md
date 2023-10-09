@@ -1,10 +1,10 @@
 ---
-description: 'Staying on the cutting edge of both design and technology at Front'
-pubDate: 'Aug 29, 2022'
-heroImage: 'https://images.prismic.io/syntia/4fc5860f-6a48-4ccf-8548-3d300b80a89e_img_20220826_103321.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'workshops, cloud infrastructure, devops'
-subcategories: 'functional wireframes, rendering strategies, software architecture, project maintenance, design system, caching, conventional comments'
+description: "Staying on the cutting edge of both design and technology at Front"
+pubDate: "Aug 29, 2022"
+heroImage: "https://images.prismic.io/syntia/4fc5860f-6a48-4ccf-8548-3d300b80a89e_img_20220826_103321.jpg?auto=compress,format"
+author: "Syntia"
+categories: "workshops, cloud infrastructure, devops"
+subcategories: "functional wireframes, rendering strategies, software architecture, project maintenance, design system, caching, conventional comments"
 ---
 
 # **Mise en place, establishment**

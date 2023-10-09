@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/DynamicPage.astro
-title: 'About Syntia'
-pubDate: 30 September 2023
-heroImage: 'https://images.prismic.io/syntia/a4256acb-a98b-4130-bdbd-646cd6bfb41c_IMG-20230903-WA0012.jpg?auto=compress,format'
+title: "About Syntia"
+pubDate: "Sep 30, 2023"
+heroImage: "https://images.prismic.io/syntia/a4256acb-a98b-4130-bdbd-646cd6bfb41c_IMG-20230903-WA0012.jpg?auto=compress,format"
 ---
 
 Syntia (aka Sintija Birgele)

@@ -1,10 +1,10 @@
 \---  
-description: '2020: a year of resilience'  
-pubDate: 'Jul 21, 2021'  
-heroImage: '2cd0b4bf-183e-400c-a0d5-ed470887bef2_screenshot-2021-07-21-at-15.32.20.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'research, crisis managament, continuous learning, online education'  
-subcategories: 'scholars program, community of practice, digital literacy skills, leadership development'  
+description: "2020: a year of resilience"   
+pubDate: "Jul 21, 2021"   
+heroImage: "2cd0b4bf-183e-400c-a0d5-ed470887bef2_screenshot-2021-07-21-at-15.32.20.png?auto=compress,format"   
+author: "Syntia"   
+categories: "research, crisis managament, continuous learning, online education"   
+subcategories: "scholars program, community of practice, digital literacy skills, leadership development"   
 \---  
 
 CLCC publications, 2020 Yearbook, [https://connectedlearning4refugees.org/publications/](https://connectedlearning4refugees.org/publications/)

@@ -1,20 +1,15 @@
 ---
 import Grid from './Grid.astro';
-import { getCollection } from 'astro:content';
 import GridItem from './GridItem.astro';
 import Image from './Image.svelte';
 import '../styles/banner.css';
 import '../styles/carousel.css';
+import { EN_COLLECTION, getIndexCollection } from '../consts';
 
 // const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { pathname, origin } = Astro.url;
-const lang = pathname.split('/').filter(e => e)[0] || 'en';
-let index = (await getCollection(lang, ({ id }) => {
-  return id.startsWith('index');
-}));
-if (!index) {
-	index = (await getCollection('en', ({ id }) => id.startsWith('index')));
-}
+const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
+const index = await getIndexCollection(lang);
 const data = index?.[0].data.carousel;
 
 ---

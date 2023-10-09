@@ -1,10 +1,10 @@
 ---
-description: 'Softwarearchitekturdesign - die am wenigsten schlechten Kompromisse finden'
-pubDate: 'May 13, 2022'
-heroImage: 'https://images.prismic.io/syntia/0956969c-64e0-47bf-9c70-7900606555fe_sustain-ops.png?auto=compress,format'
-author: 'Syntia'
-categories: 'Workshops, Cloud Infrastruktur, Softwarearchitekturdesign'
-subcategories: 'Software Skalierbarkeit, Domänengesteuertes Design, DevOps, Serviceverteilung'
+description: "Softwarearchitekturdesign - die am wenigsten schlechten Kompromisse finden"
+pubDate: "May 13, 2022"
+heroImage: "https://images.prismic.io/syntia/0956969c-64e0-47bf-9c70-7900606555fe_sustain-ops.png?auto=compress,format"
+author: "Syntia"
+categories: "Workshops, Cloud Infrastruktur, Softwarearchitekturdesign"
+subcategories: "Software Skalierbarkeit, Domänengesteuertes Design, DevOps, Serviceverteilung"
 ---
 
 Software-Architektur: Die schwierigen Teile, Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani

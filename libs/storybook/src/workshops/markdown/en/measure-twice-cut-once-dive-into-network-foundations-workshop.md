@@ -1,10 +1,10 @@
 \---  
-description: 'Measure Twice, Cut Once- Dive into Network Foundations Workshop'  
-pubDate: 'Apr 21, 2023'  
-heroImage: '501f905a-89dd-4824-b5e4-c6a1a012f49e_nf-hooks.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'workshops, cloud infrastructure, networking, barebone'  
-subcategories: 'communication protocols, tranmission control protocol, open system interconnection model, internet protocol, network layer, network interface, virtual network'  
+description: "Measure Twice, Cut Once- Dive into Network Foundations Workshop"   
+pubDate: "Apr 21, 2023"   
+heroImage: "501f905a-89dd-4824-b5e4-c6a1a012f49e_nf-hooks.png?auto=compress,format"   
+author: "Syntia"   
+categories: "workshops, cloud infrastructure, networking, barebone"   
+subcategories: "communication protocols, tranmission control protocol, open system interconnection model, internet protocol, network layer, network interface, virtual network"   
 \---  
 
 In this year KubeCon + CloudNativeCon Europe 2023 had more than 10000 members from which 58% has their first time in this global cloud-native conference.
@@ -1244,8 +1244,6 @@ Let’s fix it by iptables rule that allows us to NAT the 192.168.52.0 with an I
 _iptables -t net -A POSTROUTING -s 192.168.52.0/24 -j MASQUERADE_
 
 _ip netns exec webapp ping 23.185.0.4_
-
-# network is unreachable
 
 # _Add the default route_
 

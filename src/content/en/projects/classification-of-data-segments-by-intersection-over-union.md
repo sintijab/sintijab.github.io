@@ -1,10 +1,10 @@
 ---
-description: 'Classification of data segments by artificial networks and deep learning'
-pubDate: 'Feb 22, 2022'
-heroImage: 'https://images.prismic.io/syntia/6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format'
-author: 'Syntia'
-categories: 'projects, artifical intelligence, neural networks, image classification'
-subcategories: 'convolutional neural network, artificial  neural network'
+description: "Classification of data segments by artificial networks and deep learning"
+pubDate: "Feb 22, 2022"
+heroImage: "https://images.prismic.io/syntia/6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format"
+author: "Syntia"
+categories: "projects, artifical intelligence, neural networks, image classification"
+subcategories: "convolutional neural network, artificial  neural network"
 ---
 # **Classification of data segments by intersection over union**
 

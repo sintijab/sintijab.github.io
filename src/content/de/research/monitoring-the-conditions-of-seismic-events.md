@@ -1,10 +1,10 @@
 ---
-description: 'Überwachung der Bedingungen seismischer Ereignisse'
-pubDate: 'Sep 12, 2022'
-heroImage: 'https://images.prismic.io/syntia/e6d7ac7e-894d-4258-b6a4-21f2c673812c_seismic-monitoring.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'Forschung, Umweltstudien, Seismische Netzwerke'
-subcategories: 'Überwachung seismischer Ereignisse, Warnungen vor seismischen Ereignissen, Frühwarnungen vor Erdbeben, Öffentliches Alarmmanagement'
+description: "Überwachung der Bedingungen seismischer Ereignisse"
+pubDate: "Sep 12, 2022"
+heroImage: "https://images.prismic.io/syntia/e6d7ac7e-894d-4258-b6a4-21f2c673812c_seismic-monitoring.jpg?auto=compress,format"
+author: "Syntia"
+categories: "Forschung, Umweltstudien, Seismische Netzwerke"
+subcategories: "Überwachung seismischer Ereignisse, Warnungen vor seismischen Ereignissen, Frühwarnungen vor Erdbeben, Öffentliches Alarmmanagement"
 ---
 
 ![](https://images.prismic.io/syntia/a65ec1e1-a9ef-41a8-9624-801843861912_img_0004.jpg?auto=compress,format)

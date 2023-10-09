@@ -1,9 +1,8 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import { SITE_TITLE, SITE_DESCRIPTION, getIndexCollection, EN_COLLECTION } from "../consts";
 import Grid from "../components/Grid.astro";
 import GridItem from "../components/GridItem.astro";
 import Image from '../components/Image.svelte';
@@ -12,11 +11,8 @@ import Carousel from "../components/Carousel.astro";
 import Posts from "../components/Posts.astro";
 
 const { pathname, origin } = Astro.url;
-const lang = pathname.split('/').filter(e => e)[0] || 'en';
-let index = (await getCollection(lang, ({ id }) => id.startsWith('index')));
-if (!index) {
-	index = (await getCollection('en', ({ id }) => id.startsWith('index')));
-}
+const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
+const index = await getIndexCollection(lang);
 const data = index[0].data;
 
 ---

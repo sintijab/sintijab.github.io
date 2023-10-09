@@ -1,11 +1,11 @@
-\---
-description: 'Prédiction d'images radar et satellitaires optiques'  
-pubDate: '29 mars 2022'  
-heroImage: '2f347b0b-5e4c-4167-a106-e625524b3ca4_figure-2022-03-27-153109.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projets, intelligence artificielle, réseaux neuronaux, classification d'images'  
-subcategories: 'réseau neuronal convolutif, réseaux neuronaux artificiels, imagerie satellite, détection d'objets militaires, détection d'anomalies'  
-\---
+\---  
+description"Prédiction d'images radar et satellitaires optiques"   
+pubDate"Mar 29, 2022"   
+heroImage"2f347b0b-5e4c-4167-a106-e625524b3ca4_figure-2022-03-27-153109.png?auto=compress,format"   
+author"Syntia"   
+categories"projets, intelligence artificielle, réseaux neuronaux, classification d'images"   
+subcategories"réseau neuronal convolutif, réseaux neuronaux artificiels, imagerie satellite, détection d'objets militaires, détection d'anomalies"   
+\---  
 
 Image de test et cartes de caractéristiques de la couche de convolution
 

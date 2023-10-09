@@ -1,10 +1,10 @@
 \---  
-description: 'Klassifikation von Datensegmenten durch künstliche Netzwerke und Deep Learning'  
-pubDate: 'Feb 22, 2022'  
-heroImage: '6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Künstliche Intelligenz, Neuronale Netzwerke, Bildklassifikation'  
-subcategories: 'Faltungsneuronales Netzwerk, Künstliches neuronales Netzwerk'  
+description"Klassifikation von Datensegmenten durch künstliche Netzwerke und Deep Learning"   
+pubDate"Feb 22, 2022"   
+heroImage"6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format"   
+author"Syntia"   
+categories"Künstliche Intelligenz, Neuronale Netzwerke, Bildklassifikation"   
+subcategories"Faltungsneuronales Netzwerk, Künstliches neuronales Netzwerk"   
 \---  
 
 Das grundlegendste Klassifizierungsproblem in der Computer Vision ist die Bildklassifizierung selbst, bei der das Label und das Hauptobjekt eine gegebene Ausgabe eines Bildes ist, da es versagt, den Typ der Objekte außerhalb seiner Begrenzungsbox zu erkennen.

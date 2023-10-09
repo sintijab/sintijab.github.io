@@ -1,10 +1,10 @@
 ---
-description: 'Re-Prototypisierung / Fehler 2022'
-pubDate: 'Oct 17, 2022'
-heroImage: 'https://images.prismic.io/syntia/833d8cdf-44e1-4e56-9814-9ca167a03b5b_img_20220930_003556.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'Projekte, Umweltstudien, Seismische Netzwerke'
-subcategories: 'Überwachung seismischer Ereignisse, Analyse seismischer Daten, Warnungen vor seismischen Ereignissen, Frühwarnung vor Erdbeben, Datenverarbeitung, Öffentliches Alarmmanagement'
+description: "Re-Prototypisierung / Fehler 2022"
+pubDate: "Oct 17, 2022"
+heroImage: "https://images.prismic.io/syntia/833d8cdf-44e1-4e56-9814-9ca167a03b5b_img_20220930_003556.jpg?auto=compress,format"
+author: "Syntia"
+categories: "Projekte, Umweltstudien, Seismische Netzwerke"
+subcategories: "Überwachung seismischer Ereignisse, Analyse seismischer Daten, Warnungen vor seismischen Ereignissen, Frühwarnung vor Erdbeben, Datenverarbeitung, Öffentliches Alarmmanagement"
 ---
 
 ![](https://images.prismic.io/syntia/debd4ffe-54c1-4435-9edf-b05258588a9a_img_20221001_190122-1.jpg?auto=compress,format)

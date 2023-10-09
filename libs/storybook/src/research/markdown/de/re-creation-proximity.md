@@ -1,10 +1,10 @@
 \---  
-description: 'Wiederschaffensnähe - Multidisziplinäre Forschung in Materialwissenschaften'  
-pubDate: 'Nov 27, 2022'  
-heroImage: 'b2bf4820-ca7b-4163-a72c-cc7f4d331b6e_75d89d3b4394ab6be51c86cf49fe5cb3fba7f650-1000x1500-1.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Agile Denkweise, Multidisziplinär'  
-subcategories: 'Produktionskette, Kreislaufwirtschaft, Nachhaltiges Design, Abfallmanagement, Wiederaneignung'  
+description: "Wiederschaffensnähe - Multidisziplinäre Forschung in Materialwissenschaften"   
+pubDate: "Nov 27, 2022"   
+heroImage: "b2bf4820-ca7b-4163-a72c-cc7f4d331b6e_75d89d3b4394ab6be51c86cf49fe5cb3fba7f650-1000x1500-1.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Agile Denkweise, Multidisziplinär"   
+subcategories: "Produktionskette, Kreislaufwirtschaft, Nachhaltiges Design, Abfallmanagement, Wiederaneignung"   
 \---  
 
 Multidisziplinäre Forschung zur Materie ist eine Möglichkeit, zu den Wurzeln unserer Handlungsweise vorzudringen. Die Wiederherstellung öffnet Ingenieure und Designer dazu, einander gegenüberzutreten und Wissen in einem kontinuierlichen, lebendigen und erneuernden Prozess auszutauschen.

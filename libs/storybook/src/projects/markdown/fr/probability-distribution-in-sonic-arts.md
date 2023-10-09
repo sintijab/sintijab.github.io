@@ -1,11 +1,11 @@
-\---
-description: 'Distribution de probabilité dans les arts sonores'  
-pubDate: '4 mars 2022'  
-heroImage: 'c08197f4-b69a-4ea5-85f0-76dbf2b59d6d_la-musique-1939.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projets, études sonores'  
-subcategories: 'interdisciplinarité sonore, agence sonore, politique sonore, données discrètes, distribution de probabilité'  
-\---
+\---  
+description"Distribution de probabilité dans les arts sonores"   
+pubDate"Mar 4, 2022"   
+heroImage"c08197f4-b69a-4ea5-85f0-76dbf2b59d6d_la-musique-1939.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projets, études sonores"   
+subcategories"interdisciplinarité sonore, agence sonore, politique sonore, données discrètes, distribution de probabilité"   
+\---  
 
 Les arts sonores en tant que force de libération, artefacts culturels et événements contextualisés relient le sémantique, l'imaginaire, les systèmes sonar à la vitesse de la pensée et de la subjectivité.
 

@@ -1,11 +1,11 @@
 \---  
-description: 'VR experience at DOK- Interaction with the device towards control mechanisms'  
-pubDate: 'Oct 24, 2022'  
-heroImage: '5491ca38-4ae8-4407-8dbd-51699448e18a_img_20221023_174341.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projects, user experience, extended reality'  
-subcategories: 'virtual reality, embodied technology, vr psychology, interactive design'  
-\---
+description"VR experience at DOK- Interaction with the device towards control mechanisms"   
+pubDate"Oct 24, 2022"   
+heroImage"5491ca38-4ae8-4407-8dbd-51699448e18a_img_20221023_174341.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projects, user experience, extended reality"   
+subcategories"virtual reality, embodied technology, vr psychology, interactive design"   
+\---  
 
 # **THX 4 Nothing**
 

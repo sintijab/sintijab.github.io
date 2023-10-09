@@ -1,11 +1,11 @@
 \---  
-description: '2021 – Against Gravity'  
-pubDate: 'Dec 31, 2021'  
-heroImage: '9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projects, artificial intelligence, data science'  
-subcategories: 'modern architecture, typological heritage, figurative heritage, cultural homogenization'  
-\---
+description"2021 – Against Gravity"   
+pubDate"Dec 31, 2021"   
+heroImage"9d6d92fb-682f-4fb6-88e8-0f5eaefc79dd_navesgravedad-1.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projects, artificial intelligence, data science"   
+subcategories"modern architecture, typological heritage, figurative heritage, cultural homogenization"   
+\---  
 
 In his exhibition in Munich Ai Weiwei spectacularly transforms the Haus der Kunst- a bright, glowing tapestry made of 9000 colorful children’s backpacks covers the museum’s entire column-lined street elevation. Giant Chinese characters covey a quote of a mother who lost a child, thereby recalling the tragic fate of all those killed last year in the massive earthquake in Sichuan: the Communist government is still trying with all means available to cover up the corruption and shoddy work that directly led to the collapse of the schools.
 

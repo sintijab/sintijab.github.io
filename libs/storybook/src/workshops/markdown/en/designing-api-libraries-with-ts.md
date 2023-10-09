@@ -1,10 +1,10 @@
 \---  
-description: 'Designing library APIs with TypeScript'  
-pubDate: 'May 1, 2022'  
-heroImage: 'cce75ff1-51be-44db-ab22-63811da9106d_e0928a1a-483d-491d-869f-1ba5b06ad345.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'workshops, interfaces, typescript, architectural design'  
-subcategories: 'typescript, type interface, typescript migration, testing types, dev tools, architectural design'  
+description: "Designing library APIs with TypeScript"   
+pubDate: "May 1, 2022"   
+heroImage: "cce75ff1-51be-44db-ab22-63811da9106d_e0928a1a-483d-491d-869f-1ba5b06ad345.png?auto=compress,format"   
+author: "Syntia"   
+categories: "workshops, interfaces, typescript, architectural design"   
+subcategories: "typescript, type interface, typescript migration, testing types, dev tools, architectural design"   
 \---  
 
 
@@ -15,8 +15,8 @@ Using TS enforce developers to design simpler APIs that are easier to type and i
 As of React-Redux v8, for instance, React-Redux types export some helpers to make it easier to write typesafe interfaces:
 
 ```markup
-import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux'  
-import type { RootState, AppDispatch } from './store'  
+import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux"   
+import type { RootState, AppDispatch } from './store"   
 
 // Use throughout your app instead of plain `useDispatch` and `useSelector`
 export const useAppDispatch = () => useDispatch<AppDispatch>()

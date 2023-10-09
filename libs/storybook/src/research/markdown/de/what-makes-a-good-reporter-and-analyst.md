@@ -1,10 +1,10 @@
 \---  
-description: 'Was macht einen guten Reporter und Analysten aus?'  
-pubDate: 'Feb 25, 2023'  
-heroImage: '53451459-7b9a-450d-a10b-4ad15139cc7a_128331849.jpg.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Informationszugang, Archivierung und Dokumentation'  
-subcategories: 'Qualitative Analyse, Computerkompetenz, Beziehungsmuster, Ebenen der Berichterstattung, Konstruktiver Journalismus, Kontextgenauigkeit'  
+description: "Was macht einen guten Reporter und Analysten aus?"   
+pubDate: "Feb 25, 2023"   
+heroImage: "53451459-7b9a-450d-a10b-4ad15139cc7a_128331849.jpg.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Informationszugang, Archivierung und Dokumentation"   
+subcategories: "Qualitative Analyse, Computerkompetenz, Beziehungsmuster, Ebenen der Berichterstattung, Konstruktiver Journalismus, Kontextgenauigkeit"   
 \---  
 
 

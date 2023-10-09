@@ -1,10 +1,10 @@
 \---  
-description: 'Besseres Schreiben von JavaScript mit TypeScript in 10 Schritten'  
-pubDate: 'Jun 28, 2021'  
-heroImage: '6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Schnittstellen, TypeScript, Kontrollflussanalyse'  
-subcategories: 'TypeScript Compiler, Varianznotationen, Typnotationen, TypeScript Regeln'  
+description: "Besseres Schreiben von JavaScript mit TypeScript in 10 Schritten"   
+pubDate: "Jun 28, 2021"   
+heroImage: "6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Schnittstellen, TypeScript, Kontrollflussanalyse"   
+subcategories: "TypeScript Compiler, Varianznotationen, Typnotationen, TypeScript Regeln"   
 \---  
 
 

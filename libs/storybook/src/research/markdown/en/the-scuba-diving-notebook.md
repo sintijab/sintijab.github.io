@@ -1,10 +1,10 @@
 \---  
-description: 'Stop – Breathe – Think – Act'  
-pubDate: 'Mar 11, 2023'  
-heroImage: 'a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'research, environmental studies, scientific diving'  
-subcategories: 'ssi training, ssi certification, scuba, responsible diver code, technical diver'  
+description: "Stop – Breathe – Think – Act"   
+pubDate: "Mar 11, 2023"   
+heroImage: "a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format"   
+author: "Syntia"   
+categories: "research, environmental studies, scientific diving"   
+subcategories: "ssi training, ssi certification, scuba, responsible diver code, technical diver"   
 \---  
 
 # **The Scuba Diving Notebook**

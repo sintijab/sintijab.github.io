@@ -1,10 +1,10 @@
 \---  
-description: 'Data flow analysis in Web applications'  
-pubDate: 'May 6, 2022'  
-heroImage: 'f3906029-cc44-46a2-b42c-7d95f6475bda_12976875.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'workshops, cloud infrastructure, data analysis'  
-subcategories: 'data structures, application state, computational complexity, memoization, caching, performance optimization'  
+description: "Data flow analysis in Web applications"   
+pubDate: "May 6, 2022"   
+heroImage: "f3906029-cc44-46a2-b42c-7d95f6475bda_12976875.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "workshops, cloud infrastructure, data analysis"   
+subcategories: "data structures, application state, computational complexity, memoization, caching, performance optimization"   
 \---  
 
 Fibonacci “Golden Ratio in art, design and photography”, painting “Girl with a Pearl Earring” by Johannes Vermeer
@@ -143,8 +143,3 @@ Significance of the Fibonacci numbers in Agile are exponential. The estimation o
 Writing an implementation of the Fibonacci sequence is a step in the journey of becoming a better programmer.
 
 There are different ways to generate and determine the sequences, but all different approaches is based on the data flow characteristics, strictly defined on each step, using a generator or recursive solutions. With many different styles and paradigms of programming, such as procedural, functional, object-oriented, and so forth brings a different approaches of writing the code. The best solution could be considered a **dynamic programming** approach to manage the large problems by solving the smaller problems first.
-
-### **Share this:**
-
-*   [  
-    ](https://syntia.org/2022/05/06/data-flow-analysis-in-web-applications/?share=twitter&nb=1)

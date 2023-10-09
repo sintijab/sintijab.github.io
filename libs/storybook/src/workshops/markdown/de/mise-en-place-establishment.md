@@ -1,10 +1,10 @@
 \---  
-description: 'Immer auf dem neuesten Stand von Design und Technologie bei Front'  
-pubDate: 'Aug 29, 2022'  
-heroImage: '4fc5860f-6a48-4ccf-8548-3d300b80a89e_img_20220826_103321.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Cloud Infrastruktur, DevOps'  
-subcategories: 'Funktionale Drahtmodelle, Rendering-Strategien, Softwarearchitektur, Projektwartung, Designsystem, Caching, Konventionelle Kommentare'  
+description: "Immer auf dem neuesten Stand von Design und Technologie bei Front"   
+pubDate: "Aug 29, 2022"   
+heroImage: "4fc5860f-6a48-4ccf-8548-3d300b80a89e_img_20220826_103321.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Cloud Infrastruktur, DevOps"   
+subcategories: "Funktionale Drahtmodelle, Rendering-Strategien, Softwarearchitektur, Projektwartung, Designsystem, Caching, Konventionelle Kommentare"   
 \---  
 
 # **Mise en place, Aufbau**

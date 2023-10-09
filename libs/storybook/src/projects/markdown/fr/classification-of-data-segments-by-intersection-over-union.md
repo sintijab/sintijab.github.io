@@ -1,11 +1,11 @@
-\---
-description: 'Classification de segments de données par des réseaux artificiels et l'apprentissage en profondeur'
-pubDate: '22 février 2022'
-heroImage: '6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format'
-author: 'Syntia'
-categories: 'projets, intelligence artificielle, réseaux neuronaux, classification d'images'
-subcategories: 'réseau neuronal convolutionnel, réseau neuronal artificiel'
-\---
+\---  
+description: "Classification de segments de données par des réseaux artificiels et l'apprentissage en profondeur"  
+pubDate"Feb 22, 2022"   
+heroImage"6df8f3e9-cc2c-4313-bebf-889e7a0f7393_14-00023-g002.png?auto=compress,format"   
+author"Syntia"   
+categories: "projets, intelligence artificielle, réseaux neuronaux, classification d'images"  
+subcategories: "réseau neuronal convolutionnel, réseau neuronal artificiel"  
+\---  
 
 # **Classification de segments de données par intersection sur union**
 

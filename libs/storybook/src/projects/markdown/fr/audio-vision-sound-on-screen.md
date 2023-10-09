@@ -1,10 +1,10 @@
 \---  
-description: 'Audio-Vision : Méthodologie du son à l'écran'  
-pubDate: '5 avril 2022'  
-heroImage: 'e9708192-8123-461e-9214-4d4e9864aee5_1691773573.webp?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projets, études sonores, audiovision'  
-subcategories: 'médias audiovisuels, classification sonore, médias interdisciplinaires, gouvernance sonore, écoute active'  
+description: "Audio-Vision : Méthodologie du son à l'écran"  
+pubDate"Apr 5, 2022"   
+heroImage"e9708192-8123-461e-9214-4d4e9864aee5_1691773573.webp?auto=compress,format"   
+author"Syntia"   
+categories"projets, études sonores, audiovision"   
+subcategories"médias audiovisuels, classification sonore, médias interdisciplinaires, gouvernance sonore, écoute active"   
 \---  
 
 [https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app\_id=122963](https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app_id=122963)

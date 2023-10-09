@@ -1,10 +1,10 @@
 \---  
-description: 'Cloud-Infrastruktur OSS und DevOps im Jahr 2022'  
-pubDate: 'May 24, 2022'  
-heroImage: 'dec82228-0a77-4a76-b6b0-a10522d4bf84_mode-2.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Cloud Infrastruktur, DevOps'  
-subcategories: 'Cloud Native, Kubernetes, Alertmanagement, Beobachtbarkeit, Lastenausgleich, Trafficmanagement, Servicemesh, Infrastrukturorchestrierung'  
+description: "Cloud-Infrastruktur OSS und DevOps im Jahr 2022"   
+pubDate: "May 24, 2022"   
+heroImage: "dec82228-0a77-4a76-b6b0-a10522d4bf84_mode-2.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Cloud Infrastruktur, DevOps"   
+subcategories: "Cloud Native, Kubernetes, Alertmanagement, Beobachtbarkeit, Lastenausgleich, Trafficmanagement, Servicemesh, Infrastrukturorchestrierung"   
 \---  
 
 [GSoC: Force Directed Edge Bundling](https://gephi.wordpress.com/2012/09/21/gsoc-force-directed-edge-bundling/)
