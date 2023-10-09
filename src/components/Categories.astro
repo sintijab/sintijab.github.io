@@ -1,16 +1,11 @@
 ---
-import { getCollection } from 'astro:content';
+import { EN_COLLECTION, getIndexCollection } from '../consts';
 const { categories, subcategories, collection, category } = Astro.props;
 const { pathname, origin } = Astro.url;
-const [lang, ...slug] = pathname.split('/').filter(e => e) || 'en';
+const [lang, ...slug] = pathname.split('/').filter(e => e) || EN_COLLECTION;
 const formattedPathname = slug[0].replace(/-/g, ' ');
 let mainCategory = collection.includes(`/`) ? collection : `/${collection}`;
-let index = (await getCollection(lang, ({ id }) => {
-  return id.startsWith('index');
-}));
-if (!index) {
-	index = (await getCollection('en', ({ id }) => id.startsWith('index')));
-}
+const index = await getIndexCollection(lang);
 const { categories: categoriesLabel, moreCategories } = index?.[0].data;
 
 

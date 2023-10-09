@@ -1,10 +1,10 @@
 \---  
-description: 'Tag der Beobachtbarkeit und Cilium Con 2023'  
-pubDate: 'Apr 18, 2023'  
-heroImage: 'cdafc9ba-d983-4d3f-8515-541c229c5d98_aws-terraform-snyk-arch.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Cloud Infrastruktur, Sicherheit, Überwachung des HTTP Netzwerks'  
-subcategories: 'Softwareentwicklungslebenszyklus, Terraform, Infrastruktur als Code Überwachung, Überwachungsschirm'  
+description: "Tag der Beobachtbarkeit und Cilium Con 2023"   
+pubDate: "Apr 18, 2023"   
+heroImage: "cdafc9ba-d983-4d3f-8515-541c229c5d98_aws-terraform-snyk-arch.png?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Cloud Infrastruktur, Sicherheit, Überwachung des HTTP Netzwerks"   
+subcategories: "Softwareentwicklungslebenszyklus, Terraform, Infrastruktur als Code Überwachung, Überwachungsschirm"   
 \---  
 
 # **Beobachtbarkeit in cloud-nativen Umgebungen**

@@ -1,10 +1,10 @@
 \---  
-description: 'Principle from beginner to advanced levels No. 1- problems with practical examples in code must be solved in 1h...'  
-pubDate: 'Jul 28, 2023'  
-heroImage: 'f527fcc8-4b8c-4a67-a8db-059bbde53dac_img_20230726_150309-1.webp?auto=compress,format'  
-author: 'Syntia'  
-categories: 'workshops, cloud infrastructure, networking, kubernetes'  
-subcategories: 'pod troubleshooting, decentralized application, hexagonal architecture, polymorphism'  
+description: "Principle from beginner to advanced levels No. 1- problems with practical examples in code must be solved in 1h..."   
+pubDate: "Jul 28, 2023"   
+heroImage: "f527fcc8-4b8c-4a67-a8db-059bbde53dac_img_20230726_150309-1.webp?auto=compress,format"   
+author: "Syntia"   
+categories: "workshops, cloud infrastructure, networking, kubernetes"   
+subcategories: "pod troubleshooting, decentralized application, hexagonal architecture, polymorphism"   
 \---  
 
 WeAreDevelopers World Congress is considered by many as the world’s flagship event for developers. What I enjoyed the most was the opportunity to meet the like-minded people having no setbacks on their ambitions and drive for a better future.

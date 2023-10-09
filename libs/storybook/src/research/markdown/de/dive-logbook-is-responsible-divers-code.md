@@ -1,10 +1,10 @@
 \---  
-description: 'Meerestechnologien für wissenschaftliche Taucher'  
-pubDate: 'Jan 5, 2023'  
-heroImage: '4477dd7b-e1bb-424b-9039-dc6478a89094_IMG_20230102_142855.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Umweltstudien, Wissenschaftliches Tauchen'  
-subcategories: 'SSI-Training, SSI Zertifizierung, Sporttauchen, Verantwortlicher Tauchkodex, Technischer Taucher'  
+description: "Meerestechnologien für wissenschaftliche Taucher"   
+pubDate: "Jan 5, 2023"   
+heroImage: "4477dd7b-e1bb-424b-9039-dc6478a89094_IMG_20230102_142855.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Umweltstudien, Wissenschaftliches Tauchen"   
+subcategories: "SSI-Training, SSI Zertifizierung, Sporttauchen, Verantwortlicher Tauchkodex, Technischer Taucher"   
 \---  
 
 # **Das Tauch-Logbuch ist der Verhaltenskodex für verantwortungsvolle Taucher**

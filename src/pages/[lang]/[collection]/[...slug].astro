@@ -1,15 +1,10 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
+import { type CollectionEntry } from 'astro:content';
 import BlogPost from '../../../layouts/BlogPost.astro';
-import { DE_COLLECTION, EN_COLLECTION } from '../../../consts';
+import { getAllCollections } from '../../../consts';
 
 export async function getStaticPaths() {
-	const en = await getCollection(EN_COLLECTION);
-	const de = await getCollection(DE_COLLECTION);
-	const posts = [
-		...en,
-		...de,
-	];
+	const posts = await getAllCollections();
 	return posts.map(page => {
 	const [collection, ...slug] = page.slug.split('/');
     return { params: { lang: page.collection, collection, slug: slug.join('/') || undefined }, props: { ...page, collection } }

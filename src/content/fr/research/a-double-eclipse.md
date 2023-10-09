@@ -1,0 +1,16 @@
+---
+description: "Une Double Éclipse"
+pubDate: "Jul 4, 2021"
+heroImage: "https://images.prismic.io/syntia/aac73bb0-0e77-4769-8ae8-00da5c08c1ff_csm_corona_2_2ff67dd1bc.jpg?auto=compress,format"
+author: "Syntia"
+categories: "recherche, accès à l'information, communauté de pratique"
+subcategories: "compétences en littératie numérique"
+---
+
+Pour les minorités qui viennent dans leur pays en quête d'asile et qui se retrouvent ensuite confrontées aux préjugés et aux opinions mal formées de personnes qui semblent croire en l'idée d'un lieu en tant que système de caste informel plutôt qu'en une démocratie à part entière.
+Je vais mettre en évidence un exemple de discours de haine tiré de l'article de Jason Montojo pour le Dr. Dobb's Journal, un magazine mensuel publié aux États-Unis par UBM Technology Group, couvrant des sujets destinés aux programmeurs informatiques, lancé en 1976 et devenant le premier périodique régulier axé sur les logiciels micro-informatiques, plutôt que sur le matériel.
+"Pendant les quatre dernières années, IBM a construit un IDE open source de première classe en Java appelé « Eclipse », et une grande communauté de développement s'est développée pour corriger les bugs, ajouter des fonctionnalités et créer de nouveaux plug-ins. Plus important encore, des dizaines de milliers de développeurs les utilisent maintenant pour créer de véritables applications.
+Le meilleur atout d'Eclipse est sa riche gamme de fonctionnalités ; malheureusement, c'est aussi le pire. À chaque version majeure et mineure, des cargaisons de nouveaux outils et fonctionnalités s'insinuent comme des immigrants illégaux - rarement documentés, souvent bien cachés et bien sûr, chargés de potentiel. Heureusement pour les utilisateurs, bon nombre de ces boosters de productivité douteux ont maintenant été rassemblés et exposés dans Eclipse in Action, par David Gallardo, Ed Burnette et Robert McGovern ; et The Java Developer's guide to Eclipse, par Sherry Shavor, Jim D'Anjou, Scott Fairbrother, Dan Kehn, John Kellerman et Pat McCarthy."
+« Une Double Éclipse », Jason Montojo, article pour le Dr. Dobb's Journal (ISSN 1044-789X) publié par CMP Media LLC, février 2004, 2e numéro 2, 29e volume.
+Étant donné l'absence de définition universellement adoptée de la haine ou de la prévention de la publication de discours de haine, le manque de surveillance et de reconnaissance du discours raciste et de la haine envers les migrants et les réfugiés, l'étude a montré l'ignorance des autorités nationales et des organismes de lutte contre la discrimination en Europe en ce qui concerne les définitions actuelles fournies par le Conseil de l'Europe, y compris le Protocole additionnel du Conseil à la Convention sur la cybercriminalité concernant la criminalisation des actes de nature raciste et xénophobe commis par le biais de systèmes informatiques.
+En raison de son caractère particulier, notamment de la difficulté d'identifier les auteurs de contenus illégaux en ligne et de supprimer de tels contenus, la haine sur Internet crée de nouvelles exigences en matière d'expertise, de ressources et de nécessité de coopération transfrontalière pour la poursuite de cette infraction par les autorités chargées de l'application de la loi et les autorités judiciaires.

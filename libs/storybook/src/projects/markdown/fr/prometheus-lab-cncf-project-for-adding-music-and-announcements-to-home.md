@@ -1,11 +1,11 @@
 \---  
-description: 'Prometheus Lab, Projet CNCF pour ajouter de la musique et des annonces à la maison'  
-pubDate: '21 avr. 2023'  
-heroImage: '3a7f4e2f-fff0-44ef-8eef-f71422107799_screenshot-2023-04-20-at-12.52.54.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projets, infrastructure cloud, outils de surveillance'  
-subcategories: 'infrastructure cloud, prometheus, laboratoire de hackathon, espace des hackers, outils audio, ingénierie sonore'  
-\---
+description"Prometheus Lab, Projet CNCF pour ajouter de la musique et des annonces à la maison"   
+pubDate"Apr 21, 2023"   
+heroImage"3a7f4e2f-fff0-44ef-8eef-f71422107799_screenshot-2023-04-20-at-12.52.54.png?auto=compress,format"   
+author"Syntia"   
+categories"projets, infrastructure cloud, outils de surveillance"   
+subcategories"infrastructure cloud, prometheus, laboratoire de hackathon, espace des hackers, outils audio, ingénierie sonore"   
+\---  
 
 Le projet Coldplay d'Erwin de Keijzer, ingénieur DevOps, a guidé la phase de construction d'une solution logicielle pour ajouter de la musique et des annonces à sa maison.
 

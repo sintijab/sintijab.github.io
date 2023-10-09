@@ -1,10 +1,10 @@
 \---  
-description: 'Documentation en tant que dialogue : Comment regarder la peinture cubiste'  
-pubDate: '25 février 2023'  
-heroImage: '02b207f7-deaa-40d9-9326-90f7382a1e21_image-asset.jpeg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'recherche, accès à l'information, archivage et documentation'  
-subcategories: 'archive d'artefacts, recherche archivistique, curation de contenu, curation algorithmique, critique en dialogue, gouvernance de la critique'  
+description: "Documentation en tant que dialogue : Comment regarder la peinture cubiste"   
+pubDate: "Feb 25, 2023"   
+heroImage: "02b207f7-deaa-40d9-9326-90f7382a1e21_image-asset.jpeg?auto=compress,format"   
+author: "Syntia"   
+categories: "recherche, accès à l'information, archivage et documentation"   
+subcategories: "archive d'artefacts, recherche archivistique, curation de contenu, curation algorithmique, critique en dialogue, gouvernance de la critique"   
 \---  
 
 Ad Reinhardt, détail de "Comment regarder la peinture cubiste"

@@ -1,10 +1,10 @@
 \---  
-description: 'KubeCon 2023 - Sicherheit der Lieferkette in Cloud-Native-Umgebungen'  
-pubDate: 'Apr 29, 2023'  
-heroImage: '3999c33e-70ea-4679-a7f9-4a4e126b6fa4_196476203-3e288fa7-241e-4520-aacb-8ebb9a8e442e.webp?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Cloud Infrastruktur, Sicherheit, Lieferkette'  
-subcategories: 'Software Attestation, Herkunfts Attestation, Infrastruktur Stückliste, Stückliste, Lieferkettenstufen für Software Artefakte, Software Lieferkette, Transportschichtsicherheit, Secure Sockets Layer, Verschlüsselung'  
+description: "KubeCon 2023 - Sicherheit der Lieferkette in Cloud-Native-Umgebungen"   
+pubDate: "Apr 29, 2023"   
+heroImage: "3999c33e-70ea-4679-a7f9-4a4e126b6fa4_196476203-3e288fa7-241e-4520-aacb-8ebb9a8e442e.webp?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Cloud Infrastruktur, Sicherheit, Lieferkette"   
+subcategories: "Software Attestation, Herkunfts Attestation, Infrastruktur Stückliste, Stückliste, Lieferkettenstufen für Software Artefakte, Software Lieferkette, Transportschichtsicherheit, Secure Sockets Layer, Verschlüsselung"   
 \---  
 
 Im Kapitel zur Sicherheit der Lieferkette während der KubeCon 2023 erklärten Jeremy Rickard, Ido Neeman und Grace Nguyen, warum SBOM und IBOM in Verbindung mit der cloudbasierten Infrastruktur gleichermaßen wichtig sind, da diese letztendlich softwaredefiniert und gesteuert ist, und wie SBOM mit einem vollständigen Inventar des Infrastruktur-Stacks vervollständigt werden kann.

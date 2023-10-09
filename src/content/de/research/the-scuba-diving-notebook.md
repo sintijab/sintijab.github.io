@@ -1,10 +1,10 @@
 ---
-description: 'Halt – Atme – Denke – Handle'
-pubDate: 'Mar 11, 2023'
-heroImage: 'https://images.prismic.io/syntia/a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format'
-author: 'Syntia'
-categories: 'Forschung, Umweltstudien, Wissenschaftliches Tauchen'
-subcategories: 'SSI Training, SSI Zertifizierung, Sporttauchen, Verantwortlicher Tauchkodex, Technischer Taucher'
+description: "Halt – Atme – Denke – Handle"
+pubDate: "Mar 11, 2023"
+heroImage: "https://images.prismic.io/syntia/a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format"
+author: "Syntia"
+categories: "Forschung, Umweltstudien, Wissenschaftliches Tauchen"
+subcategories: "SSI Training, SSI Zertifizierung, Sporttauchen, Verantwortlicher Tauchkodex, Technischer Taucher"
 ---
 
 # **Das Tauch-Notizbuch**

@@ -1,11 +1,11 @@
 \---  
-description: 'Re-prototyping / Faults 2022 La relation entre le système matériel et le modèle de conception'  
-pubDate: '17 oct. 2022'  
-heroImage: '833d8cdf-44e1-4e56-9814-9ca167a03b5b_img_20220930_003556.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projets, études environnementales, réseaux sismiques'  
-subcategories: 'surveillance des événements sismiques, analyse des données sismiques, alertes sismiques, alertes précoces aux tremblements de terre, traitement des données, gestion des alertes publiques'  
-\---
+description"Re-prototyping / Faults 2022 La relation entre le système matériel et le modèle de conception"   
+pubDate"Oct 17, 2022"   
+heroImage"833d8cdf-44e1-4e56-9814-9ca167a03b5b_img_20220930_003556.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projets, études environnementales, réseaux sismiques"   
+subcategories"surveillance des événements sismiques, analyse des données sismiques, alertes sismiques, alertes précoces aux tremblements de terre, traitement des données, gestion des alertes publiques"   
+\---  
 
 # **Re-prototyping / Faults 2022**
 

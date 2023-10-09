@@ -1,10 +1,10 @@
 \---  
-description: 'Die Zukunft ist immer noch so viel größer als die Vergangenheit - Tim Berners-Lee'  
-pubDate: 'Sep 15, 2023'  
-heroImage: '3df430cd-5932-4dca-9421-dff593c695e5_692944.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Cloud Infrastruktur, Netzwerke, Datenzugriff'  
-subcategories: 'Erweiterte Web, Erweiterte Realität, Benutzererfahrung, Benutzerzentriertes Design, Benutzerorientierte Entwicklung, Testgetriebene Entwicklung, Datenverwaltung, Datenwirtschaft, Nachhaltige DevOps'  
+description: "Die Zukunft ist immer noch so viel größer als die Vergangenheit - Tim Berners-Lee"   
+pubDate: "Sep 15, 2023"   
+heroImage: "3df430cd-5932-4dca-9421-dff593c695e5_692944.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Cloud Infrastruktur, Netzwerke, Datenzugriff"   
+subcategories: "Erweiterte Web, Erweiterte Realität, Benutzererfahrung, Benutzerzentriertes Design, Benutzerorientierte Entwicklung, Testgetriebene Entwicklung, Datenverwaltung, Datenwirtschaft, Nachhaltige DevOps"   
 \---  
 
 

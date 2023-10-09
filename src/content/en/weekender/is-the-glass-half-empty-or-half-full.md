@@ -1,10 +1,10 @@
 ---
-description: 'Is the glass half empty or half full?'
-pubDate: 'Aug 29, 2022'
-heroImage: 'https://images.prismic.io/syntia/71619abf-b206-47b0-baed-41580e36f2dc_img_20220828_131405.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'weekender, traveling, science'
-subcategories: 'science center, science and technology, physics'
+description: "Is the glass half empty or half full?"
+pubDate: "Aug 29, 2022"
+heroImage: "https://images.prismic.io/syntia/71619abf-b206-47b0-baed-41580e36f2dc_img_20220828_131405.jpg?auto=compress,format"
+author: "Syntia"
+categories: "weekender, traveling, science"
+subcategories: "science center, science and technology, physics"
 ---
 
 # **Is the glass half empty or half full?**

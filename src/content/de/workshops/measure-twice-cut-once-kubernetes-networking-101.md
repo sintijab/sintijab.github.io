@@ -1,10 +1,10 @@
 ---
-description: 'Kubernetes Networking 101'
-pubDate: 'Apr 21, 2023'
-heroImage: 'https://images.prismic.io/syntia/beb170e5-c363-43b6-bab1-8fd52a6f1fa8_dns.webp?auto=compress,format'
-author: 'Syntia'
-categories: 'Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes'
-subcategories: 'Kommunikationsprotokolle, Transmission Control Protocol, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk'
+description: "Kubernetes Networking 101"
+pubDate: "Apr 21, 2023"
+heroImage: "https://images.prismic.io/syntia/beb170e5-c363-43b6-bab1-8fd52a6f1fa8_dns.webp?auto=compress,format"
+author: "Syntia"
+categories: "Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes"
+subcategories: "Kommunikationsprotokolle, Transmission Control Protocol, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk"
 ---
 
 # **Kubernetes-Netzwerke 101: Erst messen, dann schneiden**  

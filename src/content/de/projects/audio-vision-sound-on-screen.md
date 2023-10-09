@@ -1,10 +1,10 @@
 ---
-description: 'Audio-Vision: Klang auf dem Bildschirm - Methodik'
-pubDate: 'Apr 5, 2022'
-heroImage: 'https://images.prismic.io/syntia/e9708192-8123-461e-9214-4d4e9864aee5_1691773573.webp?auto=compress,format'
-author: 'Syntia'
-categories: 'Klangstudien, Audiovision'
-subcategories: 'Audiovisuelle Medien, Klangklassifikation, Interdisziplinäre Medien, Klangregulierung, Aktives Zuhören'
+description: "Audio-Vision: Klang auf dem Bildschirm - Methodik"
+pubDate: "Apr 5, 2022"
+heroImage: "https://images.prismic.io/syntia/e9708192-8123-461e-9214-4d4e9864aee5_1691773573.webp?auto=compress,format"
+author: "Syntia"
+categories: "Klangstudien, Audiovision"
+subcategories: "Audiovisuelle Medien, Klangklassifikation, Interdisziplinäre Medien, Klangregulierung, Aktives Zuhören"
 ---
 
 [https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app\_id=122963](https://player.vimeo.com/video/386757761?h=c549f73bae&dnt=1&app_id=122963)

@@ -1,10 +1,10 @@
 \---  
-description: 'Ist das Glas halb leer oder halb voll?'  
-pubDate: 'Aug 29, 2022'  
-heroImage: '71619abf-b206-47b0-baed-41580e36f2dc_img_20220828_131405.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Wochenende, Reisen, Wissenschaft'  
-subcategories: 'Wissenschaftszentrum, Wissenschaft und Technologie, Physik'  
+description: "Ist das Glas halb leer oder halb voll?"   
+pubDate: "Aug 29, 2022"   
+heroImage: "71619abf-b206-47b0-baed-41580e36f2dc_img_20220828_131405.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Wochenende, Reisen, Wissenschaft"   
+subcategories: "Wissenschaftszentrum, Wissenschaft und Technologie, Physik"   
 \---  
 
 Das Swiss Science Center Technorama ist eines der größten Wissenschaftszentren in Europa. Mit über 500 Experimentierstationen bietet es praktische Beispiele in den Bereichen Wissenschaft und Technologie, die in jedem Alter faszinierend sind und zum Lernen und Interagieren einladen.

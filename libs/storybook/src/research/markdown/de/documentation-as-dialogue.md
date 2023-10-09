@@ -1,10 +1,10 @@
 \---  
-description: 'Dokumentation als Dialog: Wie man kubistische Gemälde betrachtet'  
-pubDate: 'Feb 25, 2023'  
-heroImage: '02b207f7-deaa-40d9-9326-90f7382a1e21_image-asset.jpeg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Informationszugang, Archivierung und Dokumentation'  
-subcategories: 'Artefaktarchiv, Archivrecherche, Inhaltskuratierung, algorithmische Kuratierung, Kritik im Dialog, Kritikverwaltung'  
+description: "Dokumentation als Dialog: Wie man kubistische Gemälde betrachtet"   
+pubDate: "Feb 25, 2023"   
+heroImage: "02b207f7-deaa-40d9-9326-90f7382a1e21_image-asset.jpeg?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Informationszugang, Archivierung und Dokumentation"   
+subcategories: "Artefaktarchiv, Archivrecherche, Inhaltskuratierung, algorithmische Kuratierung, Kritik im Dialog, Kritikverwaltung"   
 \---  
 
 Agilität ist unsere Fähigkeit, auf Veränderungen zu reagieren, während wir weiterhin Wert bieten. Es handelt sich um eine Einstellung, nicht um eine Technik mit festen Grenzen. Die agile Denkweise ist die Antwort - agil zu handeln, wenn sich der Markt, die Technologien, unsere Expertise und unser Wert ständig verändern.

@@ -1,11 +1,11 @@
 \---  
-description: 'Prometheus Lab, CNCF Project for Adding Music and Announcements to Home'  
-pubDate: 'Apr 21, 2023'  
-heroImage: '3a7f4e2f-fff0-44ef-8eef-f71422107799_screenshot-2023-04-20-at-12.52.54.png?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projects, cloud infrastructure, monitoring tools'  
-subcategories: 'cloud infrastructure, prometheus, hackathon lab, hackerspace, audio tools, sound engineering'  
-\---
+description"Prometheus Lab, CNCF Project for Adding Music and Announcements to Home"   
+pubDate"Apr 21, 2023"   
+heroImage"3a7f4e2f-fff0-44ef-8eef-f71422107799_screenshot-2023-04-20-at-12.52.54.png?auto=compress,format"   
+author"Syntia"   
+categories"projects, cloud infrastructure, monitoring tools"   
+subcategories"cloud infrastructure, prometheus, hackathon lab, hackerspace, audio tools, sound engineering"   
+\---  
 
 Project Coldplay by Erwin de Keijzer, DevOps Engineer has guided through project phase of building software solution for Adding Music and Announcements to his Home.
 

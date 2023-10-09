@@ -1,11 +1,11 @@
-\---
-description: 'Arrêtez – Respirez – Réfléchissez – Agissez'
-pubDate: '11 mars 2023'
-heroImage: 'a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format'
-author: 'Syntia'
-categories: 'recherche, études environnementales, plongée scientifique'
-subcategories: 'formation ssi, certification ssi, plongée sous-marine, code du plongeur responsable, plongeur technique'
-\---
+\---  
+description: "Arrêtez – Respirez – Réfléchissez – Agissez"   
+pubDate: "Mar 11, 2023"   
+heroImage: "a3bc893a-aaa8-4995-8996-d1d88cf2d1d8_screenshot-765.png?auto=compress,format"   
+author: "Syntia"   
+categories: "recherche, études environnementales, plongée scientifique"   
+subcategories: "formation ssi, certification ssi, plongée sous-marine, code du plongeur responsable, plongeur technique"   
+\---  
 
 # **Le Cahier de Plongée Sous-marine**
 

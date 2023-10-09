@@ -1,10 +1,10 @@
 ---
-description: 'Writing better JavaScript with TypeScript in 10 steps'
-pubDate: 'Jun 28, 2021'
-heroImage: 'https://images.prismic.io/syntia/6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'workshops, interfaces, typescript, control flow analysis'
-subcategories: 'typescript compiler, variance annotations, type annotations, typescript rules'
+description: "Writing better JavaScript with TypeScript in 10 steps"
+pubDate: "Jun 28, 2021"
+heroImage: "https://images.prismic.io/syntia/6e6c9a03-e07f-463d-bc1a-47f11ef2279f_typescript.jpg?auto=compress,format"
+author: "Syntia"
+categories: "workshops, interfaces, typescript, control flow analysis"
+subcategories: "typescript compiler, variance annotations, type annotations, typescript rules"
 ---
 
 Effective TypeScript, 62 Specific Ways to Improve Your TypeScript by Dan Vanderkam
@@ -25,55 +25,47 @@ Type Declaration ensures that the value conforms to the type (e.g. `interface Pe
 
 As an example provided CSV data parsing with imperative style:
 
-`const csvData = “...”;`
+```javascript
+const csvData = “...”;
+const rawRows = csvData.split(‘\n’);
+const headers = rawRows[0].split(‘,’);
+const rows = rawRows.slice(1).map(rowStr => {
+  const row = {};
+  rowStr.split(‘,’).forEach((val, j) => {
+    row[headers[j] = val; //~~~~ No index signature with parameter of type ‘string’ was found on type ‘{}’`
+  });
+  return row;
+});
+```
 
-`const rawRows = csvData.split(‘\n’);`
+or building row objects with reduce:
 
-`const headers = rawRows[0].split(‘,’);`
-
-`const rows = rawRows.slice(1).map(rowStr => {`
-
-`const row = {};`
-
-`rowStr.split(‘,’).forEach((val, j) => {`
-
-`row[headers[j] = val; //~~~~ No index signature with parameter of type ‘string’ was found on type ‘{}’`
-
-`});`
-
-`return row;`
-
-`});`
-
-or building row objects with reduce: 
-
-`const rows = rawRows.slice(1).map(rowStr => rowStr.split(‘,’).reduce( (row, val, i) => (row[headers[i] = val, row), {}));`
+```javascript
+const rows = rawRows.slice(1).map(rowStr => rowStr.split(‘,’).reduce((row, val, i) => (row[headers[i] = val, row), {}));
+```
 
 The solution in each case is to provide the type annotation for {}, either `{[column: string]: string}` or `Record<string, string>.`
 
 With the dependency as Lodash library would pass the type check without modification and saving three lines of code, however without using a bundler it would probably take up most of a project size.
 
-`import _ from ‘lodash’;`
-
-`const rows = rawRows.slice(1).map(rowStr => _.zipObject(headers, rowStr.split(‘,’)));`
+```javascript
+import _ from ‘lodash’;
+const rows = rawRows.slice(1).map(rowStr => _.zipObject(headers, rowStr.split(‘,’)));
+```
 
 ### **Item 35: Generate Types from APIs and Specs, Not Data**
 
 Some of the types are likely to come outside the program as file formats, APIs, or specs. Generating the types from specifications rather than from example data will ensure explicit definition not only considering data examples. As an example, given type declarations for GeoJSON provides types without developer understanding and experience with the format.
 
-`const geometryHelper = (g: Geometry) => {`
-
-`if (geometry.type === ‘GeometryCollection’) {`
-
-`geometry.geometries.forEach(geometryHelper);`
-
-`} else {`
-
-`helper(geometry.coordinates);`
-
-`}`
-
-`};`
+```javascript
+const geometryHelper = (g: Geometry) => {
+  if (geometry.type === ‘GeometryCollection’) {
+    geometry.geometries.forEach(geometryHelper);
+  } else {
+    helper(geometry.coordinates);
+  }
+};
+```
 
 Similar considerations apply to API calls by generating types from the specification of an API as it works with GraphQL. A GraphQL API comes with a schema that specifies all the possible queries and interfaces using a type system similar to TypeScript. There are tools which generate TypeScript types as it is Apollo Client for GraphQL queries:
 
@@ -89,57 +81,48 @@ TypeScript rule `noImplicitAny` controls whether variables have known types and 
 
 In order to iterate over the object’s keys without type errors use for-in loop and keyof typeof list when the key has the same type of values as in following example:
 
-`Const obj = {`
 
-`one: ‘uno’,`
+```javascript
+const obj = {
+  one: ‘uno’,
+  two: ‘dos’,
+  three:
 
-`two: ‘dos’,`
+ ‘tres’,
+};
 
-`three: ‘tres’,`
-
-`};`
-
-`for (const k in obj) {`
-
-`const v = obj[k];` `// ~~~~ Element implicitly has an ‘any’ type because type … has no index signature`
-
-`}`
+for (const k in obj) {
+  const v = obj[k]; // ~~~~ Element implicitly has an ‘any’ type because type … has no index signature`
+}
+```
 
 The type of k is a string but it has to index into an object of three specific keys: ‘one’, ‘two’ and ‘three’ so it is failing with the TypeScript flag.
 
 Plugging in a narrower type declaration for k fixes the issue:
 
-`let k: keyof typeof obj; // Type is “one” | “two” | “three”`
-
-`for (k in obj) {`
-
-`const v = obj[k]; // OK`
-
-`}`
+```javascript
+let k: keyof typeof obj; // Typ ist “one” | “two” | “three”
+for (k in obj) {
+  const v = obj[k]; // OK
+}
+```
 
 However values assigned can be different than string as a number, date or anything which makes variable ‘any’ type. For that reason use either a `keyof` declaration (`let k: keyof T)` or `Object.entries` to iterate over the keys and values of any object:
 
-`Interface ABC {`
+```javascript
+Interface ABC {
+  a: string;
+  b: string;
+  c: number;
+}
 
-`a: string;`
-
-`b: string;`
-
-`c: number;`
-
-`}`
-
-`function foo(abc: ABC) {`
-
-`for (const [k, v] of Object.entries(abc)) {`
-
-`// k type is string`
-
-`// v type is any`
-
-`}`
-
-`}`
+function foo(abc: ABC) {
+  for (const [k, v] of Object.entries(abc)) {
+    // k has Type string
+    // v has Typ any
+  }
+}
+```
 
 ### **Item 57: Use Source Maps to Debug TypeScript**
 
@@ -157,75 +140,60 @@ TypeScript is designed to work with modern JavaScript, and because TypeScript is
 
 The details will vary depending on your setup but if you’re using CommonJS like this:
 
-`// CommonJS`
-
-`// a.js`
-
-`const b = require(‘./b’);`
-
-`// b.js`
-
-`const name = ‘Module B’;`
-
-`module.exports = { name };`
-
+```javascript
+// CommonJS
+// a.js
+const b = require(‘./b’);
+// b.js
+const name = ‘Module B’;
+module.exports = { name };
+```
 then the ES module equivalent would look like:
 
-`// ECMAScript module`
+```javascript
+// ECMAScript-Modul
+// a.ts
+Import * as b from ‘./b’;
+// b.ts
+export const name = ‘Module B’;
+```
 
-`// a.ts`
-
-`Import * as b from ‘./b’;`
-
-`// b.ts`
-
-`export const name = ‘Module B’;`
+then the ES module equivalent would look like:
 
 #### **Use Classes Instead of Prototypes.**
 
 Instead of: 
 
-`function Person(first, last) {`
+```javascript
+function Person(first, last) {
+  this.first = first;
+  this.last = last;
+}
 
-`this.first = first;`
+Person.prototype.getName = function() {
+  return this.first + ‘ ’ + this.last;
+}
 
-`this.last = last;`
+const marie = new Person(‘Marie’, ‘Curie’);
+const personName = marie.getName();
+```
 
-`}`
-
-`Person.prototype.getName = function() {`
-
-`return this.first + ‘ ’ + this.last;`
-
-`}`
-
-`const marie = new Person(‘Marie’, ‘Curie’);`
-
-`const personName = marie.getName();`
 
 Write:
 
-`class Person {`
-
-`first: string;`
-
-`last: string;`
-
-`constructor(first: string, last: string) {`
-
-`this.first = first;`
-
-`this.last = last;`
-
-`}`
-
-`getName() {`
-
-``return `${this.first} ${this.last}`;``
-
-`}`
-
-`}`
+```javascript
+class Person {
+  first: string;
+  last: string;
+  constructor(first: string, last: string) {
+    this.first = first;
+    this.last = last;
+  }
+  getName() {
+    return `${this.first} ${this.last}`;
+  }
+}
+```
 
 ### **Item 25: Use async/await Instead of Raw Promises or Callbacks for Asynchronous Code**
 
@@ -235,41 +203,42 @@ ES2015 introduced the concept of a Promise to break the Pyramid of doom: correct
 
 ES2017 introduced the `async` and `await` keywords to make Promise execution simpler. The each `await` keyword pauses execution of the each function until Promise resolve or reject and throw an exception. It is also convenient to enclose the promise with a `try/catch` statement.
 
-`async function get() {`
-
-`try {`
-
-`const response = await fetch(url1);`
-
-`const response2 = await fetch(url2);`
-
-`// ...`
-
-`} catch (e) {`
-
-`// ...}`
-
-`}`
+```javascript
+async function get() {
+  try {
+    const response = await fetch(url1);
+    const response2 = await fetch(url2);
+    // ...
+  } catch (e) {
+    // ...
+  }
+}
+```
 
 Using destructuring assignment with await can be also useful, e.g.
 
-`async function fetchSimultaneous(urls: string[]) {`
-
-`const [response1, response2, response3] = await Promise.all([ fetch(url1), fetch(url2), fetch(url3)]);`
-
-`// ...`
-
-`}`
+```javascript
+async function fetchSimultaneous(urls: string[]) {
+  const [response1, response2, response3] = await Promise.all([ fetch(url1), fetch(url2), fetch(url3)]);
+  // ...
+}
+```
 
 An async function always returns a Promise, even if it doesn’t involve awaiting anything.
 
 Create async arrow functions:
 
-`const getNumber = async () => 42; // Type is () => Promise<number>`
+
+```javascript
+const getNumber = async () => 42; // Type is () => Promise<number>
+```
 
 The raw Promise is equivalent:
 
-`const getNumber = () => Promise.resolve(42);  // Type is () => Promise<number>`
+```javascript
+const getNumber = () => Promise.resolve(42);  // Type is () => Promise<number>
+```
+
 
 ### **Item 60: Use allowJs to Mix TypeScript and JavaScript**
 

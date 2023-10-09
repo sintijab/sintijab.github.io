@@ -1,10 +1,10 @@
 ---
-description: 'VR-Erlebnis bei DOK - Interaktion mit dem Gerät zur Steuerung von Mechanismen'
-pubDate: 'Oct 24, 2022'
-heroImage: 'https://images.prismic.io/syntia/5491ca38-4ae8-4407-8dbd-51699448e18a_img_20221023_174341.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'Projekte, Benutzererfahrung, Erweiterte Realität'
-subcategories: 'Virtual Reality, Verkörperte Technologie, VR Psychologie, Interaktives Design'
+description: "VR-Erlebnis bei DOK - Interaktion mit dem Gerät zur Steuerung von Mechanismen"
+pubDate: "Oct 24, 2022"
+heroImage: "https://images.prismic.io/syntia/5491ca38-4ae8-4407-8dbd-51699448e18a_img_20221023_174341.jpg?auto=compress,format"
+author: "Syntia"
+categories: "Projekte, Benutzererfahrung, Erweiterte Realität"
+subcategories: "Virtual Reality, Verkörperte Technologie, VR Psychologie, Interaktives Design"
 ---
 
 Die gewöhnliche Abwesenheit von Kontrolle bedeutet nicht Verlust, sondern ist gleichzeitig schwer fassbar und zu umfangreich, es sei denn, die Infrastruktur, von der sowohl das Gerät als auch der Dienst abhängen, bleibt auf beiden Seiten des Bildschirms bestehen.

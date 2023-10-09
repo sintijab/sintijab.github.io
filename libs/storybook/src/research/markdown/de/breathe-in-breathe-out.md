@@ -1,10 +1,10 @@
 \---  
-description: 'Die Wiederbelebung des Riffs - Digitale Fortschritte für die Tauchergemeinschaft'  
-pubDate: 'Jun 15, 2023'  
-heroImage: 'bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Umweltstudien, Wissenschaftliches Tauchen'  
-subcategories: 'SSI Training, SSI Zertifizierung, Freitauchen, Meeresbiologie, Klassifikationsmodelle, Riff Restaurierung, Klimawandel'  
+description: "Die Wiederbelebung des Riffs - Digitale Fortschritte für die Tauchergemeinschaft"   
+pubDate: "Jun 15, 2023"   
+heroImage: "bedcfec7-a17d-4d1f-9aa0-e5f09f50e386_img_20230521_150357-1.webp?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Umweltstudien, Wissenschaftliches Tauchen"   
+subcategories: "SSI Training, SSI Zertifizierung, Freitauchen, Meeresbiologie, Klassifikationsmodelle, Riff Restaurierung, Klimawandel"   
 \---  
 
 # **Einatmen / Ausatmen**

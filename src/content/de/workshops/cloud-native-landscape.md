@@ -1,10 +1,10 @@
 ---
-description: 'Bereitstellung der Cloud-Native-Landschaft'
-pubDate: 'May 16, 2022'
-heroImage: 'https://images.prismic.io/syntia/ad567817-7719-48c2-bf83-545944c8b2bd_bliss.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'Workshops, Cloud Infrastruktur, DevOps'
-subcategories: 'Cloud Infrastruktur, Bereitstellungsplattform, Infrastruktur als Code, Virtualisierung, Infrastruktursicherheit, Containerisierung, Schlüsselverschlüsselung, Cloud-native Speicherung, Cloud Laufzeitumgebung, Infrastrukturorchestrierung'
+description: "Bereitstellung der Cloud-Native-Landschaft"
+pubDate: "May 16, 2022"
+heroImage: "https://images.prismic.io/syntia/ad567817-7719-48c2-bf83-545944c8b2bd_bliss.jpg?auto=compress,format"
+author: "Syntia"
+categories: "Workshops, Cloud Infrastruktur, DevOps"
+subcategories: "Cloud Infrastruktur, Bereitstellungsplattform, Infrastruktur als Code, Virtualisierung, Infrastruktursicherheit, Containerisierung, Schlüsselverschlüsselung, Cloud-native Speicherung, Cloud Laufzeitumgebung, Infrastrukturorchestrierung"
 ---
 
 **_Bliss_** ist ein nahezu unverändertes Foto eines grünen Hügels und eines blauen Himmels mit Wolken in der Carneros AVA, Kalifornien. Charles O'Rear hat das Foto im Januar 1996 aufgenommen, und Microsoft hat die Rechte daran im Jahr 2000 erworben. Es wird geschätzt, dass Milliarden von Menschen dieses Bild gesehen haben, möglicherweise das am häufigsten angesehene Foto in der Geschichte.

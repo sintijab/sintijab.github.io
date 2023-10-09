@@ -1,10 +1,10 @@
 ---
-description: 'Provisioning Cloud Native Landscape'
-pubDate: 'May 16, 2022'
-heroImage: 'https://images.prismic.io/syntia/ad567817-7719-48c2-bf83-545944c8b2bd_bliss.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'workshops, cloud infrastructure, devops'
-subcategories: 'cloud infrastructure, provisioning platform, infrastructure as code, virtualization, infrastructure security, containerization, key encryption, cloud native storage, cloud runtime environment, infrastructure orchestration'
+description: "Provisioning Cloud Native Landscape"
+pubDate: "May 16, 2022"
+heroImage: "https://images.prismic.io/syntia/ad567817-7719-48c2-bf83-545944c8b2bd_bliss.jpg?auto=compress,format"
+author: "Syntia"
+categories: "workshops, cloud infrastructure, devops"
+subcategories: "cloud infrastructure, provisioning platform, infrastructure as code, virtualization, infrastructure security, containerization, key encryption, cloud native storage, cloud runtime environment, infrastructure orchestration"
 ---
 
 **_Bliss_** is a virtually unedited photo of a green hill and blue sky with clouds in the Carneros AVA, California. Charles O’Rear took the photo in January 1996 and Microsoft bought the rights in 2000. It is estimated that billions of people have seen the picture, possibly making it the most viewed photograph in history.

@@ -1,10 +1,10 @@
 ---
-description: 'What makes a good reporter and analyst?'
-pubDate: 'Feb 25, 2023'
-heroImage: 'https://images.prismic.io/syntia/53451459-7b9a-450d-a10b-4ad15139cc7a_128331849.jpg.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'research, information access, archiving and documentation'
-subcategories: 'qualitative analysis, computer literacy, relational model, levels in reporting, constructive journalism, contextual accuracy'
+description: "What makes a good reporter and analyst?"
+pubDate: "Feb 25, 2023"
+heroImage: "https://images.prismic.io/syntia/53451459-7b9a-450d-a10b-4ad15139cc7a_128331849.jpg.jpg?auto=compress,format"
+author: "Syntia"
+categories: "research, information access, archiving and documentation"
+subcategories: "qualitative analysis, computer literacy, relational model, levels in reporting, constructive journalism, contextual accuracy"
 ---
 
 Maria Ressa won a Nobel Peace Prize in 2021

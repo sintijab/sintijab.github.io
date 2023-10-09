@@ -1,18 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
 import HeaderLink from "./HeaderLink.astro";
-import { SITE_TITLE } from "../consts";
+import { EN_COLLECTION, SITE_TITLE, getIndexCollection } from "../consts";
 import Language from "./Language.astro";
 
 const { origin, pathname } = Astro.url;
-const lang = pathname.split('/').filter(e => e)[0] || 'en';
+const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
 
-let index = (await getCollection(lang, ({ id }) => {
-  return id.startsWith('index');
-}));
-if (!index) {
-	index = (await getCollection('en', ({ id }) => id.startsWith('index')));
-}
+const index = await getIndexCollection(lang);
 const { home, about, projects, workshops, research, contact} = index?.[0].data.navigation;
 ---
 
@@ -112,13 +106,13 @@ const { home, about, projects, workshops, research, contact} = index?.[0].data.n
 		left: 0;
 		margin: auto;
 		display: flex;
-    flex-direction: column;
-    justify-content: left;
-    position: fixed;
-    z-index: 1;
-    background: white;
-    top: 35px;
-		border-top: 1px solid #e1e1e1;
+		flex-direction: column;
+		justify-content: left;
+		position: fixed;
+		z-index: 1;
+		background: white;
+		top: 35px;
+			border-top: 1px solid #e1e1e1;
 	}
 	.social-links,
 	.social-links a {
@@ -128,7 +122,7 @@ const { home, about, projects, workshops, research, contact} = index?.[0].data.n
 		display: block;
 		cursor: pointer;
 		display: flex;
-    align-items: center;
+    	align-items: center;
 	}
 	.hidden {
 		display: none;

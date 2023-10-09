@@ -1,62 +1,52 @@
+---
+import { EN_COLLECTION } from "../consts";
+---
+
 <div class="nav-wrapper">
   <div class="sl-nav">
     <ul>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="20px" height="20px"><rect fill="none"/><circle cx="128" cy="128" r="96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/><line x1="37.5" y1="96" x2="218.5" y2="96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/><line x1="37.5" y1="160" x2="218.5" y2="160" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/><ellipse cx="128" cy="128" rx="40" ry="93.4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/></svg>
-      <li><b class="text" id="main-lang"></b><i class="fa fa-angle-down" aria-hidden="true"></i>
+      <li><b id="main-lang"></b><i class="fa fa-angle-down" aria-hidden="true"></i>
         <div class="triangle"></div>
-        <ul>
+        <ul class="sl-flag-list">
           <li id="de"><i class="sl-flag flag-de"></i> <span class="active">DE</span></li>
-          <li id="en"><i class="sl-flag flag-usa"></i> <span>EN</span></li>
+          <li id="en"><i class="sl-flag flag-en"></i> <span>EN</span></li>
+          <li id="fr"><i class="sl-flag flag-fr"></i> <span>FR</span></li>
         </ul>
       </li>
     </ul>
   </div>
 </div>
 
-<script>
+<script define:vars={{ EN_COLLECTION }}>
+const mainLang = document.getElementById('main-lang');
+let newUrl = '';
+const { location: { protocol, host, pathname } } = window;
+const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
+console.log(lang);
+let path = pathname;
+mainLang?.classList.add(`text-${lang}`);
 
-  const de = document.getElementById('de');
-  const en = document.getElementById('en');
-  const mainLang = document.getElementById('main-lang');
-  let newUrl = ''
-  const { location: { protocol, host, pathname }} = window;
-  const lang = pathname.split('/').filter(e => e)[0] || 'en';
-  let path = pathname;
-  mainLang?.classList.add(`text-${lang}`);
-  de?.addEventListener("click", () => {
-    mainLang?.classList.remove("text-en");
-    mainLang?.classList.add("text-de");
-    if (lang === 'en' && pathname.length > 1) {
-      path = pathname.replace('en', 'de');
-    } else if (lang === 'de') {
+document.querySelectorAll('.sl-flag-list li').forEach(element => {
+  element.addEventListener('click', () => {
+    const id = element.getAttribute('id');
+    console.log(id)
+    mainLang?.classList.remove(`text-${lang}`);
+    mainLang?.classList.add(`text-${id}`);
+    if (lang !== id && pathname.length > 1) {
+      path = pathname.replace(lang, `${id}`);
+    } else if (lang === id) {
       path = pathname;
     } else {
-      path = `${path}de`;
+      path = `${path}${id}`;
     }
     newUrl = `${protocol}//${host}${path}`;
     window.location.href = newUrl;
-  });
-  en?.addEventListener("click", () => {
-    mainLang?.classList.remove("text-de");
-    mainLang?.classList.add("text-en");
-    if (lang === 'de' && pathname.length > 1) {
-      path = pathname.replace('de', 'en');
-    } else if (lang === 'en' && pathname.includes('en')) {
-      path = pathname;
-    } else {
-      path = `${path}en`;
-    }
-    newUrl = `${protocol}//${host}${path}`;
-    window.location.href = newUrl;
-  });
-  
+  })
+})
+
 </script>
 <style>
-  .text:after {
-    content: '';
-    font-family: 'Cabin', 'Poppins', sans-serif;
-    font-weight: normal;
-  }
   .nav-wrapper {
     text-align: center;
   }
@@ -80,6 +70,11 @@
   }
   .sl-nav li b {
     padding: 0 .1rem;
+  }
+  .sl-nav li b:after {
+    content: '';
+    font-family: 'Cabin', 'Poppins', sans-serif;
+    font-weight: normal;
   }
   .sl-nav li ul {
     display: none;
@@ -146,21 +141,25 @@
     position: relative;
     top: 2px;
     overflow: hidden;
+    background-size: cover;
+    background-position: center center;
   }
   .flag-de {
-  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTM0A1t6AAAAPUlEQVQ4T+3HMQ0AIBTE0NOHM8x9B7hgh71bIWGieUvze1m7kHGBr/AVvsJX+EpmP5dV5/gKX+ErfIUvVDYcX2NMxQC8PAAAAABJRU5ErkJggg==');
-    background-size: cover;
-    background-position: center center;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAAAXNSR0IArs4c6QAAADNJREFUKFNjZGBg+M9AJGCknWI5UpzxhBTFL0hRfJsUxXc4SQi6X8dIUPz/ASmKzxGvGADkEhQXvOUQnAAAAABJRU5ErkJggg==);
   }
-  .flag-usa {
-    background-size: cover;
-    background-position: center center;
-    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTM0A1t6AAABhUlEQVQ4T2Ows82PjGixsc4LD2tysC/09Kjw8622tyuICG8u0w/cpGSCBzF4e1VmZkzw9anOzOj38a4KCW4IC22ECHYk1l9tn4gHMeTlTnZxLikvm+XiUpKW2hvgX+vnV5OVOQEoOGfOtv94AYOzU3Fd7XxHh6Lq6rlurqUx0W0J8Z1AnbW18yotonaYuOJBDBXls4A+bGpaBCTz86YEBtQCvVBSPAPIbY0oP1/aiAcxABU1Ny+2tclvbFjo5FgUF9uenNwNDLnmpkWEnV1TPRcY1O1tS4H6i4umA/0MDK2K8tlAwRqHpP1uoXgQKKraWpcClTY3LQZaCLQ5NaUX5OaWJY3++SeTC/AgBmA4AXUClUJs9ver8fKsAAYEUJCws4G21dXNB1oFdD/Qz8DQTk4C+bm2dn6DZ9bRiDQ8iAEYt8CoBpK5YBIYw0AEEZwSXX4oMB4PYoC6gCzAcDqrjGzEsMfen2xEmbMv1rSTjRi26dqRjShz9o2+6WQjBrSShQSkZAIADvW/HLrLY6cAAAAASUVORK5CYII=');
+  .flag-en {
+    background-image: url(data:image/png;base64,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);
+  }
+  .flag-fr {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAARZJREFUSEvtlb1OAkEUhb8rGkiMDduorQH7sbSxh27XmqzlvoI+h1kSKkrxIWx8CIdgY+JfglMYK5Uxs8NuEIM2YLW3m5mbb05Obu4RXDXCc0QCxH5kZ9ZgeEcYt7jsnfmrubrtJDz1u9SCBkz8o2DXLXaszDCR7KYZXYNsgi1aHDg6aTFYAB51Ep77KdVvYKeIN2X0YQ7+9DKnJZIpjuI2g97pL4pTavUmWDvbM1FGV3LwGKgvCfyijA5y8D2wsyTwgzJ6twQ7N0sripkqrSit+Lnd/mcqVrY2V7XowxHIFuA+gCJBFkeTz7yU6qzHlgrC64HRe34f70dXWLax8p5nqYum47jNxR/R5MHTqEQ2BHlU5uboCz58VCZYDrKKAAAAAElFTkSuQmCC);
   }
   .text-de:after {
-    content: 'DE';
+    content: 'DE'!important;
   }
   .text-en:after {
-    content: 'EN';
+    content: 'EN'!important;
+  }
+  .text-fr:after {
+    content: 'FR'!important;
   }
 </style>

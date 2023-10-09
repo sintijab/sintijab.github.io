@@ -1,10 +1,10 @@
 \---  
-description: 'Marine technologies for scientific divers'  
-pubDate: 'Jan 5, 2023'  
-heroImage: '4477dd7b-e1bb-424b-9039-dc6478a89094_IMG_20230102_142855.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'research, environmental studies, scientific diving'  
-subcategories: 'ssi training, ssi certification, scuba, responsible diver code, technical diver'  
+description: "Marine technologies for scientific divers"   
+pubDate: "Jan 5, 2023"   
+heroImage: "4477dd7b-e1bb-424b-9039-dc6478a89094_IMG_20230102_142855.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "research, environmental studies, scientific diving"   
+subcategories: "ssi training, ssi certification, scuba, responsible diver code, technical diver"   
 \---  
 
 # **Dive Logbook is Responsible Diver’s Code**

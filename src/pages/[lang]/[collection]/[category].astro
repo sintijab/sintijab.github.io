@@ -1,21 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
 import StoryWrapper from '../../../layouts/StoryWrapper.astro';
-import { DE_COLLECTION, EN_COLLECTION } from '../../../consts';
+import { getAllCollections } from '../../../consts';
 
 type IResult = { lang: string; value: string[], collection: string};
 
 export async function getStaticPaths() {
-  const en = await getCollection(EN_COLLECTION, ({ data }) => {
-  return !!data.categories;
-});
-	const de = await getCollection(DE_COLLECTION, ({ data }) => {
-  return !!data.categories;
-});
-	const posts = [
-		...en,
-		...de,
-	];
+  const posts = await getAllCollections(({ data }) => !!data.categories);
+
   // Map category, lang and collection for paths
   const categories = posts.map((post) => {
     if (!post.data.subcategories || !post.data.categories ) return;

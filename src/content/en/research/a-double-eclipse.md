@@ -1,10 +1,10 @@
 ---
-description: 'A Double Eclipse'
-pubDate: 'Jul 4, 2021'
-heroImage: 'https://images.prismic.io/syntia/aac73bb0-0e77-4769-8ae8-00da5c08c1ff_csm_corona_2_2ff67dd1bc.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'research, information access, community of practice'
-subcategories: 'digital literacy skills'
+description: "A Double Eclipse"
+pubDate: "Jul 4, 2021"
+heroImage: "https://images.prismic.io/syntia/aac73bb0-0e77-4769-8ae8-00da5c08c1ff_csm_corona_2_2ff67dd1bc.jpg?auto=compress,format"
+author: "Syntia"
+categories: "research, information access, community of practice"
+subcategories: "digital literacy skills"
 ---
 
 For the minorities coming to their country seeking asylum who then find themselves having to contend with the prejudices and half-formed opinions of people who seem to believe in the idea of a place as an informal caste system rather than a full-fledged democracy.  

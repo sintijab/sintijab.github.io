@@ -1,11 +1,11 @@
 \---  
-description: 'Expérience en réalité virtuelle à DOK - Interaction avec le dispositif et mécanismes de contrôle'  
-pubDate: '24 oct. 2022'  
-heroImage: '5491ca38-4ae8-4407-8dbd-51699448e18a_img_20221023_174341.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'projets, expérience utilisateur, réalité étendue'  
-subcategories: 'réalité virtuelle, technologie incarnée, psychologie de la RV, design interactif'  
-\---
+description"Expérience en réalité virtuelle à DOK - Interaction avec le dispositif et mécanismes de contrôle"   
+pubDate"Oct 24, 2022"   
+heroImage"5491ca38-4ae8-4407-8dbd-51699448e18a_img_20221023_174341.jpg?auto=compress,format"   
+author"Syntia"   
+categories"projets, expérience utilisateur, réalité étendue"   
+subcategories"réalité virtuelle, technologie incarnée, psychologie de la RV, design interactif"   
+\---  
 
 # **THX 4 Nothing**
 

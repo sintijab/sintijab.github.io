@@ -1,10 +1,10 @@
 \---  
-description: 'Anwendung ungewöhnlicher Daten zur Ermittlung von Wohnungsleerständen in China'  
-pubDate: 'Jul 31, 2021'  
-heroImage: '2a397abe-b3ba-4aa9-9408-00553c0240cd_img_20210731_214243.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Umweltstudien, Städtebau, Netzwerk'  
-subcategories: 'Wohnungsmarkt, Landschaftsdesign, Stadtplanung'  
+description: "Anwendung ungewöhnlicher Daten zur Ermittlung von Wohnungsleerständen in China"   
+pubDate: "Jul 31, 2021"   
+heroImage: "2a397abe-b3ba-4aa9-9408-00553c0240cd_img_20210731_214243.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Umweltstudien, Städtebau, Netzwerk"   
+subcategories: "Wohnungsmarkt, Landschaftsdesign, Stadtplanung"   
 \---  
 
 Datenanalysten sollten die Fähigkeit haben, die von privaten Unternehmen gesammelten Daten zum öffentlichen Wohl zu nutzen. Hohe Leerstandsraten sind zu einer ernsthaften Sorge in vielen chinesischen Städten geworden, insbesondere in denen, die eine wirtschaftliche Verlangsamung erleben, die einige bereits ab dem Jahr 2008 während der globalen Wirtschaftskrise begonnen haben. Das Phänomen, oft als "Geisterstädte" bezeichnet, beschreibt in der Regel ganze Städte mit leerstehenden Immobilien, kann aber auch Taschen von bestehenden Zweit- und Drittstädten mit hohem Leerstand bedeuten, der auf schlechte Planung zurückzuführen ist, die zu mangelndem Zugang zu Arbeitsplätzen oder Annehmlichkeiten führt.

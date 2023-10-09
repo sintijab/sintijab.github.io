@@ -1,10 +1,10 @@
 \---  
-description: 'Datenflussanalyse in Webanwendungen'  
-pubDate: 'May 6, 2022'  
-heroImage: 'f3906029-cc44-46a2-b42c-7d95f6475bda_12976875.jpg?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Workshops, Cloud Infrastruktur, Datenanalyse'  
-subcategories: 'Datenstrukturen, Anwendungsstatus, Berechnungskomplexität, Memoisierung, Zwischenspeicherung, Leistungsoptimierung'  
+description: "Datenflussanalyse in Webanwendungen"   
+pubDate: "May 6, 2022"   
+heroImage: "f3906029-cc44-46a2-b42c-7d95f6475bda_12976875.jpg?auto=compress,format"   
+author: "Syntia"   
+categories: "Workshops, Cloud Infrastruktur, Datenanalyse"   
+subcategories: "Datenstrukturen, Anwendungsstatus, Berechnungskomplexität, Memoisierung, Zwischenspeicherung, Leistungsoptimierung"   
 \---  
 
 Fibonacci "Goldener Schnitt in Kunst, Design und Fotografie", Gemälde "Mädchen mit einem Perlenohrgehänge" von Johannes Vermeer

@@ -1,10 +1,10 @@
 ---
-description: 'Re-prototyping / Faults 2022, The relation between material system and design model'
-pubDate: 'Oct 17, 2022'
-heroImage: 'https://images.prismic.io/syntia/debd4ffe-54c1-4435-9edf-b05258588a9a_img_20221001_190122-1.jpg?auto=compress,format'
-author: 'Syntia'
-categories: 'research, environmental studies, seismic networks'
-subcategories: 'seismic event monitoring, seismic data analysis, seismic event warnings, earthquake early warnings, data processing, public alert managament'
+description: "Re-prototyping / Faults 2022, The relation between material system and design model"
+pubDate: "Oct 17, 2022"
+heroImage: "https://images.prismic.io/syntia/debd4ffe-54c1-4435-9edf-b05258588a9a_img_20221001_190122-1.jpg?auto=compress,format"
+author: "Syntia"
+categories: "research, environmental studies, seismic networks"
+subcategories: "seismic event monitoring, seismic data analysis, seismic event warnings, earthquake early warnings, data processing, public alert managament"
 ---
 
 # **Re-prototyping / Faults 2022**

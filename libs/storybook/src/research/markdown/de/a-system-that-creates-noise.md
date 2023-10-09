@@ -1,10 +1,10 @@
 \---  
-description: 'Ein System, das Lärm erzeugt - Was kann bei menschlichem Urteilsvermögen schiefgehen?'  
-pubDate: 'Dec 4, 2022'  
-heroImage: '41ccf87c-e57c-42db-80b9-923667404ed6_00sci-maunaloa-1-d2c9-superjumbo.webp?auto=compress,format'  
-author: 'Syntia'  
-categories: 'Forschung, Agile Denkweise'  
-subcategories: 'Risikobewertung, Führung, Lärmprüfung, Lärmreduktion, Kosteneffizienz'  
+description: "Ein System, das Lärm erzeugt - Was kann bei menschlichem Urteilsvermögen schiefgehen?"   
+pubDate: "Dec 4, 2022"   
+heroImage: "41ccf87c-e57c-42db-80b9-923667404ed6_00sci-maunaloa-1-d2c9-superjumbo.webp?auto=compress,format"   
+author: "Syntia"   
+categories: "Forschung, Agile Denkweise"   
+subcategories: "Risikobewertung, Führung, Lärmprüfung, Lärmreduktion, Kosteneffizienz"   
 \---  
 
 # **Ein System, das Lärm erzeugt**
