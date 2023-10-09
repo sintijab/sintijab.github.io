@@ -33,7 +33,7 @@ const { home, about, projects, workshops, research, contact} = index?.[0].data.n
 				</clipPath>
 			</defs>
 		</svg>
-		<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35px" height="35px" viewBox="0 0 50 50" style="padding: 0 .9rem; stroke-width: 1px; stroke: black;" id="close-btn">
+		<svg class="close-btn" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35px" height="35px" viewBox="0 0 50 50" style="padding: 0 .9rem; stroke-width: 1px; stroke: black;" id="close-btn">
 			<path d="M 7.71875 6.28125 L 6.28125 7.71875 L 23.5625 25 L 6.28125 42.28125 L 7.71875 43.71875 L 25 26.4375 L 42.28125 43.71875 L 43.71875 42.28125 L 26.4375 25 L 43.71875 7.71875 L 42.28125 6.28125 L 25 23.5625 Z"></path>
 		</svg>
 	</div>
@@ -45,8 +45,6 @@ const { home, about, projects, workshops, research, contact} = index?.[0].data.n
 	const mobile_close = document.getElementById('close-btn');
 	const mobile_nav = document.getElementById('nav-btn');
 	const mobile_nav_items = document.getElementById('nav-links');
-	mobile_close?.classList.toggle("hidden");
-	mobile_nav_items?.classList.toggle("hidden");
 
 	mobile_nav?.addEventListener("click", () => {
 		mobile_menu?.classList.toggle("hidden");
@@ -57,6 +55,9 @@ const { home, about, projects, workshops, research, contact} = index?.[0].data.n
 </script>
 
 <style>
+	.close-btn {
+		display: none;
+	}
 	header {
 		margin: 0;
 		padding: 0;
@@ -105,14 +106,14 @@ const { home, about, projects, workshops, research, contact} = index?.[0].data.n
 		right: 0;
 		left: 0;
 		margin: auto;
-		display: flex;
+		display: none;
 		flex-direction: column;
 		justify-content: left;
 		position: fixed;
 		z-index: 1;
 		background: white;
 		top: 35px;
-			border-top: 1px solid #e1e1e1;
+		border-top: 1px solid #e1e1e1;
 	}
 	.social-links,
 	.social-links a {
