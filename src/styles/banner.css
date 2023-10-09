@@ -23,6 +23,7 @@
   display: flex;
   line-height: 32px;
 }
+
 .overlay {
   bottom: 0;
   left: 0;
@@ -33,31 +34,38 @@
   z-index: 1;
   background: #000;
 }
+
 .overlay-text {
   width: calc(100% - 64px);
   margin: 32px auto;
   z-index: 1;
 }
+
 .overlay-text-0 {
   height: 80px;
 }
+
 .overlay-text-1 {
   height: 150px;
 }
+
 h2 {
   margin: 0;
   font-size: 1em;
 }
+
 .title-h1 {
-  color:#fff;
+  color: #fff;
   font-size: 53px;
 }
+
 .title-h2 {
-  color:#fff;
+  color: #fff;
   font-size: 43px;
 }
+
 .description {
-  font-family: 'Raleway', 'Poppins', sans-serif;
+  font-family: 'Raleway Variable', 'Poppins Variable', sans-serif;
   font-size: 24px;
-  color:#fff;
+  color: #fff;
 }

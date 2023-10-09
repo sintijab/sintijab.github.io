@@ -9,6 +9,7 @@ import Image from '../components/Image.svelte';
 import FooterBanner from "../components/FooterBanner.astro";
 import Carousel from "../components/Carousel.astro";
 import Posts from "../components/Posts.astro";
+import newsletterStyles from "../styles/newsletter.css";
 
 const { pathname, origin } = Astro.url;
 const lang = pathname.split('/').filter(e => e)[0] || EN_COLLECTION;
@@ -23,7 +24,7 @@ const data = index[0].data;
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
 			.description {
-				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-family: 'Raleway Variable', 'Poppins Variable', sans-serif;
 				font-size: 20px;
 				color: #393939;
 			}
@@ -46,7 +47,7 @@ const data = index[0].data;
 					grid-column-end: span 6;
 				}
 			.main-section-items > h3 {
-				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-family: 'Raleway Variable', 'Poppins Variable', sans-serif;
 				padding-left: .5rem;
 				margin-bottom: 0;
 			}
@@ -95,7 +96,7 @@ const data = index[0].data;
 			}
 			.signup > h2,
 			.signup > * {
-				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-family: 'Raleway Variable', 'Poppins Variable', sans-serif;
 				font-size: 16px!important;
 			}
 			.signup > h2 {
@@ -108,7 +109,7 @@ const data = index[0].data;
 				border-radius: 25px!important;
 				height: 45px!important;
 				width: 120px!important;
-				font-family: 'Raleway', 'Poppins', sans-serif;
+				font-family: 'Raleway Variable', 'Poppins Variable', sans-serif;
 				background: linear-gradient(0deg, rgb(234 16 240 / 97%) 0%, rgb(138 3 157) 100%);
 				font-size: 21px;
 			}
@@ -149,12 +150,7 @@ const data = index[0].data;
 		</GridItem>
 		</Grid>
 		<div id="mc_embed_shell" class="signup-wrapper">
-      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif;}
-        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
+	  <link href={newsletterStyles} rel="stylesheet" type="text/css">
 <Grid class="main-section newsletter">
 	<GridItem class="main-section-items signup-items">
 <div id="mc_embed_signup">

@@ -47,7 +47,7 @@ h6 {
 	margin: 1em 0 .5em;
 	color: rgb(var(--black));
 	line-height: 1.2;
-	font-family: 'Inter', sans-serif;
+	font-family: 'Inter Variable', sans-serif;
 }
 
 strong,
@@ -145,12 +145,12 @@ hr {
 }
 
 nav {
-	font-family: 'Raleway', 'Poppins', sans-serif;
+	font-family: 'Raleway Variable', 'Poppins Variable', sans-serif;
 	font-size: 18px;
 }
 
 .site-title {
-	font-family: 'Cabin', 'Poppins', sans-serif;
+	font-family: 'Cabin', 'Poppins Variable', sans-serif;
 	font-size: 28.8px;
 	padding: .5rem 0;
 	letter-spacing: normal;
