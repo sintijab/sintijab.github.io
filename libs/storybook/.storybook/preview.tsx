@@ -48,7 +48,7 @@ const preview: Preview = {
     locale: {
       name: 'Locale',
       description: 'Internationalization locale',
-      defaultValue: 'fr',
+      defaultValue: 'en',
       toolbar: {
         icon: 'globe',
         items: [
