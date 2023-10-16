@@ -5,6 +5,6 @@ heroImage: "https://images.prismic.io/syntia/17a5cca8-351a-4fb7-8fbd-6679935f313
 ---
 
 ##### Email
-syntia.birgele@gmail.com
+sintija.birgele@syntia.org
 ##### Adresse
 Berlin, Allemagne
