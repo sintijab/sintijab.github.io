@@ -34,11 +34,10 @@ for engineers.
 
 Aggregating APIs for sound recording, song recognition and search on Spotify I
 discovered the essential services for maximising the song listening experience
-and discovery. Now "Syntia's Sound Stereograph" is publicly available web
-software available to record sounds, discover the artists and their work. I'm
-awaiting the final acceptance from Spotify before the first official
-pre-release. Meanwhile I continue working on the visual rendering to adapt the
-sound input and processing.
+and discovery. "Syntia's Sound Stereograph" is a public web software available
+to record sounds, discover the artists and their work. I'm awaiting the final
+acceptance from Spotify before the first official launch. Meanwhile I will focus
+on the visual rendering to adapt the sound input and processing.
 
 Visualising the frequency domain on the 3D plot has an immersive effect with
 visual "stereograph"- data responding on sound frequencies. This web platform
