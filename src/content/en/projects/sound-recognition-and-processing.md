@@ -33,10 +33,10 @@ similar or identical services available for commercial and non-commercial use
 for engineers.
 
 Aggregating APIs for sound recording, song recognition and search on Spotify I
-discovered the essential services for maximising the song listening experience
-and discovery. "Syntia's Sound Stereograph" is a public web software available
-to record sounds, discover the artists and their work. I'm awaiting the final
-acceptance from Spotify before the first official launch. Meanwhile I will focus
+discovered the essential services for maximising the sound listening experience
+and discovery. "Syntia's Sound Stereograph" is a web software available to
+record sounds, discover the artists and their work. I'm awaiting the final
+acceptance from Spotify before the first official launch. Meanwhile I'm working
 on the visual rendering to adapt the sound input and processing.
 
 Visualising the frequency domain on the 3D plot has an immersive effect with
