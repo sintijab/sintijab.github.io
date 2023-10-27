@@ -16,6 +16,7 @@ export const S8 = { name: 'classification-of-data-segments-by-intersection-over-
 export const S9 = { name: '2021-against-gravity' };
 export const S10 = { name: 'improving-policy-life-cycle-management-with-ai-and-data-science' };
 export const S11 = { name: 'excess-is-no-longer-in-fashion' };
-export const S12 = { name: 'code-and-chaos-a-day-in-2050' }
+export const S12 = { name: 'code-and-chaos-a-day-in-2050' };
+export const S13 = { name: 'sound-recognition-and-processing' };
 
 export default meta;
