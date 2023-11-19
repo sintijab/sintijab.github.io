@@ -7,8 +7,6 @@ categories: "Wochenende, Gesundheit, Zeitmanagement,  Reisen, Traditionen"
 subcategories: "Wohlbefinden, sequentielles Denken, Leistung, Wassersport"
 ---
 
-# **Eisbaden in Berlin: Wikingererlebnis im Winter**
-
 Die Kaltwasser-Immersion hat in letzter Zeit viel
 [Aufmerksamkeit erregt](https://www.nytimes.com/2021/01/01/style/cold-water-swimming-benefits.html),
 insbesondere wegen ihrer positiven Auswirkungen auf die mentale Gesundheit.
