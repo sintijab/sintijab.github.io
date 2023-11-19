@@ -86,12 +86,12 @@ Tiefen zu gehen und meine eigenen Grenzen herauszufordern, wenn es nicht für
 meine langfristige Investition in die Gesundheit wäre und wenn ich nicht jeden
 Moment inmitten der spektakulärsten Menschen und der Natur genießen würde.
 
-Ich habe gelernt, wie man mit einem Neoprenanzug unter Wasser bei 10° im Winter
-auf Lanzarote taucht. Jetzt schwimme ich vom Sommer bis zum Winter in kalten
-Seen in Berlin und weiß, wie ich diese erste Minute im sehr kalten Wasser
-überstehe. Ich trage Neoprenhandschuhe und -socken, weil Hände und Füße mit
-Gefäßen ausgestattet sind, die als arteriovenöse Anastomosen (AVAs) bekannt sind
-und einen großen Teil des Wärmeverlusts des Körpers zum oberen Ende der
+Ich habe gelernt, wie man im Winter im Nordatlantik bei 10° unter Wasser mit
+Neoprenanzug taucht. Jetzt schwimme ich vom Sommer bis zum Winter in kalten Seen
+in Berlin und weiß, wie ich diese erste Minute im sehr kalten Wasser überstehe.
+Ich trage Neoprenhandschuhe und -socken, weil Hände und Füße mit Gefäßen
+ausgestattet sind, die als arteriovenöse Anastomosen (AVAs) bekannt sind und
+einen großen Teil des Wärmeverlusts des Körpers zum oberen Ende der
 thermoneutralen Zone verantwortlich sind.
 
 Ich liebe es, die volle Intensität des kalten Wassers zu spüren. Im Winter werde

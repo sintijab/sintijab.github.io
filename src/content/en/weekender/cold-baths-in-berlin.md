@@ -80,9 +80,9 @@ in health, and enjoying every moment by being surrounded by most spectacular
 people and the nature.
 
 I learned how do diving with neoprene suit under the water in 10° during the
-winter time in Lanzarote. Now swimming from summer through the winter cold in
-lakes in Berlin, I know how to get over that first minute in very cold water. I
-do wear neoprene gloves and socks, because hands and feet are equipped with
+winter in North Atlantic Ocean. Now swimming from summer through the winter cold
+in lakes in Berlin, I know how to get over that first minute in very cold water.
+I do wear neoprene gloves and socks, because hands and feet are equipped with
 vessels known as arterio-venous anastomoses (AVAs) that are responsible for a
 large part of the loss of heat from the body toward the upper end of the
 thermoneutral zone.

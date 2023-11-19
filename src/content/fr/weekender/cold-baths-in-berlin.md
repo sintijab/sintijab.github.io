@@ -81,12 +81,13 @@ pas investi durablement dans ma santé, tout en appréciant chaque moment en ét
 entouré de personnes les plus spectaculaires et de la nature.
 
 J'ai appris à plonger avec une combinaison en néoprène sous l'eau à 10° pendant
-l'hiver à Lanzarote. Maintenant, en nageant de l'été à travers le froid de
-l'hiver dans les lacs de Berlin, je sais comment surmonter cette première minute
-dans une eau très froide. Je porte des gants et des chaussettes en néoprène, car
-les mains et les pieds sont équipés de vaisseaux appelés anastomoses
-artério-veineuses (AVA) qui sont responsables d'une grande partie de la perte de
-chaleur du corps vers la partie supérieure de la zone thermoneutre.
+pendant l'hiver dans l'océan Atlantique Nord. Maintenant, en nageant de l'été à
+travers le froid de l'hiver dans les lacs de Berlin, je sais comment surmonter
+cette première minute dans une eau très froide. Je porte des gants et des
+chaussettes en néoprène, car les mains et les pieds sont équipés de vaisseaux
+appelés anastomoses artério-veineuses (AVA) qui sont responsables d'une grande
+partie de la perte de chaleur du corps vers la partie supérieure de la zone
+thermoneutre.
 
 J'aime embrasser toute l'intensité de l'eau froide. En hiver, je ne vais pas
 viser une distance de nage, mais être mentalement et physiquement prêt pour la
