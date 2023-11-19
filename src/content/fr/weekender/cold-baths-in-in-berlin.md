@@ -66,8 +66,7 @@ circulation sanguine et à accroître la résilience au stress environnemental.
 > réalisé un court métrage qui a été tourné dans la maison viking d'Eiríksstaðir
 > dans l'ouest. Cela a aidé à en savoir beaucoup sur notre pays."**
 
-> **Arnar Freyr Tómasson interview,**
-> [https://www.mbl.is/ferdalog/frettir/2020/06/03/merfinnst\\otrulegagaman\\adfinna\\nyja\\\_stadi/](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
+[Référence: Arnar Freyr Tómasson Entretien](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
 
 ![](https://images.prismic.io/syntia/58f9cd20-f291-4e56-a352-8d829349a54f_1210021.jpg?auto=compress,format)
 
@@ -110,9 +109,8 @@ une expérience unique.
 > tronçonneuse. À Weissensee, mon endroit préféré pour la plongée sous glace est
 > Norbert Jank, l'Eismeister, une légende et l'homme responsable de la sécurité
 > des nombreux patineurs et touristes qui visitent le Weissensee en hiver.**
->
-> **Nik Linder,**
-> [https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
+
+[Référence: Nik Linder, Freediving under the ice](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
 
 ## **Rejoignez le défi de la baignade dans la glace pour une bonne cause**
 

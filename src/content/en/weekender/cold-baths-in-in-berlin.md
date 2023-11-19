@@ -64,9 +64,8 @@ environmental stress.
 > old Viking houses and photograph them. I have also made a short film that was
 > filmed in the viking house in Eiríksstaðir in the West. Then it helped to know
 > a lot about our country."
->
-> Arnar Freyr Tómasson interview,
-> [https://www.mbl.is/ferdalog/frettir/2020/06/03/mer\\\_finnst\\\_otrulega\\\_gaman\\\_ad\\\_finna\\\_nyja\\\_stadi/](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
+
+[Reference: Arnar Freyr Tómasson interview,](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
 
 ![](https://images.prismic.io/syntia/58f9cd20-f291-4e56-a352-8d829349a54f_1210021.jpg?auto=compress,format)
 
@@ -108,9 +107,8 @@ and a once-in-a-lifetime experience.
 > for icediving the Eismeister is Norbert Jank – a legend and the man who is
 > responsible for the safety of the numerous iceskaters and tourists, who visit
 > the Weissensee during winter. 
->
-> Nik Linder,
-> [https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
+
+[Reference: Nik Linder, Freediving under the ice,](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
 
 ## Join Icedipping Challenge for a good cause
 
