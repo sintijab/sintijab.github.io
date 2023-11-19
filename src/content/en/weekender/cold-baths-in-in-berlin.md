@@ -65,7 +65,7 @@ environmental stress.
 > filmed in the viking house in Eiríksstaðir in the West. Then it helped to know
 > a lot about our country."
 
-[Reference: Arnar Freyr Tómasson interview,](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
+[Reference: Arnar Freyr Tómasson interview.](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
 
 ![](https://images.prismic.io/syntia/58f9cd20-f291-4e56-a352-8d829349a54f_1210021.jpg?auto=compress,format)
 
@@ -108,7 +108,7 @@ and a once-in-a-lifetime experience.
 > responsible for the safety of the numerous iceskaters and tourists, who visit
 > the Weissensee during winter. 
 
-[Reference: Nik Linder, Freediving under the ice,](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
+[Reference: Nik Linder, Freediving under the ice.](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
 
 ## Join Icedipping Challenge for a good cause
 

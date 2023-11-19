@@ -73,7 +73,7 @@ erhöhen.
 > Kurzfilm gemacht, der im Wikingerhaus in Eiríksstaðir im Westen gedreht wurde.
 > Es half sehr, viel über unser Land zu wissen."**
 
-[Referenz: Arnar Freyr Tómasson Interview,](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
+[Referenz: Arnar Freyr Tómasson Interview.](https://www.mbl.is/ferdalog/frettir/2020/06/03/mer%5C_finnst%5C_otrulega%5C_gaman%5C_ad%5C_finna%5C_nyja%5C_stadi/)
 
 ![](https://images.prismic.io/syntia/58f9cd20-f291-4e56-a352-8d829349a54f_1210021.jpg?auto=compress,format)
 
@@ -117,7 +117,7 @@ große Herausforderung für mich und ein einmaliges Erlebnis sein.
 > Schlittschuhläufer und Touristen verantwortlich ist, die den Weissensee im
 > Winter besuchen.**
 
-[Referenz: Nik Linder, Freediving under the ice,](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
+[Referenz: Nik Linder, Freediving under the ice.](https://niklinder.com/post/freediving-under-the-ice-by-nik-linder-mares/)
 
 ## **Nehmen Sie am Icedipping Challenge für einen guten Zweck teil**
 
