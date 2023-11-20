@@ -153,3 +153,11 @@ lost. Dalberg’s film is taken from 5 testimonies of 16th-19th century women an
 aims to give them back the voices that they were consistently denied, the film
 brings their names to light through spoken stories recorded in old manuscripts
 and other contemporary sources.
+
+Participating artists:
+
+Elín Hansdóttir, Gunnhildur Hauksdóttir, Hrafnkell Sigurðsson, Kolbeinn Hugi
+Höskuldsson, María Dalberg, Ragnar Kjartansson, Sigurður Guðjónsson, Anna Diljá
+Sigurðardóttir, Halldór Eldjárn, Kjartan Ólafsson, Úlfur Hansson, Valdís
+Steinars FÓLK Reykjavík: Jón Helgi Hólmgeirsson, Ólína Rögnudóttir, Tinna
+Gunnarsdóttir, Theodóra Alfreðsdóttir, Stúdíó Flétta

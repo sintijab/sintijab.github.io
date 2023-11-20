@@ -165,3 +165,11 @@ Frauen aus dem 16.-19. Jahrhundert und zielt darauf ab, ihnen die Stimmen
 zurückzugeben, die ihnen konsequent verweigert wurden. Der Film bringt ihre
 Namen durch gesprochene Geschichten, die in alten Manuskripten und anderen
 zeitgenössischen Quellen aufgezeichnet sind, ans Licht.
+
+Teilnehmende Künstler:
+
+Elín Hansdóttir, Gunnhildur Hauksdóttir, Hrafnkell Sigurðsson, Kolbeinn Hugi
+Höskuldsson, María Dalberg, Ragnar Kjartansson, Sigurður Guðjónsson, Anna Diljá
+Sigurðardóttir, Halldór Eldjárn, Kjartan Ólafsson, Úlfur Hansson, Valdís
+Steinars FÓLK Reykjavík: Jón Helgi Hólmgeirsson, Ólína Rögnudóttir, Tinna
+Gunnarsdóttir, Theodóra Alfreðsdóttir, Stúdíó Flétta

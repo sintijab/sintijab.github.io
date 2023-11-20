@@ -169,3 +169,11 @@ femmes qui ont été perdues. Le film de Dalberg est tiré de 5 témoignages de
 femmes des XVIe-XIXe siècles et vise à leur redonner les voix qui leur ont
 constamment été refusées. Le film met en lumière leurs noms à travers des récits
 parlés enregistrés dans de vieux manuscrits et d'autres sources contemporaines.
+
+Artistes participants :
+
+Elín Hansdóttir, Gunnhildur Hauksdóttir, Hrafnkell Sigurðsson, Kolbeinn Hugi
+Höskuldsson, María Dalberg, Ragnar Kjartansson, Sigurður Guðjónsson, Anna Diljá
+Sigurðardóttir, Halldór Eldjárn, Kjartan Ólafsson, Úlfur Hansson, Valdís
+Steinars FÓLK Reykjavík: Jón Helgi Hólmgeirsson, Ólína Rögnudóttir, Tinna
+Gunnarsdóttir, Theodóra Alfreðsdóttir, Stúdíó Flétta
