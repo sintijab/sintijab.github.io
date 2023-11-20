@@ -139,3 +139,29 @@ Audiosignale durch das Instrument zu leiten, wodurch üppige, hallende Töne
 entstehen, während die Saiten mit dem Eingangssignal resonieren.
 [https://ulfurhansson.com/Magnetic-Harp-Segulharpa](https://ulfurhansson.com/Magnetic-Harp-Segulharpa)
 ![](https://images.prismic.io/syntia/f66b70e0-b8d3-48dc-88fd-8306ff6cdc2f_IMG_20231119_153657.jpg?auto=compress,format)
+
+## Unaufhaltsame Wahrheit
+
+Der Film "Uncontainable Truth" (2021) von María Dalberg untersucht das Schicksal
+isländischer arbeitender Frauen im 16.-19. Jahrhundert. Diese Frauen
+verrichteten harte Arbeit. Sie gingen Kilometer über gefrorene Landschaften, um
+die Kleidung ihrer Herren zu schlagen und zu schrubben, kümmerten sich bei allen
+Wetterbedingungen um weidende Tiere und führten andere anstrengende körperliche
+Aufgaben aus. Sie gehörten zu den untergeordneten Klassen von Analphabeten und
+landlosen Menschen, die an das Land gebunden waren.
+
+Dulsmál sind kriminelle Fälle, bei denen eine Frau ihre Schwangerschaft und die
+Geburt ihres Kindes verheimlicht. Das Kind stirbt entweder an den Elementen oder
+durch Fahrlässigkeit. Zwei isländische Gesetze wurden im 16.-17. Jahrhundert
+formalisiert. Diese Gesetze besagen, dass jede Frau, die ihr Kind tötet, die
+Todesstrafe bekommen sollte, auch wenn sie behauptet, ein lebloses Kind geboren
+zu haben.
+
+![](https://images.prismic.io/syntia/83311525-e7e1-431c-8eca-a272776807d0_UT%2Bmynd%2B22_00187399.jpg?auto=compress,format)
+
+Dalberg arbeitet mit verkörperter Geschichte, um die Worte von Frauen, die
+verloren gegangen sind, zu vermitteln. Dalbergs Film stammt aus 5 Zeugnissen von
+Frauen aus dem 16.-19. Jahrhundert und zielt darauf ab, ihnen die Stimmen
+zurückzugeben, die ihnen konsequent verweigert wurden. Der Film bringt ihre
+Namen durch gesprochene Geschichten, die in alten Manuskripten und anderen
+zeitgenössischen Quellen aufgezeichnet sind, ans Licht.

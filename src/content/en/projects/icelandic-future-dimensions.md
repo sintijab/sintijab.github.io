@@ -130,3 +130,26 @@ possible to channel external audio through the instrument, generating lush
 reverberant tones as the strings resonate with the input signal.
 [https://ulfurhansson.com/Magnetic-Harp-Segulharpa](https://ulfurhansson.com/Magnetic-Harp-Segulharpa)
 ![](https://images.prismic.io/syntia/f66b70e0-b8d3-48dc-88fd-8306ff6cdc2f_IMG_20231119_153657.jpg?auto=compress,format)
+
+# Uncontainable truth
+
+María Dalberg’s film Uncontainable Truth (2021) investigates the fate of
+Icelandic working women in the 16th-19th century. These women performed hard
+labour. They walked kilometers over frozen landscapes to beat and scrub their
+master’s clothes, cared for grazing animals in all weather conditions, and
+performed other strenuous physical tasks. They belong to subaltern classes of
+illiterate and landless people tied to the land.
+
+Dulsmál are criminal cases in which a woman hides her pregnancy and the birth of
+her child. The child either dies of exposure to the elements or negligence. Two
+Icelandic laws were formalized in 16th-17th century. These laws say that every
+woman that kills her child should get the death penalty, even if she claims to
+have borne a lifeless child.
+
+![]https://images.prismic.io/syntia/83311525-e7e1-431c-8eca-a272776807d0_UT%2Bmynd%2B22_00187399.jpg?auto=compress,format
+
+Dalberg works with embodied history to channel the words of women that have been
+lost. Dalberg’s film is taken from 5 testimonies of 16th-19th century women and
+aims to give them back the voices that they were consistently denied, the film
+brings their names to light through spoken stories recorded in old manuscripts
+and other contemporary sources.
