@@ -144,3 +144,36 @@ faire passer un son externe à travers l'instrument, générant des tons
 réverbérants luxuriants lorsque les cordes résonnent avec le signal d'entrée.
 [https://ulfurhansson.com/Magnetic-Harp-Segulharpa](https://ulfurhansson.com/Magnetic-Harp-Segulharpa)
 ![](https://images.prismic.io/syntia/f66b70e0-b8d3-48dc-88fd-8306ff6cdc2f_IMG_20231119_153657.jpg?auto=compress,format)
+
+## Vérité incontenue
+
+Le film "Vérité Incontenue" (2021) de María Dalberg enquête sur le destin des
+femmes islandaises au travail du XVIe au XIXe siècle. Ces femmes effectuaient un
+travail pénible. Elles marchaient sur des kilomètres à travers des paysages
+gelés pour battre et frotter les vêtements de leur maître, s'occupaient
+d'animaux qui paissaient dans toutes les conditions météorologiques, et
+effectuaient d'autres tâches physiques épuisantes. Elles faisaient partie des
+classes subalternes de personnes illettrées et sans terre, liées à la terre.
+
+Les "Dulsmál" sont des affaires criminelles dans lesquelles une femme cache sa
+grossesse et la naissance de son enfant. L'enfant meurt soit de l'exposition aux
+éléments, soit de négligence. Deux lois islandaises ont été formalisées aux XVIe
+et XVIIe siècles. Ces lois stipulent que toute femme qui tue son enfant devrait
+recevoir la peine de mort, même si elle prétend avoir donné naissance à un
+enfant sans vie.
+
+![](https://images.prismic.io/syntia/83311525-e7e1-431c-8eca-a272776807d0_UT%2Bmynd%2B22_00187399.jpg?auto=compress,format)
+
+Dalberg travaille avec l'histoire incarnée pour transmettre les paroles des
+femmes qui ont été perdues. Le film de Dalberg est tiré de 5 témoignages de
+femmes des XVIe-XIXe siècles et vise à leur redonner les voix qui leur ont
+constamment été refusées. Le film met en lumière leurs noms à travers des récits
+parlés enregistrés dans de vieux manuscrits et d'autres sources contemporaines.
+
+Artistes participants :
+
+Elín Hansdóttir, Gunnhildur Hauksdóttir, Hrafnkell Sigurðsson, Kolbeinn Hugi
+Höskuldsson, María Dalberg, Ragnar Kjartansson, Sigurður Guðjónsson, Anna Diljá
+Sigurðardóttir, Halldór Eldjárn, Kjartan Ólafsson, Úlfur Hansson, Valdís
+Steinars FÓLK Reykjavík: Jón Helgi Hólmgeirsson, Ólína Rögnudóttir, Tinna
+Gunnarsdóttir, Theodóra Alfreðsdóttir, Stúdíó Flétta
