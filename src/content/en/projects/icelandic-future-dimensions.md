@@ -58,6 +58,7 @@ the importance of the ocean, for the well-being of the planet and humanity now
 and in the future.
 
 [https://player.vimeo.com/video/367232848?color=000000&title=0&byline=0&portrait=0](https://player.vimeo.com/video/367232848?color=000000&title=0&byline=0&portrait=0)
+[https://annadiljasigurdar.com/The-Rare-Metal-Age](https://annadiljasigurdar.com/The-Rare-Metal-Age)
 
 ## The Plant Printer
 
@@ -146,7 +147,7 @@ Icelandic laws were formalized in 16th-17th century. These laws say that every
 woman that kills her child should get the death penalty, even if she claims to
 have borne a lifeless child.
 
-![]https://images.prismic.io/syntia/83311525-e7e1-431c-8eca-a272776807d0_UT%2Bmynd%2B22_00187399.jpg?auto=compress,format
+![](https://images.prismic.io/syntia/83311525-e7e1-431c-8eca-a272776807d0_UT%2Bmynd%2B22_00187399.jpg?auto=compress,format)
 
 Dalberg works with embodied history to channel the words of women that have been
 lost. Dalberg’s film is taken from 5 testimonies of 16th-19th century women and
