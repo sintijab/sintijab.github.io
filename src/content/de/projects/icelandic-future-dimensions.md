@@ -62,6 +62,7 @@ Bedeutung des Ozeans für das Wohlergehen des Planeten und der Menschheit in der
 Gegenwart und Zukunft zu werfen.
 
 [https://player.vimeo.com/video/367232848?color=000000&title=0&byline=0&portrait=0](https://player.vimeo.com/video/367232848?color=000000&title=0&byline=0&portrait=0)
+[https://annadiljasigurdar.com/The-Rare-Metal-Age](https://annadiljasigurdar.com/The-Rare-Metal-Age)
 
 ## **Shape.Repeat**
 

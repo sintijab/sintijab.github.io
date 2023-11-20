@@ -64,6 +64,7 @@ projet est de mettre en lumière cette industrie et l'importance de l'océan, po
 le bien-être de la planète et de l'humanité maintenant et à l'avenir.
 
 [https://player.vimeo.com/video/367232848?color=000000&title=0&byline=0&portrait=0](https://player.vimeo.com/video/367232848?color=000000&title=0&byline=0&portrait=0)
+[https://annadiljasigurdar.com/The-Rare-Metal-Age](https://annadiljasigurdar.com/The-Rare-Metal-Age)
 
 ## **The Plant Printer**
 
