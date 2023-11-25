@@ -1,13 +1,11 @@
 ---
-description: "Zéro temps d'arrêt pendant le Black Friday"
+description: "Kubernetes 101 - Configuration d'application k8s"
 pubDate: "Nov 24, 2023"
 heroImage: "https://images.prismic.io/syntia/e1d6a504-2124-4922-ac8c-361974be8f0e_default.png?auto=compress,format"
 author: "Syntia"
 categories: "ateliers, infrastructure cloud, réseau, kubernetes"
 subcategories: "protocoles de communication, protocole de contrôle de transmission, protocole Internet, couche réseau, interface réseau, réseau virtuel"
 ---
-
-# Kubernetes 101 - Configuration d'application k8s
 
 Dans cet atelier, nous allons apprendre comment déployer MongoDB et mongo-express. Cela peut être appliqué à n'importe quelle autre configuration pour la création d'applications Kubernetes Stateless. Nous allons suivre les étapes suivantes :
 
@@ -33,29 +31,19 @@ La demande commencera depuis le navigateur vers le service externe de Mongo Expr
 Après avoir supprimé le déploiement et le service du premier atelier, le cluster est vide.
 
 ```sh
-
 kubectl get all
-
 # NOM                  TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)   AGE
-
 # service/kubernetes   ClusterIP   10.96.0.1    <none>        443/TCP   30m
-
 ```
 
 Après la création du déploiement et du service pour une application, vous verrez les composants k8s suivants :
 
 ```sh
-
 kubectl get all | grep mongodb # filtrez par le nom de votre application
-
 # pod/mongodb-deployment-7bd745589d-pt2kl   1/1     Running   0          70m
-
 # service/mongodb-service   ClusterIP   10.102.163.220   <none>        27017/TCP   15m
-
 # deployment.apps/mongodb-deployment   1/1     1            1           70m
-
 # replicaset.apps/mongodb-deployment-7bd745589d   1         1         1       70m
-
 ```
 
 ## Créer un déploiement/pod MongoDB
@@ -63,77 +51,47 @@ kubectl get all | grep mongodb # filtrez par le nom de votre application
 Créez un fichier de déploiement soit avec un éditeur soit en ligne de commande.
 
 ```sh
-
 kubectl create deployment mongodb-deployment –image=mongo
-
 ```
 
 Maintenant, modifiez le déploiement et supprimez la configuration par défaut :
 
 ```sh
-
 kubectl edit deployment mongodb-deployment
-
 ```
 
 Avec l'éditeur interactif vim, supprimez les lignes multiples avec les commandes suivantes :
 
 ```sh
-
 # syntaxe :\[début\],\[fin\]d
-
 :.,$d # toutes les lignes après le curseur
-
 :.,1d # toutes les lignes au-dessus du curseur
-
 :3,10d # supprimer les lignes entre 3 et 10
-
 ```
 
 Le déploiement devrait ressembler à ceci :
 
 ```yaml
-
 apiVersion: apps/v1
-
 kind: Deployment
-
 metadata:
-
   labels:
-
     app: mongodb-deployment
-
   name: mongodb-deployment
-
 spec:
-
   replicas: 1
-
   selector:
-
     matchLabels:
-
       app: mongodb-deployment
-
   template:
-
     metadata:
-
       creationTimestamp: null
-
       labels:
-
         app: mongodb-deployment
-
     spec: # Pods que le déploiement créera
-
       containers:
-
       - image: mongo
-
         name: mongodb
-
 ```
 
 ### Se connecter à MongoDB depuis un autre conteneur Docker
@@ -153,37 +111,21 @@ MONGO\_INITDB\_ROOT\_USERNAME, MONGO\_INITDB\_ROOT\_PASSWORD
 Ajoutons-les à la configuration du déploiement :
 
 ```yaml
-
    template:
-
     metadata:
-
       labels:
-
         app: mongodb-deployment
-
     spec:
-
       containers:
-
       - image: mongo
-
         name: mongodb
-
         ports:
-
         - containerPort: 27017
-
         env:
-
-        - name: MONGO\_INITDB\_ROOT\_USERNAME
-
+        - name: MONGO_INITDB_ROOT_USERNAME
           value: 
-
-        - name: MONGO\_INITDB\_ROOT\_PASSWORD
-
+        - name: MONGO_INITDB_ROOT_PASSWORD
           value:
-
 ```
 
 Nous allons créer les secrets k8s où ces valeurs d'environnement seront référencées, afin que personne n'y ait accès depuis le dépôt de code.
@@ -193,23 +135,14 @@ Nous allons créer les secrets k8s où ces valeurs d'environnement seront réfé
 Si vous utilisez VSCode pour la création des fichiers de configuration K8s, l'autocomplétion des fichiers YAML via le schéma JSON Kubernetes ressemblera à ceci :
 
 ```yaml
-
 # secret.yaml
-
 apiVersion: v1
-
 kind: Secret
-
 metadata:
-
   name: mysecret
-
 type: Opaque # type de secret clé-valeur, d'autres sont pour les secrets pour les certificats TLS et d'autres types
-
 data:
-
   password: <Mot de passe>
-
 ```
 
 Corrigez le nom et les données du secret. Gardez à l'esprit que les valeurs des secrets ne sont pas en texte brut mais des valeurs encodées en base64.
@@ -219,51 +152,31 @@ Stocker les données dans le composant Secret ne les rend pas automatiquement s�
 Il existe des mécanismes intégrés tels que le chiffrement pour une sécurité de base, qui ne sont pas activés par défaut.
 
 ```sh
-
 echo -n 'utilisateur' | base64 # crypter la valeur
-
 ```
 
 Copiez-collez-la dans les valeurs de données du Secret :
 
 ```yaml
-
 apiVersion: v1
-
 kind: Secret
-
 metadata:
-
   name: mongodb-secret
-
 type: Opaque
-
 data:
-
   mongo-root-username: dXNlcg==
-
-  mongo-root-password: cGFzc3c
-
-=
-
+  mongo-root-password: cGFzc3c=
   mongo-basic-username: dXNlcg==
-
   mongo-basic-password: cGFzc3c=
-
 ```
 
 Le Secret doit être créé avant de créer un déploiement dans Kubernetes afin d'utiliser les valeurs du Secret.
 
 ```sh
-
 kubectl apply -f mongo-secret.yaml
-
 kubectl get secret
-
 # NOM                TYPE      DATA   AGE
-
 # mongodb-secret   Opaque   2      24s
-
 ```
 
 ### Créer un déploiement
@@ -271,103 +184,52 @@ kubectl get secret
 Maintenant, vous pouvez modifier la configuration du déploiement pour utiliser le nouveau secret.
 
 ```yaml
-
  template:
-
     metadata:
-
       labels:
-
         app: mongodb-deployment
-
     spec:
-
       containers:
-
       - image: mongo
-
         name: mongodb
-
         ports:
-
         - containerPort: 27017
-
         env:
-
-        - name: MONGO\_INITDB\_ROOT\_USERNAME
-
+        - name: MONGO_INITDB_ROOT_USERNAME
           valueFrom: # référence aux valeurs du secret
-
            secretKeyRef:
-
             name: mongodb-secret
-
             key: mongo-root-username
-
-        - name: MONGO\_INITDB\_ROOT\_PASSWORD
-
+        - name: MONGO_INITDB_ROOT_PASSWORD
           valueFrom:  # référence aux valeurs du secret
-
            secretKeyRef:
-
             name: mongodb-secret
-
             key: mongo-root-password
-
-       - name: ME\_CONFIG\_BASICAUTH\_USERNAME
-
+       - name: ME_CONFIG_BASICAUTH_USERNAME
           valueFrom:
-
               secretKeyRef:
-
                 name: mongodb-secret
-
                 key: mongo-basic-username
-
-        - name: ME\_CONFIG\_BASICAUTH\_PASSWORD
-
+        - name: ME_CONFIG_BASICAUTH_PASSWORD
           valueFrom:
-
               secretKeyRef:
-
                 name: mongodb-secret
-
                 key: mongo-basic-password
-
 ```
 
 Créez le déploiement avec cette configuration :
 
 ```sh
-
 kubectl apply -f mongo-deployment.yaml
-
 kubectl get all
-
-NOM                                      PRÊT   ETAT       REDEMARRAGES  AGE
-
-pod/mongodb-deployment-7bd745589d-pt2kl   1/1     Running   0          81s
-
-  
-
-NOM                TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)    AGE
-
-service/kubernetes   ClusterIP    10.96.0.1        <none>        443/TCP    3h40m
-
-  
-
-NOM                                            PRÊT   ACTUEL    DISPONIBLE    AGE
-
-deployment.apps/mongodb-deployment   1/1      1        1            82s
-
-  
-
-NOM                                              DESIRE     ACTUEL     PRÊT    AGE
-
-replicaset.apps/mongodb-deployment-7bd745589d   1         1         1       81s
-
-  
-
+# NOM                                      PRÊT   ETAT       REDEMARRAGES  AGE
+# pod/mongodb-deployment-7bd745589d-pt2kl   1/1     Running   0          81s
+# NOM                TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)    AGE
+# service/kubernetes   ClusterIP    10.96.0.1        <none>        443/TCP    3h40m
+# NOM                                            PRÊT   ACTUEL    DISPONIBLE    AGE
+# deployment.apps/mongodb-deployment   1/1      1        1            82s
+# NOM                                              DESIRE     ACTUEL     PRÊT    AGE
+# replicaset.apps/mongodb-deployment-7bd745589d   1         1         1       81s
 ```
 
 Maintenant, vous devriez voir le pod, le déploiement et le jeu de répliques créés.
@@ -377,45 +239,24 @@ Maintenant, vous devriez voir le pod, le déploiement et le jeu de répliques cr
 Si la création du conteneur est lente et que `kubectl get pod` donne l'état ContainerCreating, vous pouvez suivre la progression avec la commande `kubectl get pod --watch` ou vérifier s'il y a un problème avec la commande `kubectl describe pod NOM_DU_POD`.
 
 ```sh
-
 kubectl get pod
-
 # NOM                                      PRÊT   ETAT       REDEMARRAGES  AGE
-
 # mongodb-deployment-7bd745589d-pt2kl   1/1     Running   0          2m13s
-
 ```
 
 ### Types de services Kubernetes
 
 ```sh
-
 kubectl create service --help
-
 # Alias:
-
 # service, svc
-
-  
-
 # Commandes disponibles:
-
 # clusterip      Créez un service ClusterIP
-
 # externalname   Créez un service ExternalName
-
 # loadbalancer   Créez un service LoadBalancer
-
 # nodeport       Créez un service NodePort
-
-  
-
 # Utilisation:
-
 #   kubectl create service \[flags\] \[options\]
-
-  
-
 ```
 
 #### ClusterIP
@@ -425,38 +266,23 @@ ClusterIP est le type de service par défaut. Kubernetes attribuera une adresse 
 Le service ClusterIP est le type de service le plus courant pour la communication entre les applications frontend et backend ou, par exemple, lorsqu'un microservice traite des données et les envoie à un autre microservice, un service ClusterIP est nécessaire pour restreindre la communication.
 
 ```yaml
-
 apiVersion: v1
-
 kind: Service
-
 metadata:
-
   name: my-backend-service
-
 spec:
-
   type: ClusterIP # Champ facultatif (par défaut), les autres options sont NodePort ou LoadBalancer
-
   clusterIP: 10.10.0.1 # plage d'adresses IP du cluster de service
-
   ports:
-
   - name: http
-
     protocol: TCP
-
     port: 80
-
     targetPort: 8080
-
 ```
 
 #### NodePort
 
 Le service NodePort est une extension des services ClusterIP permettant une connectivité externe à l'application Kubernetes. Avec NodePort, Kubernetes utilise un port désigné qui redirige le trafic vers le service ClusterIP correspondant s'exécutant sur le nœud. 
-
-  
 
 Ces services permettent la communication depuis l'extérieur du cluster, comme les applications web ou les API. Pour rendre le port du nœud disponible, Kubernetes configure une adresse IP de cluster, la même que si vous aviez demandé un service de type : ClusterIP, l'adresse IP du nœud et le numéro de port attribué au service. Le numéro de port Kubernetes est prédéfini, il est personnalisé ou dans la plage de 30000 à 32767.
 
