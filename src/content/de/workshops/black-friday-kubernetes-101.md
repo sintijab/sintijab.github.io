@@ -7,10 +7,11 @@ categories: "Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes"
 subcategories: "Kommunikationsprotokolle, Transmission Control Protocol, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk"
 ---
 
-Die Inspiration für die Dokumentation dieses Workshops kam von der Unternehmerin
-und Yoga-Meisterin Karin Dimitrova, einer von vielen Geschäftsinhabern, die von
-den Black Friday-Verkäufen und der Herausforderung überwältigt sind, ihre
-Unternehmen aufrechtzuerhalten, während der Markt von einem Sturm erfasst wird.
+Ich wurde von der Unternehmerin und Yoga-Meisterin Karin Dimitrova inspiriert,
+dieses Workshop zu dokumentieren. Sie ist eine von vielen Geschäftsinhabern, die
+von den Verkaufsaktionen am Black Friday überwältigt sind und Schwierigkeiten
+haben, ihr Unternehmen im Auge zu behalten, während der Markt von einem Ansturm
+erfasst wird.
 
 Der Black Friday markiert den Beginn der Weihnachtseinkaufsaison zwischen
 dem 23. und 29. November. Die Kunden gaben letzten Jahr beim Online-Shopping am
