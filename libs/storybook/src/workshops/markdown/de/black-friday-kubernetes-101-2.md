@@ -16,6 +16,9 @@ In diesem Workshop lernen wir, wie man MongoDB und Mongo Express bereitstellt. D
 
 Die Anfrage beginnt beim Browser und wird über den externen Service von Mongo Express an den Mongo Express Pod weitergeleitet. Der Pod stellt eine Verbindung zum MongoDB-Internen Service über die Datenbank-URL her und authentifiziert sich bei MongoDB mit den Anmeldedaten.
 
+### Kubernetes-Architekturdiagramm
+![](https://images.prismic.io/syntia/e1d6a504-2124-4922-ac8c-361974be8f0e_default.png?auto=compress,format)
+
 ### Liste der erstellten Kubernetes-Komponenten
 
 Nach dem Löschen des Deployments und des Services aus dem ersten Workshop ist der Cluster leer.
@@ -650,7 +653,7 @@ minikube service mongo-express-service
 
 Jetzt sollten Sie die Anwendung im Browser aufrufen können und sich mit den decodierten Basic-Auth-Anmeldeinformationen anmelden, die im Secret referenziert sind.
 
-[https://images.prismic.io/syntia/04f6f440-e277-45f8-8772-5f908a3e5e0a\_Screenshot+2023-11-25+at+18.03.59.png?auto=compress,format](https://images.prismic.io/syntia/04f6f440-e277-45f8-8772-5f908a3e5e0a_Screenshot+2023-11-25+at+18.03.59.png?auto=compress,format) 
+![](https://images.prismic.io/syntia/04f6f440-e277-45f8-8772-5f908a3e5e0a_Screenshot+2023-11-25+at+18.03.59.png?auto=compress,format) 
 
 ## Pod-Zugriff in Kubernetes-Anwendungen
 
@@ -671,5 +674,5 @@ Wenn der Container nicht startet, vergleichen Sie das Schema der Konfigurationsd
 
 Wenn die Verbindung zum Cluster instabil ist, entweder aufgrund niedriger Systemressourcen oder Probleme mit dem Hypervisor, versuchen Sie, zu einer anderen virtuellen Umgebung zu wechseln, und überprüfen Sie die Systemanforderungen für Minikube.
 
+Die Kubernetes-Architekturdiagramme aus dem tatsächlichen Zustand in einem Namespace wurden generiert, [Referenz](https://github.com/mkimuram/k8sviz).
 Die Konfiguration für diesen Workshop ist auf GitHub verfügbar [https://github.com/sintijab/Kubernetes-Workshop](https://github.com/sintijab/Kubernetes-Workshop)
-```
