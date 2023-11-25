@@ -7,7 +7,7 @@ categories: "Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes"
 subcategories: "Kommunikationsprotokolle, Transmission Control Protocol, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk"
 ---
 
-Ich wurde von der Unternehmerin und Yoga-Meisterin Karin Dimitrova inspiriert,
+Ich wurde von der Unternehmerin und Yoga-Meisterin Karin Dimitrovova inspiriert,
 dieses Workshop zu dokumentieren. Sie ist eine von vielen Geschäftsinhabern, die
 von den Verkaufsaktionen am Black Friday überwältigt sind und Schwierigkeiten
 haben, ihr Unternehmen im Auge zu behalten, während der Markt von einem Ansturm
