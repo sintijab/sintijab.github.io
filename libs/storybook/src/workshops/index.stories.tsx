@@ -20,5 +20,6 @@ export const S12 = { name: 'data-flow-analysis-in-web-applications' };
 export const S13 = { name: 'designing-api-libraries-with-ts' };
 export const S14 = { name: 'typescript-v4-7' };
 export const S15 = { name: 'writing-javascript-with-typescript' };
+export const S16 = { name: 'black-friday-kubernetes-101' };
 
 export default meta;
