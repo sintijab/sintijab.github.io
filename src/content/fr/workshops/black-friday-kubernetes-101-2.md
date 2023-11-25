@@ -1,7 +1,7 @@
 ---
 description: "Zéro temps d'arrêt pendant le Black Friday"
 pubDate: "Nov 24, 2023"
-heroImage: "https://images.prismic.io/syntia/04f6f440-e277-45f8-8772-5f908a3e5e0a_Screenshot+2023-11-25+at+18.03.59.png?auto=compress,format](https://images.prismic.io/syntia/04f6f440-e277-45f8-8772-5f908a3e5e0a_Screenshot+2023-11-25+at+18.03.59.png?auto=compress,format"
+heroImage: "https://images.prismic.io/syntia/e1d6a504-2124-4922-ac8c-361974be8f0e_default.png?auto=compress,format"
 author: "Syntia"
 categories: "ateliers, infrastructure cloud, réseau, kubernetes"
 subcategories: "protocoles de communication, protocole de contrôle de transmission, protocole Internet, couche réseau, interface réseau, réseau virtuel"

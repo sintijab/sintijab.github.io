@@ -1,7 +1,7 @@
 ---
 description: "Kubernetes 101 - k8s Anwendungssetup"
 pubDate: "Nov 25, 2023"
-heroImage: "https://images.prismic.io/syntia/04f6f440-e277-45f8-8772-5f908a3e5e0a\_Screenshot+2023-11-25+at+18.03.59.png?auto=compress,format"
+heroImage: "https://images.prismic.io/syntia/e1d6a504-2124-4922-ac8c-361974be8f0e_default.png?auto=compress,format"
 author: "Syntia"
 categories: "Workshops, Cloud Infrastruktur, Netzwerke, Kubernetes"
 subcategories: "Kommunikationsprotokolle, Transmission Control Protocol, Internetprotokoll, Netzwerkschicht, Netzwerkschnittstelle, Virtuelles Netzwerk"
