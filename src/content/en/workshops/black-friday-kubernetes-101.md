@@ -9,7 +9,7 @@ subcategories: "communication protocols, transmission control protocol, internet
 
 I was inspired to document this workshop by entrepreneur and yoga master Karin
 Dimitrova, one of many business owners overwhelmed by Black Friday sales and the
-capacity of maintaining her businesses while watching the market taken by the
+capacity of maintaining the business while watching the market taken by the
 storm.
 
 The Black Friday marks the start of the holiday shopping sales between 23rd and
