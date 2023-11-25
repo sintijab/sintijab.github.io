@@ -3,9 +3,9 @@
 ![](https://images.prismic.io/syntia/17db0669-0455-46aa-a91e-a309d3a75156_yoga-kubernetes.jpg?auto=compress,format)
 
 J'ai été inspiré pour documenter cet atelier par l'entrepreneure et maître de
-yoga Karin Dimitrova, l'une des nombreuses propriétaires d'entreprise submergées
-par les ventes du Black Friday et la nécessité de maintenir leurs activités tout
-en observant le marché emporté par la tempête.
+yoga Karin Dimitrovova, l'une des nombreuses propriétaires d'entreprise
+submergées par les ventes du Black Friday et la nécessité de maintenir son
+entreprise tout en observant le marché pris d'assaut.
 
 Le Black Friday marque le début des soldes de magasinage des fêtes entre le 23
 et le 29 novembre. Les clients ont dépensé un record de 9,12 milliards de
