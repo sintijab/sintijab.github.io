@@ -22,5 +22,5 @@ export const S14 = { name: 'typescript-v4-7' };
 export const S15 = { name: 'writing-javascript-with-typescript' };
 export const S16 = { name: 'black-friday-kubernetes-101' };
 export const S17 = { name: 'black-friday-kubernetes-101-2' };
-
+export const S18 = { name: 'black-friday-kubernetes-101-3' };
 export default meta;
