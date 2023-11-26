@@ -1,7 +1,7 @@
 ---
 description: "Kubernetes 101 - k8s Advanced Concepts"
 pubDate: "Nov 25, 2023"
-heroImage: "https://syntia.prismic.io/medias/?open=ZWKhxRAAACMA1LzO"
+heroImage: "https://images.prismic.io/syntia/ac7e6494-faa0-4159-b2b2-c471e269c977_LK-6fa1ff34-f899-7f82-e053-0100007fa485-d4396efd.webp?auto=compress,format"
 author: "Syntia"
 categories: "workshops, cloud infrastructure, networking, kubernetes"
 subcategories: "communication protocols, transmission control protocol, internet protocol, network layer, network interface, virtual network"
