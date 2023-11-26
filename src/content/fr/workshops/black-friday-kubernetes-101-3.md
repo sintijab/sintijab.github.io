@@ -1,7 +1,7 @@
 ---
 description: "Kubernetes 101 - Concepts avancés de K8s"
 pubDate: "Nov 24, 2023"
-heroImage: "https://syntia.prismic.io/medias/?open=ZWKhxRAAACMA1LzO"
+heroImage: "https://images.prismic.io/syntia/ac7e6494-faa0-4159-b2b2-c471e269c977_LK-6fa1ff34-f899-7f82-e053-0100007fa485-d4396efd.webp?auto=compress,format"
 author: "Syntia"
 categories: "ateliers, infrastructure cloud, réseau, kubernetes"
 subcategories: "protocoles de communication, protocole de contrôle de transmission, protocole Internet, couche réseau, interface réseau, réseau virtuel"
