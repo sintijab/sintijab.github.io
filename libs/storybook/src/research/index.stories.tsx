@@ -20,5 +20,6 @@ export const S12 = { name: 'monitoring-the-conditions-of-seismic-events'};
 export const S13 = { name: 'applying-unusual-data-to-find-housing-vacancy-in-china'};
 export const S14 = { name: '2020-a-year-of-resilience'};
 export const S15 = { name: 'a-double-eclipse'};
+export const S16 = { name: 'smile-you-look-prettier' };
 
 export default meta;
