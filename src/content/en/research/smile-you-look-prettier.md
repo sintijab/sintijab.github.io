@@ -9,8 +9,8 @@ subcategories: "inclusive workplace, hostile work environment, employee rights, 
 
 When you see a person as an object, all morals go out the window. When a person
 is seen as a human, it’s fearful for some. “They knew what they did was wrong.
-But when she was an object there was no wrong. This showed me the importance of
-boundaries.”
+But when she was an object there was no wrongdoings. This showed me the
+importance of boundaries.”
 
 Marina Abramović was one of the first performance artists to become formally
 accepted by the institutions of museums with major solo shows taking place
