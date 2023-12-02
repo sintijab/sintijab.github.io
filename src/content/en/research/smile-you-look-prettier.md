@@ -7,8 +7,6 @@ categories: "research, crisis managament, continuous learning, online education"
 subcategories: "inclusive workplace, hostile work environment, employee rights, leadership development, career path"
 ---
 
-# Smile, you look prettier
-
 When you see a person as an object, all morals go out the window. When a person
 is seen as a human, it’s fearful for some. “They knew what they did was wrong.
 But when she was an object there was no wrong. This showed me the importance of
