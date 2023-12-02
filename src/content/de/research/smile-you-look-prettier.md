@@ -7,8 +7,6 @@ categories: "Forschung, Krisenmanagement, kontinuierliches Lernen, Online-Bildun
 subcategories: "inklusiver Arbeitsplatz, feindliche Arbeitsumgebung, Mitarbeiterrechte, Führungskräfteentwicklung, Karriereweg"
 ---
 
-# Lächle, du siehst hübscher aus
-
 Wenn man eine Person als Objekt betrachtet, verschwinden alle
 Moralvorstellungen. Wenn eine Person als Mensch wahrgenommen wird, ist das für
 einige beängstigend. "Sie wussten, dass das, was sie taten, falsch war. Aber

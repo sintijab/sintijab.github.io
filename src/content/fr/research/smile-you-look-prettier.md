@@ -7,8 +7,6 @@ categories: "recherche, gestion de crise, apprentissage continu, éducation en l
 subcategories: "lieu de travail inclusif, environnement de travail hostile, droits des employés, développement du leadership, parcours professionnel"
 ---
 
-# Souriez, vous paraissez plus jolie
-
 Quand vous considérez une personne comme un objet, toute morale disparaît. Quand
 une personne est vue comme un être humain, c'est effrayant pour certains. "Ils
 savaient que ce qu'ils faisaient était mal. Mais quand elle était un objet, il
