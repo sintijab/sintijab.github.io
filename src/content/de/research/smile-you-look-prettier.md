@@ -1,7 +1,7 @@
 ---
 description: "Lächle, du siehst hübscher aus"
 pubDate: "Dec 2, 2023"
-heroImage: "https://images.prismic.io/syntia/6ad5d441-2854-4db8-a791-6199acc34df0_695692_1693392958107_2.jpg?auto=compress,format"
+heroImage: "https://images.prismic.io/syntia/acd3fe31-dfa1-48b7-ad26-019c54026515_695692_1693392958107.jpg?auto=compress,format"
 author: "Syntia"
 categories: "Forschung, Krisenmanagement, kontinuierliches Lernen, Online-Bildung"
 subcategories: "inklusiver Arbeitsplatz, feindliche Arbeitsumgebung, Mitarbeiterrechte, Führungskräfteentwicklung, Karriereweg"
