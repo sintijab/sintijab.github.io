@@ -1,6 +1,6 @@
 ---
 description: "Autonomie et Automatisation - Intelligence du Perroquet"
-pubDate: "8 décembre 2023"
+pubDate: "Dec 8, 2023"
 heroImage: "https://images.prismic.io/syntia/68919927-7544-4644-8cdb-14d5d992b35b_20231208_001301-COLLAGE.jpg?auto=compress,format"
 author: "Syntia"
 categories: "recherche, accès à l'information, archivage et documentation, intelligence artificielle"
