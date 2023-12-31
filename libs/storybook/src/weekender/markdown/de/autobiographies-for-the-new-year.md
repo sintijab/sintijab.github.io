@@ -1,11 +1,4 @@
----
-description: "Autobiografien für das neue Jahr"
-pubDate: "Dec 31, 2023"
-heroImage: "https://images.prismic.io/syntia/022866ff-c4fa-47dc-9803-a746c914403c_collage.jpg?auto=compress,format"
-author: "Syntia"
-categories: "weekender, Gesundheit, Wissenschaft und Technologie"
-subcategories: "Buchrezensionen, Informationszugang, Kausalität, Wohlbefinden"
----
+# Autobiografien für das neue Jahr
 
 Benjamin Labaututs "When We Cease to Understand the World" elektrisierte eine
 globale Leserschaft. In der Auswahl von Sachbüchern fand ich mich in der
