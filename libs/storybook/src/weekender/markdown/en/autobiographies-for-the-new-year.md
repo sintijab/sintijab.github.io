@@ -1,6 +1,6 @@
 # Autobiographies for the New Year
 
-![](https://images.prismic.io/syntia/022866ff-c4fa-47dc-9803-a746c914403c_collage.jpg?auto=compress,format)
+![](https://images.prismic.io/syntia/615654b4-7251-4f33-b268-0c7aaca44fed_collage.jpg?auto=compress,format)
 
 Benjamin Labautut's When We Cease to Understand the World electrified a global
 readership. Throughout the selection of non-fiction novels I found myself in the
