@@ -1,7 +1,7 @@
 ---
 description : "Autobiographies pour la nouvelle année"
 pubDate : "Dec 31, 2023"
-heroImage : "https://images.prismic.io/syntia/615654b4-7251-4f33-b268-0c7aaca44fed_collage.jpg?auto=compress,format"
+heroImage : "https://images.prismic.io/syntia/a0c147e5-2142-4388-915a-b400ff2f61a4_collage-rounded.jpg?auto=compress,format"
 author : "Syntia"
 categories : "weekend, santé, technologie, science"
 subcategories : "critiques de livres, accès à l’information, causalité, bienêtre"
