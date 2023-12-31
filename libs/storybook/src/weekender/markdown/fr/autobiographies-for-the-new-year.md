@@ -1,5 +1,7 @@
 # Autobiographies pour la nouvelle année
 
+![](https://images.prismic.io/syntia/615654b4-7251-4f33-b268-0c7aaca44fed_collage.jpg?auto=compress,format)
+
 Le When We Cease to Understand the World de Benjamin Labautut a électrisé un
 lectorat mondial. Tout au long de la sélection de romans non fictionnels, je me
 suis plongé dans l'histoire des forces tyranniques de la science et de la

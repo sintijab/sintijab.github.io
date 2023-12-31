@@ -1,5 +1,7 @@
 # Autobiografien für das neue Jahr
 
+![](https://images.prismic.io/syntia/615654b4-7251-4f33-b268-0c7aaca44fed_collage.jpg?auto=compress,format)
+
 Benjamin Labaututs "When We Cease to Understand the World" elektrisierte eine
 globale Leserschaft. In der Auswahl von Sachbüchern fand ich mich in der
 Geschichte der tyrannischen Kräfte von Wissenschaft und Technologie wieder, die
