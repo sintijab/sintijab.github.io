@@ -3,8 +3,8 @@ description: "Plongée dans la glace à Berlin : expérience hivernale des Viki
 pubDate: "Nov 19, 2023"
 heroImage: "https://images.prismic.io/syntia/1cb1f458-0460-4e0b-97d5-a1e306d6b785_IMG_20231118_153346.jpg?auto=compress,format"
 author: "Syntia"
-categories: "week-end, santé, gestion du temps, voyages, traditions"
-subcategories: "bien-être, pensée séquentielle, performance, sports nautiques"
+categories: "weekend, santé, gestion du temps, voyages, traditions"
+subcategories: "bienêtre, pensée séquentielle, performance, sports nautiques"
 ---
 
 L'immersion dans l'eau froide a suscité beaucoup
