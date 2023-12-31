@@ -324,3 +324,32 @@ S'échapper d'un tel abîme est difficile.
 
 Extraits de L'Homme qui rit, Victor Hugo. Littérature pathétique par Eileen
 Myles.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/udtAxR8gctQ?si=v93aLqAEURYAZMR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### La Faille de Silfra, Islande
+
+Si la plongée sous-marine évoque souvent des eaux chaudes et des récifs
+coralliens, il existe des exceptions qui s'étendent aux disciplines de plongée
+très avancées et techniques. C'est exactement ce que l'Islande propose avec la
+Faille de Silfra, où l'eau reste près de la congélation toute l'année à 2 degrés
+!
+
+Située à la jonction des plaques tectoniques eurasiennes et nord-américaines,
+qui s'écartent l'une de l'autre d'environ 2 centimètres par an, cette faille
+près de Reykjavik est reconnue comme l'une des plongées en eau froide les plus
+belles au monde. Avec la clarté cristalline de ses eaux offrant une visibilité
+allant jusqu'à 100 mètres, elle offre aux plongeurs et aux snorkelers l'occasion
+de s'aventurer entre les deux parois minérales, une immersion incomparable, même
+s'il y a très peu de vie marine. C'est le seul endroit au monde où l'on peut
+plonger entre deux plaques tectoniques et même les toucher simultanément avec
+les deux mains !
+
+#### EN PRATIQUE
+
+Tout le monde peut être tenté, soit en surface pour les non-plongeurs, soit avec
+de l'équipement de plongée sous-marine. Des installations de plongée sont
+disponibles sur place. N'oubliez pas de vous habiller chaudement sous la
+combinaison néoprène.
+
+100 spots de plongée à couper le souffle - Leydet, Anthony

@@ -326,3 +326,30 @@ Aus einem solchen Abgrund zu entkommen, ist schwierig.
 
 Auszüge aus "Der Mann, der lacht", Victor Hugo. Pathetische Literatur von Eileen
 Myles.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/udtAxR8gctQ?si=v93aLqAEURYAZMR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Der Silfra-Fehler, Island
+
+Wenn Tauchen oft mit warmem Wasser und Korallenriffen verbunden ist, gibt es
+Ausnahmen, die sich auf hochentwickeltes Tauchen und technische Tauchdisziplinen
+erstrecken. Genau das bietet Island mit dem Silfra-Fehler, wo das Wasser das
+ganze Jahr über nahe dem Gefrierpunkt bei 2 Grad bleibt!
+
+An der Kreuzung der eurasischen und nordamerikanischen tektonischen Platten, die
+sich etwa mit 2 Zentimetern pro Jahr voneinander entfernen, wird dieser Fehler
+nahe Reykjavik als eines der schönsten Kaltwassertauchgänge der Welt anerkannt.
+Mit der kristallklaren Sicht des Wassers, die bis zu 100 Meter betragen kann,
+bietet er Tauchern und Schnorchlern die Möglichkeit, zwischen den beiden
+Mineralwänden zu locken - eine unvergleichliche Eintauchmöglichkeit, obwohl es
+nur sehr wenig Meeresleben gibt. Es ist der einzige Ort auf der Welt, an dem man
+zwischen zwei tektonischen Platten tauchen und sie sogar gleichzeitig mit beiden
+Händen berühren kann!
+
+#### IN DER PRAXIS
+
+Jeder kann versucht sein, entweder an der Oberfläche für Nicht-Taucher oder mit
+Tauchausrüstung. Taucheinrichtungen sind vor Ort verfügbar. Denken Sie daran,
+sich unter dem Nassanzug warm anzuziehen.
+
+100 spots de plongée à couper le souffle - Leydet, Anthony

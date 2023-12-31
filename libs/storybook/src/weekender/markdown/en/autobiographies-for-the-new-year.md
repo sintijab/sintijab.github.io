@@ -300,3 +300,27 @@ To escape from such an abyss is difficult.
 
 Excerps from The Man Who Laughs, Victor Hugo. Pathetic Literature by Eileen
 Myles
+
+### The Silfra Fault, Iceland
+
+If scuba diving often means hot water and coral reefs, there are exceptions that
+extends of highly advanced dive and technical dive disciplines. That's exactly
+what Iceland offers with the Silfra Fault, where the water stays near freezing
+all year round at 2 degrees!
+
+Located at the junction of the Eurasian and North American tectonic plates,
+which are diverging from each other at about 2 centimeters per year, this fault
+close to Reykjavik is recognized as one of the most beautiful cold-water dives
+in the world. With its waters' crystalline clarity providing visibility of up to
+100 meters, it offers divers and snorkelers the opportunity to lure between the
+two mineral walls—an incomparable immersion, even though there is very little
+marine life. It is the only place in the world where you can dive between two
+tectonic plates and even touch them simultaneously with both hands!
+
+#### IN PRACTICE
+
+Anyone can be tempted, either on the surface for non-divers or with scuba diving
+equipment. Diving facilities are available on-site. Remember to dress warmly
+under the wetsuit.
+
+100 spots de plongée à couper le souffle - Leydet, Anthony
