@@ -7,8 +7,6 @@ categories: "weekender, health, technology, science"
 subcategories: "book reviews, information access, causation, wellbeing"
 ---
 
-# Autobiographies for the New Year
-
 Benjamin Labautut's When We Cease to Understand the World electrified a global
 readership. Throughout the selection of non-fiction novels I found myself in the
 history of the science and technology tyrannical forces that keeps confronting
