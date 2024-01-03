@@ -1,9 +1,11 @@
 # Personalizing AI Tools to Your Code
 ![](https://images.prismic.io/syntia/7cf03112-0986-4c73-af67-211f25284d43_IMG_20221212_124550.jpg?auto=compress,format)
 
-Getting context right is especially more important and tricky for code autocomplete for three main reasons:
+Getting AI context right is especially important and tricky for code autocomplete for three main reasons:
 
-For code autocomplete applications like GitHub Copilot or Codeium, unlike something like ChatGPT, this context collection is handled by the application rather than the user. For cost and latency reasons these models can only pass ~150 lines of code as context. Increasing it to even 10 files of context would cost approximately 50-100x times more, not to mention how slow that would be and practically unusable without breaking up developer flow. For code, the training data much more commonly has examples with the same term referring to different concepts. If you don’t specify the actual schema to use at inference time, the model very well can confidently “pick” a wrong one from another source.
+- For code autocomplete applications like GitHub Copilot or Codeium, unlike something like ChatGPT, this context collection is handled by the application rather than the user.
+- For cost and latency reasons these models can only pass ~150 lines of code as context. Increasing it to even 10 files of context would cost approximately 50-100x times more, not to mention how slow that would be and practically unusable without breaking up developer flow.
+- For code, the training data much more commonly has examples with the same term referring to different concepts. If you don’t specify the actual schema to use at inference time, the model very well can confidently “pick” a wrong one from another source.
 
 Combining all of these reasons together it becomes very clear why companies may be unsure whether a code autocomplete will work for their private codebases. With more than 10 files in repositories and increasing complexity it may risk becoming a time sink in later debugging.
 
@@ -13,7 +15,12 @@ Here is some of the other AI Assistant tools that each has some trade-offs:
 
 ## Tabnine
 
-Tabnine is similar to GitHub CoPilot. It has commands like: ‘/explain-code’ which explains the given input, not always correctly e.g. time complexity. ‘‘/generate-test-for-code’ outputs the random test cases. ‘/document-code’ adds comments for the selected code. It is often too obvious and not useful, e.g. JSDoc type comments are missing comments about types of input and output parameters Inline comments like ‘//test cases’ will add suggestions in code ‘/fix-code’ add suggestions in problem solving, e.g.
+Tabnine is similar to GitHub CoPilot. It has commands like:
+- ‘/explain-code’ which explains the given input, not always correctly e.g. time complexity.
+- ‘‘/generate-test-for-code’ outputs the random test cases.
+- ‘/document-code’ adds comments for the selected code. It is often too obvious and not useful, e.g. JSDoc type comments are missing comments about types of input and output parameters
+- Inline comments like ‘//test cases’ will add suggestions in code
+- ‘/fix-code’ add suggestions in problem solving:
 
 ```js
 function factorial(n) {
@@ -32,7 +39,13 @@ Chat GPT 3.5 to GPT 4 free access [https://www.forefront.ai/](https://www.forefr
 
 ## GitHub Copilot
 
-GitHub Copilot has context for codebases and IDE commands similar to Tabnine. It shares commands like: ‘/tests’ creates the tests within a test framework such as Jest test environment ‘/explain’ explains the given input such as time complexity ‘/doc’ adds the comment with the input parameters and return ‘/fix’ adds a suggestion which looks similar to resolving Git conflicts-Accept or Discard Example of the fix: ‘Handle negative numbers in factorial’, and apply the suggestion:
+GitHub Copilot has context for codebases and IDE commands similar to Tabnine. It shares commands like:
+- ‘/tests’ creates the tests within a test framework such as Jest test environment
+- ‘/explain’ explains the given input such as time complexity
+- ‘/doc’ adds the comment with the input parameters and return
+- ‘/fix’ adds a suggestion which looks similar to resolving Git conflicts-Accept or Discard
+
+Example of the fix: ‘Handle negative numbers in factorial’, and apply the suggestion:
 
 ```js
 function factorial(n) {
@@ -234,18 +247,20 @@ CodiumAI is the most promising AI tool in terms of unit testing and code quality
 
 ### Testing
 
-Codium AI has configurable settings on tests offering several options: Frameworks for test generation such as Jest, Mocha, Jasmine, RTL Behaviors for test cases (happy path, edge cases, other behaviors) Tests shares readable and detailed test description Each individual test case has an input prompt for questions/suggestions.
+Codium AI has configurable settings on tests offering several options:
+- Frameworks for test generation such as Jest, Mocha, Jasmine, RTL
+- Behaviors for test cases (happy path, edge cases, other behaviors)
+- Tests consist of readable and detailed test description
+- Each individual test case has an input prompt for questions/suggestions
 
 ### Code Quality
 
 The unit tests are extensively created for the different scenarios and context which isn’t covered- it should help developers find the errors in the codebase due to code quality or missing technical requirements. It also provides the documentation with Code Explanation- given inputs, flow and outputs, and example usage. Codium has Code Suggestions which explains the technical requirements, problem severity and the cause. From the factorial example above it gives us suggestions:
 
-```markdown
-### Suggestion
+#### Suggestion
 The code should check if num is a positive integer. If not, it should throw an error.
-### Why
+#### Why
 Adding input validation is important to ensure that the function receives valid input. In this case, checking if num is a positive integer will prevent the function from entering an infinite recursion if a non-positive integer or a non-integer value is passed as an argument.
-```
 
 It also allows to apply suggestion and edit code:
 
@@ -259,13 +274,10 @@ function factorial(num) {
 }
 ```
 
-```markdown
-### Suggestion
+#### Suggestion
 The code uses recursion to calculate the factorial. Instead, it should use a loop to avoid potential stack overflow errors.
-### Why
+#### Why
 The suggestion is important because using recursion to calculate the factorial can lead to potential stack overflow errors when the input number is large. Recursion consumes a lot of memory as each recursive call adds a new stack frame to the call stack. By using a loop, we can avoid these stack overflow errors and improve the performance of the code.
-
-```
 
 ```js
 // Base code …
@@ -291,13 +303,11 @@ function factorial(num) {
 }
 ```
 
-```markdown
-### Suggestion
+#### Suggestion
 The code should check if num is NaN. If so, it should throw an error.
-### Why
+#### Why
 Checking if num is NaN is important because it ensures that the function is not operating in invalid input. If num is NaN, the factorial calculation would not make sense and could lead to unexpected results. Throwing an error in this case helps to catch and handle invalid input early on.
 
-```
 
 After applying suggestion:
 
@@ -339,6 +349,13 @@ function factorial(n) {
 console.log(factorial(5));
 ```
 
-Other references from Codeium: Fine-tuning on Your Private Code [https://codeium.com/blog/what-github-copilot-lacks-finetuning-on-your-private-code](https://codeium.com/blog/what-github-copilot-lacks-finetuning-on-your-private-code) Personalizing AI Tools to Your Code [https://codeium.com/blog/finetuning-with-codeium-for-enterprises](https://codeium.com/blog/finetuning-with-codeium-for-enterprises) Context Aware Everything [https://codeium.com/blog/context-aware-everything-more-advanced-realtime-context-than-github-copilot](https://codeium.com/blog/context-aware-everything-more-advanced-realtime-context-than-github-copilot) CodiumAI vs Codeium [https://www.codium.ai/blog/codiumai-or-codeium-which-are-you-looking-for/](https://www.codium.ai/blog/codiumai-or-codeium-which-are-you-looking-for/)
+### Other references from Codeium:
+[Fine-tuning on Your Private Code](https://codeium.com/blog/what-github-copilot-lacks-finetuning-on-your-private-code)
+
+[Personalizing AI Tools to Your Code](https://codeium.com/blog/finetuning-with-codeium-for-enterprises)
+
+[Context Aware Everything](https://codeium.com/blog/context-aware-everything-more-advanced-realtime-context-than-github-copilot)
+
+[CodiumAI vs Codeium](https://www.codium.ai/blog/codiumai-or-codeium-which-are-you-looking-for/)
 
 CodiumAI and Codeium aren’t the twins, but the coincidence of sharing a similar name develops a trend of reaching out to companies for support, only to realize they were using another product. This paradox allows engineers leaning towards making decisions about personalized development tools and taking the advantage of the integration of both AI products.
