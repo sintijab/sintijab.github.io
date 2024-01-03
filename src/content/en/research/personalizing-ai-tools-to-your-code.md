@@ -7,7 +7,7 @@ categories: "research, information access, artificial intelligence, archiving an
 subcategories: "artifact archive, archival research, algorithmic curation, criticism in dialogue, criticism governance"
 ---
 
-GitHub Copilot and alternative AI assistants is substantial in development routine. In my ideal work environment IDE enables engineers to take full ownership over the software, leveraging system robustness from within the code editor with the help of the IDE extensions: linters, automated workflows for unit and system integration tests, software build and compiling, SonarLint for security and code quality analysis,- up to the entire DevOps cycle and collaboration from control versioning systems with GitLens tree and Git history overview.
+GitHub Copilot and alternative AI assistants are substantial in development routine. In my ideal work environment IDE enables engineers to take full ownership over the software, leveraging system robustness from within the code editor with the help of the IDE extensions: linters, automated workflows for unit and system integration tests, software build and compiling, SonarLint for security and code quality analysis,- up to the entire DevOps cycle and collaboration from control versioning systems with GitLens tree and Git history overview.
 
 While engineers aren’t obligated to have their workstation equipped with software integration tools, it becomes crucial in dev routine to make use of AI and code generation personalised. Learn how to take the control over the AI in IDE to improve the quality of your code, test coverage and to better understand technical requirements.
 
