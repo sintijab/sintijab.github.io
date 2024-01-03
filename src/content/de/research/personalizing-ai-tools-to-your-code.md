@@ -7,11 +7,13 @@ categories: "Forschung, Informationszugang, künstliche Intelligenz, Archivierun
 subcategories: "Artefaktarchiv, Archivrecherche, Algorithmische Kuratierung, Kritik im Dialog, Kritik-Governance"
 ---
 
-GitHub Copilot und alternative KI-Assistenten spielen eine bedeutende Rolle im Entwicklungsalltag. In meiner idealen Arbeitsumgebung ermöglicht die IDE den Ingenieuren die vollständige Kontrolle über die Software, indem sie die Systemrobustheit direkt im Code-Editor mithilfe von IDE-Erweiterungen nutzen: Linter, automatisierte Workflows für Unit- und Systemintegrationstests, Software-Build und Kompilierung, SonarLint für Sicherheits- und Codequalitätsanalyse – bis hin zum gesamten DevOps-Zyklus und der Zusammenarbeit von Versionskontrollsystemen mit GitLens-Baum und Git-Historienübersicht.
+GitHub Copilot and alternative AI assistants is substantial in development routine. In my ideal work environment IDE enables engineers to take full ownership over the software, leveraging system robustness from within the code editor with the help of the IDE extensions: linters, automated workflows for unit and system integration tests, software build and compiling, SonarLint for security and code quality analysis,- up to the entire DevOps cycle and collaboration from control versioning systems with GitLens tree and Git history overview.
 
-Obwohl Ingenieure nicht verpflichtet sind, ihre Workstation mit Software-Integrationswerkzeugen auszustatten, wird es im Entwicklungsalltag sehr wichtig, KI und Code-Generierung-Autocomplete zu personalisieren und zu lernen, wie man die Kontrolle über die KI in der IDE übernimmt, um die Testabdeckung zu verbessern und technische Anforderungen besser zu verstehen. Ich hatte einen Eindruck von KI-Assistenten, aber aufgrund des Abonnements und der Warteschlange habe ich die Alternativen nicht ausreichend erkundet, die tatsächlich kostenlos zu verwenden sind.
+While engineers aren’t obligated to have their workstation equipped with software integration tools, it becomes very crucial in dev routine to make AI and code generation personalised. Learn how to take the control over the AI in IDE to improve the quality of your code, test coverage and to better understand technical requirements.
 
-CodiumAI und Codeium sind zwar keine Zwillinge, aber die Ähnlichkeit im Namen entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwendet haben. Dieses Paradox ermöglicht es den Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und die Integration beider KI-Produkte zu nutzen.
+I had an impression about AI assistant tooling but due to the subscription plans I didn’t explore enough the alternatives at the time, which are, in fact, free to use.
+
+CodiumAI and Codeium aren’t the twins, but the coincidence of sharing a similar name develops a trend of reaching out to companies for support, only to realize they were using another product. This paradox allows engineers leaning towards making decisions about personalized development tools and taking the advantage of the integration of both AI products.
 
 ## KI-Halluzinationen
 
