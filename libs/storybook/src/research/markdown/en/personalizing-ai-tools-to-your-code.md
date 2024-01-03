@@ -1,6 +1,14 @@
 # Personalizing AI Tools to Your Code
 ![](https://images.prismic.io/syntia/7cf03112-0986-4c73-af67-211f25284d43_IMG_20221212_124550.jpg?auto=compress,format)
 
+GitHub Copilot and alternative AI assistants is substantial in development routine. In my ideal work environment IDE enables engineers to take full ownership over the software, leveraging system robustness from within the code editor with the help of the IDE extensions: linters, automated workflows for unit and system integration tests, software build and compiling, SonarLint for security and code quality analysis,- up to the entire DevOps cycle and collaboration from control versioning systems with GitLens tree and Git history overview.
+
+While engineers aren’t obligated to have their workstation equipped with software integration tools, it becomes very crucial in dev routine to make AI and code generation-autocomplete personalised and to learn how to take the control over the AI in IDE to improve the test coverage and to better understand technical requirements. I had an impression about AI assistant tooling but due to the subscription and waiting queue I didn’t explore enough the alternatives, which are, in fact, free to use.
+
+CodiumAI and Codeium aren’t the twins, but the coincidence of sharing a similar name develops a trend of reaching out to companies for support, only to realize they were using another product. This paradox allows engineers leaning towards making decisions about personalized development tools and taking the advantage of the integration of both AI products.
+
+## AI hallucinations
+
 Getting AI context right is especially important and tricky for code autocomplete for three main reasons:
 
 - For code autocomplete applications like GitHub Copilot or Codeium, unlike something like ChatGPT, this context collection is handled by the application rather than the user.

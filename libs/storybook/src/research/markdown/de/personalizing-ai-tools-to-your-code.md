@@ -2,6 +2,14 @@
 
 ![](https://images.prismic.io/syntia/7cf03112-0986-4c73-af67-211f25284d43_IMG_20221212_124550.jpg?auto=compress,format)
 
+GitHub Copilot und alternative KI-Assistenten spielen eine bedeutende Rolle im Entwicklungsalltag. In meiner idealen Arbeitsumgebung ermöglicht die IDE den Ingenieuren die vollständige Kontrolle über die Software, indem sie die Systemrobustheit direkt im Code-Editor mithilfe von IDE-Erweiterungen nutzen: Linter, automatisierte Workflows für Unit- und Systemintegrationstests, Software-Build und Kompilierung, SonarLint für Sicherheits- und Codequalitätsanalyse – bis hin zum gesamten DevOps-Zyklus und der Zusammenarbeit von Versionskontrollsystemen mit GitLens-Baum und Git-Historienübersicht.
+
+Obwohl Ingenieure nicht verpflichtet sind, ihre Workstation mit Software-Integrationswerkzeugen auszustatten, wird es im Entwicklungsalltag sehr wichtig, KI und Code-Generierung-Autocomplete zu personalisieren und zu lernen, wie man die Kontrolle über die KI in der IDE übernimmt, um die Testabdeckung zu verbessern und technische Anforderungen besser zu verstehen. Ich hatte einen Eindruck von KI-Assistenten, aber aufgrund des Abonnements und der Warteschlange habe ich die Alternativen nicht ausreichend erkundet, die tatsächlich kostenlos zu verwenden sind.
+
+CodiumAI und Codeium sind zwar keine Zwillinge, aber die Ähnlichkeit im Namen entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwendet haben. Dieses Paradox ermöglicht es den Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und die Integration beider KI-Produkte zu nutzen.
+
+## KI-Halluzinationen
+
 Es ist besonders wichtig und knifflig, den KI-Kontext bei der Codevervollständigung aus drei Hauptgründen richtig zu erfassen:
 
 - Für Codevervollständigungsanwendungen wie GitHub Copilot oder Codeium wird dieser Kontext von der Anwendung selbst und nicht vom Benutzer gesammelt, im Gegensatz zu etwas wie ChatGPT.
