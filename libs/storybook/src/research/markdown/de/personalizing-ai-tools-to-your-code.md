@@ -53,8 +53,6 @@ Mit dieser Änderung gibt die Funktion das richtige Ergebnis für n=1 und alle a
 
 Während viele KI-Tools auf OpenAI-APIs basieren, ist die Benutzeroberfläche von ChatGPT selbst im Entwicklungsprozess aufgrund des fehlenden Kontexts aus den Codebasen nicht nützlich. Das einfache Problem in der ChatGPT-Benutzeroberfläche erfordert ständiges Wechseln des Kontexts unter Vermeidung allgemeiner Fehler im Chat und Sicherung der Komplexität von Code, Dateigröße und der Kompatibilität der Codeerweiterung. Fehlende Informationen über Quellen in der Programmierung führen oft zu falschen Antworten. 2 Jahre in der Webentwicklung führen von den mythologischen Archetypen von Gut zu Böse - Informationen und Code veralten.
 
-Chat GPT 3.5 bis GPT 4 kostenloser Zugang [https://www.forefront.ai/](https://www.forefront.ai/)
-
 ## GitHub Copilot
 
 GitHub Copilot hat Kontext für Codebasen und IDE-Befehle ähnlich wie Tabnine. Es teilt Befehle wie:
