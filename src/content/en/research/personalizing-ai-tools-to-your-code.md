@@ -57,8 +57,6 @@ With this change, the function will return the correct result for n=1 and all ot
 
 While many AI tools are based on OpenAI APIs, ChatGPT user interface itself isn’t useful in development due to the missing context from the codebases. The simple problem in ChatGPT interface requires constantly switching the context while avoiding the general errors on chat and reassuring the complexity of code, file size and the code extension compatibility. Missing information about sources in programming often leads to false answers. 2 years in web development leads from the mythological archetypes of good to evil- information and code is getting outdated.
 
-Chat GPT 3.5 to GPT 4 free access [https://www.forefront.ai/](https://www.forefront.ai/)
-
 ## GitHub Copilot
 
 GitHub Copilot has context for codebases and IDE commands similar to Tabnine. It shares commands like:

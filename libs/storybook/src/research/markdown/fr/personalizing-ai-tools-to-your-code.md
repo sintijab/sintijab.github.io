@@ -51,8 +51,6 @@ Avec ce changement, la fonction retournera le résultat correct pour n=1 et tout
 
 Alors que de nombreux outils d'IA sont basés sur les API OpenAI, l'interface utilisateur de ChatGPT elle-même n'est pas utile dans le développement en raison du manque de contexte à partir des bases de code. Le simple problème dans l'interface de ChatGPT nécessite un changement constant de contexte tout en évitant les erreurs générales de discussion et en assurant la complexité du code, la taille du fichier et la compatibilité de l'extension du code. Le manque d'informations sur les sources en programmation conduit souvent à de fausses réponses. Deux ans dans le développement web mènent des archétypes mythologiques du bien au mal - l'information et le code deviennent obsolètes.
 
-Chat GPT 3.5 vers GPT 4 accès gratuit [https://www.forefront.ai/](https://www.forefront.ai/)
-
 ## GitHub Copilot
 
 GitHub Copilot a du contexte pour les bases de code et des commandes IDE similaires à Tabnine. Il partage des commandes telles que :
