@@ -2,11 +2,13 @@
 
 ![](https://images.prismic.io/syntia/7cf03112-0986-4c73-af67-211f25284d43_IMG_20221212_124550.jpg?auto=compress,format)
 
-GitHub Copilot und alternative KI-Assistenten spielen eine bedeutende Rolle im Entwicklungsalltag. In meiner idealen Arbeitsumgebung ermöglicht die IDE den Ingenieuren die vollständige Kontrolle über die Software, indem sie die Systemrobustheit direkt im Code-Editor mithilfe von IDE-Erweiterungen nutzen: Linter, automatisierte Workflows für Unit- und Systemintegrationstests, Software-Build und Kompilierung, SonarLint für Sicherheits- und Codequalitätsanalyse – bis hin zum gesamten DevOps-Zyklus und der Zusammenarbeit von Versionskontrollsystemen mit GitLens-Baum und Git-Historienübersicht.
+GitHub Copilot und alternative KI-Assistenten spielen eine wesentliche Rolle im Entwicklungsalltag. In meiner idealen Arbeitsumgebung ermöglicht die IDE den Ingenieuren, die volle Verantwortung für die Software zu übernehmen und die Robustheit des Systems direkt im Code-Editor mithilfe von IDE-Erweiterungen zu nutzen: Linter, automatisierte Workflows für Unit- und Systemintegrationstests, Software-Build und Kompilierung, SonarLint für Sicherheits- und Codequalitätsanalyse - bis hin zum gesamten DevOps-Zyklus und zur Zusammenarbeit mit Versionskontrollsystemen, einschließlich GitLens-Baum und Git-Historienübersicht.
 
-Obwohl Ingenieure nicht verpflichtet sind, ihre Workstation mit Software-Integrationswerkzeugen auszustatten, wird es im Entwicklungsalltag sehr wichtig, KI und Code-Generierung-Autocomplete zu personalisieren und zu lernen, wie man die Kontrolle über die KI in der IDE übernimmt, um die Testabdeckung zu verbessern und technische Anforderungen besser zu verstehen. Ich hatte einen Eindruck von KI-Assistenten, aber aufgrund des Abonnements und der Warteschlange habe ich die Alternativen nicht ausreichend erkundet, die tatsächlich kostenlos zu verwenden sind.
+Obwohl Ingenieure nicht verpflichtet sind, ihre Workstation mit Software-Integrationswerkzeugen auszustatten, wird es im Entwicklungsalltag sehr wichtig, KI und Codegenerierung zu personalisieren. Lernen Sie, wie Sie die Kontrolle über die KI in der IDE übernehmen, um die Qualität Ihres Codes, die Testabdeckung und das bessere Verständnis technischer Anforderungen zu verbessern.
 
-CodiumAI und Codeium sind zwar keine Zwillinge, aber die Ähnlichkeit im Namen entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwendet haben. Dieses Paradox ermöglicht es den Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und die Integration beider KI-Produkte zu nutzen.
+Ich hatte einen Eindruck von KI-Assistenten-Tools, aber aufgrund der Abonnementpläne habe ich zu der Zeit nicht genügend Alternativen erkundet, die tatsächlich kostenlos zu verwenden sind.
+
+CodiumAI und Codeium sind zwar keine Zwillinge, aber die Koinzidenz, einen ähnlichen Namen zu teilen, entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwendet haben. Dieses Paradox ermöglicht es den Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und den Vorteil der Integration beider KI-Produkte zu nutzen.
 
 ## KI-Halluzinationen
 
