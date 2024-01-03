@@ -9,11 +9,15 @@ subcategories: "artifact archive, archival research, algorithmic curation, criti
 
 GitHub Copilot and alternative AI assistants is substantial in development routine. In my ideal work environment IDE enables engineers to take full ownership over the software, leveraging system robustness from within the code editor with the help of the IDE extensions: linters, automated workflows for unit and system integration tests, software build and compiling, SonarLint for security and code quality analysis,- up to the entire DevOps cycle and collaboration from control versioning systems with GitLens tree and Git history overview.
 
-While engineers aren’t obligated to have their workstation equipped with software integration tools, it becomes very crucial in dev routine to make AI and code generation personalised. Learn how to take the control over the AI in IDE to improve the quality of your code, test coverage and to better understand technical requirements.
+While engineers aren’t obligated to have their workstation equipped with software integration tools, it becomes crucial in dev routine to make use of AI and code generation personalised. Learn how to take the control over the AI in IDE to improve the quality of your code, test coverage and to better understand technical requirements.
+
+## AI Assistant in the team
 
 I had a reserved opinion about AI assistant tooling due to the subscription plans. I didn’t explore enough the alternatives at the time, which are, in fact, free to use.
 
 For a non-native speakers the explanation of code from AI is politically correct. Imagine a casual discussion with a colleague while not having to argue over the code style, but to exchange information based only on technical ground in given context and at some degree of impact. AI Assistants could do code reviews much earlier before receiving a feedback from your peers and thus saving a time.
+
+## CodiumAI or Codeium
 
 CodiumAI and Codeium aren’t the twins, but the coincidence of sharing a similar name develops a trend of reaching out to companies for support, only to realize they were using another product. This paradox allows engineers leaning towards making decisions about personalized development tools and taking the advantage of the integration of both AI products.
 

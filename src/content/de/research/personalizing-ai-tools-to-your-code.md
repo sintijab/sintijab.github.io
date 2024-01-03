@@ -7,15 +7,19 @@ categories: "Forschung, Informationszugang, künstliche Intelligenz, Archivierun
 subcategories: "Artefaktarchiv, Archivrecherche, Algorithmische Kuratierung, Kritik im Dialog, Kritik-Governance"
 ---
 
-GitHub Copilot und alternative KI-Assistenten spielen eine wesentliche Rolle im Entwicklungsalltag. In meiner idealen Arbeitsumgebung ermöglicht die IDE den Ingenieuren, die volle Verantwortung für die Software zu übernehmen und die Robustheit des Systems direkt im Code-Editor mithilfe von IDE-Erweiterungen zu nutzen: Linter, automatisierte Workflows für Unit- und Systemintegrationstests, Software-Build und Kompilierung, SonarLint für Sicherheits- und Codequalitätsanalyse - bis hin zum gesamten DevOps-Zyklus und zur Zusammenarbeit von Versionskontrollsystemen mit GitLens-Baum und Git-Historienübersicht.
+Die Bedeutung von GitHub Copilot und alternativen KI-Assistenten im Entwicklungsalltag ist erheblich. In meiner idealen Arbeitsumgebung ermöglicht die integrierte Entwicklungsumgebung (IDE) Ingenieuren die vollständige Kontrolle über die Software, indem sie die Robustheit des Systems direkt im Code-Editor mithilfe von IDE-Erweiterungen nutzen: Linter, automatisierte Workflows für Einheiten- und Systemintegrationstests, Software-Build und Kompilierung, SonarLint für Sicherheits- und Codequalitätsanalyse - bis hin zum gesamten DevOps-Zyklus und der Zusammenarbeit über Versionsverwaltungssysteme mit GitLens-Baum und Git-Historienübersicht.
 
-Obwohl Ingenieure nicht verpflichtet sind, ihre Workstation mit Software-Integrationswerkzeugen auszustatten, wird es im Entwicklungsalltag sehr wichtig, KI und Codegenerierung zu personalisieren. Lernen Sie, wie Sie die Kontrolle über die KI in der IDE übernehmen, um die Qualität Ihres Codes, die Testabdeckung und das bessere Verständnis technischer Anforderungen zu verbessern.
+Obwohl Ingenieure nicht verpflichtet sind, ihre Workstations mit Software-Integrationswerkzeugen auszustatten, wird es im Entwicklungsalltag entscheidend, KI und Codegenerierung personalisiert zu nutzen. Erfahren Sie, wie Sie die Kontrolle über die KI in der IDE übernehmen, um die Qualität Ihres Codes, Testabdeckung und das Verständnis technischer Anforderungen zu verbessern.
 
-Ich hatte aufgrund der Abonnementpläne eine reservierte Meinung zu KI-Assistenten-Tools. Ich habe zu der Zeit nicht genügend Alternativen erkundet, die tatsächlich kostenlos zu verwenden sind.
+## KI-Assistent im Team
 
-Für Nicht-Muttersprachler ist die Erläuterung des Codes durch KI politisch korrekt. Stellen Sie sich eine informelle Diskussion mit einem Kollegen vor, ohne sich über den Code-Stil streiten zu müssen, sondern Informationen ausschließlich auf technischer Ebene im gegebenen Kontext und in einem gewissen Maße des Einflusses auszutauschen. KI-Assistenten könnten Code-Reviews viel früher durchführen, bevor Sie Feedback von Ihren Kollegen erhalten, und somit Zeit sparen.
+Ich hatte eine zurückhaltende Meinung zu KI-Assistenten aufgrund der Abonnementpläne. Ich habe damals nicht genug Alternativen erkundet, die tatsächlich kostenlos sind.
 
-CodiumAI und Codeium sind zwar keine Zwillinge, aber die Koinzidenz, einen ähnlichen Namen zu teilen, entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwendet haben. Dieses Paradox ermöglicht es den Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und den Vorteil der Integration beider KI-Produkte zu nutzen.
+Für Nicht-Muttersprachler ist die Erläuterung von Code durch KI politisch korrekt. Stellen Sie sich eine informelle Diskussion mit einem Kollegen vor, ohne über den Code-Stil streiten zu müssen, sondern Informationen ausschließlich auf technischer Grundlage im gegebenen Kontext und mit einem gewissen Grad an Einfluss auszutauschen. KI-Assistenten könnten Code-Reviews viel früher durchführen, bevor Sie Feedback von Ihren Kollegen erhalten, und somit Zeit sparen.
+
+## CodiumAI oder Codeium
+
+CodiumAI und Codeium sind zwar keine Zwillinge, aber die Ähnlichkeit im Namen entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwenden. Dieser Paradoxon ermöglicht es Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und die Integration beider KI-Produkte zu nutzen.
 
 ## KI-Halluzinationen
 
