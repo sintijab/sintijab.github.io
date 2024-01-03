@@ -1,5 +1,5 @@
 # Personalizing AI Tools to Your Code
-![](https://images.prismic.io/syntia/1216f4f2-61e7-4056-8f75-91ec396b6086_IMG_20221212_124532.jpg?auto=compress,format)
+![](https://images.prismic.io/syntia/7cf03112-0986-4c73-af67-211f25284d43_IMG_20221212_124550.jpg?auto=compress,format)
 
 Getting context right is especially more important and tricky for code autocomplete for three main reasons:
 

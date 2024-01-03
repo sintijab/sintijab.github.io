@@ -1,7 +1,7 @@
 ---
 description: "Personnalisation des outils IA pour votre code"
 pubDate: "Jan 2, 2024"
-heroImage: "https://images.prismic.io/syntia/1216f4f2-61e7-4056-8f75-91ec396b6086_IMG_20221212_124532.jpg"
+heroImage: "https://images.prismic.io/syntia/7cf03112-0986-4c73-af67-211f25284d43_IMG_20221212_124550.jpg?auto=compress,format"
 author: "Syntia"
 categories: "recherche, accès à l'information, intelligence artificielle, archivage et documentation"
 subcategories: "archive d'artefacts, recherche archivistique, curation algorithmique, critique en dialogue, gouvernance de la critique"
