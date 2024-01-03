@@ -5,7 +5,9 @@ GitHub Copilot et les assistants AI alternatifs sont essentiels dans la routine 
 
 Bien que les ingénieurs ne soient pas obligés d'équiper leur poste de travail d'outils d'intégration logicielle, il devient très crucial dans la routine de développement de personnaliser l'IA et la génération de code. Apprenez comment prendre le contrôle sur l'IA dans l'IDE pour améliorer la qualité de votre code, la couverture des tests et mieux comprendre les exigences techniques.
 
-J'avais une impression à propos des outils d'assistant AI, mais en raison des plans d'abonnement, je n'ai pas exploré suffisamment les alternatives à l'époque, qui sont, en fait, gratuites.
+J'avais une opinion réservée à propos des outils d'assistant AI en raison des plans d'abonnement. Je n'ai pas exploré suffisamment les alternatives à l'époque, qui sont, en fait, gratuites.
+
+Pour les locuteurs non natifs, l'explication du code par l'IA est politiquement correcte. Imaginez une discussion décontractée avec un collègue sans avoir à débattre du style de code, mais à échanger des informations basées uniquement sur des bases techniques dans un contexte donné et à un certain niveau d'impact. Les assistants AI pourraient effectuer des revues de code bien avant de recevoir des retours de vos pairs et ainsi gagner du temps.
 
 CodiumAI et Codeium ne sont pas des jumeaux, mais la coïncidence de partager un nom similaire développe une tendance à contacter les entreprises pour obtenir du support, seulement pour réaliser qu'elles utilisaient un autre produit. Ce paradoxe permet aux ingénieurs de pencher vers des décisions concernant des outils de développement personnalisés et de tirer parti de l'intégration des deux produits AI.
 

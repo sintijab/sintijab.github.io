@@ -5,7 +5,9 @@ GitHub Copilot and alternative AI assistants is substantial in development routi
 
 While engineers aren’t obligated to have their workstation equipped with software integration tools, it becomes very crucial in dev routine to make AI and code generation personalised. Learn how to take the control over the AI in IDE to improve the quality of your code, test coverage and to better understand technical requirements.
 
-I had an impression about AI assistant tooling but due to the subscription plans I didn’t explore enough the alternatives at the time, which are, in fact, free to use.
+I had a reserved opinion about AI assistant tooling due to the subscription plans. I didn’t explore enough the alternatives at the time, which are, in fact, free to use.
+
+For a non-native speakers the explanation of code from AI is politically correct. Imagine a casual discussion with a colleague while not having to argue over the code style, but to exchange information based only on technical ground in given context and at some degree of impact. AI Assistants could do code reviews much earlier before receiving a feedback from your peers and thus saving a time.
 
 CodiumAI and Codeium aren’t the twins, but the coincidence of sharing a similar name develops a trend of reaching out to companies for support, only to realize they were using another product. This paradox allows engineers leaning towards making decisions about personalized development tools and taking the advantage of the integration of both AI products.
 
