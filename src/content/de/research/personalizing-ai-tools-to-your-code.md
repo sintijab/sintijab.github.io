@@ -7,13 +7,15 @@ categories: "Forschung, Informationszugang, künstliche Intelligenz, Archivierun
 subcategories: "Artefaktarchiv, Archivrecherche, Algorithmische Kuratierung, Kritik im Dialog, Kritik-Governance"
 ---
 
-GitHub Copilot and alternative AI assistants is substantial in development routine. In my ideal work environment IDE enables engineers to take full ownership over the software, leveraging system robustness from within the code editor with the help of the IDE extensions: linters, automated workflows for unit and system integration tests, software build and compiling, SonarLint for security and code quality analysis,- up to the entire DevOps cycle and collaboration from control versioning systems with GitLens tree and Git history overview.
+GitHub Copilot und alternative KI-Assistenten spielen eine wesentliche Rolle im Entwicklungsalltag. In meiner idealen Arbeitsumgebung ermöglicht die IDE den Ingenieuren, die volle Verantwortung für die Software zu übernehmen und die Robustheit des Systems direkt im Code-Editor mithilfe von IDE-Erweiterungen zu nutzen: Linter, automatisierte Workflows für Unit- und Systemintegrationstests, Software-Build und Kompilierung, SonarLint für Sicherheits- und Codequalitätsanalyse - bis hin zum gesamten DevOps-Zyklus und zur Zusammenarbeit von Versionskontrollsystemen mit GitLens-Baum und Git-Historienübersicht.
 
-While engineers aren’t obligated to have their workstation equipped with software integration tools, it becomes very crucial in dev routine to make AI and code generation personalised. Learn how to take the control over the AI in IDE to improve the quality of your code, test coverage and to better understand technical requirements.
+Obwohl Ingenieure nicht verpflichtet sind, ihre Workstation mit Software-Integrationswerkzeugen auszustatten, wird es im Entwicklungsalltag sehr wichtig, KI und Codegenerierung zu personalisieren. Lernen Sie, wie Sie die Kontrolle über die KI in der IDE übernehmen, um die Qualität Ihres Codes, die Testabdeckung und das bessere Verständnis technischer Anforderungen zu verbessern.
 
-I had an impression about AI assistant tooling but due to the subscription plans I didn’t explore enough the alternatives at the time, which are, in fact, free to use.
+Ich hatte aufgrund der Abonnementpläne eine reservierte Meinung zu KI-Assistenten-Tools. Ich habe zu der Zeit nicht genügend Alternativen erkundet, die tatsächlich kostenlos zu verwenden sind.
 
-CodiumAI and Codeium aren’t the twins, but the coincidence of sharing a similar name develops a trend of reaching out to companies for support, only to realize they were using another product. This paradox allows engineers leaning towards making decisions about personalized development tools and taking the advantage of the integration of both AI products.
+Für Nicht-Muttersprachler ist die Erläuterung des Codes durch KI politisch korrekt. Stellen Sie sich eine informelle Diskussion mit einem Kollegen vor, ohne sich über den Code-Stil streiten zu müssen, sondern Informationen ausschließlich auf technischer Ebene im gegebenen Kontext und in einem gewissen Maße des Einflusses auszutauschen. KI-Assistenten könnten Code-Reviews viel früher durchführen, bevor Sie Feedback von Ihren Kollegen erhalten, und somit Zeit sparen.
+
+CodiumAI und Codeium sind zwar keine Zwillinge, aber die Koinzidenz, einen ähnlichen Namen zu teilen, entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwendet haben. Dieses Paradox ermöglicht es den Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und den Vorteil der Integration beider KI-Produkte zu nutzen.
 
 ## KI-Halluzinationen
 
