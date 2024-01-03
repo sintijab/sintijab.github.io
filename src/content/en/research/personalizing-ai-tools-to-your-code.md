@@ -305,7 +305,9 @@ function factorial(num) {
 }
 ```
 
-### Suggestion The code should check if num is larger than 170. If so, it should return Infinity because JavaScript cannot accurately represent numbers larger than 170!. ### Why This suggestion is important because JavaScript has a limit on the maximum number it can accurately represent. By checking if num is larger than 170 and returning Infinity, we ensure that the code handles large factorial calculations correctly and avoids potential inaccuracies or errors.
+### Suggestion
+The code should check if num is larger than 170. If so, it should return Infinity because JavaScript cannot accurately represent numbers larger than 170!.
+### Why This suggestion is important because JavaScript has a limit on the maximum number it can accurately represent. By checking if num is larger than 170 and returning Infinity, we ensure that the code handles large factorial calculations correctly and avoids potential inaccuracies or errors.
 
 ```js
 // Base code …
@@ -370,5 +372,3 @@ console.log(factorial(5));
 [Context Aware Everything](https://codeium.com/blog/context-aware-everything-more-advanced-realtime-context-than-github-copilot)
 
 [CodiumAI vs Codeium](https://www.codium.ai/blog/codiumai-or-codeium-which-are-you-looking-for/)
-
-CodiumAI and Codeium aren’t the twins, but the coincidence of sharing a similar name develops a trend of reaching out to companies for support, only to realize they were using another product. This paradox allows engineers leaning towards making decisions about personalized development tools and taking the advantage of the integration of both AI products.

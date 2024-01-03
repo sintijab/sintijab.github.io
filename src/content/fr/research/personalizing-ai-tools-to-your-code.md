@@ -373,5 +373,3 @@ console.log(factorial(5));
 [Tout conscient du contexte](https://codeium.com/blog/context-aware-everything-more-advanced-realtime-context-than-github-copilot)
 
 [CodiumAI vs Codeium](https://www.codium.ai/blog/codiumai-or-codeium-which-are-you-looking-for/)
-
-CodiumAI et Codeium ne sont pas des jumeaux, mais la coïncidence de partager un nom similaire développe une tendance à solliciter des entreprises pour un soutien, seulement pour réaliser qu'elles utilisaient un autre produit. Cette paradoxalité permet aux ingénieurs de pencher vers des décisions concernant des outils de développement personnalisés et de tirer parti de l'intégration des deux produits d'IA.
