@@ -6,20 +6,26 @@ author: "Syntia"
 categories: "Forschung, Informationszugang, künstliche Intelligenz, Archivierung und Dokumentation"
 subcategories: "Artefaktarchiv, Archivrecherche, Algorithmische Kuratierung, Kritik im Dialog, Kritik-Governance"
 ---
+Es ist besonders wichtig und knifflig, den KI-Kontext bei der Codevervollständigung aus drei Hauptgründen richtig zu erfassen:
 
-Die richtige Einbindung von KI-Kontext ist besonders wichtig und knifflig für Code-Autocomplete aus drei Hauptgründen:
+- Für Codevervollständigungsanwendungen wie GitHub Copilot oder Codeium wird dieser Kontext von der Anwendung selbst und nicht vom Benutzer gesammelt, im Gegensatz zu etwas wie ChatGPT.
+- Aus Kostengründen und wegen Latenzproblemen können diese Modelle nur etwa ~150 Zeilen Code als Kontext übergeben. Das Erhöhen auf auch nur 10 Dateien als Kontext würde etwa 50-100-mal mehr kosten, ganz zu schweigen davon, wie langsam das wäre und praktisch unbrauchbar wäre, ohne den Entwicklungsfluss zu unterbrechen.
+- Bei Code gibt es wesentlich häufiger Beispiele im Trainingsdatensatz, bei denen derselbe Begriff auf verschiedene Konzepte verweist. Wenn Sie das tatsächliche Schema nicht zur Inferenzzeit angeben, kann das Modell sehr zuversichtlich das falsche aus einer anderen Quelle "auswählen".
 
-Für Code-Autocomplete-Anwendungen wie GitHub Copilot oder Codeium wird dieser Kontext von der Anwendung selbst und nicht vom Benutzer verwaltet. Aus Gründen von Kosten und Latenz können diese Modelle nur etwa ~150 Codezeilen als Kontext übergeben. Eine Erhöhung auf sogar 10 Dateien als Kontext würde etwa 50-100-mal mehr kosten, ganz zu schweigen von der Geschwindigkeit, die praktisch unbrauchbar wäre, ohne den Arbeitsfluss des Entwicklers zu unterbrechen. Bei Code weist der Schulungsdatensatz viel häufiger Beispiele auf, bei denen derselbe Begriff auf unterschiedliche Konzepte verweist. Wenn Sie das tatsächliche Schema nicht zur Inferenzzeit angeben, kann das Modell durchaus selbstbewusst ein falsches Schema aus einer anderen Quelle "auswählen".
+Wenn man all diese Gründe zusammenführt, wird sehr deutlich, warum Unternehmen unsicher sein können, ob eine Codevervollständigung für ihre privaten Codebasen funktionieren wird. Mit mehr als 10 Dateien in Repositories und zunehmender Komplexität besteht das Risiko, dass dies später bei der Fehlersuche zu einem Zeitverlust wird.
 
-Wenn man all diese Gründe zusammenführt, wird deutlich, warum Unternehmen möglicherweise unsicher sind, ob ein Code-Autocomplete für ihre privaten Codebasen funktioniert. Mit mehr als 10 Dateien in Repositories und zunehmender Komplexität besteht das Risiko, dass es später bei der Fehlersuche zu einem Zeitverlust wird.
+Aktuell sind Codeium (in der generischen Basismodellform) und GitHub Copilot laut der neuesten StackOverflow-Entwicklerumfrage die beiden bewunderten KI-Codierungstools: [https://survey.stackoverflow.co/2023/#section-admired-and-desired-ai-developer-tools](https://survey.stackoverflow.co/2023/#section-admired-and-desired-ai-developer-tools)
 
-Derzeit sind Codeium (in generischer Basisform) und GitHub Copilot die beiden bewundertesten KI-Codierungswerkzeuge, laut der neuesten Entwicklerumfrage von StackOverflow: [https://survey.stackoverflow.co/2023/#section-admired-and-desired-ai-developer-tools](https://survey.stackoverflow.co/2023/#section-admired-and-desired-ai-developer-tools)
-
-Hier sind einige andere KI-Assistenten-Tools, von denen jedes einige Kompromisse hat:
+Hier sind einige andere KI-Assistenten-Tools, von denen jedes einige Trade-offs hat:
 
 ## Tabnine
 
-Tabnine ist ähnlich wie GitHub CoPilot. Es hat Befehle wie: '/explain-code', der die eingegebene Eingabe erklärt, nicht immer korrekt z.B. Zeitkomplexität. '/generate-test-for-code' gibt zufällige Testfälle aus. '/document-code' fügt Kommentare für den ausgewählten Code hinzu. Es ist oft zu offensichtlich und nicht nützlich, z.B. fehlen bei JSDoc-Typkommentaren Kommentare zu den Arten von Eingabe- und Ausgabeparametern. Inline-Kommentare wie '//Testfälle' fügen Vorschläge im Code hinzu. '/fix-code' fügt Vorschläge zur Problembehebung hinzu, z.B.
+Tabnine ist ähnlich wie GitHub CoPilot. Es verfügt über Befehle wie:
+- '/explain-code', der die gegebene Eingabe erklärt, nicht immer korrekt, z.B. Zeitkomplexität.
+- '/generate-test-for-code' gibt die zufälligen Testfälle aus.
+- '/document-code' fügt Kommentare für den ausgewählten Code hinzu. Es ist oft zu offensichtlich und nicht nützlich, z.B. fehlen JSDoc-Typkommentare zu den Typen der Eingabe- und Ausgabeparameter.
+- Inline-Kommentare wie '//test cases' fügen Vorschläge im Code hinzu.
+- '/fix-code' fügt Vorschläge zur Problembehebung hinzu:
 
 ```js
 function factorial(n) {
@@ -28,21 +34,27 @@ function factorial(n) {
 }
 ```
 
-Mit dieser Änderung gibt die Funktion das korrekte Ergebnis für n=1 und alle anderen Werte von n zurück.
+Mit dieser Änderung gibt die Funktion das richtige Ergebnis für n=1 und alle anderen Werte von n zurück.
 
 ## ChatGPT
 
-Während viele KI-Tools auf OpenAI-APIs basieren, ist die Benutzeroberfläche von ChatGPT selbst nicht nützlich für die Entwicklung aufgrund des fehlenden Kontexts aus den Codebasen. Das einfache Problem in der ChatGPT-Benutzeroberfläche erfordert ständiges Wechseln des Kontexts, während allgemeine Fehler im Chat vermieden und die Komplexität von Code, Dateigröße und die Kompatibilität der Codeerweiterung sichergestellt wird. Fehlende Informationen über Quellen in der Programmierung führen oft zu falschen Antworten. 2 Jahre in der Webentwicklung führen von den mythologischen Archetypen des Guten zum Bösen - Informationen und Code veralten.
+Während viele KI-Tools auf OpenAI-APIs basieren, ist die Benutzeroberfläche von ChatGPT selbst im Entwicklungsprozess aufgrund des fehlenden Kontexts aus den Codebasen nicht nützlich. Das einfache Problem in der ChatGPT-Benutzeroberfläche erfordert ständiges Wechseln des Kontexts unter Vermeidung allgemeiner Fehler im Chat und Sicherung der Komplexität von Code, Dateigröße und der Kompatibilität der Codeerweiterung. Fehlende Informationen über Quellen in der Programmierung führen oft zu falschen Antworten. 2 Jahre in der Webentwicklung führen von den mythologischen Archetypen von Gut zu Böse - Informationen und Code veralten.
 
-Chat GPT 3.5 zu GPT 4 kostenloser Zugang [https://www.forefront.ai/](https://www.forefront.ai/)
+Chat GPT 3.5 bis GPT 4 kostenloser Zugang [https://www.forefront.ai/](https://www.forefront.ai/)
 
 ## GitHub Copilot
 
-GitHub Copilot hat Kontext für Codebasen und IDE-Befehle ähnlich wie Tabnine. Es teilt Befehle wie: '/tests' erstellt Tests innerhalb eines Testrahmens wie dem Jest-Testumfeld '/explain' erklärt die eingegebene Eingabe, wie z.B. die Zeitkomplexität '/doc' fügt den Kommentar mit den Eingabeparametern und der Rückgabe hinzu '/fix' fügt einen Vorschlag hinzu, der Git-Konflikte zu lösen scheint - Akzeptieren oder Verwerfen Beispiel für die Fehlerbehebung: 'Umgang mit negativen Zahlen im Fakultät', und wenden Sie den Vorschlag an:
+GitHub Copilot hat Kontext für Codebasen und IDE-Befehle ähnlich wie Tabnine. Es teilt Befehle wie:
+- '/tests' erstellt die Tests innerhalb eines Testframeworks wie Jest.
+- '/explain' erklärt die gegebene Eingabe wie Zeitkomplexität.
+- '/doc' fügt den Kommentar mit den Eingabeparametern und der Rückgabe hinzu.
+- '/fix' fügt eine Vorschlag hinzu, der ähnlich aussieht wie das Lösen von Git-Konflikten - Akzeptieren oder Ablehnen.
+
+Beispiel für die Behebung: 'Umgang mit negativen Zahlen im Faktorial', und wenden Sie den Vorschlag an:
 
 ```js
 function factorial(n) {
-  if (num < 0) { // Anfang des Vorschlags
+  if (num < 0) { // Beginn des Vorschlags
     return NaN;
   } // Ende des Vorschlags
   if (n == 0) return 1;
@@ -50,7 +62,7 @@ function factorial(n) {
 }
 ```
 
-GitHub Copilot hat umfassendere Testvorschläge, zum Beispiel enthält die Tests für den Merge-Sort-Sortieralgorithmus Duplikate, negative und dezimale Zahlen.
+GitHub Copilot hat umfangreichere Testvorschläge, zum Beispiel enthalten Tests für den Merge-Sort-Sortieralgorithmus Duplikate, negative und Dezimalzahlen.
 
 ```js
 function mergeSort(arr) {
@@ -80,16 +92,18 @@ mergeSort([5]); // [5]
 // Testfall 3 - Array mit zwei Elementen
 mergeSort([5, 2]); // [2, 5]
 // Testfall 4 - Array mit mehreren Elementen
-mergeSort([5,
+mergeSort([5, 2, 4,
 
- 2, 4, 7, 1, 3, 2, 6]); // [1, 2, 3, 4, 5, 6, 7]
-// Testfall 4 - Array mit Duplikatelementen
+ 7, 1, 3, 2, 6]); // [1, 2, 3, 4, 5, 6, 7]
+// Testfall 4 - Array mit duplizierten Elementen
 mergeSort([5, 2, 4, 7, 1, 3, 2, 6, 4, 5]); // [1, 2, 2, 3, 4, 5, 5, 6, 7]
 // Testfall 5 - Array mit negativen Elementen
 mergeSort([5, -2, 4, -7, 1, 3, -2, 6]); // [-7, -2, -2, 1, 3, 4, 5, 6]
-// Testfall 6 - Array mit Dezimalelementen
+// Testfall 6 - Array mit Dezimalzahlen
 mergeSort([5.5, 2.2, 4.4, 7.7, 1.1, 3.3, 2.2, 6.6]); [1.1, 2.2, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7]
 ```
+
+Hier ist die Übersetzung des bereitgestellten Textes:
 
 ## Bard
 
@@ -248,12 +262,10 @@ Codium AI verfügt über konfigurierbare Einstellungen für Tests mit mehreren O
 
 Die Unit-Tests sind umfassend für verschiedene Szenarien und Kontexte erstellt, die nicht abgedeckt sind - sie sollten Entwicklern helfen, Fehler im Code aufgrund von Codequalität oder fehlenden technischen Anforderungen zu finden. Es bietet auch die Dokumentation mit Code-Erklärung - gegebene Eingaben, Ablauf und Ausgaben sowie Beispieleanwendung. Codium hat Code Suggestions, die die technischen Anforderungen, die Schwere des Problems und die Ursache erklären. Für das oben gezeigte Faktorialbeispiel gibt es Vorschläge:
 
-```markdown
-### Vorschlag
+#### Vorschlag
 Der Code sollte überprüfen, ob num eine positive ganze Zahl ist. Andernfalls sollte er einen Fehler auslösen.
-### Warum
+#### Warum
 Es ist wichtig, eine Eingabevalidierung hinzuzufügen, um sicherzustellen, dass die Funktion gültige Eingaben erhält. In diesem Fall verhindert die Überprüfung, ob num eine positive ganze Zahl ist, dass die Funktion bei Verwendung einer nicht positiven Ganzzahl oder einer nicht ganzzahligen Zahl als Argument in eine endlose Rekursion gerät.
-```
 
 Es ermöglicht auch die Anwendung von Vorschlägen und das Bearbeiten des Codes:
 
@@ -267,12 +279,10 @@ function factorial(num) {
 }
 ```
 
-```markdown
-### Vorschlag
+#### Vorschlag
 Der Code verwendet Rekursion, um das Faktorial zu berechnen. Stattdessen sollte er eine Schleife verwenden, um potenzielle Stapelüberlauf-Fehler zu vermeiden.
-### Warum
+#### Warum
 Der Vorschlag ist wichtig, weil die Verwendung von Rekursion zur Berechnung des Faktorials potenziell zu Stapelüberlauf-Fehlern führen kann, wenn die Eingangsnummer groß ist. Rekursion verbraucht viel Speicher, da jeder rekursive Aufruf einen neuen Stapelrahmen zum Aufrufstapel hinzufügt. Durch Verwendung einer Schleife können wir diese Stapelüberlauf-Fehler vermeiden und die Leistung des Codes verbessern.
-```
 
 ```js
 // Basiscode …
@@ -285,12 +295,11 @@ function factorial(num) {
   return Ergebnis;
 }
 ```
-```markdown
-### Vorschlag
+
+#### Vorschlag
 Der Code sollte überprüfen, ob num größer als 170 ist. In diesem Fall sollte er Unendlich zurückgeben, da JavaScript Zahlen größer als 170! nicht genau darstellen kann.
-### Warum
+#### Warum
 Dieser Vorschlag ist wichtig, weil JavaScript eine Grenze für die maximal darstellbare Zahl hat. Durch Überprüfen, ob num größer als 170 ist und Unendlich zurückzugeben, stellen wir sicher, dass der Code große Faktorialberechnungen korrekt behandelt und potenzielle Ungenauigkeiten oder Fehler vermeidet.
-```
 
 ```js
 // Basiscode …
@@ -302,12 +311,10 @@ function factorial(num) {
 }
 ```
 
-```markdown
-### Vorschlag
+#### Vorschlag
 Der Code sollte überprüfen, ob num NaN ist. In diesem Fall sollte er einen Fehler auslösen.
-### Warum
+#### Warum
 Die Überprüfung, ob num NaN ist, ist wichtig, um sicherzustellen, dass die Funktion nicht mit ungültigen Eingaben arbeitet. Wenn num NaN ist, ergibt die Faktorialberechnung keinen Sinn und könnte zu unerwarteten Ergebnissen führen. Das Auslösen eines Fehlers in diesem Fall hilft, ungültige Eingaben frühzeitig zu erkennen und zu behandeln.
-```
 
 Nach Anwendung des Vorschlags:
 
@@ -322,13 +329,11 @@ function factorial(num) {
   if (num === 0) {
     return 1;
   }
-  let Ergebnis
-
- = 1;
+  let ergebnis = 1;
   for (let i = 2; i <= num; i++) {
-    Ergebnis *= i;
+    ergebnis *= i;
   }
-  return Ergebnis;
+  return ergebnis;
 }
 ```
 
@@ -342,11 +347,11 @@ Codeium hat Modelle für über 70 Programmiersprachen trainiert und unterstützt
 
 ```js
 function factorial(n) {
-  let Ergebnis = 1;
+  let ergebnis = 1;
   for (let i = 1; i <= n; i++) {
-    Ergebnis *= i;
+    ergebnis *= i;
   }
-  return Ergebnis;
+  return ergebnis;
 }
 console.log(factorial(5));
 ```
@@ -361,4 +366,3 @@ console.log(factorial(5));
 [CodiumAI vs Codeium](https://www.codium.ai/blog/codiumai-or-codeium-which-are-you-looking-for/)
 
 CodiumAI und Codeium sind keine Zwillinge, aber die Parallele beim Namen entwickelt einen Trend, sich an Unternehmen um Unterstützung zu wenden, nur um festzustellen, dass sie ein anderes Produkt verwendet haben. Dieses Paradox ermöglicht es Ingenieuren, Entscheidungen über personalisierte Entwicklungstools zu treffen und die Integration beider KI-Produkte zu nutzen.
-```
