@@ -22,5 +22,6 @@ export const S14 = { name: '2020-a-year-of-resilience'};
 export const S15 = { name: 'a-double-eclipse'};
 export const S16 = { name: 'smile-you-look-prettier' };
 export const S17 = { name: 'parrot-intelligence' };
+export const S18 = { name: 'personalizing-ai-tools-to-your-code' };
 
 export default meta;
