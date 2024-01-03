@@ -1,6 +1,6 @@
 ---
 description: "Personalizing AI Tools to Your Code"
-pubDate: "Jan 2, 2023"
+pubDate: "Jan 2, 2024"
 heroImage: "https://images.prismic.io/syntia/1216f4f2-61e7-4056-8f75-91ec396b6086_IMG_20221212_124532.jpg"
 author: "Syntia"
 categories: "research, information access, artificial intelligence, archiving and documentation"
