@@ -7,10 +7,6 @@ categories: "weekender, health, time managament, traveling, traditions, diving"
 subcategories: "wellbeing, sequential thinking, performance, watersports, freediving"
 ---
 
-> Die Schönheit der Dinge lebt in der Seele dessen,
-> 
-> der sie betrachtet. David Hume (1711-1776)
-
 > “Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.”
 > 
 > ― David Hume, Of the Standard of Taste
@@ -84,9 +80,9 @@ In summary, when subjects are immersed in cold water for prolonged periods, with
 
 ### Ecotourism- sustainable travel to natural areas of Carinthia
 
-The Weißensee is a lake in Carinthia at the foot of the Gailtal Alps north of Hermagor. It lies at 930 m above sea level, is 11.6 kilometers long; at its widest point it measures 900 meters, at its deepest 99 meters. Only a third of its 23-kilometer-long bank is built on, the rest is under nature and landscape protection.
+The Weissensee is a lake in Carinthia at the foot of the Gailtal Alps north of Hermagor. It lies at 930 m above sea level, is 11.6 kilometers long; at its widest point it measures 900 meters, at its deepest 99 meters. Only a third of its 23-kilometer-long bank is built on, the rest is under nature and landscape protection.
 
-The Weißensee has been known for its lake trout since the Middle Ages; in modern times, artificial stocking with other fish species such as perch, carp or pike has increased its attractiveness as a fishing water. However, due to the pressure of competition, some original species such as gudgeon or minnow are extinct.
+The Weissensee has been known for its lake trout since the Middle Ages; in modern times, artificial stocking with other fish species such as perch, carp or pike has increased its attractiveness as a fishing water. However, due to the pressure of competition, some original species such as gudgeon or minnow are extinct.
 
 The lake is considered to be good fishing waters due to its excellent water quality. With visibility depths of up to 6 meters and a water quality that comes close to that of drinking water, it brings an ideal site conditions for swimming and diving. To maintain the water quality, the use of internal combustion engines- exclusively liner shipping, police, water rescue, agriculture and forestry is not permitted on the lake. Protected landscape areas guarantee untroubled fishing, and for non-fishermen, the underwater world of the Weissensee is captivating as much. Five informative display boards along the promenade between Praditz and Techendorf give an overview of existing fish species, their habitats and protection in the lake ecosystem.
 
@@ -100,9 +96,9 @@ The state of Carinthia in southern Austria has recognized that a barrier-free de
 
 The project “Nature experience for EVERYONE” a.k.a. “Natueleben fur ALLE”, enables people of all ages with and without handicap a barrier-free experience of nature across Carinthia, 10 barrier-free infrastructures created in protected areas which are certified by ÖZIV. \[4\]
 
-### Global warming from Weißensee to Antarctica
+### Global warming from Weissensee to Antarctica
 
-While planning our next trip to Antarctica with divers from Weißensee, I would like to address the Global concerns that have been raised to prioritize areas to maximize the likelihood of ensuring the long-term conservation of aquatic ecosystems and biodiversity. The absence of systematic and representative protection is particularly acute for inland aquatic ecosystems, which support a disproportionate amount of inland biodiversity, such as Polar regions and protection of the Antarctic environment.
+While planning our next trip to Antarctica with divers from Weissensee, I would like to address the Global concerns that have been raised to prioritize areas to maximize the likelihood of ensuring the long-term conservation of aquatic ecosystems and biodiversity. The absence of systematic and representative protection is particularly acute for inland aquatic ecosystems, which support a disproportionate amount of inland biodiversity, such as Polar regions and protection of the Antarctic environment.
 
 The Antarctic Peninsula (AP) region has been subjected to some of the most rapid climate warming on Earth during the 20th and 21st centuries, with an increase of more than five times the global mean (0.6 ± 0.2°C during the 20th century; Turner et al. Reference Turner, Maksym, Phillips, Marshall and Meredith2013).
 
@@ -165,6 +161,8 @@ This form of storytelling is changing how we communicate the excitement of remot
 ### Our role in environmental system
 
 The Earth System components make a dynamic and interconnected system that has a significant impact on Earth's climate and various physical processes. Understanding the science and physics of the cryosphere is essential for addressing climate change, sea level rise, and the broader implications for the planet's environmental systems. During our dive trip we were only laughing about our next freediving trip to Antarctica. It brought us awareness on similar, and also very difficult obstacles we wouldn't able to overcome due to the global warming impact on ecosystems that are becoming increasingly noticeable.
+
+#### References:
 
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)
     
