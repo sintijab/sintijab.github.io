@@ -166,6 +166,8 @@ Das Eistauchen war ein intensives Taucherlebnis, das uns daran erinnert hat, das
 
 Danke an [Marcus](https://www.instagram.com/auiphotography/?hl=de) fürs Tauchen mit uns und das Festhalten der besten Freitauchmomente; [Nik Linder](https://niklinder.com/) für Organisation, Tauchsicherheit, Aufbau, Training und Aufsicht; [Barbara](https://www.kolbitsch-weissensee.at/) und das Hotel Kolbitsch am Weissensee für den herzlichen Empfang, und das Tauchzentrum [Yachtdiver Weissensee](https://www.yachtdiver.at/) für die technische Unterstützung!
 
+![](https://images.prismic.io/syntia/eaaf298f-f5f3-4101-947c-66564ea3a90e_Unterwasser-32-fotor-20240127173841.jpg?auto=compress,format)
+
 #### Verweise
 
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)
