@@ -168,6 +168,8 @@ La plongée sous glace a été une expérience de plongée intense qui nous a ra
 
 Merci à [Marcus](https://www.instagram.com/auiphotography/?hl=en) de plonger avec nous et de capturer les meilleurs moments de plongée libre ; à [Nik Linder](https://niklinder.com/) pour l'organisation, la sécurité de la plongée, la mise en place, la formation et la supervision ; à [Barbara](https://www.kolbitsch-weissensee.at/) et à l'hôtel Kolbitsch am Weissensee pour leur accueil chaleureux ; et au centre de plongée [Yachtdiver Weissensee](https://www.yachtdiver.at/) pour le support technique!
 
+![](https://images.prismic.io/syntia/eaaf298f-f5f3-4101-947c-66564ea3a90e_Unterwasser-32-fotor-20240127173841.jpg?auto=compress,format)
+
 #### Les références:
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)
     
