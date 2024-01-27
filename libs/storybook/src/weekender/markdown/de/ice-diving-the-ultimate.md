@@ -32,6 +32,7 @@ Auf dem Land und unter dem gefrorenen offenen Wasser, einschließlich Schneedeck
 Tagsüber konnte ich den Schneefall nicht vom Schneefall am Weissensee unterscheiden. Die kalte Luft bewegte sich über das warme Seewasser, bis sich die Wolken verdichteten und der Schnee schwer genug fiel. Die Umgebung um und unter dem gefrorenen See ist ruhig und verlangsamt sich.
 
 ![](https://images.prismic.io/syntia/67ae965b-2ebd-4431-b7b5-25e1f70e4c22_20240112133256_0068.jpg?auto=compress,format)
+Photo: Micha Schramm und Nik Skrlec
 
 Schwebend in der Stille mitten in der Natur und in unbekannten, unerreichbaren Tiefen. Es gibt keinen Platz für Ängste, Panik oder Schmerzen - nur Gelassenheit, Freude und Reflexion über den inneren Zustand und das Vertrauen. Vor einem Jahr träumte ich nur von Freitauchexpeditionen, inspiriert von den Leistungen von Johanna Nordblad und den Geschichten von Maik Priebe über Freitauchen.
 

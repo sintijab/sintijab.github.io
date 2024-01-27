@@ -35,6 +35,7 @@ Sur la terre et sous l'eau gelée ouverte, y compris la couverture de neige, les
 Pendant la journée, je ne pouvais pas confondre la chute de neige avec l'effet lacustre de neige dans la "boule de neige" de Weissensee. L'air froid se déplace au-dessus de l'eau chaude du lac jusqu'à ce que les nuages s'épaississent suffisamment pour faire tomber la neige. L'environnement autour et sous le lac gelé est calme et ralenti dans son mouvement.
 
 ![](https://images.prismic.io/syntia/67ae965b-2ebd-4431-b7b5-25e1f70e4c22_20240112133256_0068.jpg?auto=compress,format)
+Photo: Micha Schramm et Nik Skrlec
 
 En lévitant dans le silence au milieu de la nature et des profondeurs inconnues et inatteignables. Il n'y a pas de place pour la peur, la panique ou la douleur, - seulement la tranquillité, la joie et la réflexion sur l'état intérieur et la confiance. Il y a un an, je rêvais seulement d'expéditions de plongée en apnée, inspiré par les réalisations de Johanna Nordblad et les histoires de Maik Priebe sur la plongée en apnée.
 

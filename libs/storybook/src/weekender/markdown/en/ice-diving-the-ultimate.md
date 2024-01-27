@@ -32,6 +32,7 @@ On the land and below the frozen open water, including snow cover, glaciers, ice
 During the day I couldn’t mistake the snowfall from the lake effect snowfall in the Weissensee “snowball”. The cold air moved over the warm lake water until the clouds increased for the snow heavy enough to fall. The environment around and under the frozen lake is still and slowed in motion.
 
 ![](https://images.prismic.io/syntia/67ae965b-2ebd-4431-b7b5-25e1f70e4c22_20240112133256_0068.jpg?auto=compress,format)
+Photo: Micha Schramm and Nik Skrlec
 
 Levitating through silence in the midst of the nature and unknown, unreachable depths. There is no space for fears, panic or pain,- only calmness, joy and reflection to inner state and trust. A year ago I was only dreaming about freediving expeditions, inspired by the achievements of Johanna Nordblad and stories from Maik Priebe about freediving.
 
