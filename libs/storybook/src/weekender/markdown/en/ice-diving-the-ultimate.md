@@ -158,6 +158,9 @@ This form of storytelling is changing how we communicate the excitement of remot
 ### Our role in environmental system
 
 The Earth System components make a dynamic and interconnected system that has a significant impact on Earth's climate and various physical processes. Understanding the science and physics of the cryosphere is essential for addressing climate change, sea level rise, and the broader implications for the planet's environmental systems. During our dive trip we were only laughing about our next freediving trip to Antarctica. It brought us awareness on similar, and also very difficult obstacles we wouldn't able to overcome due to the global warming impact on ecosystems that are becoming increasingly noticeable.
+The ice diving was a strongest dive experience that reminded us that we are part of this ecosystem and a global movement.
+
+#### References
 
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)
     
