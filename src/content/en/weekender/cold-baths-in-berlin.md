@@ -4,7 +4,7 @@ pubDate: "Nov 19, 2023"
 heroImage: "https://images.prismic.io/syntia/1cb1f458-0460-4e0b-97d5-a1e306d6b785_IMG_20231118_153346.jpg?auto=compress,format"
 author: "Syntia"
 categories: "weekender, health, time managament, traveling, traditions"
-subcategories: "well being, sequential thinking, performance, watersports"
+subcategories: "wellbeing, sequential thinking, performance, watersports"
 ---
 
 Cold water immersion has garnered a lot of
