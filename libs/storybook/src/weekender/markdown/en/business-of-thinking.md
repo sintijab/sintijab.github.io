@@ -4,7 +4,7 @@ pubDate: "Jul 18, 2021"
 heroImage: "  1f4eebf7-de7a-441d-ae0d-b11749c0003c_cover-new.jpg?auto=compress,format"   
 author: "Syntia"   
 categories: "weekender, health, time managament"   
-subcategories: "book reviews, information access, well being, sequential thinking, performance"   
+subcategories: "book reviews, information access, wellbeing, sequential thinking, performance"   
 \---  
 # **Business of thinking: Move!**
 
