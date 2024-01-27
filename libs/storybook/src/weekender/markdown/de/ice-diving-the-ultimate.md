@@ -1,8 +1,8 @@
 # Eistauchen - das ultimative Taucherlebnis
 
-> The beauty of things lies in the soul of the beholder.
+> Die Schönheit der Dinge lebt in der Seele dessen,
 > 
-> David Hume (1711-1776)
+> der sie betrachtet. David Hume (1711-1776)
 
 > “Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.”
 > 

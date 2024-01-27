@@ -22,7 +22,6 @@ En général, le givre se forme à une température inférieure à 0 °C, et la 
 Les molécules de vapeur d'eau entrent en contact avec une surface sous le point de congélation et contournent l'humidité, formant des cristaux de glace légers et duveteux en surface, connus sous le nom de givre. 
 
 ![](https://images.prismic.io/syntia/530c469d-0ebb-49e9-9536-ccec6053eec3_20240120_114450-COLLAGE%281%29.jpg?auto=compress,format)
-
 ![](https://images.prismic.io/syntia/a4c43ebe-2c8f-450b-9e3f-ddee722488bf_20240120_113144-COLLAGE2.jpg?auto=compress,format)
 
 Le givre doux résulte de la congélation rapide de très petites gouttelettes d'eau sur-refroidies dans le brouillard ou les nuages lorsqu'elles frappent des surfaces principalement verticales avec une température inférieure à 0 °C. De cette manière, les gouttelettes transportées par le vent collent pour former une accrétion dendritique, et les arbres sont blancs du côté exposé au vent, et sans glace du côté opposé.
