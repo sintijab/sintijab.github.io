@@ -167,6 +167,8 @@ Diese Art des Geschichtenerzählens verändert die Art und Weise, wie wir die Be
 Die Bestandteile des Erdsystems bilden ein dynamisches und miteinander verbundenes System, das einen erheblichen Einfluss auf das Klima der Erde und verschiedene physikalische Prozesse hat. Das Verständnis der Wissenschaft und Physik der Kryosphäre ist entscheidend, um den Klimawandel, den Anstieg des Meeresspiegels und die weitreichenden Auswirkungen auf die Umweltsysteme des Planeten anzugehen. Während unseres Tauchausflugs haben wir nur über unseren nächsten Freitauchausflug in die Antarktis gelacht. Es hat uns auf ähnliche, aber auch sehr schwierige Hindernisse aufmerksam gemacht, die wir aufgrund des Einflusses der globalen Erwärmung auf Ökosysteme, die immer deutlicher werden, nicht überwinden könnten.
 Das Eistauchen war ein intensives Taucherlebnis, das uns daran erinnert hat, dass wir Teil dieses Ökosystems und einer globalen Bewegung sind.
 
+Danke an [Marcus](https://www.instagram.com/auiphotography/?hl=de) fürs Tauchen mit uns und das Festhalten der besten Freitauchmomente; [Nik Linder](https://niklinder.com/) für Organisation, Tauchsicherheit, Aufbau, Training und Aufsicht; [Barbara](https://www.kolbitsch-weissensee.at/) und das Hotel Kolbitsch am Weissensee für den herzlichen Empfang, und das Tauchzentrum [Yachtdiver Weissensee](https://www.yachtdiver.at/) für die technische Unterstützung!
+
 #### Verweise
 
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)

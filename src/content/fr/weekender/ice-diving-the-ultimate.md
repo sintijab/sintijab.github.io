@@ -166,6 +166,8 @@ Ce type de narration change la manière dont nous communiquons l'excitation de l
 Les composants du système terrestre forment un système dynamique et interconnecté qui a un impact significatif sur le climat de la Terre et divers processus physiques. Comprendre la science et la physique de la cryosphère est essentiel pour aborder le changement climatique, la montée du niveau de la mer et les implications plus larges pour les systèmes environnementaux de la planète. Pendant notre voyage de plongée, nous plaisantions seulement à propos de notre prochain voyage en apnée en Antarctique. Cela nous a sensibilisés à des obstacles similaires, mais aussi très difficiles à surmonter en raison de l'impact du réchauffement climatique sur des écosystèmes de plus en plus perceptibles.
 La plongée sous glace a été une expérience de plongée intense qui nous a rappelé que nous faisons partie de cet écosystème et d'un mouvement mondial.
 
+Merci à [Marcus](https://www.instagram.com/auiphotography/?hl=en) de plonger avec nous et de capturer les meilleurs moments de plongée libre ; à [Nik Linder](https://niklinder.com/) pour l'organisation, la sécurité de la plongée, la mise en place, la formation et la supervision ; à [Barbara](https://www.kolbitsch-weissensee.at/) et à l'hôtel Kolbitsch am Weissensee pour leur accueil chaleureux ; et au centre de plongée [Yachtdiver Weissensee](https://www.yachtdiver.at/) pour le support technique!
+
 #### Les références:
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)
     
