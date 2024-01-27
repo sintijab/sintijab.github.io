@@ -163,6 +163,8 @@ This form of storytelling is changing how we communicate the excitement of remot
 The Earth System components make a dynamic and interconnected system that has a significant impact on Earth's climate and various physical processes. Understanding the science and physics of the cryosphere is essential for addressing climate change, sea level rise, and the broader implications for the planet's environmental systems. During our dive trip we were only laughing about our next freediving trip to Antarctica. It brought us awareness on similar, and also very difficult obstacles we wouldn't able to overcome due to the global warming impact on ecosystems that are becoming increasingly noticeable.
 The ice diving was a strongest dive experience that reminded us that we are part of this ecosystem and a global movement.
 
+Thanks to the [Marcus](https://www.instagram.com/auiphotography/?hl=en) for diving with us and capturing the best freediving moments; [Nik Linder](https://niklinder.com/) for organization, dive safety, setup, training and supervision, [Barbara](https://www.kolbitsch-weissensee.at/) and hotel Kolbitsch am Weissensee for the warm welcoming, and dive center [Yachtdiver Weissensee](https://www.yachtdiver.at/) for technical support!
+
 #### References:
 
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)
