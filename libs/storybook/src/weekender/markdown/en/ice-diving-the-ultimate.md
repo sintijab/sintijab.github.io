@@ -61,7 +61,7 @@ Freediving under the ice is an ultimate diving experience- it brings protection 
 
 Another positive experience is the social factor- diving under the ice takes a lot of courage and determination, not only in freediving but in real life. With self-reflection sharing these beautiful moments together, I express gratitude for being surrounded by all these individuals who are not afraid of taking the breaks off from what truly drives them in their life. Thanks to Nik and other freediver experts the overall experience of the ice diving event was exceptional and memorable.
 
-The support from the women freedivers gave me the strength and confidence. Thanks to the two committed freedivers- both Andreas- for motivating me and explaining how their experience was from the previous years, and what it takes to do the extreme sports for the very first time! I was so inspired by mermaid bikini performance, that I convinced myself- if she could do it, I could handle it too!
+The support from the women freedivers gave me the strength and confidence. Thanks to the two committed freedivers- both Andreas- for motivating me and explaining how their experience was from the previous years, and what it takes to do the extreme sports for the very first time! I was inspired by mermaid bikini performance and convinced myself- if she could do it, I could handle it too!
 
 ![](https://images.prismic.io/syntia/f2bd8749-78bd-44bc-a269-458e0e8aa185_IMG-20240112-WA0045.jpg?auto=compress,format)
 
