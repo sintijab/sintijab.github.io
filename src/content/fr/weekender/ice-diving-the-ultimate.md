@@ -1,6 +1,6 @@
 ---
 description: "Plongée sous glace - l'expérience de plongée ultime"
-pubDate: "Jan 27, 2023"
+pubDate: "Jan 27, 2024"
 heroImage: "https://images.prismic.io/syntia/67ae965b-2ebd-4431-b7b5-25e1f70e4c22_20240112133256_0068.jpg?auto=compress,format"
 author: "Syntia"
 categories: "weekend, santé, gestion du temps, voyages, traditions, plongée"
