@@ -162,6 +162,8 @@ The ice diving was a strongest dive experience that reminded us that we are part
 
 Thanks to the [Marcus](https://www.instagram.com/auiphotography/?hl=en) for diving with us and capturing the best freediving moments; [Nik Linder](https://niklinder.com/) for organization, dive safety, setup, training and supervision, [Barbara](https://www.kolbitsch-weissensee.at/) and hotel Kolbitsch am Weissensee for the warm welcoming, and dive center [Yachtdiver Weissensee](https://www.yachtdiver.at/) for technical support!
 
+![](https://images.prismic.io/syntia/eaaf298f-f5f3-4101-947c-66564ea3a90e_Unterwasser-32-fotor-20240127173841.jpg?auto=compress,format)
+
 #### References
 
 1.  Earth and Planetary Sciences, Hoar Frost [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/hoar-frost)
