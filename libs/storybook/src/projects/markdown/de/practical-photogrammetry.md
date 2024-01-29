@@ -87,8 +87,6 @@ Sie können das 3D-Modell drucken oder es in Glas gravieren lassen für einzigar
 
 ## Unterwasser Malta: Ein virtuelles Museum für das Unterwasser-Kulturerbe mit Nick Coertze
 
-### Unterwasserarchäologische Stätten
-
 Unterwasserarchäologische Stätten sind oft außer Sicht und mehr noch als nicht im Bewusstsein. Der Grund für diese Situation ist einfach - die physische Barriere, die das Meer selbst schafft, wo nur Taucher oder Menschen in U-Booten solche Stätten besuchen können. Durch dieses virtuelle Museum haben Sie nun die Möglichkeit, diese historischen Zeitkapseln zu erkunden.
 
 Unsere Einheit wurde als Möglichkeit eingerichtet, die Stätten aus Sicht des Kulturerbemanagements besser zu bewahren. In den letzten Jahren haben wir 22 Tauchstellen öffentlich zugänglich gemacht, mit dem Ziel, jedes Jahr ein bis drei weitere freizugeben. Dies ermöglicht es Menschen, diese Stätten physisch zu betauchen, während solche
@@ -99,7 +97,7 @@ Die Gemeinsamkeit aller Wracks ist ihre Tiefenbegrenzung, die von 55 Metern bis 
 
 Die Veröffentlichung des Museums markiert den letzten Schritt in einem komplexen Prozess. Angefangen bei der Fernerkundung, der Zielfestlegung und vielfältigen Umfragen, verarbeiten wir die Daten, um digitale Assets zu erstellen. Dazu gehören 3D-Modelle, Videos und Bilder, die dann im virtuellen Museum veröffentlicht werden.
 
-### Identifikation
+### Identifizierung von Unterwasserarchäologischen Stätten
 
 Der Identifikationsprozess nutzt AUVs (Autonomous Underwater Vehicles). Sie folgen einem programmierten "Rasenmäher"-Muster, um Daten zu erfassen und uns einen umfassenden Blick auf die Stätten zu bieten. Wenn wir nicht wissen, was dort ist, können wir es nicht effektiv schützen, erhalten oder verwalten. Nehmen Sie zum Beispiel die HMS Urge, ein britisches U-Boot in einer Tiefe von 110 Metern. Sobald identifiziert, inspizieren Taucher die Stätte, und wir erstellen 3D-Modelle und andere digitale Assets, die wir mit der Öffentlichkeit teilen.
 

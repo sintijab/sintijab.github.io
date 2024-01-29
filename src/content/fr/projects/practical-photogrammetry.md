@@ -96,8 +96,6 @@ Vous pouvez imprimer le modèle 3D ou le graver dans le verre pour des affichage
 
 ## Underwater Malta : Un musée virtuel du patrimoine culturel sous-marin avec Nick Coertze
 
-### Sites archéologiques sous-marins
-
 Les sites archéologiques sous-marins sont hors de vue et plus souvent qu'autrement, hors de l'esprit. La raison de cette situation est simple - la barrière physique créée par la mer elle-même, où seuls les plongeurs ou les personnes dans des sous-marins peuvent visiter de tels sites. Grâce à ce musée virtuel, vous avez maintenant l'opportunité d'explorer ces capsules temporelles historiques.
 
 Maintenant, notre unité a été créée comme moyen de mieux préserver les sites d'un point de vue de gestion du patrimoine culturel. Au cours des dernières années, nous avons rendu publics 22 sites de plongée avec pour objectif d'en publier un à trois de plus chaque année. Cela permet aux gens de plonger physiquement sur ces sites, tandis que ceux qui ne peuvent pas le faire peuvent les explorer virtuellement à travers le musée.
@@ -108,7 +106,7 @@ La caractéristique commune de toutes les épaves est leur limitation de profond
 
 La sortie du musée marque la dernière étape d'un processus complexe. En commençant par la détection à distance, la validation des cibles et des enquêtes diverses, nous traitons les données pour créer des actifs numériques. Cela comprend des modèles 3D, des vidéos et des images qui sont ensuite lancés sur le musée virtuel.
 
-### Identification
+### Identification des sites archéologiques sous-marins
 
 Le processus d'identification utilise des véhicules sous-marins autonomes (AUV). Ils suivent un motif programmé de "tondeuse à gazon" pour capturer des données, nous fournissant une vue complète des sites. Si nous ne savons pas ce qui s'y trouve, nous ne pouvons pas le protéger, le conserver ou le gérer efficacement. Prenons, par exemple, le HMS Urge, un sous-marin britannique situé à une profondeur de 110 mètres. Une fois identifié, les plongeurs enquêtent sur le site, et nous créons des modèles 3D et d'autres actifs numériques, que nous partageons avec le public.
 

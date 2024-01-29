@@ -85,8 +85,6 @@ You can print the 3D model or engrave it into glass for unique displays. Conside
 
 ## Underwater Malta: A virtual museum for underwater cultural heritage with Nick Coertze
 
-### Underwater archaeological sites
-
 Underwater archaeological sites are out of sight and more often than not out of mind. The reason for this situation is simple – the physical barrier created by the sea itself- where only divers or people in submarines are able to visit such sites. Through this virtual museum you now have the opportunity to explore these historic time capsules.
 
 Now, our unit was set up as a way to preserve the sites better from a cultural heritage management point of view. Over the last few years, we've released 22 dive sites to the public with the goal of releasing one to three more every single year. This allows people to physically dive these sites, while those unable to do so can explore them virtually through the museum.
@@ -95,7 +93,7 @@ The commonality among all the wrecks is their depth limitation, ranging from 55 
 
 The release of the museum marks the final step in a complex process. Beginning with remote sensing, target validation, and diverse surveys, we process the data to create digital assets. This includes 3D models, videos, and images that are then launched on the virtual museum.
 
-### Identification
+### Identification of underwater archaeological sites
 
 Identification process utilizes AUVs (Autonomous Underwater Vehicles). They follow a programmed "lawn mower" pattern to capture data, providing us with a comprehensive view of the sites. If we don't know what's there, we can't effectively protect, conserve, or manage it. Take, for example, the HMS Urge, a British submarine located at a depth of 110 meters. Once identified, divers survey the site, and we create 3D models and other digital assets, which we share with the public.
 
