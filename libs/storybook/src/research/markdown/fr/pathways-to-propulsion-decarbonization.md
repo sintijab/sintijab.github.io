@@ -6,7 +6,9 @@
 
 Dans le cadre de recherches commanditées par le Conseil international des associations de l'industrie maritime (ICOMIA), le PDG Joe Lynch et Jeff Wasil, directeur principal de la conformité chez NMMA, présentent un aperçu condensé de la navigation de plaisance, fournissant des informations essentielles et indiquant où trouver plus d'informations.
 
-Une diminution significative des émissions de gaz à effet de serre que nous émettons est cruciale en ce moment, et nous ne sommes pas sur la bonne voie pour atteindre ces objectifs. Il est donc essentiel que nous travaillions tous de manière urgente pour apporter les changements nécessaires. Ce qui est intéressant, cependant, c'est que le secteur des loisirs nautiques ne représente qu'une petite partie des émissions mondiales totales. Nous avons calculé qu'il représente moins de 0,1 % des émissions mondiales totales de gaz à effet de serre et 0,4 % des émissions de gaz à effet de serre liées aux transports en Europe.
+> Une diminution significative des émissions de gaz à effet de serre que nous émettons est cruciale en ce moment, et nous ne sommes pas sur la bonne voie pour atteindre ces objectifs. Il est donc essentiel que nous travaillions tous de manière urgente pour apporter les changements nécessaires.
+
+Ce qui est intéressant, cependant, c'est que le secteur des loisirs nautiques ne représente qu'une petite partie des émissions mondiales totales. Nous avons calculé qu'il représente moins de 0,1 % des émissions mondiales totales de gaz à effet de serre et 0,4 % des émissions de gaz à effet de serre liées aux transports en Europe.
 
 Une option serait de nous considérer comme de petits acteurs, en nous concentrant sur des sources plus importantes telles que les navires, les camions et les processus industriels. Cependant, en tant qu'industrie, nous ne pensons pas de cette manière. Nous voulons assumer la responsabilité que nous avons et nous assurer de transmettre notre industrie et ses avantages aux générations futures.
 
