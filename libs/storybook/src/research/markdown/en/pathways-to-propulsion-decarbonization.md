@@ -6,7 +6,9 @@ As leisure boaters increasingly want to make informed choices about the most sus
 
 In research commissioned by International Council of Marine Industry Associations (ICOMIA), CEO Joe Lynch and Jeff Wasil, Sr. Director Compliance NMMA, presents a condensed overview on the recreational boating, providing vital insights and signpost where more information is available.
 
-A significant decline in the greenhouse gas emissions we emit is crucial at the moment, and we're not on track to achieve those targets. Therefore, it's essential that we all work urgently to make the required changes. What's interesting, though, is that the leisure marine sector constitutes only a tiny part of the overall global emissions. We've calculated that it makes less than 0.1% of the total global greenhouse gas emissions and 0.4% of Transportation GHG emissions in Europe.
+> A significant decline in the greenhouse gas emissions we emit is crucial at the moment, and we're not on track to achieve those targets. Therefore, it's essential that we all work urgently to make the required changes.
+
+What's interesting, though, is that the leisure marine sector constitutes only a tiny part of the overall global emissions. We've calculated that it makes less than 0.1% of the total global greenhouse gas emissions and 0.4% of Transportation GHG emissions in Europe.
 
 One option would be to dismiss ourselves as the small players, focusing on larger sources like ships, lorries, and industrial processes. However, as an industry, we don't think that way. We want to embrace the responsibility we have and ensure that we pass on our industry and its benefits to future generations.
 

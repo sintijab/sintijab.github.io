@@ -6,7 +6,9 @@ Da Freizeitbootfahrer zunehmend informierte Entscheidungen über die nachhaltigs
 
 In einer von der Internationalen Vereinigung der Bootsindustrie (ICOMIA) in Auftrag gegebenen Studie präsentieren CEO Joe Lynch und Jeff Wasil, Sr. Director Compliance NMMA, einen zusammengefassten Überblick über die Freizeitschifffahrt und bieten wichtige Erkenntnisse sowie Hinweise, wo weitere Informationen verfügbar sind.
 
-Ein signifikanter Rückgang der von uns emittierten Treibhausgasemissionen ist entscheidend, und wir liegen nicht auf Kurs, um diese Ziele zu erreichen. Daher ist es wichtig, dass wir alle dringend die notwendigen Veränderungen vornehmen. Interessant ist jedoch, dass der Freizeitsektor für Marinefahrzeuge nur einen winzigen Teil der weltweiten Emissionen ausmacht. Wir haben berechnet, dass er weniger als 0,1% der weltweiten Treibhausgasemissionen und 0,4% der Transportemissionen in Europa ausmacht.
+>  Ein signifikanter Rückgang der von uns emittierten Treibhausgasemissionen ist entscheidend, und wir liegen nicht auf Kurs, um diese Ziele zu erreichen. Daher ist es wichtig, dass wir alle dringend die notwendigen Veränderungen vornehmen.
+
+Interessant ist jedoch, dass der Freizeitsektor für Marinefahrzeuge nur einen winzigen Teil der weltweiten Emissionen ausmacht. Wir haben berechnet, dass er weniger als 0,1% der weltweiten Treibhausgasemissionen und 0,4% der Transportemissionen in Europa ausmacht.
 
 Eine Möglichkeit wäre es, uns als kleine Akteure abzutun und uns auf größere Quellen wie Schiffe, Lastwagen und industrielle Prozesse zu konzentrieren. Als Branche denken wir jedoch nicht so. Wir wollen die Verantwortung, die wir haben, übernehmen und sicherstellen, dass wir unsere Branche und ihre Vorteile an zukünftige Generationen weitergeben.
 
