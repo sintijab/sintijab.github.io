@@ -2,7 +2,7 @@
 
 # Voies de décarbonation de la propulsion pour l'industrie marine de loisirs
 
-Alors que les plaisanciers souhaitent de plus en plus faire des choix éclairés sur la manière la plus durable de profiter de leurs expériences nautiques, ce rapport approfondi offre des informations détaillées et scientifiquement fondées.
+À mesure que les plaisanciers cherchent de plus en plus à faire des choix éclairés sur la manière la plus durable de profiter de leurs expériences de navigation de plaisance.
 
 Dans le cadre de recherches commanditées par le Conseil international des associations de l'industrie maritime (ICOMIA), le PDG Joe Lynch et Jeff Wasil, directeur principal de la conformité chez NMMA, présentent un aperçu condensé de la navigation de plaisance, fournissant des informations essentielles et indiquant où trouver plus d'informations.
 
