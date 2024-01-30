@@ -518,7 +518,7 @@ PING solo.io (23.185.0.4): 56 data bytes
 
 ```
 
-In gesicherten Umgebungen ist das Pingen oft auf ICMP beschränkt, was zu einem falsch negativen Ergebnis führt. Sure, here's a translation of the text you provided:
+In gesicherten Umgebungen ist das Pingen oft auf ICMP beschränkt, was zu einem falsch negativen Ergebnis führt.
 
 **Command "netcat"**
 
