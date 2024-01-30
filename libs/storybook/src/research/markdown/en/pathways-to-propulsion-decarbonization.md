@@ -2,7 +2,7 @@
 
 # Pathways to Propulsion Decarbonization for the Recreational Marine Industry
 
-As leisure boaters increasingly want to make informed choices about the most sustainable way of enjoying their boating experiences this extensive report provides the detailed and scientifically driven insights.
+As leisure boaters increasingly want to make informed choices about the most sustainable way of enjoying their boating experiences.
 
 In research commissioned by International Council of Marine Industry Associations (ICOMIA), CEO Joe Lynch and Jeff Wasil, Sr. Director Compliance NMMA, presents a condensed overview on the recreational boating, providing vital insights and signpost where more information is available.
 

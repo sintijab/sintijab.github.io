@@ -7,7 +7,7 @@ categories: "Forschung, Freizeitbootfahren, Umweltstudien"
 subcategories: "Bootfahren, Tauchexpeditionen, Produktionskette, nachhaltiges Design, Abfallmanagement"
 ---
 
-Da Freizeitbootfahrer zunehmend informierte Entscheidungen über die nachhaltigste Art treffen möchten, ihre Bootserlebnisse zu genießen, bietet dieser umfassende Bericht detaillierte und wissenschaftlich fundierte Einblicke.
+Da Freizeitbootfahrer zunehmend informierte Entscheidungen über die nachhaltigste Art der Gestaltung ihrer Bootserlebnisse treffen möchten.
 
 In einer von der Internationalen Vereinigung der Bootsindustrie (ICOMIA) in Auftrag gegebenen Studie präsentieren CEO Joe Lynch und Jeff Wasil, Sr. Director Compliance NMMA, einen zusammengefassten Überblick über die Freizeitschifffahrt und bieten wichtige Erkenntnisse sowie Hinweise, wo weitere Informationen verfügbar sind.
 
