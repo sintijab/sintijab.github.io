@@ -83,7 +83,7 @@ where young women were trained to become skilled textile cleaning workers over a
 two or three year apprenticeship at the Berlin laundry cleaning company Rewatex
 at main Spindlersfeld factory building.
 
-## Digital museum of Spindlersfeld with paintings by Syntia
+### Digital museum of Spindlersfeld with paintings by Syntia
 
 ![](https://images.prismic.io/syntia/3763c676-ac41-44c2-b73a-4a1e78b4e71d_707387.jpg?auto=compress,format)
 ![](https://images.prismic.io/syntia/2efe43b7-373e-42b1-acbf-7f879334234f_707400.jpg?auto=compress,format)

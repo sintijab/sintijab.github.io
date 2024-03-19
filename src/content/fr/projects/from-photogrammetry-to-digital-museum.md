@@ -89,7 +89,7 @@ l'habitation du bâtiment tout au long de son histoire.
 
 Capture d'un documentaire intitulé "Blanchisseuses" réalisé par Jürgen Böttcher en 1972, où de jeunes femmes étaient formées pour devenir des ouvrières qualifiées du nettoyage textile lors d'un apprentissage de deux ou trois ans à la société de blanchisserie berlinoise Rewatex, dans le bâtiment principal de l'usine de Spindlersfeld.
 
-## Musée numérique de Spindlersfeld avec des peintures de Syntia
+### Musée numérique de Spindlersfeld avec des peintures de Syntia
 
 ![](https://images.prismic.io/syntia/3763c676-ac41-44c2-b73a-4a1e78b4e71d_707387.jpg?auto=compress,format)
 ![](https://images.prismic.io/syntia/2efe43b7-373e-42b1-acbf-7f879334234f_707400.jpg?auto=compress,format)

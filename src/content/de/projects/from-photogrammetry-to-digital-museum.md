@@ -87,7 +87,7 @@ Gebäudenutzung während seiner langen Geschichte zu präsentieren.
 
 Szenenausschnitt aus dem Dokumentarfilm "Wäscherinnen" von Jürgen Böttcher aus dem Jahr 1972, in dem junge Frauen über eine zweijährige oder dreijährige Ausbildung bei der Berliner Wäschereireinigungsfirma Rewatex im Hauptgebäude der Fabrik in Spindlersfeld zu versierten Textilreinigungskräften ausgebildet wurden.
 
-## Digitales Museum von Spindlersfeld mit Gemälden von Syntia
+### Digitales Museum von Spindlersfeld mit Gemälden von Syntia
 
 ![](https://images.prismic.io/syntia/3763c676-ac41-44c2-b73a-4a1e78b4e71d_707387.jpg?auto=compress,format)
 ![](https://images.prismic.io/syntia/2efe43b7-373e-42b1-acbf-7f879334234f_707400.jpg?auto=compress,format)
