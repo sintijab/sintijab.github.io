@@ -33,6 +33,12 @@ body {
 	line-height: 1.7;
 }
 
+@media screen and (max-width: 720px) {
+	iframe {
+		max-width: 100% !important;
+	}
+}
+
 main {
 	margin: 0;
 	padding: 2.2em 0;
