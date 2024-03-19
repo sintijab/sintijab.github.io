@@ -19,5 +19,6 @@ export const S11 = { name: 'excess-is-no-longer-in-fashion' };
 export const S12 = { name: 'code-and-chaos-a-day-in-2050' };
 export const S13 = { name: 'sound-recognition-and-processing' };
 export const S14 = { name: 'practical-photogrammetry' };
+export const S15 = { name: 'from-photogrammetry-to-digital-museum' };
 
 export default meta;
