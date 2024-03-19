@@ -66,8 +66,7 @@ ehemaligen Spindler-Fabrik vollständig in ein Wohngebiet umgewandelt, das nach
 dem Architekten Klaus Theo Brenner die "Wasserstadt" mit einer 550 Meter langen
 Wasserlinie entstehen soll.
 
-![](![](https://images.prismic.io/syntia/d131c92c-896f-4e1d-b70a-3b7b37c0fbb5_707396.jpg?auto=compress,format)
-)
+![](https://images.prismic.io/syntia/d131c92c-896f-4e1d-b70a-3b7b37c0fbb5_707396.jpg?auto=compress,format)
 
 ## Digitale Museumsinitiative
 
@@ -85,7 +84,11 @@ Gebäudenutzung während seiner langen Geschichte zu präsentieren.
 
 ![](https://images.prismic.io/syntia/17b3faa3-0f75-4cdb-a012-3bf70e3376e3_2024031913939.png?auto=compress,format)
 
-Szenenausschnitt aus dem Dokumentarfilm "Wäscherinnen" von Jürgen Böttcher aus dem Jahr 1972, in dem junge Frauen über eine zweijährige oder dreijährige Ausbildung bei der Berliner Wäschereireinigungsfirma Rewatex im Hauptgebäude der Fabrik in Spindlersfeld zu versierten Textilreinigungskräften ausgebildet wurden.
+Szenenausschnitt aus dem Dokumentarfilm "Wäscherinnen" von Jürgen Böttcher aus
+dem Jahr 1972, in dem junge Frauen über eine zweijährige oder dreijährige
+Ausbildung bei der Berliner Wäschereireinigungsfirma Rewatex im Hauptgebäude der
+Fabrik in Spindlersfeld zu versierten Textilreinigungskräften ausgebildet
+wurden.
 
 ### Digitales Museum von Spindlersfeld mit Gemälden von Syntia
 

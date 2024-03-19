@@ -68,8 +68,7 @@ Spindler a été entièrement transformé en zone résidentielle par l'architect
 Klaus Theo Brenner, selon lequel la "ville lacustre" doit être construite sur le
 site avec une ligne d'eau de 550 mètres de long.
 
-![](![](https://images.prismic.io/syntia/d131c92c-896f-4e1d-b70a-3b7b37c0fbb5_707396.jpg?auto=compress,format)
-)
+![](https://images.prismic.io/syntia/d131c92c-896f-4e1d-b70a-3b7b37c0fbb5_707396.jpg?auto=compress,format)
 
 ## Initiative du musée numérique
 
@@ -87,7 +86,11 @@ l'habitation du bâtiment tout au long de son histoire.
 
 ![](https://images.prismic.io/syntia/17b3faa3-0f75-4cdb-a012-3bf70e3376e3_2024031913939.png?auto=compress,format)
 
-Capture d'un documentaire intitulé "Blanchisseuses" réalisé par Jürgen Böttcher en 1972, où de jeunes femmes étaient formées pour devenir des ouvrières qualifiées du nettoyage textile lors d'un apprentissage de deux ou trois ans à la société de blanchisserie berlinoise Rewatex, dans le bâtiment principal de l'usine de Spindlersfeld.
+Capture d'un documentaire intitulé "Blanchisseuses" réalisé par Jürgen Böttcher
+en 1972, où de jeunes femmes étaient formées pour devenir des ouvrières
+qualifiées du nettoyage textile lors d'un apprentissage de deux ou trois ans à
+la société de blanchisserie berlinoise Rewatex, dans le bâtiment principal de
+l'usine de Spindlersfeld.
 
 ### Musée numérique de Spindlersfeld avec des peintures de Syntia
 
