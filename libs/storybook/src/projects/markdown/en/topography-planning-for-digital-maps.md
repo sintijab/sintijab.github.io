@@ -67,24 +67,20 @@ embedding the maps on any website.
 
 Red, purple and orange color palette suitable for the dark theme.
 [Link to the template](https://snazzymaps.com/style/111/the-propia-effect).
-
-<iframe src="https://snazzymaps.com/embed/592841" width="100%" height="600px" style="border:none;"></iframe>
+<div id="propia-effect-map" class="map"></div>
 
 ### Light Green
 
 Light green colored theme highlights non-flat surfaces away from the urban
 environments.
 [Link to the template](https://snazzymaps.com/style/59/light-green).
-
-<iframe src="https://snazzymaps.com/embed/592839" width="100%" height="600px" style="border:none;"></iframe>
+<div id="light-green-map" class="map"></div>
 
 ### Navigation
 
 Light grayscale, monochrome theme highlights road location markers for the road
 trips with the car or the bicycles.
 [Link to the template](https://snazzymaps.com/style/4069/navigation).
-
-<iframe src="https://snazzymaps.com/embed/592837" width="100%" height="600px" style="border:none;"></iframe>
 
 ### Colorblind-friendly
 
@@ -97,8 +93,7 @@ when color perception is altered.
 [Link to the template](https://snazzymaps.com/style/114/colorblind-friendly).
 
 ![](https://images.prismic.io/syntia/697c51f6-174a-4774-8500-3b2af3a9d3f5_tritanopia-deuteranopia-protanopia.jpg?auto=compress,format)
-
-<iframe src="https://snazzymaps.com/embed/592836" width="100%" height="600px" style="border:none;"></iframe>
+<div id="colorblind-friendly-map" class="map"></div>
 
 ### Areas of Interest Highlight
 
@@ -109,21 +104,21 @@ is useful to cluster the area into the groups of activities.
 Tip: filtering areas by keywords in Google reviews categorizes interests and
 answers questions related to route planning.
 
-<iframe src="https://snazzymaps.com/embed/592835" width="100%" height="600px" style="border:none;"></iframe>
+<div id="areas-of-interest-map" class="map"></div>
 
 ### Rail network and stations
 
 Highlighting the rail network, sea lane and stations.
 [Link to the template](https://snazzymaps.com/style/76037/rail-network-and-stations)
 
-<iframe src="https://snazzymaps.com/embed/592834" width="100%" height="600px" style="border:none;"></iframe>
+<div id="rail-network-and-stations-map" class="map"></div>
 
 ### Natural Navigation
 
 Great for use on sites to mark the main roads from the cycling infrastructure.
 [Link to the template](https://snazzymaps.com/style/19607/natural-navigation).
 
-<iframe src="https://snazzymaps.com/embed/592832" width="100%" height="600px" style="border:none;"></iframe>
+<div id="natural-navigation-map" class="map"></div>
 
 ### RoweMap
 
@@ -131,14 +126,14 @@ Pastel pink, purple, grayscale monochrome color palette, color saturation and
 lightness is relative to the level of map zoom.
 [Link to the template](https://snazzymaps.com/style/40616/rowemap).
 
-<iframe src="https://snazzymaps.com/embed/592831" width="100%" height="600px" style="border:none;"></iframe>
+<div id="rowe-map-map" class="map"></div>
 
 ### BestTrip
 
 Light green, monochrome colors, simplified map with markers for hiking areas and
 trails. [Link to the template](https://snazzymaps.com/style/20730/besttrip).
 
-<iframe src="https://snazzymaps.com/embed/592829" width="100%" height="600px" style="border:none;"></iframe>
+<div id="best-trip-map" class="map"></div>
 
 ### USGS Topo 1946
 
@@ -147,7 +142,7 @@ waterways, parklands, and natural features. Useful for marking historical
 topographic collections.
 [Link to the template](https://snazzymaps.com/style/103965/usgs-topo-1946).
 
-<iframe src="https://snazzymaps.com/embed/592828" width="100%" height="600px" style="border:none;"></iframe>
+<div id="usgs-topo-map" class="map"></div>
 
 ### Biking secondary roads
 
@@ -166,21 +161,21 @@ included. No parks/reservations/etc. are identified, no labels are included.
 Zoom in for the road line width adjustments.
 [Link to the template](https://snazzymaps.com/style/97220/tour-tour-tour).
 
-<iframe src="https://snazzymaps.com/embed/592823" width="100%" height="600px" style="border:none;"></iframe>
+<div id="tour-map" class="map"></div>
 
 ### Mapiful
 
 Mapiful style theme ideal for map posters of any city,
 [link to the template](https://snazzymaps.com/style/146099/like-mapiful).
 
-<iframe src="https://snazzymaps.com/embed/592822" width="100%" height="600px" style="border:none;"></iframe>
+<div id="mapiful-map" class="map"></div>
 
 ### Picoteo Malaga
 
 Mapiful style theme ideal for markers of local businesses,
 [link to the template](https://snazzymaps.com/style/13110/picoteo-malaga).
 
-<iframe src="https://snazzymaps.com/embed/592821" width="100%" height="600px" style="border:none;"></iframe>
+<div id="picoteo-malaga-map" class="map"></div>
 
 ### Greyscale w/water
 
@@ -188,18 +183,18 @@ Greyscale and teal colored map with the high contrast between water channels,
 [link to the template](https://snazzymaps.com/style/20028/greyscale-w-water),
 [similar theme](https://snazzymaps.com/style/213493/water-only).
 
-<iframe src="https://snazzymaps.com/embed/592819" width="100%" height="600px" style="border:none;"></iframe>
+<div id="greyscale-water-map" class="map"></div>
 
 ### Light Blue Water Simple
 
 Minimal, grayscale, light blue colored map,
 [link to the template](https://snazzymaps.com/style/62520/light-blue-water-simple).
 
-<iframe src="https://snazzymaps.com/embed/592818" width="100%" height="600px" style="border:none;"></iframe>
+<div id="light-blue-water-map" class="map"></div>
 
 ### MonoChrome Grey
 
 Minimalistic, monochrome, grey colored map,
 [link to the template](https://snazzymaps.com/style/85450/monochrome-grey).
 
-<iframe src="https://snazzymaps.com/embed/592706" width="100%" height="600px" style="border:none;"></iframe>
+<div id="monochrome-grey-map" class="map"></div>

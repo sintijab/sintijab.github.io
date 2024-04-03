@@ -21,7 +21,7 @@ const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' https://www.youtube.com www.google.com snazzymaps.com maps.googleapis.com; style-src 'self' 'unsafe-inline' http://cdn-images.mailchimp.com; script-src 'self' 'unsafe-inline' *.list-manage.com *.googletagmanager.com *.prismic.io *.amazonaws.com *.google-analytics.com *.youtube.com; connect-src 'self' 'unsafe-inline' *.googletagmanager.com *.prismic.io *.amazonaws.com *.google-analytics.com *.youtube.com *.mailchimp.com; img-src 'self' https://upload.wikimedia.org maps.googleapis.com data: *.prismic.io;"/>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' fonts.gstatic.com https://www.youtube.com www.google.com snazzymaps.com maps.googleapis.com; style-src 'self' 'unsafe-inline' http://cdn-images.mailchimp.com https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' *.list-manage.com *.googletagmanager.com *.prismic.io *.amazonaws.com *.google-analytics.com *.youtube.com maps.googleapis.com; connect-src 'self' 'unsafe-inline' *.googletagmanager.com *.prismic.io *.amazonaws.com *.google-analytics.com *.youtube.com *.mailchimp.com maps.googleapis.com; img-src 'self' https://upload.wikimedia.org maps.googleapis.com data: *.prismic.io https://maps.gstatic.com https://www.googletagmanager.com;"/>
 
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

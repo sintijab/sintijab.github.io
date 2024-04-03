@@ -7,218 +7,166 @@ categories: "Projekte, Karten, Topografie, Innovation"
 subcategories: "Datenverarbeitung, Geodaten, GPS-Navigation, regionale Daten, Standortverfolgung"
 ---
 
-Heute könnte ich mir das Reisen ohne Google Maps nicht mehr vorstellen. Während
-einige abgelegene Standorte auf der Karte veraltet oder fehlen, ist es
-entscheidend, die Hauptinfrastruktur für die Reisesicherheit zu visualisieren.
-Ich nutze oft die Google Maps-Funktion "Layers", die im Allgemeinen Sammlungen
-von Objekten reflektiert, die Sie auf der Karte hinzufügen, um eine gemeinsame
-Verbindung zu kennzeichnen.
+Heutzutage könnte ich mir das Reisen ohne Google Maps nicht mehr vorstellen. Während einige abgelegene Orte veraltet oder auf der Karte fehlen, ist die Visualisierung der Hauptinfrastruktur für die Sicherheit beim Reisen entscheidend. Ich nutze oft die Funktion "Ebenen" von Google Maps, die im Allgemeinen Sammlungen von Objekten darstellen, die Sie oben auf der Karte hinzufügen können, um eine gemeinsame Verbindung zu kennzeichnen.
 
-## Wander- und Radtouren
+## Wander- und Fahrradausflüge
 
-Sie können auf Google Maps Wegbeschreibungen für das Fahren, den öffentlichen
-Nahverkehr, das Gehen, Fahrgemeinschaften, Radfahren, Flüge oder Motorradfahren
-erhalten. Das Erreichen unzugänglicher Standorte zu Fuß kann gefährlich sein,
-insbesondere auf Straßen ohne Gehwege.
+Sie können auf Google Maps Wegbeschreibungen für Autofahren, öffentliche Verkehrsmittel, Gehen, Fahrgemeinschaften, Radfahren, Flüge oder Motorradfahren erhalten. Das Erreichen unzugänglicher Standorte zu Fuß kann gefährlich sein, insbesondere auf Straßen ohne Gehwege.
 
-Google Maps bietet Funktionen wie Layers, um die Wanderwege, dedizierten Spuren,
-fahrradfreundliche Straßen oder unbefestigten Wege in der Kartenansicht zu
-kennzeichnen. In einigen abgelegenen Gebieten ist es nicht genau. In
-Norddeutschland beispielsweise erstreckt sich die Einfahrt ein Drittel der
-Straße getrennt von Gehwegen, die in den Fahrradweg übergehen, während die
-Straße weitergeht. Die Straßenschilder sind am zuverlässigsten, aber wenn Sie
-eines verpassen, wird Google Maps unerwartete Abbiegungen für Sie in Ihrer Reise
-machen.
+Google Maps bietet Funktionen wie Ebenen, um Wanderwege, dedizierte Fahrradwege, fahrradfreundliche Straßen oder unbefestigte Wege in der Kartenansicht zu markieren. In einigen abgelegenen Gebieten ist dies jedoch nicht genau. In Norddeutschland zum Beispiel erstreckt sich die Auffahrt ein Drittel der Straße separat vom Gehweg, der sich in den Fahrradweg einfügt, während die Straße weiterführt. Die Straßenschilder sind am zuverlässigsten, aber wenn Sie eines verpassen, nimmt Google Maps unerwartete Abzweigungen für Sie vor.
 
-Benutzerdefinierte Stilisierung für die Google Layers wird Ihre nächste
-Reiseplanung erleichtern.
+Eine benutzerdefinierte Gestaltung für die Google-Ebenen erleichtert die Planung Ihrer nächsten Autoreise.
 
-## Wie erstelle ich benutzerdefinierte Layers für Google Maps?
+## Wie erstellt man benutzerdefinierte Ebenen für Google Maps?
 
-1. Besuchen Sie
-   [https://mapstyle.withgoogle.com/](https://mapstyle.withgoogle.com/)
+1. Besuchen Sie [https://mapstyle.withgoogle.com/](https://mapstyle.withgoogle.com/)
 
-2. Verwenden Sie den alten JSON-Styling-Assistenten
+2. Verwenden Sie den Legacy JSON-Styling-Assistenten
 
-3. Map-Style erstellen
+3. Karte gestalten
 
 4. Einstellungen - JSON importieren
 
-5. JavaScript-Array von einer beliebigen Vorlage kopieren/einfügen, z. B.
+5. JavaScript-Array von jeder Vorlage kopieren/einfügen, z. B.
    [https://snazzymaps.com/style/85450/monochrome-grey](https://snazzymaps.com/style/85450/monochrome-grey)
 
 ## Farbthemen
 
-In einer kürzlich durchgeführten Umfrage unter 115 Mobiltelefonbenutzern, in der
-gefragt wurde, in welchem Modus sie ihr Mobiltelefon im Allgemeinen verwenden,
-sagte ungefähr ein Drittel Dunkelmodus, ein Drittel Hellmodus und ein Drittel
-eine Kombination aus beidem. Das Argument, dass der Dunkelmodus die
-Benutzererfahrung (und in einigen Fällen die Zugänglichkeit) verbessert, scheint
-immer wieder auf die gleichen wenigen Gründe zurückzuführen zu sein, die von
-Benutzern, Designern und Entwicklern gleichermaßen erwähnt werden:
+In einer kürzlich durchgeführten Umfrage von 115 mobilen Nutzern, die gefragt wurden, in welchem Modus sie ihr mobiles Gerät im Allgemeinen haben, sagte etwa 1/3 Dunkelmodus, 1/3 Lichtmodus und 1/3 eine Kombination aus beidem. Das Argument, dass der Dunkelmodus die Benutzererfahrung verbessert (und in einigen Fällen die Zugänglichkeit verbessert), scheint immer wieder auf die gleichen wenigen Gründe zurückzuführen zu sein, die von Benutzern, Designern und Entwicklern gleichermaßen genannt werden:
 
 - Reduzierte Augenbelastung
 
-- Batteriesparende
+- Batterieeinsparungen
 
-- Ästhetischer Reiz
+- Ästhetische Anziehungskraft
 
-- Verbesserte Zugänglichkeit für Menschen mit Sehbehinderungen (z. B. Katarakte)
+- Verbesserte Zugänglichkeit für Menschen mit Sehbeeinträchtigungen (z. B. Grauer Star)
 
-Die Chromotherapie nutzt die Kraft der Farben, um unser geistiges, emotionales
-und körperliches Wohlbefinden zu unterstützen, und kann beim Autofahren oder bei
-der Messung langer Entfernungen äußerst wichtig sein.
+Die Farbtherapie nutzt die Kraft der Farben, um unser geistiges, emotionales und körperliches Wohlbefinden zu unterstützen, und sie kann beim Autofahren oder bei der Messung langer Strecken äußerst wichtig sein.
 
-In diesem Artikel habe ich ein paar Vorlagen aufgelistet, die ich für Google
-Maps Web [https://mapstyle.withgoogle.com/](https://mapstyle.withgoogle.com/)
-oder beim Einbetten der Karten auf jeder Website empfehle.
+In diesem Artikel habe ich ein paar Vorlagen aufgelistet, die ich für Google Maps Web [https://mapstyle.withgoogle.com/](https://mapstyle.withgoogle.com/) oder beim Einbetten der Karten auf jeder Website empfehle.
 
-## Topographie-Vorlagen
+## Topographische Vorlagen
 
 ### Der Propia-Effekt
 
 Rote, violette und orangefarbene Farbpalette geeignet für den Dunkelmodus.
 [Link zur Vorlage](https://snazzymaps.com/style/111/the-propia-effect).
-
-<iframe src="https://snazzymaps.com/embed/592841" width="100%" height="600px" style="border:none;"></iframe>
+<div id="propia-effect-map" class="map"></div>
 
 ### Hellgrün
 
-Hellgrünes Farbschema hebt nicht ebene Oberflächen abseits der städtischen
-Umgebungen hervor.
+Hellgrünes Farbthema hebt nicht-flache Oberflächen außerhalb städtischer Umgebungen hervor.
 [Link zur Vorlage](https://snazzymaps.com/style/59/light-green).
-
-<iframe src="https://snazzymaps.com/embed/592839" width="100%" height="600px" style="border:none;"></iframe>
+<div id="light-green-map" class="map"></div>
 
 ### Navigation
 
-Helles Graustufen-Monochrom-Farbschema hebt die Straßenmarkierungen für
-Autoreisen oder Fahrradtouren hervor.
+Helles Grau, monochromes Thema hebt Straßenstandorte für Autoreisen oder Fahrradfahrten hervor.
 [Link zur Vorlage](https://snazzymaps.com/style/4069/navigation).
-
-<iframe src="https://snazzymaps.com/embed/592837" width="100%" height="600px" style="border:none;"></iframe>
 
 ### Farbenblind-freundlich
 
-Eine stilisierte Karte basierend auf den Farben einer farbenblindenfreundlichen
-Palette. Menschen mit verschiedenen Arten von Farbsehschwächen, zum Beispiel
-Tritanopie (Blaufarbschwäche), Deuteranopie (Grün), Protanopie (Rot). Der
-Orange/Rot-Kanal wird unabhängig von der Art der Farbenblindheit, die eine
-Person hat, am besten wahrgenommen. Er befindet sich am Ende des Farbspektrums
-und überträgt maximalen Kontrast, der nicht verloren geht, wenn die
-Farbwahrnehmung verändert wird.
+Eine stilisierte Karte basierend auf den Farbtönen einer farbenblind-freundlichen Palette. Menschen mit verschiedenen Arten von Farbsehschwäche, zum Beispiel Tritanopie (blau), Deuteranopie (grün), Protanopie (rot). Der Orange/Rot-Kanal wird unabhängig von der Art der Farbenblindheit, die eine Person hat, am besten wahrgenommen. Es befindet sich am Ende des Farbspektrums und überträgt maximalen Kontrast, der nicht verloren geht, wenn die Farbwahrnehmung verändert wird.
 [Link zur Vorlage](https://snazzymaps.com/style/114/colorblind-friendly).
 
 ![](https://images.prismic.io/syntia/697c51f6-174a-4774-8500-3b2af3a9d3f5_tritanopia-deuteranopia-protanopia.jpg?auto=compress,format)
-
-<iframe src="https://snazzymaps.com/embed/592836" width="100%" height="600px" style="border:none;"></iframe>
+<div id="colorblind-friendly-map" class="map"></div>
 
 ### Hervorgehobene Interessengebiete
 
-Dieser Stil soll die kupferfarbenen "Interessengebiete" hervorheben. Er ist
-nützlich, um das Gebiet in Gruppen von Aktivitäten zu clustern.
+Dieser Stil soll die kupferfarbenen "Interessengebiete" hervorheben. Er eignet sich gut, um das Gebiet in Gruppen von Aktivitäten zu gliedern.
 [Link zur Vorlage](https://snazzymaps.com/style/276636/areas-of-interest-highlight).
 
-Tipp: Das Filtern von Gebieten nach Stichwörtern in Google-Bewertungen
-kategorisiert Interessen und beantwortet Fragen im Zusammenhang mit der
-Routenplanung.
+Tipp: Durch Filtern von Gebieten nach Stichworten in Google-Bewertungen können Interessen kategorisiert und Fragen im Zusammenhang mit der Routenplanung beantwortet werden.
 
-<iframe src="https://snazzymaps.com/embed/592835" width="100%" height="600px" style="border:none;"></iframe>
+<div id="areas-of-interest-map" class="map"></div>
 
-### Schienennetz und Stationen
+### Schienennetz und Bah
 
-Hervorhebung des Schienennetzes, der See- und Bahnh
+nhöfe
 
-öfe.
+Hervorhebung des Schienennetzes, der Seewege und Bahnhöfe.
 [Link zur Vorlage](https://snazzymaps.com/style/76037/rail-network-and-stations)
 
-<iframe src="https://snazzymaps.com/embed/592834" width="100%" height="600px" style="border:none;"></iframe>
+<div id="rail-network-and-stations-map" class="map"></div>
 
 ### Natürliche Navigation
 
-Ideal für die Verwendung auf Websites, um die Hauptstraßen von der
-Radinfrastruktur zu markieren.
+Ideal für die Markierung der Hauptstraßen von der Fahrradinfrastruktur auf Websites.
 [Link zur Vorlage](https://snazzymaps.com/style/19607/natural-navigation).
 
-<iframe src="https://snazzymaps.com/embed/592832" width="100%" height="600px" style="border:none;"></iframe>
+<div id="natural-navigation-map" class="map"></div>
 
 ### RoweMap
 
-Pastellrosa, lila, Graustufen-Monochrom-Farbpalette, Farbsättigung und
-Helligkeit sind relativ zum Maßstab der Karte.
+Pastellrosa, lila, monochromes Grau Farbpalette, Farbsättigung und Helligkeit relativ zum Kartenzoomniveau.
 [Link zur Vorlage](https://snazzymaps.com/style/40616/rowemap).
 
-<iframe src="https://snazzymaps.com/embed/592831" width="100%" height="600px" style="border:none;"></iframe>
+<div id="rowe-map-map" class="map"></div>
 
 ### BestTrip
 
-Hellgrüne, monochrome Farben, vereinfachte Karte mit Markierungen für
-Wandergebiete und Wege.
+Hellgrün, monochrome Farben, vereinfachte Karte mit Markierungen für Wandergebiete und Wanderwege.
 [Link zur Vorlage](https://snazzymaps.com/style/20730/besttrip).
 
-<iframe src="https://snazzymaps.com/embed/592829" width="100%" height="600px" style="border:none;"></iframe>
+<div id="best-trip-map" class="map"></div>
 
 ### USGS Topo 1946
 
-Zweifarbige monochrome Farbkarte basierend auf einer USGS-Topo-Karte aus dem
-Jahr 1946, die Wasserwege, Parklandschaften und natürliche Merkmale hervorhebt.
-Nützlich zum Markieren historischer topografischer Sammlungen.
+Zweifarbige monochrome Karte basierend auf einer USGS-Topo-Karte von ca. 1946, Hervorhebung von Wasserwegen, Parklandschaften und natürlichen Merkmalen. Nützlich zur Markierung historischer topographischer Sammlungen.
 [Link zur Vorlage](https://snazzymaps.com/style/103965/usgs-topo-1946).
 
-<iframe src="https://snazzymaps.com/embed/592828" width="100%" height="600px" style="border:none;"></iframe>
+<div id="usgs-topo-map" class="map"></div>
 
-### Radwege
+### Fahrradsekundärstraßen
 
-Hebt Straßen und Wege hervor, die für Fahrräder geeignet sind,
+Hervorhebung von Straßen und Wegen, die für Fahrräder geeignet sind,
 [Link zur Vorlage](https://snazzymaps.com/style/7800/biking-secondary-roads).
 
 ## Vereinfachte Karten
 
-Vereinfachte Karten sind nicht beschriftet und eignen sich hervorragend zum
-Hinzufügen benutzerdefinierter Markierungen oder Kunstdrucken und Postern.
+Vereinfachte Karten sind nicht beschriftet und eignen sich hervorragend zum Hinzufügen benutzerdefinierter Marker oder Kunstdrucke und Poster.
 
 ### Tour
 
-Eine einfache Karte mit Autobahnen, Bundesstaats- und Landesgrenzen sowie
-Topographie. Keine Parks/Reservierungen usw. sind identifiziert, keine
-Beschriftungen sind enthalten. Zoomen Sie für die Anpassung der
-Straßenlinienbreite.
+Eine einfache Karte mit Autobahnen, Staats- und Landesgrenzen sowie Topographie. Es werden keine Parks/Reservierungen/etc. identifiziert, es werden keine Beschriftungen enthalten. Zoomen Sie für die Anpassung der Straßenlinienbreite.
 [Link zur Vorlage](https://snazzymaps.com/style/97220/tour-tour-tour).
 
-<iframe src="https://snazzymaps.com/embed/592823" width="100%" height="600px" style="border:none;"></iframe>
+<div id="tour-map" class="map"></div>
 
 ### Mapiful
 
 Mapiful-Stilthema ideal für Kartenposter jeder Stadt,
 [Link zur Vorlage](https://snazzymaps.com/style/146099/like-mapiful).
 
-<iframe src="https://snazzymaps.com/embed/592822" width="100%" height="600px" style="border:none;"></iframe>
+<div id="mapiful-map" class="map"></div>
 
 ### Picoteo Malaga
 
 Mapiful-Stilthema ideal für Markierungen lokaler Unternehmen,
 [Link zur Vorlage](https://snazzymaps.com/style/13110/picoteo-malaga).
 
-<iframe src="https://snazzymaps.com/embed/592821" width="100%" height="600px" style="border:none;"></iframe>
+<div id="picoteo-malaga-map" class="map"></div>
 
-### Graustufe mit Wasser
+### Graustufen mit Wasser
 
-Graustufen- und Türkisfarbene Karte mit hohem Kontrast zwischen Wasserstraßen,
+Grau- und blaugrüne Karte mit hohem Kontrast zwischen Wasserkanälen,
 [Link zur Vorlage](https://snazzymaps.com/style/20028/greyscale-w-water),
 [ähnliches Thema](https://snazzymaps.com/style/213493/water-only).
 
-<iframe src="https://snazzymaps.com/embed/592819" width="100%" height="600px" style="border:none;"></iframe>
+<div id="greyscale-water-map" class="map"></div>
 
 ### Einfaches Hellblaues Wasser
 
-Minimalistische, graustufen, hellblaue Karte,
+Minimalistische, graue, hellblaue Karte,
 [Link zur Vorlage](https://snazzymaps.com/style/62520/light-blue-water-simple).
 
-<iframe src="https://snazzymaps.com/embed/592818" width="100%" height="600px" style="border:none;"></iframe>
+<div id="light-blue-water-map" class="map"></div>
 
-### Monochrom Grau
+### Monochromes Grau
 
 Minimalistische, monochrome, graue Karte,
 [Link zur Vorlage](https://snazzymaps.com/style/85450/monochrome-grey).
 
-<iframe src="https://snazzymaps.com/embed/592706" width="100%" height="600px" style="border:none;"></iframe>
+<div id="monochrome-grey-map" class="map"></div>
