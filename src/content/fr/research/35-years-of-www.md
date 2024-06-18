@@ -7,10 +7,6 @@ categories: "recherche, accès à l'information, archivage et documentation, ope
 subcategories: "javascript, manuel, conférences, recherche archivistique, événements de réseautage, gouvernance critique"
 ---
 
-# 35 ans du WWW
-
-![](https://images.prismic.io/syntia/ZnIUWJm069VX13H8_IMG_20240615_081400_344.jpg?auto=format,compress?auto=compress,format)
-
 JSNation est la principale conférence JavaScript du 13 au 17 juin à Amsterdam
 avec 50 intervenants, 1,5K participants et des événements sociaux et de
 réseautage inoubliables. Le lieu de Kromhouthal a été transformé en piste de
