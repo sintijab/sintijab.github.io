@@ -236,4 +236,4 @@ Ollama.js [](https://github.com/ollama/ollama-js)
 [https://github.com/ollama/ollama-js](https://github.com/ollama/ollama-js)
 
 ![](https://images.prismic.io/syntia/ZnIUtJm069VX13IB_IMG_20240613_180926_0.jpg?auto=format,compress?auto=compress,format)
-Thanks Inga for joining the event and great captures!
+Thanks Inga for joining the event and taking great captures!:)
