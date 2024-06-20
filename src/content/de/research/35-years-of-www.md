@@ -4,7 +4,7 @@ pubDate: "Jun 19, 2024"
 heroImage: "https://images.prismic.io/syntia/ZnIUWJm069VX13H8_IMG_20240615_081400_344.jpg?auto=format,compress?auto=compress,format"
 author: "Syntia"
 categories: "Forschung, Informationszugang, Archivierung und Dokumentation, Open Source"
-subcategories: "JavaScript, Handbuch, Konferenzen, Archivforschung, Networking-Events, Kritik, Governance"
+subcategories: "JavaScript, Handbuch, Konferenzen, Archivrecherche, Netzwerkveranstaltungen, Tontechnik, Live-Codierung"
 ---
 
 JSNation ist die Haupt-JavaScript-Konferenz vom 13. bis 17. Juni in Amsterdam
@@ -39,6 +39,111 @@ des Webs hilft, die Abstraktionen moderner JS-Frameworks zu entwirren. Wenn Sie
 im Begriff sind, ein neues Framework oder Paket in Ihrem _node\_modules_ zu
 installieren, klonen Sie zuerst die Abhängigkeiten und inspizieren Sie den Code,
 den Sie verwenden.
+
+Ein weiteres Beispiel zur Untersuchung von minifiziertem Code mit den Entwicklertools und zum Überschreiben der JavaScript-Laufzeit erklärt Mikhail Korolev in JSNation mit "Reverse-Engineering Everything to Get Rid of Trust Issues".
+
+Jede Webanwendung kann mit "XHR/fetch breakpoints" aus den Entwicklertools gestoppt werden, und dann durch Navigieren durch den Aufrufstapel, Inspizieren der Datei durch eine IDE zur Fehlerbehebung der gewünschten Funktion und Ändern mit "Override content" in den Entwicklertools-Optionen modifiziert werden. Auf diese Weise können alle Geschäftsvorgänge oder Geheimnisse, die an den Client gesendet werden, leicht gefunden und über den Browser ausgenutzt werden.
+
+## Refactoring von JavaScript-Projekten
+Die fünf größten Probleme in allen JavaScript-Projekten sind, dass die Komplexität der Funktionen zu hoch ist. Glücklicherweise erklärt Phil Nash, wie man die Komplexität im Code reduziert, mit dem Vortrag "Conquering Complexity: Refactoring JavaScript projects."
+
+### Wie misst man Komplexität?
+
+1976 wurde die zyklomatische Komplexität erfunden, um die Stabilität und das Vertrauensniveau in ein Programm zu bestimmen. Sie bewertet Funktionen, wenn ein Fluss unterbrochen wird, also Schleifen oder Bedingungen.
+
+Schauen wir uns das Beispiel an, um alle Primzahlen zu summieren:
+
+```js
+function sumOfPrimes(max) { // +1
+    let total = 0;
+    for (let i = 2; i <= max; i++) { // +1
+        let prime = true;
+        for (let j = 2; j < i; ++j) { // +1
+            if (i % j == 0) { // +1
+                prime = false;
+            }
+        }
+        if (prime) { // +1
+            total += i;
+        }
+        return total;
+    }
+}
+// zyklomatische Komplexität 5
+```
+```js
+function getWords(number) { // +1
+    switch(number) {
+        case 1: // +1
+            return "one";
+        case 2: // +1
+            return "a couple";
+        case 3: // +1
+            return "a few";
+        case 4: // +1
+            return "many";
+        case 5: // +1
+            return "lots";
+    }
+}
+// zyklomatische Komplexität 5
+```
+Zyklomatische Komplexität misst die Anzahl der Pfade durch eine Funktion, misst jedoch nicht die Verständlichkeit.
+
+### Wie misst man Verständlichkeit?
+
+Die kognitive Komplexität wurde 1955 definiert, um die Verständlichkeit von Code zu bewerten. Sie erstellt eine Bewertung, indem "for" Flussunterbrechungen (Schleifen/Bedingungen) und Verschachtelungen erhöht werden.
+
+#### Die kognitive Komplexität bei verschachtelten Schleifen
+
+```js
+function sumOfPrimes(max) {
+    let total = 0;
+    for (let i = 2; i <= max; i++) { // for Schleife +1
+        let prime = true;
+        for (let j = 2; j < i; ++j) { // for Schleife +1, (verschachtelt) +2
+            if (i % j == 0) { // Bedingung +1 (verschachtelt) +2
+                prime = false;
+            }
+        }
+        if (prime) { // Bedingung +1
+            total += i;
+        }
+        return total;
+    }
+}
+// kognitive Komplexität 8
+```
+
+#### Die kognitive Komplexität bei Switch-Anweisungen
+
+```js
+function getWords(number) { // +1
+    switch(number) {
+        case 1: // +1
+            return "one";
+        case 2: // +1
+            return "a couple";
+        case 3: // +1
+            return "a few";
+        case 4: // +1
+            return "many";
+        case 5: // +1
+            return "lots";
+    }
+}
+// kognitive Komplexität 1
+```
+Switch-Anweisungen erhöhen die Komplexität um 1. Jede Case-Anweisung: Erhöht 0 für jeden Case, da wir nur nach einem Wert auf einmal suchen.
+
+### Entwicklertools
+
+SonarLint hilft Benutzern, komplizierten Code durch kognitive Komplexitätsbewertung zu verstehen. Ob Sie das Problem in Ihrer IDE mit SonarLint oder in SonarCloud oder SonarQube betrachten, Sie können jeden Punkt in der Funktion sehen, der Ihre Gesamtbewertung beeinflusst. 
+Finden Sie weitere Beispiele zu [Reduzierung der kognitiven Komplexität mit Sonar](https://www.sonarsource.com/blog/5-clean-code-tips-for-reducing-cognitive-complexity/)
+Konfigurieren Sie [ESLint](https://eslint.org/) mit [eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs) oder automatisieren Sie Codequalität (und Komplexitätsbewertung) Scans mit [SonarQube](https://www.sonarsource.com/).
+
+### Aus dem Gehirnstack herausnehmen durch Refactoring
+Reduzieren Sie verschachtelte Datenstrukturen - invertieren Sie Bedingung und vorzeitigen Austritt; struktureller Zusammenbruch durch Reduzierung verschachtelter Strukturen mit Bedingungen; extrahieren Sie Hilfsmethoden, um Wiederholungen zu vermeiden und für das Testen und Benennen von Verhalten; andere Sprachfunktionen wie optionale Verkettung oder Nullish-Zuweisungsoperator.
 
 ![](https://images.prismic.io/syntia/ZnIUgZm069VX13H__IMG_20240615_124156.jpg?auto=format,compress?auto=compress,format)
 

@@ -4,7 +4,7 @@ pubDate: "Jun 19, 2024"
 heroImage: "https://images.prismic.io/syntia/ZnIUWJm069VX13H8_IMG_20240615_081400_344.jpg?auto=format,compress?auto=compress,format"
 author: "Syntia"
 categories: "recherche, accès à l'information, archivage et documentation, open source"
-subcategories: "javascript, manuel, conférences, recherche archivistique, événements de réseautage, gouvernance critique"
+subcategories: "javascript, manuel, conférences, recherche archivistique, événements de réseautage, ingénierie du son, codage en direct"
 ---
 
 JSNation est la principale conférence JavaScript du 13 au 17 juin à Amsterdam
@@ -37,6 +37,112 @@ de vue sont une nouvelle définition pour les transitions animées CSS qui peuve
 dévoiler les abstractions des frameworks JS modernes. Si vous êtes sur le point
 d'installer un nouveau framework ou package sur vos _node_modules_, clonez
 d'abord les dépendances et inspectez le code que vous utilisez.
+
+Un autre exemple pour inspecter le code minifié avec les outils de développement et remplacer le runtime JavaScript est expliqué par Mikhail Korolev dans JSNation avec "Reverse-Engineering Everything to Get Rid of Trust Issues".
+
+Toute application Web peut être arrêtée avec des "points d'arrêt XHR/fetch" à partir des outils de développement, puis en naviguant à travers la pile d'appels, en inspectant le fichier via l'IDE pour déboguer la fonction souhaitée et en la modifiant avec "Override content" dans les options des outils de développement. De cette manière, toute logique commerciale ou secrets envoyés au client peuvent être facilement trouvés et exploités via le navigateur.
+
+## Refactorer les projets JavaScript
+Les 5 principaux problèmes dans tous les projets JavaScript sont que la complexité des fonctions est trop élevée. Heureusement, Phil Nash explique comment réduire la complexité du code avec la conférence "Conquering Complexity: Refactoring JavaScript projects."
+
+### Comment mesurer la complexité ?
+
+En 1976, la complexité cyclomatique a été inventée pour déterminer la stabilité et le niveau de confiance dans un programme. Elle attribue des scores aux fonctions lorsqu'il y a une rupture de flux, c'est-à-dire des boucles ou des conditionnelles.
+
+Voyons un exemple pour additionner tous les nombres premiers :
+
+```js
+function sumOfPrimes(max) { // +1
+    let total = 0;
+    for (let i = 2; i <= max; i++) { // +1
+        let prime = true;
+        for (let j = 2; j < i; ++j) { // +1
+            if (i % j == 0) { // +1
+                prime = false;
+            }
+        }
+        if (prime) { // +1
+            total += i;
+        }
+        return total;
+    }
+}
+// complexité cyclomatique score 5
+```
+```js
+function getWords(number) { // +1
+    switch(number) {
+        case 1: // +1
+            return "one";
+        case 2: // +1
+            return "a couple";
+        case 3: // +1
+            return "a few";
+        case 4: // +1
+            return "many";
+        case 5: // +1
+            return "lots";
+    }
+}
+// complexité cyclomatique score 5
+```
+La complexité cyclomatique mesure le nombre de chemins à travers une fonction, mais elle ne mesure pas la compréhensibilité.
+
+### Comment mesurer la compréhensibilité ?
+
+La complexité cognitive a été définie en 1955 pour cibler la compréhensibilité du code. Elle crée un score en incrémentant les ruptures de flux "for" (boucles/conditionnelles) et en incrémentant le score d'imbrication.
+
+#### La complexité cognitive dans les boucles imbriquées
+
+```js
+function sumOfPrimes(max) {
+    let total = 0;
+    for (let i = 2; i <= max; i++) { // boucle for +1
+        let prime = true;
+        for (let j = 2; j < i; ++j) { // boucle for +1, (imbriquée) +2
+            if (i % j == 0) { // conditionnelle +1 (imbriquée) +2
+                prime = false;
+            }
+        }
+        if (prime) { // conditionnelle +1
+            total += i;
+        }
+        return total;
+    }
+}
+// complexité cognitive score 8
+```
+
+#### La complexité cognitive pour les instructions switch
+
+```js
+function getWords(number) { // +1
+    switch(number) {
+        case 1: // +1
+            return "one";
+        case 2: // +1
+            return "a couple";
+        case 3: // +1
+            return "a few";
+        case 4: // +1
+            return "many";
+        case 5: // +1
+            return "lots";
+    }
+}
+// complexité cognitive score 1
+```
+L'instruction switch ajoute 1 à la complexité. Chaque instruction case : ajoute 0 pour chaque cas parce que nous recherchons la valeur une à la fois.
+
+### Outils de développement
+
+SonarLint aide les utilisateurs à comprendre le code compliqué grâce au score de complexité cognitive. Que vous regardiez le problème dans votre IDE avec SonarLint ou dans SonarCloud ou SonarQube, vous pouvez voir chacun des points de la fonction qui impactent votre score global. 
+Trouvez plus d'exemples sur [Réduire la complexité cognitive avec Sonar](https://www.sonarsource.com/blog/5-clean-code-tips-for-reducing-cognitive-complexity/)
+Configurez [ESLint](https://eslint.org/) avec [eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs) ou automatisez les analyses de qualité du code (et du score de complexité) avec [SonarQube](https://www.sonarsource.com/).
+
+### Déchargez la pile cérébrale avec le refactoring
+Réduisez les structures de données imbriquées : inversez les conditions et utilisez des sorties anticipées ; effondrez les structures en réduisant les structures imbriquées avec des conditionnelles ; extrayez des méthodes auxiliaires pour éviter les répétitions et pour tester et nommer le comportement ; utilisez d'autres fonctionnalités du langage comme l'opérateur de chaîne optionnelle ou l'opérateur d'affectation nullish.
+
 ![](https://images.prismic.io/syntia/ZnIUgZm069VX13H__IMG_20240615_124156.jpg?auto=format,compress?auto=compress,format)
 En photo - Conférence de Christian Heilmann : 35 ans du WWW : Travailler en tant
 que créateur de contenu, designer et développeur avec le meilleur médium jamais
