@@ -24,7 +24,7 @@ Kent.C.Dodds explained the concepts of the Server Components with custom built R
 
 ## Introducing Chaos to Your Frontend
 
-Thibaud Courtoison was explaining “Magic is organising chaos while oceans of the mystery remain” Explaining Chaos Engineering with Chaos Frontend Toolkit which is a browser extension [https://chaos-frontend-toolkit.web.app/](https://chaos-frontend-toolkit.web.app/) It involves the different areas of perturbations such as:
+Thibaud Courtoison was explaining “Magic is organising chaos while oceans of the mystery remain” and introducing concepts of Chaos Engineering with Chaos Frontend Toolkit browser extension [https://chaos-frontend-toolkit.web.app/](https://chaos-frontend-toolkit.web.app/) It involves the different areas of perturbations such as:
 
 *   Request delaying (like network throttling but with the max/min or randomly delays http requests for up to 15000 milliseconds)
     

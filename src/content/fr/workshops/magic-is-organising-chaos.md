@@ -31,7 +31,8 @@ Kent.C.Dodds a expliqué les concepts des Composants Serveur avec le framework R
 
 ## Introduire le Chaos dans votre frontend
 
-Thibaud Courtoison expliquait "La magie organise le chaos tandis que les océans du mystère demeurent" en expliquant l'ingénierie du chaos avec le Chaos Frontend Toolkit, une extension de navigateur [https://chaos-frontend-toolkit.web.app/](https://chaos-frontend-toolkit.web.app/). Il inclut différentes zones de perturbation telles que :
+
+Thibaud Courtoison expliquait que "La magie consiste à organiser le chaos tandis que des océans de mystère demeurent", tout en introduisant les concepts de l'ingénierie du chaos avec l'extension de navigateur Chaos Frontend Toolkit [https://chaos-frontend-toolkit.web.app/](https://chaos-frontend-toolkit.web.app/). Cela implique différentes zones de perturbations telles que:
 
 *   Retard des requêtes (similaire à l'atténuation du réseau mais avec des retards max/min ou aléatoires des requêtes HTTP jusqu'à 15000 millisecondes)
     

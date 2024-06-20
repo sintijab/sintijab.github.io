@@ -24,7 +24,7 @@ Kent.C.Dodds erklärte die Konzepte der Server-Komponenten mit einem benutzerdef
 
 ## Chaos in Ihr Frontend einführen
 
-Thibaud Courtoison erklärte “Magie ist das Organisieren von Chaos, während Ozeane des Geheimnisses bleiben” und erklärte Chaos Engineering mit dem Chaos Frontend Toolkit, einer Browser-Erweiterung [https://chaos-frontend-toolkit.web.app/](https://chaos-frontend-toolkit.web.app/). Es umfasst verschiedene Bereiche der Störungen, wie:
+Thibaud Courtoison erklärte "Magie organisiert Chaos, während Ozeane des Geheimnisses bleiben" und führte Konzepte des Chaos Engineering mit der Browser-Erweiterung Chaos Frontend Toolkit ein [https://chaos-frontend-toolkit.web.app/](https://chaos-frontend-toolkit.web.app/). Es umfasst verschiedene Bereiche der Störungen wie:
 
 *   Verzögerung von Anfragen (ähnlich wie Netzwerk-Drosselung, aber mit maximalen/minimalen oder zufälligen Verzögerungen von HTTP-Anfragen bis zu 15000 Millisekunden)
     
