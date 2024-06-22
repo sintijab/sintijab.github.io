@@ -175,3 +175,6 @@ Den Browser hacken, um digitale Zwillinge unserer Benutzer zu erstellen
 [https://youtu.be/cWxpp9HwLYw?feature=shared](https://youtu.be/cWxpp9HwLYw?feature=shared)\
 Jason Mayes „Web Apps der Zukunft mit Web-KI“ auf JSNation
 [https://portal.gitnation.org/contents/web-apps-of-the-future-with-web-ai](https://portal.gitnation.org/contents/web-apps-of-the-future-with-web-ai)
+
+Danke für die Fotos und die schöne Veranstaltung auf der Kapitein Anna an das
+JSNation-Team!

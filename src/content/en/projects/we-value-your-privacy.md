@@ -165,3 +165,5 @@ Hacking the browser to digital twin our users
 [https://youtu.be/cWxpp9HwLYw?feature=shared](https://youtu.be/cWxpp9HwLYw?feature=shared)\
 Jason Mayes “Web Apps of the Future With Web AI” on JSNation
 [https://portal.gitnation.org/contents/web-apps-of-the-future-with-web-ai](https://portal.gitnation.org/contents/web-apps-of-the-future-with-web-ai)
+
+Thanks for the photos and beautiful event at Kapitein Anna to the JSNation team!
