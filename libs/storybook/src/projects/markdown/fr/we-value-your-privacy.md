@@ -181,3 +181,6 @@ Pirater le navigateur pour jumeler numériquement nos utilisateurs
 [https://youtu.be/cWxpp9HwLYw?feature=shared](https://youtu.be/cWxpp9HwLYw?feature=shared)
 Jason Mayes « Les applications Web du futur avec Web AI » à JSNation
 [https://portal.gitnation.org/contents/web-apps-of-the-future-with-web-ai](https://portal.gitnation.org/contents/web-apps-of-the-future-with-web-ai)
+
+Merci à l'équipe de JSNation et GitNation pour les photos et le magnifique
+événement à Kapitein Anna!
