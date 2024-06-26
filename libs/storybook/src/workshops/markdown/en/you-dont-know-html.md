@@ -26,7 +26,7 @@ Although I was able to read the course by translating the website, I understand 
 
 [Lesson 2:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor02.html) Colors. Add some life to your page by using colors and backgrounds
 
-### What is the replacement for the <font> tag from HTML4?
+### What is the replacement for the &lt;font&gt; tag from HTML4?
 
 “There is always more than one way to perform the same work”.
 
@@ -38,7 +38,7 @@ Although I was able to read the course by translating the website, I understand 
 
 ### How many colors do GIF images support?
 
-### What is the The Description List element useful for?
+### What is the The Description List element &lt;dl&gt; useful for?
 
 [Lesson 5:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor05.html) Inserting pictures and drawings, controlling their sizes and dimensions. Types of image files in the web
 
@@ -50,7 +50,7 @@ Although I was able to read the course by translating the website, I understand 
 
 [Lesson 7:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor07.html) Tables (1) Arrange your data within tables, and control the appearance of your page effectively
 
-### What does the caption HTML tag provide?
+### What does the &lt;caption&gt; HTML tag provide?
 
 [Lesson 8:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor08.html) Tables (2) Continue with the tables, and learn about the rest of their tags  
       [\*](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/tablexam.html) Practical examples of tables

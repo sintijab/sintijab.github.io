@@ -31,7 +31,7 @@ Obwohl ich den Kurs durch Übersetzen der Website lesen konnte, verstehe ich den
 
 [Lesson 2:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor02.html) Farben. Geben Sie Ihrer Seite mit Farben und Hintergründen Leben
 
-### Was ist der Ersatz für das <font>-Tag in HTML4?
+### Was ist der Ersatz für das &lt;font&gt;-Tag aus HTML4?
 
 "Es gibt immer mehr als eine Möglichkeit, dieselbe Arbeit zu erledigen".
 
@@ -43,7 +43,7 @@ Obwohl ich den Kurs durch Übersetzen der Website lesen konnte, verstehe ich den
 
 ### Wie viele Farben unterstützen GIF-Bilder?
 
-### Wofür ist das Beschreibungslisten-Element nützlich?
+### Wofür ist das Beschreibungslisten-Element &lt;dl&gt; nützlich?
 
 [Lesson 5:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor05.html) Einfügen von Bildern und Zeichnungen, Steuern ihrer Größen und Dimensionen. Arten von Bilddateien im Web
 
@@ -55,7 +55,7 @@ Obwohl ich den Kurs durch Übersetzen der Website lesen konnte, verstehe ich den
 
 [Lesson 7:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor07.html) Tabellen (1) Ordnen Sie Ihre Daten innerhalb von Tabellen an und kontrollieren Sie das Erscheinungsbild Ihrer Seite effektiv
 
-### Welche Funktion bietet das HTML-Tag für die Bildunterschrift?
+### Was bietet das HTML-Tag &lt;caption&gt;?
 
 [Lesson 8:](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/htutor08.html) Tabellen (2) Weiter mit den Tabellen und lernen Sie die restlichen Tags kennen  
       [\*](https://palestineonline.net/sites/www.geocities.com/siliconvalley/lab/1832/tablexam.html) Praktische Beispiele für Tabellen
