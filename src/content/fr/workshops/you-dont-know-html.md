@@ -1,6 +1,11 @@
-# Ce que vous ne saviez pas sur HTML4
-
-![](https://images.prismic.io/syntia/ZntVg5bWFbowe2vl_nablus.png?auto=format,compress?auto=compress,format)
+---
+description: "Ce que vous ne saviez pas sur HTML4"
+pubDate: "Jun 26, 2024"
+heroImage: "https://images.prismic.io/syntia/ZntVg5bWFbowe2vl_nablus.png?auto=format,compress?auto=compress,format"
+author: "Syntia"
+categories: "recherche, accès à l'information, open source, éducation, patrimoine palestinien"
+subcategories: "html, html5, normes web, cours html, cours css, méthodologies d'enseignement"
+---
 
 L'archive [palestineonline.net](//palestineonline.net) a été créée pendant la Seconde Intifada et montre des aspects culturels palestiniens dans les premiers temps de l'histoire du World Wide Web, provenant de la [Wayback Machine](https://web.archive.org/) de l'Internet Archive. Tracer la présence en ligne palestinienne est une forme de résistance, de connexion et d'expression face à une occupation continue. Il est donc important de reconnaître ce qui ne peut être enlevé, à savoir l'identité palestinienne et la loyauté envers leur nation, indépendantes des oppresseurs et de la guerre en cours.
 
