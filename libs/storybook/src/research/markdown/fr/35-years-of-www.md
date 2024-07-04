@@ -26,7 +26,7 @@ le Web d'aujourd'hui façonne les technologies qui nous motivent à étudier le
 rétro-ingénierie face à la complexité croissante de l'écosystème JS et à revenir
 aux bases.
 
-Si nous regardons ce qui est nouveau dans AtroJS, par exemple, les transitions
+Si nous regardons ce qui est nouveau dans AstroJS, par exemple, les transitions
 de vue sont une nouvelle définition pour les transitions animées CSS qui peuvent
 être faites avec un simple HTML & CSS. Comprendre les bases du Web aide à
 dévoiler les abstractions des frameworks JS modernes. Si vous êtes sur le point

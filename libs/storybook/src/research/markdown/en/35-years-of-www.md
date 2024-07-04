@@ -23,7 +23,7 @@ is shaping the technologies that motivates us to study reverse engineering
 against the evolutionary increasing JS ecosystem complexity and getting back to
 the basics.
 
-If we look into what’s new in AtroJS, for instance, View Transitions is a new
+If we look into what’s new in AstroJS, for instance, View Transitions is a new
 definition for the CSS animated transitions that can be done with a plain HTML &
 CSS. Understanding the basics of the Web helps unrevealing the abstractions of
 modern JS frameworks. If you’re about to install a new framework or package on
