@@ -27,7 +27,7 @@ die Technologien formt, die uns motivieren, Reverse Engineering gegen die
 evolutionär zunehmende Komplexität des JS-Ökosystems zu studieren und zu den
 Grundlagen zurückzukehren.
 
-Wenn wir uns beispielsweise ansehen, was es Neues in AtroJS gibt, sind View
+Wenn wir uns beispielsweise ansehen, was es Neues in AstroJS gibt, sind View
 Transitions eine neue Definition für die CSS-animierten Übergänge, die mit
 einfachem HTML & CSS durchgeführt werden können. Das Verständnis der Grundlagen
 des Webs hilft, die Abstraktionen moderner JS-Frameworks zu entwirren. Wenn Sie
