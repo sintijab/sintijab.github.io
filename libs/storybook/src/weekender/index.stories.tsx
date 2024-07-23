@@ -12,6 +12,7 @@ export const S4 = { name: 'business-of-thinking'};
 export const S5 = { name: 'cold-baths-in-in-berlin'};
 export const S6 = { name: 'icelandic-future-dimensions'};
 export const S7 = { name: 'autobiographies-for-the-new-year' };
-export const S8 = { name: 'ice-diving-the-ultimate' }
+export const S8 = { name: 'ice-diving-the-ultimate' };
+export const S9 = { name: 'veni-vidi-vici-in-2024' };
 
 export default meta;
