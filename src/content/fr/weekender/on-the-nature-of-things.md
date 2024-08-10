@@ -8,39 +8,48 @@ subcategories: "société, hédonisme, plaisir, bienêtre"
 ---
 
 Hedoné, signifiant un « plaisir » qui révèle le caractère d'une personne.
-Aristote l'a identifié comme pathos, se référant aux « plaintes de l'âme », qui
-a trois fonctions principales : l'état d'esprit, la variation des émotions, et
-le motif ou l'influence sur celles-ci. Le savoir partagé nous a aidés à
-découvrir le côté émotionnel et vulnérable de nous-mêmes et de nos proches. Ce
+Aristote l'a identifié comme un pathos qui se réfère aux « plaintes de l'âme »,
+qui a trois fonctions principales : l'état d'esprit, la variation des émotions
+et le motif ou l'influence sur celles-ci. La connaissance partagée nous a aidés
+à découvrir le côté émotionnel et vulnérable de nous-mêmes et de nos proches. Ce
 fut l'une des expériences les plus fortes du festival Hedoné, nous ouvrant à une
 confiance totale et formant des liens plus forts et une croissance dans les
 relations.
 
-Le mouvement Hedoné partage une vision de croissance d'un réseau mondial
-d'individus et de développement d'espaces libérés pour expérimenter et apprécier
-le plaisir en pleine conscience.
+Il pratique l'hédonisme éthique, qui repose sur la conviction que le changement
+transformateur, qu'il soit individuel ou sociétal, ne peut se produire qu'à
+travers une participation personnelle en profondeur.
 
-Il pratique l'hédonisme éthique, basé sur la croyance que le changement
-transformateur, qu'il soit individuel ou sociétal, ne peut se produire que par
-une participation personnelle en profondeur.
+L'événement lui-même a eu lieu au château de Burgscheidungen, dont l'héritage
+historique remonte au VIIIe siècle.
 
-L'événement lui-même a eu lieu au château de Burgscheidungen, dont le patrimoine
-historique remonte au VIIIe siècle. Le séminaire Hedoné était bien organisé,
-comprenant 5 jours complets d'ateliers sur la méditation et le bien-être, la
-positivité corporelle, le yoga et le mouvement corporel, la thérapie par le son
-et la guérison, la danse et le travail de contact, la pratique tantrique,
-l'ouverture à l'intimité, la pleine conscience, et une célébration de la
-sensualité du corps humain.
+Le mouvement Hedoné partage une vision visant à développer un réseau mondial
+d'individus et à créer des espaces libérés pour expérimenter et apprendre sur la
+méditation et le bien-être, la positivité corporelle, le yoga et le mouvement
+corporel, la thérapie par le son et la guérison, la danse et le travail de
+contact, la pratique tantrique, l'ouverture à l'intimité, la pleine conscience,
+et une célébration de la sensualité du corps humain.
 
-L'ambiance de la célébration s'inspire du poème « De Rerum Natura », une ode à
-l'hédonisme éthique. La décoration et le code vestimentaire sont influencés par
-le monde botanique : fleurs, plumes, coquillages, objets réutilisables de la
-nature, tissus de couleur claire. La peinture corporelle et le bio-paillettes,
-ainsi que la nudité, sont encouragés et célébrés. Hedoné accueille des individus
-de toutes races, âges et genres pour explorer l'expression radicale sous le
-thème de la féminité divine.
+Cela m'a ouvert un nouveau monde, sans place pour la peur, la honte ou le
+jugement. La cérémonie de clôture et la voix de Pascale Caristo ont été le point
+culminant de l'événement, nous renforçant avec son histoire, la vérité, la
+confiance, le courage et l'amour.
 
-Merci Max de m'avoir invité à Hedoné et d'avoir construit ce beau voyage
+Les artistes sonores sélectionnés ont transformé le château en un rêve, guidant
+les invités vers l'illumination spirituelle et les meilleures expériences de
+leur vie. Merci au maître du son TŌKI pour les meilleures fêtes dans le caveau,
+déverrouillant une porte secrète vers un portail souterrain datant des temps
+médiévaux.
+
+L'ambiance de la célébration est inspirée par le poème « De Rerum Natura », une
+ode à l'hédonisme éthique. La décoration et le code vestimentaire sont
+influencés par le monde botanique - fleurs, plumes, coquillages, objets
+réutilisables de la nature, tissu de couleur claire. La peinture corporelle et
+le bio-paillettes, ainsi que la nudité, sont encouragés et célébrés. Hedoné
+accueille des individus de toutes races, âges et genres pour explorer une
+expression radicale sous le thème de la féminité divine.
+
+Merci Max de m'avoir invité à Hedoné et d'avoir construit ce magnifique voyage
 ensemble !
 
 > Célébrer les joies et les plaisirs du corps, de l'esprit et de l'âme

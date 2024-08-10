@@ -7,43 +7,52 @@ categories: "Wochenende, Reisen, Traditionen, Networking"
 subcategories: "Gesellschaft, Hedone, Vergnügen, Wohlbefinden"
 ---
 
-Hedoné, die Bedeutung eines „Vergnügens“, das den Charakter einer Person
-offenbart. Aristoteles identifizierte es als Pathos, das sich auf „Beschwerden
-der Seele“ bezieht und drei Hauptfunktionen hat: die Einstellung, die Variation
-der Emotionen und das Motiv oder der Einfluss darauf. Das geteilte Wissen half
-uns, die emotionale und verletzliche Seite von uns selbst und unseren Lieben zu
+Hedoné, bedeutet ein 'Vergnügen', das den Charakter einer Person offenbart.
+Aristoteles identifizierte es als Pathos, das sich auf "Klagen der Seele"
+bezieht und drei Hauptfunktionen hat: die Geisteshaltung, die Variation der
+Emotionen und das Motiv oder den Einfluss darauf. Das geteilte Wissen half uns,
+die emotionale und verletzliche Seite von uns selbst und unseren Lieben zu
 entdecken. Es war eine der stärksten Erfahrungen beim Hedoné-Festival, die uns
-zu vollkommenem Vertrauen öffnete und stärkere Verbindungen und Wachstum in
+zu vollständigem Vertrauen führte und stärkere Verbindungen und Wachstum in
 Beziehungen förderte.
-
-Die Hedoné-Bewegung teilt die Vision, ein globales Netzwerk von Individuen
-aufzubauen und Räume zu entwickeln, die befreit sind, um bewusst Vergnügen zu
-erleben und zu genießen.
 
 Es praktiziert ethischen Hedonismus, der auf dem Glauben basiert, dass
 transformative Veränderung, sei es im Individuum oder in der Gesellschaft, nur
-durch tiefgehende persönliche Teilnahme erfolgen kann.
+durch tiefgehende persönliche Teilnahme geschehen kann.
 
 Die Veranstaltung selbst fand auf Schloss Burgscheidungen statt, dessen
-historisches Erbe bis ins 8. Jahrhundert zurückreicht. Das Hedoné-Seminar war
-gut organisiert und umfasste 5 volle Tage mit Workshops zu Meditation und
-Wohlbefinden, Körperpositivität, Yoga und Körperbewegung, Klang- und
-Heiltherapie, Tanzen und Kontaktarbeit, tantrischer Praxis, Öffnung für
-Intimität, Achtsamkeit und einer Feier der Sinnlichkeit des menschlichen
-Körpers.
+historische Erbschaft bis ins 8. Jahrhundert zurückreicht.
 
-Das Ambiente der Feier ist inspiriert von dem Gedicht „De Rerum Natura“, einer
+Die Hedoné-Bewegung teilt die Vision, ein globales Netzwerk von Individuen
+aufzubauen und Räume zu entwickeln, die befreit sind, um Erfahrungen zu sammeln
+und über Meditation und Wohlbefinden, Körperpositivität, Yoga und
+Körperbewegung, Klang- und Heilungstherapie, Tanzen und Kontaktarbeit,
+tantrische Praxis, Öffnung zur Intimität, Achtsamkeit und die Feier der
+Sinnlichkeit des menschlichen Körpers zu lernen.
+
+Es eröffnete mir eine neue Welt, ohne Raum für Angst, Scham oder Verurteilung.
+Die Abschlusszeremonie und die Stimme von Pascale Caristo waren der Höhepunkt
+der Veranstaltung, die uns mit ihrer Geschichte, der Wahrheit, dem Vertrauen,
+dem Mut und der Liebe ermächtigte.
+
+Die ausgewählten Klangkünstler verwandelten das Schloss in einen Traum und
+führten die Gäste durch spirituelle Erleuchtung und die besten Erfahrungen ihres
+Lebens. Danke an den TŌKI Sound Master für die besten Partys im Gewölbekeller,
+der ein Tor zu einem geheimen unterirdischen Portal aus mittelalterlichen Zeiten
+öffnete.
+
+Die Atmosphäre der Feier ist inspiriert von dem Gedicht „De Rerum Natura“, einer
 Ode an den ethischen Hedonismus. Die Dekoration und der Dresscode sind von der
-botanischen Welt inspiriert – Blumen, Federn, Muscheln, wiederverwendbare
+botanischen Welt beeinflusst - Blumen, Federn, Muscheln, wiederverwendbare
 Objekte aus der Natur, hellfarbige Stoffe. Körperbemalung und Bio-Glitzer sowie
-Nacktheit werden ermutigt und gefeiert. Hedoné begrüßt Menschen aller Rassen,
-Altersgruppen und Geschlechter, um unter dem Thema der göttlichen Weiblichkeit
-radikalen Ausdruck zu erkunden.
+Nacktheit werden ermutigt und gefeiert. Hedoné heißt Menschen jeder Rasse, jeden
+Alters und Geschlechts willkommen, um radikalen Ausdruck unter dem Thema der
+göttlichen Weiblichkeit zu erkunden.
 
-Vielen Dank, Max, dass du mich zu Hedoné eingeladen und diese schöne Reise
-gemeinsam aufgebaut hast!
+Danke Max, dass du mich zu Hedoné eingeladen und diese schöne Reise gemeinsam
+aufgebaut hast!
 
-> Die Freuden und Vergnügen von Körper, Geist und Seele feiern
+> Feiere die Freuden und Vergnügen von Körper, Geist und Seele.
 
 #### The Senses and Mental Pictures
 

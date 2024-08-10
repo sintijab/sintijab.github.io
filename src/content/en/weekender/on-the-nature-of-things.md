@@ -7,6 +7,10 @@ categories: "weekender, traveling, traditions, networking"
 subcategories: "society, hedone, pleasure, wellbeing"
 ---
 
+# On the Nature of Things
+
+[https://images.prismic.io/syntia/Zra2NEaF0TcGI1l\_\_SimpleWedding4Grid.jpg?auto=format,compress](https://images.prismic.io/syntia/Zra2NEaF0TcGI1l__SimpleWedding4Grid.jpg?auto=format,compress)
+
 Hedoné, meaning of a 'pleasure' that reveals a person's character. Aristotle
 identified it as pathos that refers to "complaints of the soul", which has three
 main functions: the mindset, the variation of emotions, and the motive or
@@ -15,19 +19,27 @@ vulnerable side of ourselves and our loved ones. It was one of the strongest
 experiences at Hedoné festival, opening us to complete trust and form stronger
 connections and growth in relationships.
 
-Hedoné movement shares a vision to grow a global network of individuals and
-develop spaces liberated to experience and enjoy pleasure consciously.
-
 It practices Ethical Hedonism, which is based on the belief that transformative
 change, whether in the individual or in society, can occur only through in-depth
 personal participation.
 
 The event itself took place at Burgscheidungen Castle with historical heritage
-dating back to the 8th century. The Hedoné seminar was well organized having a 5
-full days of workshops related to meditation and wellbeing, body positivity,
-yoga and body movement, sound and healing therapy, dancing and contact work,
-tantric practice, opening up to intimacy, mindfulness, and a celebration of the
-sensuality of the human body.
+dating back to the 8th century.
+
+Hedoné movement shares a vision to grow a global network of individuals and
+develop spaces liberated to experience and learn about meditation and wellbeing,
+body positivity, yoga and body movement, sound and healing therapy, dancing and
+contact work, tantric practice, opening up to intimacy, mindfulness, and a
+celebration of the sensuality of the human body.
+
+It opened a new world to me with no space to the fear, shame or judgement. The
+closing ceremony and voice of Pascale Caristo was the highlight of the event
+empowering us with her story, the truth, trust, courage and love.
+
+The selected sound artists transformed the castle into a dream, guiding the
+guests through spiritual enlightement and best experiences of their life. Thanks
+TŌKI sound master for the best parties in the undercroft, unlocking a vault to
+the secret underground portal from medieval times.
 
 The ambience of the celebration is inspired by the poem “De Rerum Natura”, an
 ode to ethical hedonism. Decoration and dress code is influenced by the
