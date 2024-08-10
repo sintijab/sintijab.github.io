@@ -2,7 +2,7 @@
 
 [https://images.prismic.io/syntia/Zra2NEaF0TcGI1l\_\_SimpleWedding4Grid.jpg?auto=format,compress](https://images.prismic.io/syntia/Zra2NEaF0TcGI1l__SimpleWedding4Grid.jpg?auto=format,compress)
 
-Hedoné, meaning of a 'pleasure' that reveals a person's character.. Aristotle
+Hedoné, meaning of a 'pleasure' that reveals a person's character. Aristotle
 identified it as pathos that refers to "complaints of the soul", which has three
 main functions: the mindset, the variation of emotions, and the motive or
 influence over it. The shared knowledge helped us discover the emotional and
