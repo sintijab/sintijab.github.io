@@ -37,9 +37,9 @@ closing ceremony and voice of Pascale Caristo was the highlight of the event
 empowering us with her story, the truth, trust, courage and love.
 
 The selected sound artists transformed the castle into a dream, guiding the
-guests through spiritual enlightement and best experiences of their life. Thanks
-TŌKI sound master for the best parties in the undercroft, unlocking a vault to
-the secret underground portal from medieval times.
+guests through spiritual enlightenment and best experiences of their life.
+Thanks TŌKI sound master for the best parties in the undercroft, unlocking a
+vault to the secret underground portal from medieval times.
 
 The ambience of the celebration is inspired by the poem “De Rerum Natura”, an
 ode to ethical hedonism. Decoration and dress code is influenced by the
