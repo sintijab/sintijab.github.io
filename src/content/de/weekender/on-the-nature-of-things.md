@@ -1,10 +1,10 @@
 ---
 description: "Über die Natur der Dinge"
-pubDate: "Aug 19, 2023"
+pubDate: "Aug 10, 2024"
 heroImage: "https://images.prismic.io/syntia/Zra2NEaF0TcGI1l__SimpleWedding4Grid.jpg?auto=format,compress"
 author: "Syntia"
-categories: "Wochenend-Reisender, Reisen, Traditionen, Networking"
-subcatekoties: "Gesellschaft, Hedone, Vergnügen, Wohlbefinden"
+categories: "Wochenende, Reisen, Traditionen, Networking"
+subcategories: "Gesellschaft, Hedone, Vergnügen, Wohlbefinden"
 ---
 
 Hedoné, die Bedeutung eines „Vergnügens“, das den Charakter einer Person
