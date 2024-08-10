@@ -4,7 +4,7 @@ pubDate: "Aug 10, 2024"
 heroImage: "https://images.prismic.io/syntia/Zra2NEaF0TcGI1l__SimpleWedding4Grid.jpg?auto=format,compress"
 author: "Syntia"
 categories: "weekender, voyage, traditions, réseautage"
-sudcategorieu: "société, hédonisme, plaisir, bienêtre"
+subcategories: "société, hédonisme, plaisir, bienêtre"
 ---
 
 Hedoné, signifiant un « plaisir » qui révèle le caractère d'une personne...
