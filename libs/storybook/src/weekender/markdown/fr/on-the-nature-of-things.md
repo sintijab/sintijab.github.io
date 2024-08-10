@@ -2,7 +2,7 @@
 
 [https://images.prismic.io/syntia/Zra2NEaF0TcGI1l\_\_SimpleWedding4Grid.jpg?auto=format,compress](https://images.prismic.io/syntia/Zra2NEaF0TcGI1l__SimpleWedding4Grid.jpg?auto=format,compress)
 
-Hedoné, signifiant un « plaisir » qui révèle le caractère d'une personne...
+Hedoné, signifiant un « plaisir » qui révèle le caractère d'une personne.
 Aristote l'a identifié comme pathos, se référant aux « plaintes de l'âme », qui
 a trois fonctions principales : l'état d'esprit, la variation des émotions, et
 le motif ou l'influence sur celles-ci. Le savoir partagé nous a aidés à
