@@ -8,9 +8,11 @@ subcategories: "consumerism, healing, wellbeing, mental health, self care, self 
 ---
 
 Love feels like lightning that strikes through my body, and when I look at you I
-see myself with a glimpse of an eye. I recommend Bell Hook’s book “All about
-Love”- to understand better what causes a polarised society and how to heal the
-divisions that cause suffering in workplaces, relationships and personal life.
+see myself with a glimpse of an eye.
+
+I recommend Bell Hook’s book “All about Love”- to understand better what causes
+a polarised society and how to heal the divisions that cause suffering in
+workplaces, relationships and personal life.
 
 ## CLARITY: GIVE LOVE WORDS
 
