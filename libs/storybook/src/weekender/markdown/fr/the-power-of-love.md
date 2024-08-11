@@ -344,3 +344,6 @@ l'amour et les laisser guider nos vies ne mène à une trahison supplémentaire,
 nous nous retenons de l'amour quand nos cœurs sont pleins de désir. L'amour nous
 aide à affronter la trahison sans perdre cœur, et à surmonter l'absence d'amour,
 choisir l'amour et écouter ce qui parle vraiment à votre cœur.
+
+En photo : Max et moi dans notre habitat naturel au festival de Garbicz en
+Pologne.

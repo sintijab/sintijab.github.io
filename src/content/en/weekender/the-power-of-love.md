@@ -309,3 +309,5 @@ us. Fearful that believing in love’s truths and letting them guide our lives
 will lead to further betrayal, we hold back from love when our hearts are full
 of longing. Love helps us face betrayal without losing heart, and to overcome
 lovelessness choose love, and listen what truly speaks to your heart.
+
+In photo: Max and I in our natural habitat at the Garbicz festival in Poland.

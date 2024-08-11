@@ -350,3 +350,6 @@ von der Liebe zurück, wenn unsere Herzen voller Sehnsucht sind. Liebe hilft uns
 dem Verrat ins Auge zu sehen, ohne den Mut zu verlieren, und um die
 Lieblosigkeit zu überwinden, wähle die Liebe und höre auf das, was dein Herz
 wirklich anspricht.
+
+Im Foto: Max und ich in unserem natürlichen Lebensraum beim Garbicz-Festival in
+Polen.
