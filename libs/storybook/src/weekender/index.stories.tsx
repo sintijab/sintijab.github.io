@@ -15,5 +15,6 @@ export const S7 = { name: 'autobiographies-for-the-new-year' };
 export const S8 = { name: 'ice-diving-the-ultimate' };
 export const S9 = { name: 'veni-vidi-vici-in-2024' };
 export const S10 = { name: 'on-the-nature-of-things' };
+export const S11 = { name: 'the-power-of-love' };
 
 export default meta;
