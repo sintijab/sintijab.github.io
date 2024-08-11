@@ -1,10 +1,12 @@
 # Die Kraft der Liebe
 
 Liebe fühlt sich an wie ein Blitz, der durch meinen Körper fährt, und wenn ich
-dich ansehe, sehe ich mich selbst in einem Augenblick. Ich empfehle das Buch von
-Bell Hooks „Alles über Liebe“, das darüber spricht, was eine polarisierte
-Gesellschaft verursacht und wie man die Spaltungen heilen kann, die in
-Arbeitsplätzen, Beziehungen und im persönlichen Leben Leiden verursachen.
+dich ansehe, sehe ich mich selbst in einem Augenblick.
+
+Ich empfehle das Buch von Bell Hooks „Alles über Liebe“, das darüber spricht,
+was eine polarisierte Gesellschaft verursacht und wie man die Spaltungen heilen
+kann, die in Arbeitsplätzen, Beziehungen und im persönlichen Leben Leiden
+verursachen.
 
 ## KLARHEIT: GEBT DER LIEBE WORTE
 

@@ -1,10 +1,11 @@
 # Le Pouvoir de l'Amour
 
 L'amour ressent comme la foudre qui traverse mon corps, et quand je te regarde,
-je me vois en un clin d'œil. Je recommande le livre de Bell Hook « Tout sur
-l'amour » qui parle des causes d'une société polarisée et comment guérir les
-divisions qui causent la souffrance dans les lieux de travail, les relations et
-la vie personnelle.
+je me vois en un clin d'œil.
+
+Je recommande le livre de Bell Hook « Tout sur l'amour » qui parle des causes
+d'une société polarisée et comment guérir les divisions qui causent la
+souffrance dans les lieux de travail, les relations et la vie personnelle.
 
 ## CLARTÉ : DONNER DES MOTS À L'AMOUR
 
