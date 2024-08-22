@@ -19,9 +19,9 @@ investment strategies in the process of creation.
 
 In my research I’m looking from the perspective of social studies, communication
 systems and networks that would lead to resourcing the right techniques for
-marketplace establishment using different channels in order to find better
-alternatives from the tools available for the creators and startups in early
-stages of their business.
+marketplace establishment. I'm exploring different channels in order to find
+better alternatives for the tools available for the creators and startups in
+early stages of their business development.
 
 I’m fascinated by David Byrne’s book “How Music Works” and his view and personal
 story in sound making career. In this article you will find some of my takeaways

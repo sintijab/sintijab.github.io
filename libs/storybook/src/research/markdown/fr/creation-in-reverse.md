@@ -20,11 +20,11 @@ d'une entreprise dans un cadre qui établirait de nouvelles et innovantes
 méthodes de travail et élaborerait de meilleures stratégies d'investissement
 dans le processus de création.
 
-Dans mes recherches, je considère la perspective des études sociales, des
-systèmes de communication et des réseaux qui conduiraient à ressourcer les
-bonnes techniques pour établir un marché en utilisant différents canaux afin de
-trouver de meilleures alternatives parmi les outils disponibles pour les
-créateurs et les startups aux premiers stades de leur entreprise.
+Dans mes recherches, j'adopte la perspective des études sociales, des systèmes
+de communication et des réseaux qui conduiraient à mobiliser les bonnes
+techniques pour l'établissement de marchés. J'explore différents canaux afin de
+trouver de meilleures alternatives pour les outils disponibles pour les
+créateurs et les startups aux premiers stades de leur développement commercial.
 
 Je suis fasciné par le livre de David Byrne « Comment fonctionne la musique » et
 sa vision ainsi que son histoire personnelle dans la carrière de création
