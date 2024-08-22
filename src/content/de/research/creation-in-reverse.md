@@ -24,11 +24,11 @@ Geschäft innerhalb eines Rahmens zu gründen, der neue und innovative
 Arbeitsweisen etablieren und bessere Investitionsstrategien im Schöpfungsprozess
 aufbauen würde.
 
-In meiner Forschung betrachte ich aus der Perspektive der Sozialwissenschaften,
-Kommunikationssysteme und Netzwerke, die dazu führen würden, die richtigen
-Techniken für die Etablierung von Marktplätzen unter Verwendung verschiedener
-Kanäle zu finden, um bessere Alternativen aus den verfügbaren Werkzeugen für die
-Schöpfer und Startups in den frühen Phasen ihres Geschäfts zu finden.
+In meiner Forschung betrachte ich die Perspektive der Sozialwissenschaften,
+Kommunikationssysteme und Netzwerke, um die richtigen Techniken für die
+Etablierung von Marktplätzen zu finden. Ich erforsche verschiedene Kanäle, um
+bessere Alternativen zu den verfügbaren Werkzeugen für die Schöpfer und
+Start-ups in den frühen Phasen ihrer Geschäftsentwicklung zu finden.
 
 Ich bin fasziniert von David Byrnes Buch „How Music Works“ und seiner Sichtweise
 und persönlichen Geschichte in der Klangkarriere. In diesem Artikel finden Sie
