@@ -26,5 +26,6 @@ export const S18 = { name: 'personalizing-ai-tools-to-your-code' };
 export const S19 = { name: 'pathways-to-propulsion-decarbonization' };
 export const S20 = { name: '35-years-of-www' };
 export const S21 = { name: 'creation-in-reverse' };
+export const S22 = { name: 'luck-is-the-residue-of-design' };
 
 export default meta;
