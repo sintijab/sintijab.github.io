@@ -24,7 +24,7 @@ Il n'est pas toujours évident de savoir qui doit prendre une décision. Les lea
 
 Comprendre que le progrès n'est inévitable qu'à travers un effort ciblé. Générer une énergie et une chaleur contagieuses à travers les équipes et dans toute l'entreprise. Nous sommes vraiment enthousiastes à l'idée de notre travail et de créer un environnement exceptionnellement accueillant pour tous les employés.
 
-### Laisser tomber son titre
+### Donner une chance aux autres
 
 Mais la leçon la plus difficile que j'ai dû apprendre est que vous atteignez un point où il vous est impossible de réussir sans faire confiance aux autres pour faire mieux. Et cette percée arrive lorsque vous allez au-delà du rôle de manager.
 
