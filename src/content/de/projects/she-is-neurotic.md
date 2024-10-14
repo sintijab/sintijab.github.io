@@ -7,6 +7,8 @@ categories: "Projekte, Führung, Karriereweg, Karrierewachstum, Frauen in Führu
 subcategories: "Management, Arbeitskultur, erfolgreiche Organisation, psychische Gesundheit, Arbeitsbeziehungen"
 ---
 
+Während ich über diese Bergkette in Brauneck, Bayern blicke, verliebe ich mich in die Tiefe des Ausblicks, in seine Schattierungen und die Komplexität der Details. Es ist nicht der Blick selbst, in den ich mich verliebe, sondern das Gefühl, das ich in mir trage, wenn ich hier bin. Diese Art von Ausgeglichenheit bringt einem Frieden, egal wo auf der Welt, in jeder Situation.
+
 Ich lerne fast jede Woche neue Fachleute bei Networking-Veranstaltungen kennen, und oft, wenn ich Frauen mit 8 bis 10 Jahren Erfahrung und einer Anstellung in Unternehmen frage, sprechen sie nicht über ihre Gehälter, ihren beruflichen Aufstieg und Erfolg, ihre Errungenschaften, die Gründung von Unternehmen, ihre Investitionen oder die Entwicklung neuer Strategien für ihr Geschäft. Ich verstehe, dass es eine Million andere Dinge im Leben gibt, aber Männer haben nie ein Problem oder andere Prioritäten in Gesprächen als das, was Essen auf den Tisch bringt.
 
 Warum ist es so schwierig und stigmatisiert, die beste Version von sich selbst zu finden, die Karriere zu sichern, Träume zu verwirklichen und die Komfortzone zu verlassen, um finanziell zu gedeihen? Wie können Frauen und Männer sich selbst und anderen am absoluten Tiefpunkt mehr Unterstützung bieten und aufhören, von Angst unterdrückt zu werden?

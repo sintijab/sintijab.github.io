@@ -1,5 +1,7 @@
 # She is neurotic
 
+As I'm looking over this mountain range in Brauneck, Bavaria I'm falling in love with the depth of the view, its shades and complexity of details. It's not the view that I'm falling in love, but it's how I feel about myself when I'm here. That kind of balance brings you in peace anywhere in the world, in any situation. 
+
 I’m getting to know new professionals from networking events almost every week, and often when I ask women with 8 to 10 years of experience and employment in corporate, they don’t talk about their salaries, career growth and success, their achievements, founding companies, their investments or building new strategies for their business. I understand there are one million other things in life, but men never have an issue or have other priorities in conversations other than what brings food to their table.
 
 Why is finding the best version of you, securing your career, dreams and getting out of your comfort zone to thrive financially so difficult and stigmatized? How can women and men become more supportive to themselves and others at rock bottom, and stop being oppressed with fear?
