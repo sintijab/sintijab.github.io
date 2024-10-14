@@ -22,5 +22,6 @@ export const S14 = { name: 'practical-photogrammetry' };
 export const S15 = { name: 'from-photogrammetry-to-digital-museum' };
 export const S16 = { name: 'topography-planning-for-digital-maps' };
 export const S17 = { name: 'we-value-your-privacy' };
+export const S18 = { name: 'she-is-neurotic' };
 
 export default meta;
