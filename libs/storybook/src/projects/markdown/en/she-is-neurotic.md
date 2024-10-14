@@ -24,7 +24,7 @@ It’s not always clear who should make a decision. Effective leaders embrace de
 
 Understanding that progress is only inevitable through focused effort. Generate an energy and warmth that is infectious across teams and throughout the company. We are genuinely excited about our work and about creating an exceptionally welcoming environment for all employees.
 
-### Giving away your title
+### Giving others a chance
 
 But the hardest lesson I’ve had to learn is that you get to that point where it’s impossible for you to be successful without trusting others to do things better. And that breakthrough is when you go beyond being a manager.
 

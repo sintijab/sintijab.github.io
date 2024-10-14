@@ -31,7 +31,7 @@ Es ist nicht immer klar, wer eine Entscheidung treffen sollte. Effektive Führun
 
 Zu verstehen, dass Fortschritt nur durch fokussierte Anstrengung unvermeidlich ist. Erzeuge eine Energie und Wärme, die im gesamten Team und im Unternehmen ansteckend ist. Wir sind wirklich begeistert von unserer Arbeit und davon, eine außergewöhnlich einladende Umgebung für alle Mitarbeiter zu schaffen.
 
-### Deinen Titel abgeben
+### Anderen eine Chance geben
 
 Aber die härteste Lektion, die ich lernen musste, ist, dass du an den Punkt gelangst, an dem es unmöglich ist, ohne Vertrauen in andere erfolgreich zu sein, die Dinge besser machen. Und dieser Durchbruch ist, wenn du über die Rolle eines Managers hinausgehst.
 
