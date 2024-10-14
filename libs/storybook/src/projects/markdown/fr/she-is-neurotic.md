@@ -1,5 +1,7 @@
 # Elle est névrotique
 
+En regardant cette chaîne de montagnes à Brauneck, en Bavière, je tombe amoureux de la profondeur de la vue, de ses nuances et de la complexité des détails. Ce n'est pas la vue dont je tombe amoureux, mais plutôt de ce que je ressens envers moi-même quand je suis ici. Ce genre d'équilibre vous apporte la paix n'importe où dans le monde, dans n'importe quelle situation.
+
 Je fais la connaissance de nouveaux professionnels lors d'événements de réseautage presque chaque semaine, et souvent, lorsque je parle à des femmes ayant 8 à 10 ans d'expérience et travaillant dans des entreprises, elles ne parlent pas de leurs salaires, de leur progression de carrière et de leur succès, de leurs réalisations, de la création d'entreprises, de leurs investissements ou de l'élaboration de nouvelles stratégies pour leur activité. Je comprends qu'il y a un million d'autres choses dans la vie, mais les hommes n'ont jamais de problème ou d'autres priorités dans les conversations à part ce qui amène la nourriture sur la table.
 
 Pourquoi est-il si difficile et stigmatisé de trouver la meilleure version de soi-même, de sécuriser sa carrière, de réaliser ses rêves et de sortir de sa zone de confort pour prospérer financièrement ? Comment les femmes et les hommes peuvent-ils devenir plus solidaires envers eux-mêmes et les autres lorsqu'ils touchent le fond, et cesser d'être opprimés par la peur ?
