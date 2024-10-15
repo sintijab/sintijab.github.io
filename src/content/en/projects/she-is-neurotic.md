@@ -7,7 +7,7 @@ categories: "projects, leadership, career path, career growth, women in leadersh
 subcategories: "managament, work culture, successful organization, mental health, work relationships"
 ---
 
-As I'm looking over this mountain range in Brauneck, Bavaria I'm falling in love with the depth of the view, its shades and complexity of details. It's not the view that I'm falling in love, but it's how I feel about myself when I'm here. That kind of balance brings you in peace anywhere in the world, in any situation.
+As I'm looking over this mountain range in Brauneck, Bavaria I'm falling in love with the depth of the view, its shades and complexity of details. It's not the view that I'm falling in love with, but how I feel about myself when I'm here. That kind of a balance brings you in peace anywhere in the world, in any situation.
 
 I’m getting to know new professionals from networking events almost every week, and often when I ask women with 8 to 10 years of experience and employment in corporate, they don’t talk about their salaries, career growth and success, their achievements, founding companies, their investments or building new strategies for their business. I understand there are one million other things in life, but men never have an issue or have other priorities in conversations other than what brings food to their table.
 
